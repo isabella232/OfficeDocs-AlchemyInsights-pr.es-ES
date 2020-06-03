@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787747"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512463"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Mensaje de aplicaciones de Office: Se ha detectado un problema con su suscripción
 
@@ -24,7 +24,7 @@ ms.locfileid: "43787747"
 
 - Consulte [Error de Office "Aviso de cuenta: Se ha detectado un problema con su suscripción](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
-- Elimine y reasigne la [licencia de Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) al usuario afectado. 
+- Elimine y reasigne la [licencia de Office](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) al usuario afectado. 
 
 - Abra una aplicación de Office, vaya a **Archivo > Cuenta** y cierre la sesión de todas las cuentas. Vuelva a iniciar sesión con una cuenta de usuario que tenga una licencia válida. Para obtener información más detallada, consulte [Cuentas en Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 

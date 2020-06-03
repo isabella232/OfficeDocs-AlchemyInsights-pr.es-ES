@@ -12,12 +12,12 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bee23ad0d8d6324937b2b0dd7bda08410ddbfa25
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759169"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509257"
 ---
 # <a name="how-to-install-office"></a>Cómo instalar Office
 
@@ -25,7 +25,7 @@ Para instalar las aplicaciones cliente de Office, asegúrese de que tiene una su
   
 *NOTA: [Office Hogar y Empresas](https://products.office.com/home-and-business) es un producto de [Office para el hogar](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) y no forma parte de una suscripción empresarial. Para obtener instrucciones específicas de Visio o Project, vea [Instalar Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) o [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
-Crear las cuentas de usuario y agregar su dominio. Asegúrese de que el usuario tiene una [licencia asignada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Crear las cuentas de usuario y agregar su dominio. Asegúrese de que el usuario tiene una [licencia asignada](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 Haga que cada usuario:
 

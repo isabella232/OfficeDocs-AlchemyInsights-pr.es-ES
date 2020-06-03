@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: f6fd4a20aefc52b54f28c830d535d84631a34ab2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: df00781324bc17eb4b34e3215a4d25307d0ab576
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671330"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506683"
 ---
 # <a name="add-a-user"></a>Agregar un usuario
 
@@ -27,4 +27,4 @@ ms.locfileid: "43671330"
 
 3. Rellene la información del usuario. Cuando haya terminado, seleccione **Finalizar**.
 
-Para más información, consulte [Agregar usuarios individualmente o de forma masiva](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Para más información, consulte [Agregar usuarios individualmente o de forma masiva](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).

@@ -11,12 +11,12 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 6d5a3ad2c3f8d3e1f294ddc641716e62fc0ada78
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 565337818ead3f38a7bb800ffd5b4d6bbe3de81b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713879"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510841"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Cuando recibe un error de «No es un dominio aceptado»
 
@@ -24,5 +24,5 @@ Al intentar agregar una dirección de correo en el usuario o un grupo, o durante
   
 En la mayoría de los casos, este error es el resultado de que el nombre de dominio *(por ejemplo, contoso.com)* no se haya configurado completamente para su organización.
   
-Compruebe que el dominio está configurado completamente siguiendo las instrucciones de [Agregar un dominio a Microsoft 365.](https://docs.microsoft.com/office365/admin/setup/add-domain)
+Compruebe que el dominio está configurado completamente siguiendo las instrucciones de [Agregar un dominio a Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)
   

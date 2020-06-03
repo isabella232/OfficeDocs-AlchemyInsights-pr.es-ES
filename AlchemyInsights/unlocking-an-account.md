@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799068"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508609"
 ---
 # <a name="unlocking-an-account"></a>Desbloquear una cuenta
 
@@ -40,4 +40,4 @@ Como administrador, si uno de los usuarios tiene restringido el envío de correo
 
 Para más escenarios de restablecimiento de contraseñas, incluido el restablecimiento de contraseñas de autoservicio, consulte [Restablecimiento de Microsoft 365 para los múltiples intentos de cargar las contraseñas de los instrumentos de pago en línea.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-El servicio evita que un usuario envíe correo electrónico después de detectar evidencia de una cuenta comprometida y/o spam saliente. Como precaución, siga los pasos descritos en [Responder a una cuenta de correo electrónico en peligro en Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) para el usuario.
+El servicio evita que un usuario envíe correo electrónico después de detectar evidencia de una cuenta comprometida y/o spam saliente. Como precaución, siga los pasos descritos en [Responder a una cuenta de correo electrónico en peligro en Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) para el usuario.
