@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912203"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495644"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Habilitar el uso compartido externo en SharePoint Online
 
@@ -29,7 +29,7 @@ Para obtener más información sobre el uso compartido externo (invitados), visi
 
 - [Activar o desactivar el uso compartido externo para un sitio](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Administrar el acceso de invitado en grupos de 365 de Microsoft](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Administrar el acceso de invitado en grupos de 365 de Microsoft](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
 - [Usar SharePoint Online como una solución de extranet de negocio a negocio (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 

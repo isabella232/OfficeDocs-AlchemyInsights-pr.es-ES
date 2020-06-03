@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687527"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502336"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Recuperar o reemplazar un mensaje de correo electrónico de Outlook
 
@@ -26,15 +26,15 @@ Para recuperar o reemplazar un mensaje de correo electrónico:
 
 1. En el panel de carpetas en la parte izquierda de la ventana de Outlook, seleccione la carpeta elementos enviados.
 1. Haga doble clic en el mensaje que desea recuperar para abrirlo.
-1. Seleccione la pestaña **mensaje** y, a continuación, seleccione **acciones** > **recuperar este mensaje**.
+1. Seleccione la pestaña **mensaje** y, a continuación, seleccione **acciones**  >  **recuperar este mensaje**.
 1. Seleccione **eliminar copias no leídas de este mensaje** o **eliminar copias no leídas y reemplazarlas con un nuevo mensaje**y, a continuación, seleccione **Aceptar**.
 1. Si va a enviar un mensaje de reemplazo, Redacte el mensaje y, a continuación, seleccione **Enviar**.
 1. El éxito o el fracaso de una recuperación de mensajes depende de la configuración del destinatario en Outlook. Para conocer los pasos para comprobar la recuperación, consulte [este artículo](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Buscar y eliminar mensajes de correo electrónico de la organización
+Buscar y eliminar mensajes de correo electrónico en la organización
 
 - Si no es un administrador global, la cuenta debe agregarse a la función Administrador de eDiscovery o la función administración de búsqueda de cumplimiento para buscar mensajes. Para eliminar mensajes, debe unirse al grupo de funciones de administración de la organización o al rol de administración de búsqueda y depuración. Los permisos para estos roles se asignan en el [centro de seguridad y cumplimiento](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Cree una búsqueda de contenido](https://docs.microsoft.com/office365/securitycompliance/content-search) para buscar el mensaje que se va a eliminar.
+- [Cree una búsqueda de contenido](https://docs.microsoft.com/microsoft-365/compliance/content-search) para buscar el mensaje que se va a eliminar.
 - [Conéctese a PowerShell del centro de seguridad y cumplimiento](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
 Si está usando la autenticación multifactor, consulte [conectarse a PowerShell del centro de seguridad y cumplimiento de Microsoft 365 mediante la autenticación multifactor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
