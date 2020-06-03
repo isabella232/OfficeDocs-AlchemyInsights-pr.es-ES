@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571288"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511993"
 ---
 # <a name="unable-to-delete-items"></a>No se pueden eliminar los elementos
 
-Las directivas de retención pueden causar esto, tiene que deshabilitar o excluir la retención respectiva que está causando este problema. Una vez quitada la retención o la Directiva de retención, el cambio puede tardar hasta 24 horas en surtir efecto. Asegúrese de que no hay ninguna configuración de [Directiva de retención](https://docs.microsoft.com/office365/securitycompliance/retention-policies) en el elemento.
+Las directivas de retención pueden causar esto, tiene que deshabilitar o excluir la retención respectiva que está causando este problema. Una vez quitada la retención o la Directiva de retención, el cambio puede tardar hasta 24 horas en surtir efecto. Asegúrese de que no hay ninguna configuración de [Directiva de retención](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) en el elemento.
 
 Es posible que el sitio haya superado el límite de almacenamiento, aumente la [cuota del sitio](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) y elimine el elemento.
 

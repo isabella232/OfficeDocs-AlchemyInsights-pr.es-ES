@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716477"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508969"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificar cuándo se configura el reenvío externo de correo electrónico en los buzones
 
@@ -25,7 +25,7 @@ Cuando un usuario de Microsoft 365 configura el reenvío externo de correo elect
 
 1. Inicie sesión en el [centro de cumplimiento de & de seguridad de Microsoft 365](https://protection.office.com/).
 
-2. Vaya a la página de**búsqueda del registro de auditoría** de **búsqueda** > .
+2. Vaya a la **Search**  >  Página de**búsqueda del registro de auditoría** de búsqueda.
 
 3. Seleccione el intervalo de fechas en los campos **fecha de inicio** y **fecha de finalización** . No es necesario especificar un nombre de usuario. Compruebe que el campo **actividades** está configurado para **Mostrar resultados para todas las actividades**.
 
@@ -39,4 +39,4 @@ En los resultados, haga clic en **filtrar resultados** y escriba **set-Mailbox**
 
 - **Userid**: usuario que configuró el reenvío de correo electrónico en el buzón del campo **objectId** .
 
-Para obtener más información, vea [determinar quién ha configurado el reenvío de correo para un buzón](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Para obtener más información, vea [determinar quién ha configurado el reenvío de correo para un buzón](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

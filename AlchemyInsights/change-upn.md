@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706471"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506028"
 ---
 # <a name="change-a-users-email-address"></a>Cambiar la dirección de correo electrónico de un usuario
 
 Cambiar la dirección de correo electrónico de una persona es fácil. Siga estos pasos:
   
-1. En el centro de administración de Microsoft 365, vaya a la página [usuarios](https://go.microsoft.com/fwlink/p/?linkid=834822) o **Elija** \> usuarios **activos**.
+1. En el centro de administración de Microsoft 365, vaya a la página [usuarios](https://go.microsoft.com/fwlink/p/?linkid=834822) o **Elija usuarios** \> **activos**.
     
 2. Seleccione el usuario.
     
@@ -38,6 +38,6 @@ Cambiar la dirección de correo electrónico de una persona es fácil. Siga esto
     
 6. Elija **Guardar**y, **después,** haga clic en finalizar.
     
-¿No era tan fácil? Para obtener más detalles y pasos con capturas de pantallas, consulte este artículo: [cambiar el nombre de usuario y la dirección de correo electrónico](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+¿No era tan fácil? Para obtener más detalles y pasos con capturas de pantallas, consulte este artículo: [cambiar el nombre de usuario y la dirección de correo electrónico](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

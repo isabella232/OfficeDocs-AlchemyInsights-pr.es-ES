@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761347"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510985"
 ---
 # <a name="more-info-about-retention-policies"></a>Más información sobre las directivas de retención
 
@@ -27,15 +27,15 @@ Para la mayoría de las organizaciones, el volumen y la complejidad de sus datos
 ## <a name="a-from-security-and-compliance-center"></a>A) del centro de seguridad y cumplimiento
 
 - Ir a seguridad y cumplimiento > gobierno de datos > retención
-  - Consulte [este](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artículo
+  - Consulte [este](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artículo
 
 - Vaya a seguridad y cumplimiento > eDiscovery> eDiscovery avanzado 
-  - Consulte [este](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artículo
+  - Consulte [este](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artículo
 
 - Ir a las clasificaciones de > de seguridad y cumplimiento > retención
   - Consulte estos artículos
-    - [Etiquetas de confidencialidad](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Información general sobre etiquetas](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Etiquetas de confidencialidad](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Información general sobre etiquetas](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) directivas de eDiscovery heredadas
 

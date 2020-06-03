@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709460"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505560"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>¿Desea comprar una nueva suscripción?
 
-Si ya tiene una suscripción de Microsoft 365 para empresas y desea comprar otra suscripción para su organización, vaya a la página de **Billing** \> [servicios de compras](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación para ver una lista de las suscripciones disponibles para su organización.
+Si ya tiene una suscripción de Microsoft 365 para empresas y desea comprar otra suscripción para su organización, vaya a la **Billing** \> Página de [servicios de compras](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación para ver una lista de las suscripciones disponibles para su organización.
  
 1. Seleccione la suscripción que desee y, a continuación, seleccione **comprar**.
 
@@ -32,8 +32,8 @@ Si ya tiene una suscripción de Microsoft 365 para empresas y desea comprar otra
 
  **Recursos adicionales:**
   
-- [Asignar licencias a usuarios en Microsoft 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Asignar licencias a usuarios en Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Cancelar la suscripción](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Cancelar la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Si está interesado en cambiar suscripciones, consulte [cambiar a un plan diferente de Microsoft 365 para la empresa.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Si está interesado en cambiar suscripciones, consulte [cambiar a un plan diferente de Microsoft 365 para la empresa.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

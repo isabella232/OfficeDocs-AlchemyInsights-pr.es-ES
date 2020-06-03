@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: b0e845a3426ec3b8594cb82730fe559d08126e0c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063274"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511489"
 ---
 # <a name="subscription-recurring-billing"></a>Facturación recurrente de la suscripción
 
@@ -30,4 +30,4 @@ Si desea saber cuándo se facturará la suscripción mensual o anual (si está a
 
 4. Para realizar un cambio, seleccione **Editar** y, a continuación, en el panel Configuración de **facturación recurrente** , seleccione **desactivar** para desactivarla. Si la opción de facturación periódica está desactivada, seleccione **Mensual** o **Una vez** para activarla.
 
-Para más información, consulte [Activar o desactivar la facturación periódica](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Para más información, consulte [Activar o desactivar la facturación periódica](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

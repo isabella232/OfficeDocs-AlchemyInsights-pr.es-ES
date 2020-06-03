@@ -12,12 +12,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051046"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512643"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Administrar el almacenamiento de SharePoint Online
 
@@ -29,9 +29,9 @@ Obtenga información sobre cómo [ver el espacio de almacenamiento total y dispo
 
 Obtenga información sobre cómo administrar los límites de almacenamiento de una [colección de sitios individual](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
 
-Si el sitio no tiene espacio o desea saber qué biblioteca o lista está utilizando el espacio, vaya a **configuración** > del sitio**métricas de almacenamiento** (se requieren permisos de administrador de la colección de sitios).
+Si el sitio no tiene espacio o desea saber qué biblioteca o lista está utilizando el espacio, vaya a **configuración del sitio**  >  **métricas de almacenamiento** (se requieren permisos de administrador de la colección de sitios).
 
 Obtenga información sobre cómo [supervisar los límites de almacenamiento del sitio con PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
 
-Obtenga información sobre cómo [comprar almacenamiento adicional](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
+Obtenga información sobre cómo [comprar almacenamiento adicional](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
   

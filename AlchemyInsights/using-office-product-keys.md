@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: ab047d95a9c448900b3c4ae8ac7e7c5f30aed28e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: fa61fdec91e1375a72bc209ff4d0671d6b36d1c8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726084"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511093"
 ---
 # <a name="using-office-product-keys"></a>Uso de las claves de producto de Office
 
@@ -28,6 +28,6 @@ ms.locfileid: "43726084"
 - Para obtener ayuda con una clave de producto de Office 365 hogar o personal, consulte [uso de claves de producto con Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
 
 **Activación de la suscripción de Office** 
-- Si compró una suscripción a Microsoft 365 desde una tienda minorista, consulte [especificar la clave de producto de microsoft 365 apps for Business Premium](https://docs.microsoft.com/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide).
+- Si compró una suscripción a Microsoft 365 desde una tienda minorista, vea [especificar la clave de producto para las aplicaciones de microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key).
 
-- Si hay un mensaje de error cuando intenta canjear una clave de producto, vea [¿tiene problemas con su clave de producto de Microsoft 365 para empresas?](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide)
+- Si hay un mensaje de error cuando intenta canjear una clave de producto, vea [¿tiene problemas con su clave de producto de Microsoft 365 para empresas?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

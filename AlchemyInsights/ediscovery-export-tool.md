@@ -14,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714787"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507187"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>¿No puede instalar ni ejecutar la herramienta de exportación de exhibición de documentos electrónicos?
 
@@ -35,15 +35,15 @@ Si no puede instalar ni ejecutar la herramienta de exportación de exhibición d
 
   - Microsoft Edge
 
-    O bien
+    O bien:
 
   - Internet Explorer 10 y versiones posteriores
 
     No se admiten otros exploradores, como Google Chrome y Mozilla Firefox.
 
-- Su organización puede conectarse al extremo en Azure, que es ** \*. BLOB.Core.Windows.net** (el carácter comodín representa un identificador único para su trabajo de exportación).
+- Su organización puede conectarse al extremo en Azure, que es ** \* . BLOB.Core.Windows.net** (el carácter comodín representa un identificador único para su trabajo de exportación).
 
-- Tiene asignada la función Export en el centro de seguridad &amp; y cumplimiento de Microsoft 365. De forma predeterminada, este rol solo se asigna al grupo de roles eDiscovery Manager. Consulte [asignar permisos de exhibición](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)de documentos electrónicos.
+- Tiene asignada la función Export en el centro de seguridad y cumplimiento de Microsoft 365 &amp; . De forma predeterminada, este rol solo se asigna al grupo de roles eDiscovery Manager. Consulte [asignar permisos de exhibición](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)de documentos electrónicos.
 
-Para obtener más información, vea [exportar resultados](https://docs.microsoft.com/office365/securitycompliance/export-search-results)de la búsqueda de contenido.
+Para obtener más información, vea [exportar resultados](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)de la búsqueda de contenido.
   

@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767590"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512499"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurar el correo electrónico en la aplicación móvil de Outlook
 
-1. Seleccione **Introducción** si es la primera vez que configura el correo electrónico en la aplicación móvil. De lo contrario, puntee en **menú** y luego en **configuración** \> **Agregar cuenta** \> **Agregar cuenta de correo electrónico**.
+1. Seleccione **Introducción** si es la primera vez que configura el correo electrónico en la aplicación móvil. De lo contrario, puntee en **menú** y luego en **configuración** \> **Agregar cuenta** agregar cuenta de \> **correo electrónico**.
 
 2. Escriba su dirección de correo electrónico completa y pulse **continuar** o **Agregar cuenta**.
 
 3. Escriba la contraseña de su cuenta de correo electrónico y pulse **iniciar sesión** o **siguiente**.
 
-4. Si está habilitada la [autenticación multifactor](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , compruebe usando el método que configuró (código de 6 dígitos, llamada telefónica o aplicación Microsoft Authenticator).
+4. Si está habilitada la [autenticación multifactor](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) , compruebe usando el método que configuró (código de 6 dígitos, llamada telefónica o aplicación Microsoft Authenticator).
 
 5. Si hay directivas de administración de ti adicionales, puntee en **Activar** para habilitarlas.
 

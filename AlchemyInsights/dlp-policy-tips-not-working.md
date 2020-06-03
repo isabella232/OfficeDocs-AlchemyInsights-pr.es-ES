@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704394"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507459"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemas de la sugerencia de directiva DLP
 
@@ -29,11 +29,11 @@ Cuando se usan **directivas de DLP**, se puede informar a los usuarios de una in
   
 Para configurar sugerencias de directiva en su Directiva DLP en el centro de seguridad y cumplimiento en el modo de cumplimiento completo, haga lo siguiente:
   
-- Asegúrese de que las sugerencias de Directiva se hayan **habilitado** en la regla DLP siguiendo los pasos que se describen [aquí](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Asegúrese de que las sugerencias de Directiva se hayan **habilitado** en la regla DLP siguiendo los pasos que se describen [aquí](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Asegúrese de que el **contenido coincida con** lo que se **necesita** para desencadenar la regla que se describe en este [artículo.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- Asegúrese de que el **contenido coincida con** lo que se **necesita** para desencadenar la regla que se describe en este [artículo.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Las sugerencias de directivas se muestran en OWA y Outlook. Sin embargo, al usar **Outlook 2013 o versiones posteriores**, las sugerencias de directiva solo se muestran en ciertas condiciones. Estas condiciones se enumeran a continuación: [condiciones admitidas para Outlook 2013 o posterior para mostrar sugerencias de directiva](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Las sugerencias de directivas se muestran en OWA y Outlook. Sin embargo, al usar **Outlook 2013 o versiones posteriores**, las sugerencias de directiva solo se muestran en ciertas condiciones. Estas condiciones se enumeran a continuación: [condiciones admitidas para Outlook 2013 o posterior para mostrar sugerencias de directiva](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Para obtener más información sobre las sugerencias de directivas de DLP, vea: [Show Policy Tips for DLP Policies](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Para obtener más información sobre las sugerencias de directivas de DLP, vea: [Show Policy Tips for DLP Policies](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

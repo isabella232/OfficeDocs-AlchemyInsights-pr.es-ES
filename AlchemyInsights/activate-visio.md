@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682309"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504892"
 ---
 # <a name="activate-visio"></a>Activar Visio
 
-Para que un usuario pueda instalar y activar la aplicación de escritorio de Visio de escritorio que se incluye en el plan 2 de Visio online, el usuario debe tener asignada una [licencia de Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Para que un usuario pueda instalar y activar la aplicación de escritorio de Visio de escritorio que se incluye en el plan 2 de Visio online, el usuario debe tener asignada una [licencia de Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Nota:** El plan 1 de Visio online no incluye una versión de escritorio de Visio.
 
@@ -33,7 +33,7 @@ Para activar Visio:
 Para los problemas de activación, ejecute el [solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy) en el equipo afectado.
 
 Para obtener información detallada, consulte:<br>
-[Activar Office en un equipo PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Cuando abro una aplicación de Microsoft aparece un aviso de suscripción](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Error de Office "los productos que encontramos en su cuenta no se pueden usar <app>para activar"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Activar Office en un equipo](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Al abrir una aplicación de Microsoft, aparece un aviso de suscripción](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Error de Office "los productos que encontramos en su cuenta no se pueden usar para activar <app> "](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Errores de activación y de producto sin licencia en Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

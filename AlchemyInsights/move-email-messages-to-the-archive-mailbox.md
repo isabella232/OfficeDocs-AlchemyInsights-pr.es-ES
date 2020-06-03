@@ -12,18 +12,18 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713663"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511057"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Mover el correo electrónico al buzón de archivo
 
-1. Confirme que se ha habilitado un **buzón de archivo** . Si no es así, siga los pasos de [este artículo](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) para habilitar el buzón de archivo.
+1. Confirme que se ha habilitado un **buzón de archivo** . Si no es así, siga los pasos de [este artículo](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) para habilitar el buzón de archivo.
 
-2. Para archivar mensajes automáticamente en el buzón de archivo, se debe establecer una etiqueta de retención con la acción **mover a archivo** para que se **aplique automáticamente a toda la etiqueta del buzón (predeterminado)**. Siga los pasos que se describen aquí para crear la etiqueta: [archivar la etiqueta predeterminada](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Para archivar mensajes automáticamente en el buzón de archivo, se debe establecer una etiqueta de retención con la acción **mover a archivo** para que se **aplique automáticamente a toda la etiqueta del buzón (predeterminado)**. Siga los pasos que se describen aquí para crear la etiqueta: [archivar la etiqueta predeterminada](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
 3. A continuación, agregue la etiqueta de **archivo** a la Directiva de retención. En el centro de administración de Exchange, seleccione **directivas de retención** > agregue la **etiqueta mover a archivo** a la Directiva > **Guardar**.
 
@@ -33,5 +33,5 @@ Puede que sea necesario forzar la ejecución del Asistente para carpeta administ
   
 Start-ManagedFolderAssistant-Identity<name of the mailbox>
 
-Para obtener más información sobre cómo configurar una directiva de archivo, consulte [configurar una directiva de archivo y eliminación para los buzones](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Para obtener más información sobre cómo configurar una directiva de archivo, consulte [configurar una directiva de archivo y eliminación para los buzones](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

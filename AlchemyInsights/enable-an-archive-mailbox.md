@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788683"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507043"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitación de un buzón de archivo
 
@@ -27,7 +27,7 @@ Esta es la manera de crear un buzón de archivo:
 
 2. Inicie sesión en Microsoft 365 con su cuenta de administrador.
 
-3. En el panel izquierdo del centro de &amp; seguridad y cumplimiento, seleccione **archivo**de **gobierno** \> de información.
+3. En el panel izquierdo del centro de seguridad &amp; y cumplimiento, seleccione Archivo de **gobierno de información** \> **Archive**.
 
 4. Seleccione el usuario cuyo buzón de archivo desee habilitar.
 
@@ -43,14 +43,14 @@ Para habilitar el archivo para un buzón compartido:
 
 1. Vaya al [centro de administración de Exchange](https://outlook.office365.com/ecp) e inicie sesión con su cuenta de administrador.
 
-2. Vaya a **destinatarios** > **compartidos**.
+2. Vaya a **destinatarios**  >  **compartidos**.
 
 3. Seleccione el buzón compartido.
 
 4. En el panel de detalles de la derecha, en **archivo local**, haga clic en **Habilitar**y, a continuación, haga clic en **sí** para habilitar el buzón de archivo.
 
-Para obtener más información, vea:
+Para más información, consulte lo siguiente:
   
-- [Habilitar buzones de archivo](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Habilitar buzones de archivo](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Configurar una directiva de archivo y eliminación](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

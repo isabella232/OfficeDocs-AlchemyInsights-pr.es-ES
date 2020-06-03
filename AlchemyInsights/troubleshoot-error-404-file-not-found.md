@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: ed35c790dfb048aa6f33fa439b7636864a6e6e6c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c860b9db63e8d341cbe5e6d8d1d420b4c9d01c9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759781"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505360"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Solucionar el error 404, no se encontró el archivo
 
@@ -28,4 +28,4 @@ Para resolver el error 404 para un archivo (u otro elemento) que se ha cambiado 
 
 Vaya al sitio de SharePoint o de OneDrive y vea la papelera de reciclaje desde el contenido del sitio. Vea [Restaurar elementos en la papelera de reciclaje de un sitio de SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Si sigue sin poder encontrar el elemento, puede buscar en el registro de auditoría si el registro está habilitado consulte, [Busque en el registro de auditoría del centro de seguridad & cumplimiento de Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Si sigue sin poder encontrar el elemento, puede buscar en el registro de auditoría si el registro está habilitado consulte, [Busque en el registro de auditoría del centro de seguridad & cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).

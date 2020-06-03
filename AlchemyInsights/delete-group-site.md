@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 5c44ab1409f6a0dcd7079cee68f61d6984bdc43f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: cc55e10d44624ddd56c10f57a1c5ba0964d6b1c2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911525"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505668"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-microsoft-365-group"></a>Eliminar un sitio de SharePoint que pertenece a un grupo de 365 de Microsoft
 
@@ -28,6 +28,6 @@ Al eliminar un sitio conectado a un grupo, se eliminará el grupo y todos sus re
 Importante:
 
 - Puede recuperar sitios eliminados durante 93 días. Los grupos eliminados deben restaurarse en un plazo de 30 días. [Ver y restaurar sitios eliminados](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) directamente desde el centro de administración de SharePoint. Para [ver y restaurar **grupos eliminados**](https://outlook.office.com/people/group/deleted), seleccione **administrar grupos**y, a continuación, elija **eliminado**.
-- Si el sitio forma parte de una directiva de retención, es posible que no pueda eliminarlo hasta que se elimine el sitio del [centro de administración de cumplimiento de & de seguridad](https://protection.office.com/?rfr=AdminCenter#/retention). Para obtener más información, vea [información general sobre las directivas de retención](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites).
+- Si el sitio forma parte de una directiva de retención, es posible que no pueda eliminarlo hasta que se elimine el sitio del [centro de administración de cumplimiento de & de seguridad](https://protection.office.com/?rfr=AdminCenter#/retention). Para obtener más información, vea [información general sobre las directivas de retención](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
   
 Para obtener más información, vea [administrar sitios en el nuevo centro de administración de SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).

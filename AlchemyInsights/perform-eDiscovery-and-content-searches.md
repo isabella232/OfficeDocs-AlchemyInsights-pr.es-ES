@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911848"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510193"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cómo realizar búsquedas de contenido y búsquedas de exhibición de documentos electrónicos
 
@@ -32,6 +32,6 @@ Use la herramienta de búsqueda de contenido en el centro de seguridad & cumplim
 4. Especifique las condiciones de búsqueda necesarias, incluidas las palabras clave y las ubicaciones de contenido.  
 5. Haga clic en **guardar & ejecutar** para asignar un nombre a la búsqueda, iniciarla y, a continuación, obtener una vista previa de los resultados.
 
-Para obtener instrucciones detalladas sobre las búsquedas de contenido, exportar los resultados y crear casos de exhibición de documentos electrónicos para contener datos, consulte [búsquedas de contenido](https://docs.microsoft.com/office365/securitycompliance/content-search) y [casos de exhibición](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)de documentos electrónicos.
+Para obtener instrucciones detalladas sobre las búsquedas de contenido, exportar los resultados y crear casos de exhibición de documentos electrónicos para contener datos, consulte [búsquedas de contenido](https://docs.microsoft.com/microsoft-365/compliance/content-search) y [casos de exhibición](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)de documentos electrónicos.
 
-Obtenga más información sobre la búsqueda de contenido mediante la revisión de los [requisitos y los límites](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) y la investigación de los [elementos indizados parcialmente](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) y otros resultados que deben tenerse en cuenta.
+Obtenga más información sobre la búsqueda de contenido mediante la revisión de los [requisitos y los límites](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) y la investigación de los [elementos indizados parcialmente](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) y otros resultados que deben tenerse en cuenta.

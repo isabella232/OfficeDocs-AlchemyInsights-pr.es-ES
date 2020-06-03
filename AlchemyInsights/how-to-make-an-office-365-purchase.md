@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063562"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509221"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Cómo realizar una compra de Microsoft 365
 
@@ -27,7 +27,7 @@ Las compras en Microsoft 365 se pueden realizar en el centro de administración.
 
 - Para adquirir más licencias, vaya a la página **facturación** \> **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Elija la suscripción a la que desea agregar licencias y, a continuación, seleccione **Agregar o quitar licencias**.
   
-Para obtener más información, consulte [comprar licencias para la suscripción a Microsoft 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Para obtener más información, consulte [comprar licencias para la suscripción a Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Solución de problemas**
 
@@ -35,6 +35,6 @@ Si tiene problemas con la carga de la página, intente abrir la página web en u
 
 **Recursos adicionales**
   
-- [Asignar licencias a usuarios en Microsoft 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Asignar licencias a usuarios en Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Cancelar Microsoft 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Cancelar Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

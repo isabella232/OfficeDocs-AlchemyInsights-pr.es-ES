@@ -12,13 +12,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: bc0f5a050c74eb551282b10f43a14ae6303cb48e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fbc5bc9cdabf2a19181c9d5bbabf63d6c1cbfb7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712152"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506208"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>¿Omitir el filtrado de correo no deseado para permitir mensajes específicos?
 
-Le recomendamos que tenga [cuidado](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) al crear una lista de permitidos. Por ejemplo, si permite su propio dominio, los remitentes malintencionados podrán simular y enviar como su dominio.  En su lugar, recomendamos esta [Guía de solución de problemas de falsos positivos](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), que le ayudarán a determinar por qué un mensaje legítimo se marcó como correo no deseado y qué puede hacer para permitir la entrega del mensaje de forma segura.
+Le recomendamos que tenga [cuidado](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) al crear una lista de permitidos. Por ejemplo, si permite su propio dominio, los remitentes malintencionados podrán simular y enviar como su dominio.  En su lugar, recomendamos esta [Guía de solución de problemas de falsos positivos](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), que le ayudarán a determinar por qué un mensaje legítimo se marcó como correo no deseado y qué puede hacer para permitir la entrega del mensaje de forma segura.
