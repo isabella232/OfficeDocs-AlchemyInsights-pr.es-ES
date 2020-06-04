@@ -13,13 +13,13 @@ ms.custom:
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665813"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="f77d3-102">Solucionar problemas de sincronización del calendario con el dispositivo</span><span class="sxs-lookup"><span data-stu-id="f77d3-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="d9e4e-102">Solucionar problemas de sincronización del calendario con el dispositivo</span><span class="sxs-lookup"><span data-stu-id="d9e4e-102">Troubleshoot syncing your calendar to your device</span></span>
 
-<span data-ttu-id="f77d3-103">Si tiene problemas de sincronización al configurar su correo electrónico móvil por primera vez, consulte [no se puede sincronizar el calendario y los contactos con el teléfono o la tableta](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span><span class="sxs-lookup"><span data-stu-id="f77d3-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
+<span data-ttu-id="d9e4e-103">Si tiene problemas de sincronización al configurar su correo electrónico móvil por primera vez, consulte [no se puede sincronizar el calendario y los contactos con el teléfono o la tableta](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span><span class="sxs-lookup"><span data-stu-id="d9e4e-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
   
