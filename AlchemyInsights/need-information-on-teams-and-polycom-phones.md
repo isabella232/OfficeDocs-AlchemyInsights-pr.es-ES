@@ -3,21 +3,24 @@ title: 1703 Información acerca de Teams y teléfonos Polycom
 ms.author: heidip
 author: microsoftheidi
 manager: dansimp
-ms.date: 2/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.custom: 1703
-ms.openlocfilehash: d5b8f96d0e2bc206bae818d84158d0432c66d3bf
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.collection: Adm_O365
+ms.custom:
+- "1703"
+- "9000170"
+ms.openlocfilehash: 34997edc02b5f222dd6b8e7ed7e5f219af41fac6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822287"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "37340546"
 ---
-# <a name="polycom-phones-and-microsoft-teams"></a>Teléfonos Polycom y Microsoft Teams
+# <a name="need-information-on-teams-and-polycom-phones"></a>Información acerca de Teams y teléfonos Polycom
 
-Compruebe este [vínculo Polycom](https://aka.ms/polycom-phones) para obtener información más específica acerca de cómo usar teléfonos Polycom con Microsoft Teams.
+Consulte las [Preguntas más frecuentes sobre teléfonos Polycom y Microsoft Teams](https://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) para obtener información más específica sobre teléfonos Polycom. También puede: 
 
-Si desea obtener más información acerca del uso de teléfonos con Teams, vea [este artículo](https://docs.microsoft.com/microsoftteams/phones-for-teams).
+- Revisar la lista de otros [teléfonos para Microsoft Teams](https://docs.microsoft.com/microsoftteams/phones-for-teams) 
+- Revisar la lista de [dispositivos con limitaciones y problemas conocidos](https://support.office.com/article/control-calls-using-a-headset-in-teams-65d6e104-444d-4013-b8c2-f11317dd69a8). 
