@@ -13,10 +13,10 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666317"
 ---
 # <a name="service-incident-in-progress"></a>Incidente del servicio en curso
@@ -25,6 +25,6 @@ Es posible que se vea afectado por una incidencia o aviso de servicio que actual
   
 Para su comodidad, puede encontrar un resumen de este incidente a continuación:
   
-> **Número de incidente:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Número de incidente:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Descripción del impacto: {ImpactDescription}

@@ -12,19 +12,19 @@ ms.custom:
 - "9000555"
 - "2405"
 ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559426"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Solucionar problemas de sincronización de OneNote
 
-* Para solucionar los problemas más comunes relacionados con la sincronización de OneNote, siga los pasos que se indican en [solucionar problemas cuando no](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)se puede sincronizar con OneNote.
+* Para solucionar los problemas más comunes relacionados con la sincronización de OneNote, siga los pasos que se indican en [solucionar problemas cuando no se puede sincronizar con OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
 Si el Bloc de notas que no se sincroniza se almacena en OneDrive o en versiones más recientes de SharePoint, intente abrir el Bloc de notas en OneNote para la web (en www.onenote.com). Esto puede ayudar a determinar si el problema está causado por el servidor o por OneNote.
 
-1. En OneNote, haga clic en**información**del **archivo** > .
+1. En OneNote, haga clic en información del **archivo**  >  **Info**.
 
 2. Haga clic con el botón secundario en la dirección URL que aparece debajo del nombre del Bloc de notas afectado y haga clic en **copiar**.
 

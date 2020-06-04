@@ -12,10 +12,10 @@ ms.custom:
 - "1456"
 - "6200009"
 ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36745486"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Soluciones recomendadas de sincronización del servidor de Dynamics
