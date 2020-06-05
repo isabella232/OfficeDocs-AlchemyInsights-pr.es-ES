@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5895b1f94325946ab165b97b68848068df1a81c2
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911237"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563338"
 ---
 # <a name="comments-in-microsoft-planner"></a>Comentarios en Microsoft Planner
 
@@ -32,4 +32,4 @@ Estas son algunas respuestas a problemas comunes relacionados con los comentario
 
 - **Los usuarios eliminados reciben mensajes de correo electrónico**: Si un usuario envía un comentario sobre una tarea antes de que se elimine del plan, el hilo de correo electrónico incluye al usuario para cada comentario de la tarea.
 
-Para obtener información detallada sobre los comentarios con Microsoft Planner, consulte [Cómo funciona Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) y [Comentar en tareas en Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Para obtener información detallada sobre los comentarios con Microsoft Planner, consulte [Cómo funciona Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) y [Comentar en tareas en Microsoft Planner](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).
