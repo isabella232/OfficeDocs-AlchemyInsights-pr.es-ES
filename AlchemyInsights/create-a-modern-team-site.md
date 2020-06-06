@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: eb3d4c632029993611bc0720dba64e7f86807223
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911669"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580386"
 ---
-# <a name="create-an-microsoft-365-group-connected-team-site"></a>Crear un sitio de grupo conectado a un grupo 365 de Microsoft
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>Crear un sitio de grupo conectado a Microsoft 365
 
 1. Haga clic en el iniciador de aplicaciones en la esquina superior izquierda y seleccione **SharePoint**. Si no ve el icono de SharePoint, haga clic en **todas las aplicaciones**.
     

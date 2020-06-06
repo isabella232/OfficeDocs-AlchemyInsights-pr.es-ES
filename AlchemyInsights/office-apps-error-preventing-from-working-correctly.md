@@ -1,5 +1,5 @@
 ---
-title: 'Error de aplicaciones de Office: la aplicación se ha ejecutado en un error que impide que funcione correctamente'
+title: 'Error de Microsoft 365 apps: la aplicación se ha ejecutado en un error que impide que funcione correctamente'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886599"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576829"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Error de aplicaciones de Office: la aplicación se ha ejecutado en un error que impide que funcione correctamente
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Error de Microsoft 365 apps: la aplicación se ha ejecutado en un error que impide que funcione correctamente
 
 Para solucionar este error, pruebe las siguientes opciones:
 
@@ -29,8 +29,8 @@ Para solucionar este error, pruebe las siguientes opciones:
 
 **Nota:** Si el problema se produce con documentos concretos, dichos documentos podrían estar dañados. Vea [cómo solucionar problemas de documentos dañados](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 
-Para obtener más información, vea: 
+Para más información, consulte lo siguiente: 
 
-- [Error al abrir aplicaciones de Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Error al abrir las aplicaciones de Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Obtengo un error "dejó de funcionar" al iniciar aplicaciones de Office en mi equipo](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Solucionar problemas que se producen al iniciar o usar las aplicaciones de Office](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Solución de problemas que se producen al iniciar o usar las aplicaciones de Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

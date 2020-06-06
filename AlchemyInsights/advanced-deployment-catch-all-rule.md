@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710928"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580868"
 ---
-# <a name="deploy-office-apps"></a>Implementación de aplicaciones de Office
+# <a name="deploy-microsoft-365-apps"></a>Implementación de aplicaciones de Microsoft 365
 
-Para implementar aplicaciones de Office en varios usuarios finales mediante la herramienta de implementación de Office, Microsoft Endpoint Configuration Manager, como parte de una imagen de disco del sistema operativo o en un escenario de equipo compartido con Windows Server con servicios de escritorio remoto (RDS) o servicios de Terminal Server, considere la posibilidad de usar la guía paso a paso en el **Asesor de implementación de aplicaciones de Microsoft 365 para empresas**.
+Para implementar aplicaciones de Microsoft 365 en varios usuarios finales mediante la herramienta de implementación de Office, el administrador de configuración de Microsoft Endpoint, como parte de una imagen de disco de sistema operativo o en un escenario de equipos compartidos mediante Windows Server con servicios de escritorio remoto (RDS) o Terminal Services, considere la posibilidad de usar la guía paso a paso del **Asesor de implementación de Microsoft 365**.
   
-Para empezar, asegúrese de que ha iniciado sesión como administrador de inquilinos o administrador global y, a continuación, haga clic [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)aquí:.
+Para empezar, asegúrese de que ha iniciado sesión como administrador de inquilinos o administrador global y, a continuación, haga clic aquí: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   

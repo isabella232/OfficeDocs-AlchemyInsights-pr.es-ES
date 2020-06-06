@@ -1,5 +1,5 @@
 ---
-title: Solución de las aplicaciones de Office el mensaje de problemas del servidor temporal es
+title: Corrección de las aplicaciones de Microsoft 365 lo sentimos, tenemos mensajes de problemas de servidor temporales
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764134"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582720"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Corrección de las aplicaciones de Office mensaje "lo sentimos, con problemas de servidor temporales"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Corrección de las aplicaciones de 365 de Microsoft "el mensaje" tenemos problemas con el servidor temporal "
 
 Si recibe este mensaje, pruebe lo siguiente:
 
-1. Compruebe el firewall, el software antivirus y la configuración de proxy para confirmar que no están bloqueando el acceso a Internet a las aplicaciones de Office. Consulte [direcciones URL e intervalos de direcciones IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Compruebe el firewall, el software antivirus y la configuración de proxy para confirmar que no están bloqueando el acceso a Internet a las aplicaciones de Microsoft 365. Consulte [direcciones URL e intervalos de direcciones IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Vaya a **Inicio** > **Ejecutar**y, a continuación, escriba **Services. msc**. Asegúrese de que se están ejecutando todos los servicios siguientes:
+2. Vaya a **Inicio**  >  **Ejecutar**y, a continuación, escriba **Services. msc**. Asegúrese de que se están ejecutando todos los servicios siguientes:
     - Configuración automática de dispositivos conectados a la red
     - Servicio de lista de redes
     - Reconocimiento de ubicación de red

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511669"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581032"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>No aparecen las etiquetas de confidencialidad
 
 Las etiquetas de confidencialidad le permiten clasificar y ayudar a proteger el contenido confidencial. Se pueden crear en el centro de cumplimiento de Microsoft 365, el centro de seguridad de Microsoft 365 o el centro de cumplimiento de & de seguridad de Microsoft 365 en las etiquetas de confidencialidad > clasificación. Para obtener más información acerca de esta característica, consulte [información general sobre las etiquetas de confidencialidad](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Si ha configurado las etiquetas de confidencialidad pero no aparecen en las aplicaciones de Office, compruebe lo siguiente:
+Si ha configurado las etiquetas de confidencialidad pero no aparecen en las aplicaciones de Microsoft 365, compruebe lo siguiente:
 
 - Confirme que la etiqueta de confidencialidad se ha [publicado](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) en los usuarios y grupos que desee.
 
