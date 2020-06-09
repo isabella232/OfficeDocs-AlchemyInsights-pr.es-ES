@@ -1,5 +1,5 @@
 ---
-title: 'Mensaje de aplicaciones de Office: Se ha detectado un problema con su suscripción'
+title: 'Mensaje de aplicaciones de Microsoft 365: se ha detectado un problema con su suscripción'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512463"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581572"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Mensaje de aplicaciones de Office: Se ha detectado un problema con su suscripción
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Mensaje de aplicaciones de Microsoft 365: se ha detectado un problema con su suscripción
 
 - Si ha cambiado recientemente a otra suscripción o plan, siga los pasos que se describen en ["Aviso de cuenta" aparece en Office después de cambiar los planes](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) para reinstalar o actualizar Office.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512463"
 
 - Ejecute el [Solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy) y reinicie el equipo.
 
-- En el equipo afectado, [restablezca el estado de activación de Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- En el equipo afectado, [restablezca el estado de activación de Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Para obtener instrucciones detalladas, consulte: 
 

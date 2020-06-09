@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002393"
 - "4666"
-ms.openlocfilehash: bd74f665a2358d20216db3cc8328e1f6c3df44b7
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 3cae8f2902de61bd7d182da3f6170d0bf7cba2f4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541855"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582180"
 ---
 # <a name="set-up-skype-for-business-online"></a>Configurar Skype Empresarial Online
 
 Skype Empresarial Online se retirará el 31 de julio de 2021. [Obtenga más información acerca del retiro y migración a Microsoft Teams](https://docs.microsoft.com/microsoftteams/skype-for-business-online-retirement).
 
-Skype Empresarial forma parte del conjunto de productos de Office 365. [Obtenga más información sobre cómo instalar Skype Empresarial Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800).
+Skype Empresarial forma parte del conjunto de productos de Microsoft 365. [Obtenga más información sobre cómo instalar Skype Empresarial Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800).
