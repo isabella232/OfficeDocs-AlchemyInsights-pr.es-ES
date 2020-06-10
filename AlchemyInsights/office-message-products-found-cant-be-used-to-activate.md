@@ -1,5 +1,5 @@
 ---
-title: 'Mensaje de aplicaciones de Office: Los productos encontrados en la cuenta no se pueden usar para activar'
+title: 'Mensaje de aplicaciones de Microsoft 365: Los productos encontrados en la cuenta no se pueden usar para activar'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010764"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581632"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Mensaje de aplicaciones de Office: Los productos encontrados en la cuenta no se pueden usar para activar
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Mensaje de aplicaciones de Microsoft 365: Los productos encontrados en la cuenta no se pueden usar para activar
 
 - Compruebe que el [estado de la suscripción](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) es válido y que el usuario afectado tiene [asignada una licencia válida](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) y está conectado a Internet. 
 
@@ -26,7 +26,7 @@ ms.locfileid: "44010764"
 
 - Ejecute el [Solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy) y reinicie el equipo.
 
-- En el equipo afectado, [restablezca el estado de activación de Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- En el equipo afectado, [restablezca el estado de activación de Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 En el caso de equipos compartidos, consulte [Solucionar problemas de activación en equipos compartidos para Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
