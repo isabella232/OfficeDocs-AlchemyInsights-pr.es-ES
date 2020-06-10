@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049066"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667865"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="6be03-102">Administrar el almacenamiento de OneDrive</span><span class="sxs-lookup"><span data-stu-id="6be03-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="47808-102">Administrar el almacenamiento de OneDrive</span><span class="sxs-lookup"><span data-stu-id="47808-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="6be03-103">El espacio de almacenamiento de OneDrive no se cuenta para la cuota de inquilino general.</span><span class="sxs-lookup"><span data-stu-id="6be03-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
+<span data-ttu-id="47808-103">Puede administrar su OneDrive para la empresa para ver cuánto espacio está usando y liberar espacio.</span><span class="sxs-lookup"><span data-stu-id="47808-103">You can manage your OneDrive for Business to see how much space you’re using and free up space.</span></span>  <span data-ttu-id="47808-104">Para obtener más información, visite los siguientes vínculos.</span><span class="sxs-lookup"><span data-stu-id="47808-104">For more information visit the links below.</span></span>
 
-<span data-ttu-id="6be03-104">Obtenga información sobre [cómo se asigna el espacio de almacenamiento de OneDrive por usuario o plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="6be03-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
-
-<span data-ttu-id="6be03-105">Obtenga información sobre la [cantidad de almacenamiento que usa en su OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="6be03-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
-
-<span data-ttu-id="6be03-106">Obtenga información sobre [Cómo obtener la cuota de almacenamiento de OneDrive con PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="6be03-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
-
-<span data-ttu-id="6be03-107">Inicialmente, Microsoft proporcionará 1 TB por usuario, que los administradores pueden aumentar hasta 5 TB por usuario.</span><span class="sxs-lookup"><span data-stu-id="6be03-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="6be03-108">Obtenga información sobre cómo [establecer el espacio de almacenamiento predeterminado para los usuarios de OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="6be03-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
-
-<span data-ttu-id="6be03-109">Obtenga información sobre [Cómo cambiar el espacio de almacenamiento de OneDrive de un usuario específico](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="6be03-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
-
-<span data-ttu-id="6be03-110">Obtenga información sobre [cómo los administradores globales pueden establecer la cuota de almacenamiento de OneDrive para todos los usuarios que usan PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="6be03-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
-  
+- [<span data-ttu-id="47808-105">Administrar el almacenamiento de OneDrive para la empresa</span><span class="sxs-lookup"><span data-stu-id="47808-105">Manage your OneDrive for Business storage</span></span>](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [<span data-ttu-id="47808-106">Cambiar el espacio de almacenamiento de OneDrive de un usuario específico</span><span class="sxs-lookup"><span data-stu-id="47808-106">Change a specific user's OneDrive storage space</span></span>](https://docs.microsoft.com/onedrive/change-user-storage)
+- [<span data-ttu-id="47808-107">Establecer el espacio de almacenamiento predeterminado para los usuarios de OneDrive</span><span class="sxs-lookup"><span data-stu-id="47808-107">Set the default storage space for OneDrive users</span></span>](https://docs.microsoft.com/onedrive/set-default-storage-space)
