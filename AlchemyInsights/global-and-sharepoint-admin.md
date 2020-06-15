@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: bc5a0067ce8dd63134f163daa33e7bc662cfdd96
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 231f302bd3f3655b1fe72518d71b14d464914ce0
+ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44279118"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44716436"
 ---
 # <a name="global-and-sharepoint-admin"></a>Administrador global y de SharePoint
 
@@ -29,3 +29,4 @@ Puede haber varios motivos por los que no se pueda obtener acceso a Microsoft Sh
 
 - [No se puede acceder a SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
 
+- [Acceso denegado para cuentas de usuario administradas por PIM en el centro de administración de SharePoint o OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
