@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: de05f869702c40facf61fa5ad01a6ab841b45063
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 875026fe11d3745b587131cf0dd40a28fa005dc5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499492"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580170"
 ---
 # <a name="unable-to-activate-office"></a>No se ha podido activar Office
 
@@ -24,20 +24,16 @@ ms.locfileid: "44499492"
 - Asegúrese de que tiene una suscripción que permita licencias de cliente, así como Office 365 Empresa o Empresa Premium, y [asegúrese de que el usuario tenga asignada una licencia](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
 - Asegúrese de que el usuario inicia sesión en Office con la misma cuenta a la que se ha asignado la licencia.
 - Consulte la [página de estado del servicio de Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) para ver si hay problemas conocidos con el servicio.
-- Compruebe el firewall, el software antivirus y la configuración de proxy para confirmar que no están bloqueando el acceso de las aplicaciones de Office a Internet. Consulte [Intervalos de direcciones IP y URL de Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Intervalos de direcciones IP y direcciones URL de Office 365").
+- Compruebe el firewall, el software antivirus y la configuración de proxy para confirmar que no están bloqueando el acceso de las aplicaciones de Microsoft 365 a Internet. Consulte [Intervalos de direcciones IP y URL de Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Intervalos de direcciones IP y direcciones URL de Office 365").
 
-- Compruebe el firewall, el software antivirus y la configuración de proxy para confirmar que no están bloqueando el acceso de las aplicaciones de Office a Internet. Consulte [Intervalos de direcciones IP y URL de Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
-
-Haga lo siguiente para intentar solucionar el problema: 
-
-- Abra una aplicación de Office y [cierre sesión](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) en las cuentas de usuario existentes. [Elimine](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) y [reasigne](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) la licencia de Office y, después, [inicie sesión en Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) con la cuenta de usuario afectada.
 Haga lo siguiente para intentar solucionar el problema:
 
-- Abra una aplicación de Office y [cierre sesión](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) en las cuentas de usuario existentes. [Elimine](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide "Eliminar ") y [reasigne](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide "reasignar") la licencia de Office y, después, [inicie sesión en Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9 "iniciar sesión en Office") con la cuenta de usuario afectada.
+- Abra una aplicación de Office y [cierre sesión](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) en las cuentas de usuario existentes. [Elimine](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) y [reasigne](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) la licencia de Office y, después, [inicie sesión en Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) con la cuenta de usuario afectada.
 - Ejecute el [Solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy)
 - [Restablezca el estado de activación de Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "Restablezca el estado de activación de Office")
 - [Realice una reparación en línea de Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)
 
 Para ver más medidas de solución de problemas, vea:  
-[Errores de activación y de producto sin licencia en Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)  
-["Lo sentimos, no podemos conectarnos con su cuenta. Inténtelo de nuevo más tarde" se ha producido un error al activar Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365 ""Lo sentimos, no podemos conectarnos con su cuenta. Inténtalo de nuevo más tarde" se ha producido un error al activar Office")
+
+- [Errores de activación y de producto sin licencia en Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+- [Error "Lo sentimos, no podemos conectarnos con su cuenta. Inténtelo de nuevo más tarde" al activar Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
