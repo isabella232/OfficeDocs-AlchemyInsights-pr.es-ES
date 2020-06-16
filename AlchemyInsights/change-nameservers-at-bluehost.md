@@ -19,8 +19,8 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 06/12/2020
 ms.locfileid: "44716610"
 ---
-# <a name="change-nameservers-at-bluehost"></a><span data-ttu-id="bad66-102">Cambiar los servidores DNS en Bluehost</span><span class="sxs-lookup"><span data-stu-id="bad66-102">Change nameservers at Bluehost</span></span>
+# <a name="change-nameservers-at-bluehost"></a><span data-ttu-id="69380-102">Cambiar los servidores DNS en Bluehost</span><span class="sxs-lookup"><span data-stu-id="69380-102">Change nameservers at Bluehost</span></span>
 
-[<span data-ttu-id="bad66-103">Cambiar los servidores DNS para configurar Microsoft 365 con Bluehost</span><span class="sxs-lookup"><span data-stu-id="bad66-103">Change nameservers to setup Microsoft 365 with Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
+[<span data-ttu-id="69380-103">Cambiar los servidores DNS para configurar Microsoft 365 con Bluehost</span><span class="sxs-lookup"><span data-stu-id="69380-103">Change nameservers to setup Microsoft 365 with Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
 
-<span data-ttu-id="bad66-104">Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="bad66-104">For other Domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="69380-104">Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="69380-104">For other Domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

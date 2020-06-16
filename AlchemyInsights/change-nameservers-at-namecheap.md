@@ -19,8 +19,8 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 06/12/2020
 ms.locfileid: "44716609"
 ---
-# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="ff9fa-102">Cambiar los servidores DNS en Namecheap</span><span class="sxs-lookup"><span data-stu-id="ff9fa-102">Change nameservers at Namecheap</span></span>
+# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="8a37c-102">Cambiar los servidores DNS en Namecheap</span><span class="sxs-lookup"><span data-stu-id="8a37c-102">Change nameservers at Namecheap</span></span>
 
-[<span data-ttu-id="ff9fa-103">Cambiar los servidores DNS para configurar Microsoft 365 con Namecheap</span><span class="sxs-lookup"><span data-stu-id="ff9fa-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
+[<span data-ttu-id="8a37c-103">Cambiar los servidores DNS para configurar Microsoft 365 con Namecheap</span><span class="sxs-lookup"><span data-stu-id="8a37c-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
 
-<span data-ttu-id="ff9fa-104">Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="ff9fa-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="8a37c-104">Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="8a37c-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

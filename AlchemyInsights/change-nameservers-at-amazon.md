@@ -19,8 +19,8 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 06/12/2020
 ms.locfileid: "44716617"
 ---
-# <a name="change-nameservers-at-amazon"></a><span data-ttu-id="884af-102">Cambiar los servidores DNS en Amazon</span><span class="sxs-lookup"><span data-stu-id="884af-102">Change nameservers at Amazon</span></span>
+# <a name="change-nameservers-at-amazon"></a><span data-ttu-id="b2c50-102">Cambiar los servidores DNS en Amazon</span><span class="sxs-lookup"><span data-stu-id="b2c50-102">Change nameservers at Amazon</span></span>
 
-[<span data-ttu-id="884af-103">Cambiar los servidores DNS para configurar Microsoft 365 con Amazon Web Services</span><span class="sxs-lookup"><span data-stu-id="884af-103">Change nameservers to setup Microsoft 365 with Amazon Web Services</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
+[<span data-ttu-id="b2c50-103">Cambiar los servidores DNS para configurar Microsoft 365 con Amazon Web Services</span><span class="sxs-lookup"><span data-stu-id="b2c50-103">Change nameservers to setup Microsoft 365 with Amazon Web Services</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
 
-<span data-ttu-id="884af-104">Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="884af-104">For other domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="b2c50-104">Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="b2c50-104">For other domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

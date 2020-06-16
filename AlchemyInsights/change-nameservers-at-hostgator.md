@@ -19,8 +19,8 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 06/12/2020
 ms.locfileid: "44716614"
 ---
-# <a name="change-nameservers-at-hostgator"></a><span data-ttu-id="b1426-102">Cambiar los servidores DNS en Hostgator</span><span class="sxs-lookup"><span data-stu-id="b1426-102">Change nameservers at Hostgator</span></span>
+# <a name="change-nameservers-at-hostgator"></a><span data-ttu-id="93ca7-102">Cambiar los servidores DNS en Hostgator</span><span class="sxs-lookup"><span data-stu-id="93ca7-102">Change nameservers at Hostgator</span></span>
 
-[<span data-ttu-id="b1426-103">Cambiar los servidores DNS para configurar Microsoft 365 con Hostgator</span><span class="sxs-lookup"><span data-stu-id="b1426-103">Change nameservers to setup Microsoft 365 with Hostgator</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
+[<span data-ttu-id="93ca7-103">Cambiar los servidores DNS para configurar Microsoft 365 con Hostgator</span><span class="sxs-lookup"><span data-stu-id="93ca7-103">Change nameservers to setup Microsoft 365 with Hostgator</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
 
-[<span data-ttu-id="b1426-104">Para otros problemas de dominios, consulte las preguntas más frecuentes sobre dominios</span><span class="sxs-lookup"><span data-stu-id="b1426-104">For other domains issues try the Domains FAQ</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+<span data-ttu-id="93ca7-104">[Para otros problemas de dominios, consulte las preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="93ca7-104">[For other domains issues try the Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
