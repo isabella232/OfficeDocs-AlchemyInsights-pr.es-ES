@@ -23,4 +23,4 @@ ms.locfileid: "44716606"
 
 [Cambiar los servidores DNS para configurar Microsoft 365 con MyDomain](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
 
-Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide).

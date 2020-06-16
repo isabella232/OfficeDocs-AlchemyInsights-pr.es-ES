@@ -23,4 +23,4 @@ ms.locfileid: "44716614"
 
 [Cambiar los servidores DNS para configurar Microsoft 365 con Hostgator](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
 
-[Para otros problemas de dominios, consulte las preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+[Para otros problemas de dominios, consulte las preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide).

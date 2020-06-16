@@ -23,4 +23,4 @@ ms.locfileid: "44716605"
 
 [Cambiar los servidores DNS para configurar Microsoft 365 con 1&1 IONOS](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
 
-Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+Para otros problemas de dominios, consulte las [preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
