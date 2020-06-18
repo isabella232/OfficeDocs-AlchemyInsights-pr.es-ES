@@ -26,7 +26,7 @@ Para activar Office, consulte:
 
 - [Activar Office en un equipo Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Nota:**  Asegúrese de que tiene una suscripción a Office 365 o Microsoft 365 que [incluya las aplicaciones cliente de Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como Microsoft 365 Empresa Estándar, Aplicaciones de Microsoft 365 para negocios o Aplicaciones de Microsoft 365 para empresas. Además, asegúrese de que la cuenta de usuario que usa para iniciar sesión en las aplicaciones de Office tiene [una licencia asignada](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Nota:** Asegúrese de que tiene una suscripción a Office 365 o Microsoft 365 que [incluya las aplicaciones cliente de Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como Microsoft 365 Empresa Estándar, Aplicaciones de Microsoft 365 para negocios o Aplicaciones de Microsoft 365 para empresas. Además, asegúrese de que la cuenta de usuario que usa para iniciar sesión en las aplicaciones de Office tenga [una licencia asignada](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Para solucionar problemas de activación de Office, consulte:
 

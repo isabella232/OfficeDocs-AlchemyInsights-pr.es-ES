@@ -21,7 +21,7 @@ ms.locfileid: "44716653"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>El propietario no puede crear una subcarpeta con Outlook
 
-**Hay un problema en curso con los propietarios de las carpetas públicas al crear subcarpetas con Outlook. El problema se corregirá prónto.**
+**Hay un problema en curso con los propietarios de las carpetas públicas al crear subcarpetas con Outlook. El problema se corregirá pronto.**
 
 Mientras tanto, pruebe una de las siguientes soluciones:
 
@@ -29,4 +29,4 @@ Mientras tanto, pruebe una de las siguientes soluciones:
 2. Pedir al administrador que cree la subcarpeta con el Shell de EXO o con EAC
 3. Cambiar DefaultPublicFolderMailbox/EffectivePublicFolderMailbox del usuario a otro buzón que no sea el buzón de contenido de la carpeta causante del problema  
     - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
-4. Esperar una hora y reiniciar el cliente de outlook
+4. Esperar una hora y reiniciar el cliente de Outlook
