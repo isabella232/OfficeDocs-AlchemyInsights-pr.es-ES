@@ -8,27 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706038"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931453"
 ---
 # <a name="conditional-access-with-intune"></a>Acceso condicional con Intune
 
-El uso de **acceso condicional** con Intune requiere 3 pasos: 
-  
-- Cree una **Directiva de acceso condicional** que defina los recursos que se van a proteger y las condiciones que deben cumplirse para obtener acceso a esos recursos. Por ejemplo, un dispositivo debe ser compatible antes de obtener acceso al correo electrónico corporativo. 
-    
-- Cree una **Directiva de cumplimiento** para definir la configuración que se debe cumplir antes de que el dispositivo se considere conforme. Por ejemplo, un dispositivo debe tener un PIN de al menos 6 dígitos antes de que se considere compatible. 
-    
-- Garantizar que las directivas de **cumplimiento** y **las directivas de acceso condicional** estén dirigidas a los grupos de usuarios deseados. Esto puede requerir la creación de grupos específicos de usuarios en Azure Active Directory. 
-    
-Más información:
-  
-- [Procedimientos recomendados de acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
-    
-- [Introducción al acceso condicional](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
-    
+El uso de **acceso condicional** con Intune requiere 3 pasos:
 
+- Cree una **Directiva de cumplimiento** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) para definir la configuración que se debe cumplir antes de que el dispositivo se considere conforme. Por ejemplo, un dispositivo debe tener un PIN de al menos 6 dígitos antes de que se considere compatible.
+- Cree una **Directiva de acceso condicional** que defina los recursos que se van a proteger y las condiciones que deben cumplirse para obtener acceso a esos recursos.  [Por ejemplo,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) un dispositivo debe ser compatible antes de obtener acceso al correo electrónico corporativo.
+- Asegúrese de que las directivas de **cumplimiento** y **las directivas de acceso condicional** estén dirigidas a los grupos de usuarios deseados. Esto puede requerir la creación de grupos específicos de usuarios en Azure Active Directory.
+
+**Vínculos útiles:**
+
+[Introducción al cumplimiento de dispositivos](https://docs.microsoft.com/intune/device-compliance-get-started)
+
+[Solución de problemas de CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+
+[Directiva de solución de problemas](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+
+Para proteger el correo electrónico (Exchange Online) del acceso de dispositivos no compatibles, se deben seguir ambos documentos:
+
+1. [Proteger el acceso al correo electrónico de dispositivos con EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Proteger el acceso al correo electrónico desde dispositivos con clientes de autenticación modernos como Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
