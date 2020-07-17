@@ -28,7 +28,7 @@ ms.locfileid: "44854047"
 6. En **regla de uso compartido**, seleccione una de las siguientes opciones para especificar los dominios con los que desea compartir:
     - **Compartir con todos los dominios**
     - **Compartir con un dominio específico**
-8. If you select **Sharing with a specific domain**, type the name of the domain you want to share with. If you need to enter more than one domain for this sharing policy, save the settings for the first domain, then edit the sharing rules to add more domains.
+8. Si selecciona **Compartir con un dominio específico**, escriba el dominio con el que desea compartir. Si necesita indicar más de un dominio para esta directiva de uso compartido, guarde la configuración del primer dominio y, después, cambie las reglas de uso compartido para agregar más dominios.
 9. Para especificar la información que se va a poder compartir, active la casilla **Compartir la carpeta de calendario** y, a continuación, seleccione una de las siguientes opciones:
     - **Información de disponibilidad de calendario solo con hora**
     - **Información de disponibilidad de calendario con hora, asunto y ubicación**
