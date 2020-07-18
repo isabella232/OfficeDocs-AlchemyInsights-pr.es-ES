@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: a1b792bcb2a73ed89f8cfe74c0b56461dfa465ce
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: ce4c6319de89ef0fa5cae4cf37f4552db7508ddb
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139073"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146608"
 ---
 # <a name="sharepoint-workflows-retiring"></a>Retirada de flujos de trabajo de SharePoint
 
-Se van a retirar los flujos de trabajo de SharePoint 2010 y SharePoint 2013. Se recomienda la migración a [Power Automate](https://docs.microsoft.com/power-automate/getting-started) u otras soluciones compatibles. 
+Se van a retirar los flujos de trabajo de SharePoint 2010. Se recomienda la migración a [Power Automate](https://docs.microsoft.com/power-automate/getting-started) u otras soluciones compatibles. 
 
 Fechas clave:
 
