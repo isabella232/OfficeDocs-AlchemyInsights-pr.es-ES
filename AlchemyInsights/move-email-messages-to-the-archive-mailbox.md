@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511057"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522788"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Mover el correo electrónico al buzón de archivo
+
+Si desea que se ejecuten comprobaciones automatizadas para la configuración que se menciona a continuación, seleccione el botón atrás <--en la parte superior de esta página y, a continuación, escriba la dirección de correo electrónico del usuario que tiene problemas para mover el correo electrónico a su buzón de archivo.
 
 1. Confirme que se ha habilitado un **buzón de archivo** . Si no es así, siga los pasos de [este artículo](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) para habilitar el buzón de archivo.
 

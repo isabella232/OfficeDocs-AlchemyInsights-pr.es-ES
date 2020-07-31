@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507043"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522752"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitación de un buzón de archivo
+
+Si desea que se ejecuten comprobaciones automatizadas para asegurarse de que se puede configurar un buzón de archivo, seleccione el botón atrás <--en la parte superior de esta página y, a continuación, escriba la dirección de correo electrónico de la cuenta.
 
 Los buzones de archivo de Microsoft 365 (también denominados *archivos en línea* o *archivos locales*) proporcionan a los usuarios un almacenamiento de correo electrónico adicional. Los usuarios pueden mover o copiar elementos a su buzón de archivo y los administradores pueden crear una directiva de archivo que mueva automáticamente los elementos a buzones de archivo.
   
@@ -49,7 +51,7 @@ Para habilitar el archivo para un buzón compartido:
 
 4. En el panel de detalles de la derecha, en **archivo local**, haga clic en **Habilitar**y, a continuación, haga clic en **sí** para habilitar el buzón de archivo.
 
-Para más información, consulte lo siguiente:
+Para obtener más información, vea:
   
 - [Habilitar buzones de archivo](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
