@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495832"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596764"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Poner un buzón en retención legal
 
@@ -26,4 +26,4 @@ ms.locfileid: "44495832"
 
 - Para habilitar la retención por juicio para un solo usuario, [siga estos pasos](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Cuando la retención por juicio está habilitada, se conserva todo el contenido del buzón.
 
-- Para conservar el contenido de todos los buzones de la organización, puede usar una [Directiva de retención para toda la organización](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Tenga en cuenta que en el caso de las directivas de retención de toda la organización, los nuevos usuarios se asignarán automáticamente a la Directiva.
+- Para conservar el contenido de todos los buzones de la organización o para crear otros tipos de suspensiones de retención, use una directiva o etiquetas de retención. Tenga en cuenta que en el caso de las directivas de retención de toda la organización, los nuevos usuarios se asignan automáticamente a la Directiva. Para obtener más información, vea [información sobre las directivas de retención y las etiquetas de retención](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
