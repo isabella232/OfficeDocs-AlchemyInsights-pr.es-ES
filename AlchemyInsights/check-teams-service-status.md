@@ -19,8 +19,8 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 07/28/2020
 ms.locfileid: "45431794"
 ---
-# <a name="check-teams-service-status"></a><span data-ttu-id="b0c36-102">Comprobar el estado del servicio de Teams</span><span class="sxs-lookup"><span data-stu-id="b0c36-102">Check Teams Service Status</span></span>
+# <a name="check-teams-service-status"></a><span data-ttu-id="205db-102">Comprobar el estado del servicio de Teams</span><span class="sxs-lookup"><span data-stu-id="205db-102">Check Teams Service Status</span></span>
 
-<span data-ttu-id="b0c36-103">Para comprobar el estado actual del servicio de Microsoft Teams, vaya al panel de Estado del servicio del Centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b0c36-103">To check the current status of the Microsoft Teams service, go to the Microsoft 365 admin center Service Health Dashboard.</span></span>
+<span data-ttu-id="205db-103">Para comprobar el estado actual del servicio de Microsoft Teams, vaya al panel de Estado del servicio del Centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="205db-103">To check the current status of the Microsoft Teams service, go to the Microsoft 365 admin center Service Health Dashboard.</span></span>
 
-<span data-ttu-id="b0c36-104">Para más información, consulte [Cómo comprobar el estado del servicio de Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).</span><span class="sxs-lookup"><span data-stu-id="b0c36-104">For more information, see [How to check Microsoft 365 service health](https://docs.microsoft.com/office365/enterprise/view-service-health).</span></span>
+<span data-ttu-id="205db-104">Para obtener más información, consulte [Cómo comprobar el estado del servicio de Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).</span><span class="sxs-lookup"><span data-stu-id="205db-104">For more information, see [How to check Microsoft 365 service health](https://docs.microsoft.com/office365/enterprise/view-service-health).</span></span>

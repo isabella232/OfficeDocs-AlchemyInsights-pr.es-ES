@@ -19,6 +19,6 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 07/28/2020
 ms.locfileid: "45431818"
 ---
-# <a name="azure-ad-connect-sync-errors"></a><span data-ttu-id="9e798-102">Errores de sincronización de Azure AD Connect</span><span class="sxs-lookup"><span data-stu-id="9e798-102">Azure AD connect sync errors</span></span>
+# <a name="azure-ad-connect-sync-errors"></a><span data-ttu-id="da317-102">Errores de sincronización de Azure AD Connect</span><span class="sxs-lookup"><span data-stu-id="da317-102">Azure AD connect sync errors</span></span>
 
-<span data-ttu-id="9e798-103">Para más información sobre los errores de sincronización comunes de Azure AD Connect y las posibles formas de corregir los errores, consulte [Solución de errores durante la sincronización](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors).</span><span class="sxs-lookup"><span data-stu-id="9e798-103">For common Azure AD connect sync errors and possible ways to fix the errors, see [Troubleshooting errors during synchronization](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors).</span></span>
+<span data-ttu-id="da317-103">Para obtener más información sobre los errores de sincronización comunes de Azure AD Connect y las posibles formas de corregirlos, consulte [Solución de errores durante la sincronización](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors).</span><span class="sxs-lookup"><span data-stu-id="da317-103">For common Azure AD connect sync errors and possible ways to fix the errors, see [Troubleshooting errors during synchronization](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors).</span></span>
