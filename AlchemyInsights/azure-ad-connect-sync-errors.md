@@ -21,4 +21,4 @@ ms.locfileid: "45431818"
 ---
 # <a name="azure-ad-connect-sync-errors"></a>Errores de sincronización de Azure AD Connect
 
-Para más información sobre los errores de sincronización comunes de Azure AD Connect y las posibles formas de corregir los errores, consulte [Solución de errores durante la sincronización](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors).
+Para obtener más información sobre los errores de sincronización comunes de Azure AD Connect y las posibles formas de corregirlos, consulte [Solución de errores durante la sincronización](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors).

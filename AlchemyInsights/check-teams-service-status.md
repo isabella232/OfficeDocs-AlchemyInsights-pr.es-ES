@@ -23,4 +23,4 @@ ms.locfileid: "45431794"
 
 Para comprobar el estado actual del servicio de Microsoft Teams, vaya al panel de Estado del servicio del Centro de administración de Microsoft 365.
 
-Para más información, consulte [Cómo comprobar el estado del servicio de Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Para obtener más información, consulte [Cómo comprobar el estado del servicio de Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
