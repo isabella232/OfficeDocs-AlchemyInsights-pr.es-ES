@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
-ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
+ms.openlocfilehash: 3e1042a38d2289b9ef2396e8300d32f20ddaa703
+ms.sourcegitcommit: b5e5f560bf6ef92b4475bd3d91b7df38b5a4b036
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "46665479"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46739844"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Cambiar los canales de actualización de las aplicaciones de Office
 
@@ -30,9 +30,11 @@ Para las instalaciones existentes de Office, use la herramienta de implementaci�
 1. Descargue la versión más reciente de la ODT (setup.exe) desde el [Centro de descarga de Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 2. Identifique el nombre del canal al que quiere cambiar. Para obtener más información, consulte [Opciones de configuración para la Herramienta de implementación de Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element).
 3. Cree un archivo de configuración XML que especifique el nombre de canal apropiado, por ejemplo, Update. Xml.  
-    `<Configuration> 
-    <Updates **Channel="Monthly"** />  
-    </Configuration>`
+
+`<Configuration>`<br>
+`<Updates Channel="Monthly"/>`<br>
+`</Configuration>`<br>
+
 4. Desde un símbolo del sistema con privilegios elevados, cambie a la ubicación de la carpeta donde se encuentra Setup. exe y ejecute el comando siguiente:  
     a. setup.exe /configure update.xml
 5. Inicie una aplicación de Office (por ejemplo, Excel) y, a continuación, seleccione **Cuenta** > ** de archivo**. En la sección Información del producto, seleccione **Opciones de actualización** > **Actualizar ahora**.
