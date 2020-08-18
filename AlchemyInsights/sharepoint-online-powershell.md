@@ -1,7 +1,7 @@
 ---
 title: PowerShell de SharePoint Online
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 8c270748fc75f929371fbb2856daad3ae61a1540
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 300c07e7f0010eae2bd4fe893ece9d09aab93ba5
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764279"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786906"
 ---
 # <a name="sharepoint-online-powershell"></a>PowerShell de SharePoint Online
 

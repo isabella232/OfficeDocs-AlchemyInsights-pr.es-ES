@@ -1,7 +1,7 @@
 ---
-title: Informar sobre el uso compartido de archivos y carpetas en un sitio de SharePoint
-ms.author: v-todmc
-author: todmccoy
+title: Informe sobre el uso compartido de archivos y carpetas en los sitios de SharePoint
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693179"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787230"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Informar sobre el uso compartido de archivos y carpetas en un sitio de SharePoint
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Informe sobre el uso compartido de archivos y carpetas en los sitios de SharePoint
 
-Puede crear un archivo CSV en el que se detallan todos los archivos, usuarios, permisos y vínculos únicos de un sitio de SharePoint o biblioteca de OneDrive determinados. Esto puede ayudarle a comprender cómo se usa el uso compartido y si algún archivo o carpeta se comparte con los invitados.
+Puede crear un archivo CSV en el que se detallan todos los archivos, usuarios, permisos y vínculos únicos de un sitio de SharePoint o biblioteca de OneDrive determinados. Eso puede servirle de ayuda para saber cómo se está usando el uso compartido y si se está compartiendo con invitados algún archivo o carpeta.
 
 Para obtener más información, [Informe sobre el uso compartido de archivos y carpetas en un sitio de SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).
 

@@ -1,7 +1,7 @@
 ---
 title: Cómo compartir un sitio de SharePoint
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: 9523c05ecb43efb723627cdc57439a1f434b48aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 61f24094e88745421f2e2885ec2ff03045fd9f07
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763378"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787302"
 ---
 # <a name="how-to-share-a-sharepoint-site"></a>Cómo compartir un sitio de SharePoint
 
