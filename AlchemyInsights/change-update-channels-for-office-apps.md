@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 3e1042a38d2289b9ef2396e8300d32f20ddaa703
-ms.sourcegitcommit: b5e5f560bf6ef92b4475bd3d91b7df38b5a4b036
+ms.openlocfilehash: 43a3cdefe5a9bc1726984a3195dce7aaea08d892
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46739844"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786870"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Cambiar los canales de actualización de las aplicaciones de Office
 
@@ -32,7 +32,7 @@ Para las instalaciones existentes de Office, use la herramienta de implementaci�
 3. Cree un archivo de configuración XML que especifique el nombre de canal apropiado, por ejemplo, Update. Xml.  
 
 `<Configuration>`<br>
-`<Updates Channel="Monthly"/>`<br>
+`<Updates Channel="Current"/>`<br>
 `</Configuration>`<br>
 
 4. Desde un símbolo del sistema con privilegios elevados, cambie a la ubicación de la carpeta donde se encuentra Setup. exe y ejecute el comando siguiente:  
