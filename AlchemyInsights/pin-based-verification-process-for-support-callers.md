@@ -21,7 +21,7 @@ ms.locfileid: "46903622"
 ---
 # <a name="pin-based-verification-process-for-support-callers"></a>Proceso de verificación basado en PIN para llamadas de soporte técnico
 
-En la publicación MC219951 del Centro de mensajes, se anuncia un nuevo paso en comprobación basado en PIN para el soporte telefónico si el Id. de llamada del administrador no coincide con el número de teléfono asociado a su cuenta. Para obtener más información, consulte [Centro de mensajes](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) 
+En la publicación MC219951 del Centro de mensajes, se anuncia un nuevo paso de comprobación basado en PIN para el soporte telefónico si el Id. de llamada del administrador no coincide con el número de teléfono asociado a su cuenta. Para obtener más información, consulte [Centro de mensajes](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) 
 
 Para agregar o comprobar el número de teléfono de un administrador en el portal de administración, siga estos pasos:  
 
