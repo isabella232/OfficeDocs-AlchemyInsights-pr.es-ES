@@ -2,7 +2,7 @@
 title: Información de facturas y pagos
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579990"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364784"
 ---
 # <a name="invoice-and-payment-information"></a>Información de facturas y pagos
 
 **Cobro**
 
-Cuando compre una suscripción de Microsoft 365 para empresas directamente desde Microsoft, puede pagar con una tarjeta de crédito o débito.  En algunos países o regiones, también puede pagar con una cuenta bancaria.  Puede aprender a administrar y solucionar problemas en estos métodos de pago a partir de [Agregar, actualizar o quitar una tarjeta de crédito u otra opción de pago para Microsoft 365 para empresas](https://go.microsoft.com/fwlink/?linkid=2118133).  Esto incluye la solución de problemas cuando se rechaza la tarjeta de crédito y se actualiza la información de pago.
+Cuando compre una suscripción de Microsoft 365 para empresas directamente desde Microsoft, puede pagar con una tarjeta de crédito o débito.  En algunos países o regiones, también puede pagar con una cuenta bancaria.  Puede obtener información sobre cómo administrar y solucionar problemas de estos métodos de pago en [Manage Payment Methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Esto incluye la solución de problemas cuando se rechaza la tarjeta de crédito y se actualiza la información de pago.
 
 **Factura/factura**
 
-Puede encontrar y descargar facturas en la página de **facturación > [facturas & pago](https://go.microsoft.com/fwlink/p/?linkid=848039) ** .  
+Puede encontrar y **Descargar facturas en la**  >  página[facturas & pagos](https://go.microsoft.com/fwlink/p/?linkid=848039) .  
 
 **Nota**: Si no hay facturas visibles, es posible que deba ajustar el filtro de intervalo de fechas.  De forma predeterminada, se muestran los últimos 3 meses de las facturas.
 
-Las facturas se crean mensual o anualmente en función de la frecuencia de pago elegida durante la compra.  Si paga anualmente, es posible que obtenga un plazo de factura a mediados al agregar o quitar licencias de una suscripción.
- 
-- Para obtener más información, consulte [comprender la factura de Microsoft 365 para empresas](https://go.microsoft.com/fwlink/?linkid=2119101).
+Las facturas se crean mensual o anualmente en función de la frecuencia de facturación elegida durante la compra.  Si paga anualmente, es posible que obtenga un plazo de factura a mediados al agregar o quitar licencias de una suscripción.
+
+- Para obtener más información, consulte [comprender la factura de Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
