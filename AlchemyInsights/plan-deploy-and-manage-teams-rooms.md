@@ -10,21 +10,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f11abae1a804fcda412ca2e0d1dfa8d899e2d31d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946861"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406415"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Planificación, implementación y administración de salas de Teams
 
-Para configurar y usar las salas de Microsoft Teams en la organización, siga estos pasos: 
+- [Plan](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan) para una Sala de Microsoft Teams Esto incluye la [actualización de licencias](https://docs.microsoft.com/microsoftteams/rooms/rooms-licensing), los [requisitos de hardware y los sistemas compatibles de Sala de Microsoft Teams](https://docs.microsoft.com/microsoftteams/rooms/requirements#hardware-requirements).
+- [Configurar cuentas](https://docs.microsoft.com/microsoftteams/rooms/rooms-configure-accounts)  para una Sala de Microsoft Teams.
+- [Administrar dispositivos](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  con el centro de administración de Teams (debe tener el rol de Administrador de servicios o de Administrador global) y revisar la [lista de problemas conocidos](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
 
-- [Planee el entorno y revise los requisitos](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).
-
-- [Configure cuentas e implemente con su entorno](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).
-
-- [Administre, solucione](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting) y tenga constancia de los [problemas conocidos](https://docs.microsoft.com/microsoftteams/rooms/known-issues). 
-
-Para obtener más información, consulte [Salas de Microsoft Teams](https://docs.microsoft.com/microsoftteams/rooms/).
+Para obtener más información sobre cómo planear, implementar y administrar Salas de Microsoft Teams, consulte [Sala de Microsoft Teams](https://docs.microsoft.com/microsoftteams/rooms/).
