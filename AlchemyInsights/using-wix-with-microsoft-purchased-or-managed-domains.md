@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: f6845c56f05e9cef11362ce601a974b73a154c9a
-ms.sourcegitcommit: 28a319e482e6a8644e87726e1b0e599819df52d0
+ms.openlocfilehash: d0684393b089ff37eb88649a04be77dd53bdb629
+ms.sourcegitcommit: dc77de3f18f942101a623be82b51ebd4d815daba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46572401"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47420821"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Usar un sitio web de Wix con dominios administrados o comprados por Microsoft
 
@@ -29,4 +29,4 @@ Para más información, vea:
 
 - Si elige cambiar los servidores de nombres a Wix, debe crear los registros DNS en Wix para Microsoft. Para más información, consulte [Crear registros DNS en Wix para Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Si su dominio se compró desde Microsoft, los servidores de nombres no se pueden cambiar. Si necesita cambiar los servidores de nombres, el dominio comprado de Microsoft debe transferirse a otro proveedor de hospedaje después de 60 días. Para más información, consulte las [Preguntas más frecuentes sobre dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+- Si su dominio se compró desde Microsoft, los servidores de nombres no se pueden cambiar. Si necesita cambiar los servidores de nombres, el dominio comprado de Microsoft debe transferirse a otro proveedor de hospedaje después de 60 días. Para más información, consulte [Transferir un dominio de Microsoft a otro host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
