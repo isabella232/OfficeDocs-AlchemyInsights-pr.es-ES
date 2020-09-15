@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719974"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688963"
 ---
 # <a name="working-with-ios-vpp-applications"></a>Trabajar con aplicaciones de PCV para iOS
 
@@ -26,4 +27,4 @@ Obtenga información sobre [Cómo administrar aplicaciones de iOS adquiridas a t
   
 - Esto puede ocurrir si se usa un token de PCV único en varios proveedores de administración de dispositivos móviles. Los tokens de PCV de Apple solo se pueden usar con un proveedor. Si usó un token de PCV con varios proveedores, debe volver a cargar el token en Intune.
 
-- La instalación también puede fallar si el número total de instalaciones supera el número de licencias. Para ver un informe de uso de las licencias, vaya a la página \> **licencias** de aplicaciones **móviles de Intune** . Para obtener información sobre cómo reclamar licencias en uso, vea [este artículo.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- La instalación también puede fallar si el número total de instalaciones supera el número de licencias. Para ver un informe de uso de las licencias, vaya a la página licencias de aplicaciones **móviles de Intune** \> **App licenses** . Para obtener información sobre cómo reclamar licencias en uso, vea [este artículo.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

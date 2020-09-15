@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225249"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686047"
 ---
 # <a name="billing-and-payment"></a>Facturación y pago
 
@@ -34,24 +35,24 @@ Si paga con tarjeta de crédito o cuenta bancaria, el método de pago asociado c
 
 Si ha agregado una tarjeta nueva y sigue recibiendo un aviso de declinación en la tarjeta de crédito antigua, es posible que deba asociar esa tarjeta nueva con la suscripción.
 
-1. En el centro de administración, vaya a la página facturas de **facturación**  >  **&**  >  [métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806) pagos.
+1. En el centro de administración, vaya a la página **Facturación** > **Facturas y pagos** > [Métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Seleccione la fila del método de pago que desea reemplazar. El panel derecho muestra todos los perfiles de facturación y suscripciones individuales que usan el método de pago seleccionado.
+2. Seleccione la fila del método de pago que desea reemplazar. En el panel derecho se muestran todos los perfiles de facturación y las suscripciones individuales que usan el método de pago seleccionado.
 
-3. En el panel derecho, seleccione **reemplazar el método de pago para todos los elementos**.
+3. En el panel derecho, seleccione **Reemplazar método de pago para todos los artículos**.
 
-4. Para usar un método de pago existente, elija uno en la lista desplegable y, a continuación, seleccione **reemplazar**.
+4. Para usar un método de pago existente, elija uno de la lista desplegable y seleccione **Reemplazar**.
 
     > [!NOTE]
-    > Si tiene suscripciones asociadas a un perfil de facturación, solo puede usar una tarjeta de crédito o débito para pagar por ellas. Si tiene cuentas bancarias que aparecen en la página de **métodos de pago** , no estarán disponibles para seleccionar en la lista desplegable.
+    > Si tiene una suscripción asociada a un perfil de facturación, solo puede usar una tarjeta de crédito o débito para pagar por ella. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
 
 5. Para agregar un nuevo método de pago, seleccione **Agregar método de pago**.
 
-6. En el panel **Agregar un método de pago** , escriba la información de la cuenta y, después, seleccione **Guardar**. Debe usar un método de pago del mismo país que el inquilino.
+6. En el panel **Agregar método de pago**, escriba la información de la cuenta y seleccione **Guardar**. Debe usar un método de pago del mismo país que su espacio empresarial.
 
 7. El nuevo método de pago ya está seleccionado en la lista desplegable. Seleccione **Reemplazar**.
 
-Para obtener más información, consulte [Manage Payment Methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para más información, consulte [Administrar métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frecuencia de facturación**
 

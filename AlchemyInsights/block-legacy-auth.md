@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
-ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
+ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43079277"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685615"
 ---
 # <a name="blocking-legacy-authentication"></a>Bloqueo de la autenticación heredada
 
@@ -24,7 +25,7 @@ La autenticación heredada es un término que hace referencia a una solicitud de
 
 - Clientes de Office antiguos que no usan la autenticación moderna (por ejemplo, Office 2010 Client).
 
-- Cualquier cliente que use protocolos de correo heredados, como IMAP/SMTP/POP3.
+- Cualquier cliente que use protocolos de correo heredados como IMAP/SMTP/POP3.
 
 Para obtener más información sobre el bloqueo de la autenticación heredada y la habilitación de la autenticación moderna, consulte [blocking Legacy Authentication](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
 
