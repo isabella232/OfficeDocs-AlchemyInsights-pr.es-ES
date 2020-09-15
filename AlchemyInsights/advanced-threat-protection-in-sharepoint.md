@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: af100836a666a220d8fb77e9dc480993c71e3741
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508501"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663350"
 ---
 # <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Protección contra amenazas avanzada (ATP) en SharePoint y OneDrive
 

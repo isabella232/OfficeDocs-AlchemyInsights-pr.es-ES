@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502444"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664043"
 ---
 # <a name="alert-policies"></a>Directivas de alerta
 
@@ -36,7 +37,7 @@ Para revisar y actuar en una alerta:
 
 Puede realizar una acción en una alerta, como [quitar una regla de bandeja de entrada sospechosa](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). O simplemente puede cerrar la alerta haciendo clic en **resolver** en la página flotante de alertas.
 
-Para obtener más información acerca de la configuración y administración de directivas de alerta, consulte [este artículo](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Para obtener más información acerca de la configuración y administración de directivas de alerta, consulte  [este artículo](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
 **Importante**: las notificaciones de correo electrónico de alerta de Microsoft nunca le pedirán que haga lo siguiente:
 

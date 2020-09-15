@@ -4,19 +4,19 @@ ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d79518434904a8c26ae0e15fd1c23177b68a05af
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44254766"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653566"
 ---
 # <a name="microsoft-teams-upgrade"></a>Actualización de Microsoft Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "44254766"
 
 Ya sea que recién esté comenzando con Teams, que ya esté usando Teams junto con Skype Empresarial, o que esté listo para actualizar, queremos asegurarnos de que tenga todo lo que necesita para un exitoso viaje a Teams. Para obtener más información, visite los siguientes vínculos.
 
-[Introducción a la actualización de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Introducción a su actualización de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Planeación de la actualización](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
