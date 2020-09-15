@@ -4,24 +4,25 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d939f9fa4f95a247d1db83cea1afb02161c19259
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706428"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714228"
 ---
 # <a name="changing-message-or-attachment-size"></a>Cambiar el tamaño de mensajes o datos adjuntos
 
 Como administrador de Microsoft 365, puede cambiar el tamaño máximo/mínimo de los mensajes (que incluye datos adjuntos) que envían los usuarios. Puede hacerlo para usuarios individuales o para todos los usuarios (valor predeterminado de la organización). Después de cambiar esta configuración, tardará unos 30 minutos en entrar en vigor.
   
-- Para cambiar el tamaño del mensaje para un usuario específico, vaya **a centro** \> de administración de los **buzones de correo**de los **destinatarios** \> de **Exchange** \> . Seleccione el buzón de un usuario. Seleccione el icono Editar, seleccione **características de buzón**y, a continuación, en **restricciones en el tamaño del mensaje**, elija **Ver detalles** y especifique el tamaño máximo del mensaje.
+- Para cambiar el tamaño del mensaje para un usuario específico, vaya a **centro de administración** de los \> **Exchange** \> **recipients** \> **buzones de correo**de los destinatarios de Exchange. Seleccione el buzón de un usuario. Seleccione el icono Editar, seleccione **características de buzón**y, a continuación, en **restricciones en el tamaño del mensaje**, elija **Ver detalles** y especifique el tamaño máximo del mensaje.
 
 - Para obtener información sobre cómo cambiar esto para todos los buzones de correo, consulte [este artículo](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 

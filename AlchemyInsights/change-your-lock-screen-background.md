@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 2ec68eb164748f27ef0f43a48994c61c9e67d310
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588170"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714489"
 ---
 # <a name="change-your-lock-screen-background"></a>Cambiar el fondo de la pantalla de bloqueo
 
-- Vaya a la **pantalla de bloqueo**de**Personalización** >de **configuración** > . O haga clic o pulse [aquí](ms-settings:lockscreen?activationSource=GetHelp).
+- Vaya a **Settings**la pantalla de bloqueo de  >  **Personalización**de configuración  >  **Lock screen**. O haga clic o pulse [aquí](ms-settings:lockscreen?activationSource=GetHelp).
 
 - Para establecer una imagen de fondo personalizada, seleccione **imagen** en la lista desplegable **fondo** y elija o **vaya** a la imagen.
 
