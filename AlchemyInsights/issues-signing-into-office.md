@@ -5,34 +5,35 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579846"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677007"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a><span data-ttu-id="7eb06-102">Problemas al iniciar sesión en aplicaciones de 365 de Microsoft</span><span class="sxs-lookup"><span data-stu-id="7eb06-102">Issues signing into Microsoft 365 Apps</span></span>
+# <a name="issues-signing-into-microsoft-365-apps"></a><span data-ttu-id="20668-102">Problemas al iniciar sesión en aplicaciones de 365 de Microsoft</span><span class="sxs-lookup"><span data-stu-id="20668-102">Issues signing into Microsoft 365 Apps</span></span>
 
-<span data-ttu-id="7eb06-103">Para solucionar los problemas de inicio de sesión con las aplicaciones de Microsoft 365, pruebe las siguientes opciones en el equipo afectado:</span><span class="sxs-lookup"><span data-stu-id="7eb06-103">To fix sign-in issues with Microsoft 365 apps, try the following options on the affected machine:</span></span>  
+<span data-ttu-id="20668-103">Para solucionar los problemas de inicio de sesión con las aplicaciones de Microsoft 365, pruebe las siguientes opciones en el equipo afectado:</span><span class="sxs-lookup"><span data-stu-id="20668-103">To fix sign-in issues with Microsoft 365 apps, try the following options on the affected machine:</span></span>  
 
-- <span data-ttu-id="7eb06-104">Para Windows, vea [recomendaciones sobre la resolución de problemas de inicio de sesión comunes](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)</span><span class="sxs-lookup"><span data-stu-id="7eb06-104">For Windows, see [Recommendations on resolving common sign-in issues](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)</span></span>
-- <span data-ttu-id="7eb06-105">Para Mac, consulte [no se puede iniciar sesión en una aplicación de Office 2016 para Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)</span><span class="sxs-lookup"><span data-stu-id="7eb06-105">For Mac, see  [Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)</span></span>
+- <span data-ttu-id="20668-104">Para Windows, vea [recomendaciones sobre la resolución de problemas de inicio de sesión comunes](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)</span><span class="sxs-lookup"><span data-stu-id="20668-104">For Windows, see [Recommendations on resolving common sign-in issues](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)</span></span>
+- <span data-ttu-id="20668-105">Para Mac, consulte  [no se puede iniciar sesión en una aplicación de Office 2016 para Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)</span><span class="sxs-lookup"><span data-stu-id="20668-105">For Mac, see  [Can't sign in to an Office 2016 for Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)</span></span>
 
-<span data-ttu-id="7eb06-106">**Nota:** **No se recomienda**deshabilitar la autenticación moderna (Adal) o la administración de cuentas web (WAM) para solucionar problemas de inicio de sesión o activación.</span><span class="sxs-lookup"><span data-stu-id="7eb06-106">**Note:** Disabling Modern Authentication (ADAL) or Web Account Management (WAM) for fixing sign-in or activation issues  **is not recommended**.</span></span> <span data-ttu-id="7eb06-107">Si se producen errores al conectar con Microsoft 365 mediante Office 2013, asegúrese de [Habilitar la autenticación moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) para el cliente de Office.</span><span class="sxs-lookup"><span data-stu-id="7eb06-107">If the errors occur while connecting to Microsoft 365 using Office 2013, ensure that you [enable modern authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  for Office client.</span></span>
+<span data-ttu-id="20668-106">**Nota:**  **No se recomienda**deshabilitar la autenticación moderna (Adal) o la administración de cuentas web (WAM) para solucionar problemas de inicio de sesión o activación.</span><span class="sxs-lookup"><span data-stu-id="20668-106">**Note:** Disabling Modern Authentication (ADAL) or Web Account Management (WAM) for fixing sign-in or activation issues  **is not recommended**.</span></span> <span data-ttu-id="20668-107">Si se producen errores al conectar con Microsoft 365 mediante Office 2013, asegúrese de [Habilitar la autenticación moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  para el cliente de Office.</span><span class="sxs-lookup"><span data-stu-id="20668-107">If the errors occur while connecting to Microsoft 365 using Office 2013, ensure that you [enable modern authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  for Office client.</span></span>
 
-<span data-ttu-id="7eb06-108">Para ver acciones específicas de solución de problemas, consulte:</span><span class="sxs-lookup"><span data-stu-id="7eb06-108">For specific troubleshooting actions, see:</span></span>
+<span data-ttu-id="20668-108">Para ver acciones específicas de solución de problemas, consulte:</span><span class="sxs-lookup"><span data-stu-id="20668-108">For specific troubleshooting actions, see:</span></span>
 
-[<span data-ttu-id="7eb06-109">Problemas de conexión al iniciar sesión después de actualizar a Office 2016, compilación 16.0.7967 en Windows 10</span><span class="sxs-lookup"><span data-stu-id="7eb06-109">Connection issues in sign-in after update to Office 2016 build 16.0.7967 on Windows 10</span></span>](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+[<span data-ttu-id="20668-109">Problemas de conexión al iniciar sesión después de actualizar a Office 2016, compilación 16.0.7967 en Windows 10</span><span class="sxs-lookup"><span data-stu-id="20668-109">Connection issues in sign-in after update to Office 2016 build 16.0.7967 on Windows 10</span></span>](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
 
-[<span data-ttu-id="7eb06-110">No puede iniciar sesión en su cuenta de la organización, como Office 365, Azure o Intune</span><span class="sxs-lookup"><span data-stu-id="7eb06-110">You can't sign in to your organizational account such as Office 365, Azure, or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+[<span data-ttu-id="20668-110">No puede iniciar sesión en su cuenta de la organización, como Office 365, Azure o Intune</span><span class="sxs-lookup"><span data-stu-id="20668-110">You can't sign in to your organizational account such as Office 365, Azure, or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
-[<span data-ttu-id="7eb06-111">Cómo solucionar problemas de aplicaciones que no son de explorador que no pueden iniciar sesión en Office 365, Azure o Intune</span><span class="sxs-lookup"><span data-stu-id="7eb06-111">How to troubleshoot non-browser apps that can't sign in to Office 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+[<span data-ttu-id="20668-111">Cómo solucionar problemas de aplicaciones que no son de explorador que no pueden iniciar sesión en Office 365, Azure o Intune</span><span class="sxs-lookup"><span data-stu-id="20668-111">How to troubleshoot non-browser apps that can't sign in to Office 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 
-[<span data-ttu-id="7eb06-112">Se solicitan repetidamente las credenciales en Office</span><span class="sxs-lookup"><span data-stu-id="7eb06-112">Repeatedly prompted for credentials in Office</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
+[<span data-ttu-id="20668-112">Se solicitan repetidamente las credenciales en Office</span><span class="sxs-lookup"><span data-stu-id="20668-112">Repeatedly prompted for credentials in Office</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
