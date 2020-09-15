@@ -29,4 +29,4 @@ Para más información, vea:
 
 - Si elige cambiar los servidores de nombres a Wix, debe crear los registros DNS en Wix para Microsoft. Para más información, consulte [Crear registros DNS en Wix para Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Si su dominio se compró desde Microsoft, los servidores de nombres no se pueden cambiar. Si necesita cambiar los servidores de nombres, el dominio comprado de Microsoft debe transferirse a otro proveedor de hospedaje después de 60 días. Para más información, consulte [Transferir un dominio de Microsoft a otro host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+- Si su dominio se compró desde Microsoft, los servidores de nombres no se pueden cambiar. Si necesita cambiar los servidores de nombres, el dominio comprado de Microsoft debe transferirse a otro proveedor de hospedaje después de 60 días. Para obtener más información, consulte [Transferir un dominio de Microsoft a otro host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
