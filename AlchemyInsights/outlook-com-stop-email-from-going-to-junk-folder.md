@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710964"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694292"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Evitar que los mensajes pasen a la carpeta de correo no deseado
 
@@ -24,7 +25,7 @@ Si descubre que un mensaje de correo electrónico de la carpeta correo electrón
 
 1. Abra la [carpeta correo electrónico no deseado](https://outlook.live.com/mail/junkemail).
 1. Seleccione el mensaje. (*Nota:* los elementos de la carpeta correo electrónico no deseado se eliminan transcurridos 30 días).
-1. Encima de la lista de mensajes, seleccione **correo deseado** > **.**
+1. Encima de la lista de mensajes, seleccione **correo deseado**  >  **Not junk**.
 
 Si desea evitar que los mensajes de un remitente vayan a la carpeta de correo electrónico no deseado, agregue el remitente a la lista de remitentes seguros:
 
