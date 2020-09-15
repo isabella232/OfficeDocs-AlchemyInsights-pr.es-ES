@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582864"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699752"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>No se puede Agregar el flujo de trabajo de aprobación de 2010
 
@@ -35,9 +36,9 @@ Para resolver este problema, siga estos pasos:
   
 3. En un explorador Web, busque el sitio Web raíz de la colección de sitios y, a continuación, obtenga acceso a características de colección de sitios de configuración del **sitio** \> **Site Collection Features**. Activar o desactivar la característica **flujos de trabajo** : 
   
-· Si la característica está *activada* , haga clic en desactivar **y, a** continuación, haga clic en **Activar**. 
+· Si la característica está  *activada*  , haga clic en desactivar **y, a** continuación, haga clic en **Activar**. 
   
-· Si la característica está *desactivada* , haga clic en **Activar**. 
+· Si la característica está  *desactivada*  , haga clic en **Activar**. 
   
 Para obtener más información, consulte el siguiente [artículo](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
