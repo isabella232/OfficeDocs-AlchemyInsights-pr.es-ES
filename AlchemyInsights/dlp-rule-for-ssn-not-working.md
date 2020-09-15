@@ -6,18 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507387"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679386"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>Problemas de DLP con números de la seguridad social
 
@@ -47,7 +48,7 @@ Por ejemplo, para una directiva SSN configurada con un nivel de confianza de 85%
 
   - La [función Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) encuentra contenido que coincide con el patrón.
 
-  - Se encuentra una palabra clave de [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn). Algunos ejemplos de palabras clave son: *seguridad social, seguridad social #, SOC sec, SSN* . Por ejemplo, el siguiente ejemplo se activaría para la Directiva de SSN de DLP: **SSN: 489-36-8350**
+  - Se encuentra una palabra clave de [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn). Algunos ejemplos de palabras clave son:  *seguridad social, seguridad social #, SOC sec, SSN*  . Por ejemplo, el siguiente ejemplo se activaría para la Directiva de SSN de DLP: **SSN: 489-36-8350**
   
 Para obtener más información sobre lo que se necesita para que SSN se detecte en el contenido, vea la siguiente sección de este artículo: [Qué buscan los tipos de información confidencial SSN](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
