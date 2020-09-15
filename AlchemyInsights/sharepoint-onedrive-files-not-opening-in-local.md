@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051334"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670921"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problemas al abrir archivos de Office desde SharePoint
 
@@ -29,5 +30,5 @@ Si tiene problemas para abrir documentos y archivos de Office desde SharePoint e
 
 Para obtener más información o detalles, consulte el artículo sobre cómo [solucionar problemas al abrir documentos en bibliotecas de SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Nota:** Si tiene problemas con los documentos que se abren en el explorador o en el cliente de forma predeterminada, es posible que deba cambiar la configuración de la biblioteca. Para ello, vaya a la biblioteca que tiene problemas > icono de engranaje en la esquina superior derecha > **configuración** >  de biblioteca configuración**avanzada** > **abrir documentos en el explorador**.
+**Nota:** Si tiene problemas con los documentos que se abren en el explorador o en el cliente de forma predeterminada, es posible que deba cambiar la configuración de la biblioteca. Para ello, vaya a la biblioteca que tiene problemas > icono de engranaje en la esquina superior derecha > **configuración de biblioteca**configuración  >   **avanzada**  >  **abrir documentos en el explorador**.
 
