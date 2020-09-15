@@ -1,23 +1,23 @@
 ---
 title: Solución de problemas de activación
-ms.author: jillz
-author: jillz
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676442"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697502"
 ---
 # <a name="activation-troubleshooting"></a>Solución de problemas de activación
 
@@ -25,7 +25,7 @@ En **Control Panel** \> **programas y características**del panel de control, bu
   
 Si no puede desinstalar correctamente mediante el panel de control, use el [Asistente para soporte y recuperación](https://aka.ms/SARA-OfficeUninstall-Alchemy) para desinstalar la versión que no está usando.
   
-Si Office sigue sin licencia, vuelva a los **programas y las características**del **Panel** \> de control. Haga clic con el botón derecho en la instalación de Office restante, seleccione **modificar** (o cambiar) y, a continuación, seleccione **reparación en línea**. La reparación en línea puede tardar algún tiempo. Después, reinicie Office e inicie sesión con su cuenta profesional o educativa, si se le solicita.
+Si Office sigue sin licencia, vuelva a los **Control Panel** \> **programas y las características**del panel de control. Haga clic con el botón derecho en la instalación de Office restante, seleccione **modificar** (o cambiar) y, a continuación, seleccione **reparación en línea**. La reparación en línea puede tardar algún tiempo. Después, reinicie Office e inicie sesión con su cuenta profesional o educativa, si se le solicita.
   
 Si aún no tiene licencia de Office, descargue y ejecute el [solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy) en el equipo afectado para solucionar los problemas de activación.
   
