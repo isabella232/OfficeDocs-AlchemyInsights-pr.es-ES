@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753514"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801966"
 ---
 # <a name="power-bi-report-server-product-key"></a>Clave de producto de Power BI Report Server
 
@@ -26,4 +27,4 @@ Al seleccionar la **clave del servidor de informes de Power BI** se muestra un c
 
 Si tiene un acuerdo de Enterprise SA de SQL Server, puede obtener la clave de producto en el [centro de servicios de licencias por volumen](https://www.microsoft.com/Licensing/servicecenter/).
 
-Para obtener más información:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Para obtener más información: https://docs.microsoft.com/power-bi/report-server/install-report-server
