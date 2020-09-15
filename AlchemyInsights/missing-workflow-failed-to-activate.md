@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 2598111005c219c398b63ca374e8e99348efc02c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 604dc770c5c14ded6a8de1cec9e311b03b69f094
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762118"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667103"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>No se pudo activar el flujo de trabajo ausente
 
@@ -33,11 +34,11 @@ Para resolver este problema, siga estos pasos:
   
 2. En la sección **administrar** de la cinta de opciones de **flujo de trabajo** , seleccione **publicar globalmente**. En el cuadro de diálogo de confirmación que aparece, seleccione **Aceptar**. 
   
-3. En un explorador Web, busque el sitio Web raíz de la colección de sitios y, a continuación, obtenga acceso a **características de colección de sitios**de configuración \> del **sitio** . A continuación, active la característica **flujos de trabajo** : 
+3. En un explorador Web, busque el sitio Web raíz de la colección de sitios y, a continuación, obtenga acceso a características de colección de sitios de configuración del **sitio** \> **Site Collection Features**. A continuación, active la característica **flujos de trabajo** : 
   
-· Si la característica está *activada* , haga clic en desactivar **y, a** continuación, haga clic en **Activar**. 
+· Si la característica está  *activada*  , haga clic en desactivar **y, a** continuación, haga clic en **Activar**. 
   
-· Si la característica está *desactivada* , haga clic en **Activar**. 
+· Si la característica está  *desactivada*  , haga clic en **Activar**. 
   
 Para obtener más información, consulte el siguiente [artículo](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   

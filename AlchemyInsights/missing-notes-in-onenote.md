@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2501"
-ms.openlocfilehash: 6e2a115302661de939c57bc39d4461df3046416e
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 7a7e70de2ec1ef5158d8149b635ce7f90814c6b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800627"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667211"
 ---
 # <a name="missing-notes-in-notebook"></a>Faltan notas en el Bloc de notas
 
-Una de las causas más comunes de las páginas o secciones que faltan en un bloc de notas es un error de sincronización. En este caso, los datos no se pierden y se pueden recuperar una vez que la sincronización funciona. Compruebe que todos los usuarios del cliente de OneNote hayan usado para identificar si alguno de ellos muestra un error en el Bloc de notas y, si hay un error, vea [solucionar problemas cuando no](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)se puede sincronizar OneNote.
+Una de las causas más comunes de las páginas o secciones que faltan en un bloc de notas es un error de sincronización. En este caso, los datos no se pierden y se pueden recuperar una vez que la sincronización funciona. Compruebe que todos los usuarios del cliente de OneNote hayan usado para identificar si alguno de ellos muestra un error en el Bloc de notas y, si hay un error, vea [solucionar problemas cuando no se puede sincronizar OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
 
 - En OneNote para Windows 10, lo más probable es que se muestre un icono de advertencia triangular amarillo junto al bloc de notas.
 - En OneNote 2016, haga clic con el botón secundario en el nombre del Bloc de notas debajo de la cinta y haga clic en estado de sincronización del Bloc de notas.

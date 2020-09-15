@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: 8731cad13ad5bacb7f69b70c91d50524ce38d558
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: a00a39954737287b4888b833b66d98e9b5e711b2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910453"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668544"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Obtener acceso a archivos en Microsoft Teams
 
-Si los usuarios tienen dificultades para acceder a un archivo en Microsoft Teams, primero determine si el archivo está adjunto a un chat privado o a una conversación de canal. Los canales de equipo son lugares donde todos los usuarios del equipo pueden tener conversaciones abiertamente. Los chats privados solo son visibles para esas personas en el chat (y los archivos que compartas en un chat se almacenan en OneDrive para la empresa).
+Si los usuarios tienen dificultades para acceder a un archivo en Microsoft Teams, primero determine si el archivo está adjunto a un chat privado o a una conversación de canal. Los canales de equipo son lugares en los que todos los miembros del equipo pueden tener conversaciones abiertamente. Los chats privados solo son visibles para esas personas en el chat (y los archivos que compartas en un chat se almacenan en OneDrive para la empresa).
 
 Cuando los usuarios comparten archivos en chats privados, el archivo se almacena en el OneDrive para la empresa del usuario que comparte. Si se agregó un usuario a un chat privado existente, no podrá obtener acceso a los archivos a menos que el propietario original vuelva a compartir el archivo.    
 
