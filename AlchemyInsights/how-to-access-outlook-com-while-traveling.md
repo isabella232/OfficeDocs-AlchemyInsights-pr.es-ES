@@ -6,19 +6,20 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: c24722758fe023246bf37c3cc260735848c656ac
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9180e7f6194d6bd862c2e51ca6459188e4c25134
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709748"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704947"
 ---
-# <a name="how-to-access-outlookcom-while-traveling"></a><span data-ttu-id="882c2-102">Cómo obtener acceso a Outlook.com durante el viaje</span><span class="sxs-lookup"><span data-stu-id="882c2-102">How to access Outlook.com while traveling</span></span>
+# <a name="how-to-access-outlookcom-while-traveling"></a><span data-ttu-id="483bd-102">Cómo obtener acceso a Outlook.com durante el viaje</span><span class="sxs-lookup"><span data-stu-id="483bd-102">How to access Outlook.com while traveling</span></span>
 
-<span data-ttu-id="882c2-103">Para acceder a Outlook.com mientras viaja, asegúrate de que tu información de seguridad de la cuenta de Microsoft-una dirección de correo electrónico alternativa o un número de teléfono en el que puedes obtener códigos de seguridad está actualizado.</span><span class="sxs-lookup"><span data-stu-id="882c2-103">To access Outlook.com while traveling, make sure your Microsoft account security info - an alternate email address or phone number where you can get security codes - is up to date.</span></span> <span data-ttu-id="882c2-104">Para obtener más información, consulte [Cómo obtener acceso a Outlook.com al viajar](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="882c2-104">To learn more, see [How to access Outlook.com when traveling](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="483bd-103">Para acceder a Outlook.com mientras viaja, asegúrate de que tu información de seguridad de la cuenta de Microsoft-una dirección de correo electrónico alternativa o un número de teléfono en el que puedes obtener códigos de seguridad está actualizado.</span><span class="sxs-lookup"><span data-stu-id="483bd-103">To access Outlook.com while traveling, make sure your Microsoft account security info - an alternate email address or phone number where you can get security codes - is up to date.</span></span> <span data-ttu-id="483bd-104">Para obtener más información, consulte [Cómo obtener acceso a Outlook.com al viajar](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="483bd-104">To learn more, see [How to access Outlook.com when traveling](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
