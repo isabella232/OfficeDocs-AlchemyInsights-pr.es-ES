@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44541994"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701696"
 ---
 # <a name="remove-the-large-attachment"></a>Quitar los datos adjuntos grandes
 
@@ -26,7 +27,7 @@ ms.locfileid: "44541994"
 2. En el panel de navegación, seleccione **bandeja de salida**. Desde aquí, puede: 
     - Elimine el mensaje (selecciónelo y, a continuación, seleccione **eliminar**).
     - Arrastre el mensaje a la carpeta Borradores, haga doble clic en él para abrirlo, quite los datos adjuntos, selecciónelo y, a continuación, seleccione **eliminar**).
-3. Si recibe un error que indica que Outlook está intentando transmitir el mensaje, cierre Outlook. La salida puede tardar unos minutos. Si Outlook no se cierra, presione Ctrl + Alt + Supr y seleccione **iniciar el administrador de tareas**. En el administrador de tareas, seleccione la pestaña **procesos** , desplácese hacia abajo hasta Outlook. exe y seleccione **Finalizar proceso**.
+3. Si recibe un error que indica que Outlook está intentando transmitir el mensaje, cierre Outlook. La salida puede tardar unos minutos. Si Outlook no se cierra, presione Ctrl + Alt + Supr y seleccione **iniciar el administrador de tareas**. En el administrador de tareas, seleccione la pestaña **procesos** , desplácese hacia abajo hasta outlook.exe y seleccione **Finalizar proceso**.
 4. Una vez que Outlook se cierre, reinícielo y repita los pasos 2 y 3. 
 5. Después de quitar los datos adjuntos, haga clic en **enviar y recibir**  >  **trabajo sin conexión** para continuar trabajando en línea. 
 
