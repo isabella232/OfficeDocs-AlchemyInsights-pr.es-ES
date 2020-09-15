@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 61a926c363c62bc7acb5efefe42b834f33c78eb6
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542206"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673731"
 ---
 # <a name="missing-emails-in-quarantine"></a>Mensajes que faltan en cuarentena
 
@@ -26,7 +27,7 @@ Para abrir el centro de seguridad & cumplimiento, vaya a [https://protection.off
 
 Puede buscar según los siguientes valores:  
 
-- **Id. de mensaje**: El identificador único global del mensaje. Si selecciona un mensaje de la lista, el valor del **identificador de mensaje** aparece en el panel flotante de **detalles** que aparece. Los administradores pueden usar [seguimiento de mensajes](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) para buscar mensajes y los valores de Id. de mensaje correspondientes.
+- **Id. de mensaje**: El identificador único global del mensaje. Si selecciona un mensaje de la lista, el valor del  **identificador de mensaje**  aparece en el panel flotante de  **detalles**  que aparece. Los administradores pueden usar [seguimiento de mensajes](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) para buscar mensajes y los valores de Id. de mensaje correspondientes.
 - **Dirección de correo electrónico del remitente**: Una única dirección de correo electrónico de remitente.
 - **Dirección de correo electrónico del destinatario**: Una única dirección de correo electrónico de destinatario.
 - **Asunto**: Use el asunto completo del mensaje. La búsqueda no distingue entre mayúsculas y minúsculas.
