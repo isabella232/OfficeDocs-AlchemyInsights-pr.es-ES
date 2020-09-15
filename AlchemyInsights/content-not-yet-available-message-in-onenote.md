@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002541"
 - "4908"
-ms.openlocfilehash: 65234b9c5ef07caada2ea7c2246787924015a922
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: c0035dcd2360fab8a52e77e4da73987f9d8f437e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991355"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680881"
 ---
 # <a name="content-not-yet-available-message-in-onenote"></a>Mensaje "Contenido aún no disponible" en OneNote
 

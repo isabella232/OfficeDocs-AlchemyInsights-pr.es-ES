@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: 152066c0953c0f4aa25875025021f8773cd87341
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: c1df53e9ab0c34065b7bed32ecad3be673f07033
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44269386"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682878"
 ---
 # <a name="change-my-microsoft-account-information"></a>Cambiar la información de mi cuenta de Microsoft
 
