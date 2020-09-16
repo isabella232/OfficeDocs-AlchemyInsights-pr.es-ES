@@ -5,15 +5,16 @@ author: MikePlumleyMSFT
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: ed8e97b20c96a7b46995c969074cc4cef3a787d9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715901"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720699"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir el acceso a SharePoint o OneDrive
 
@@ -25,6 +26,6 @@ Puede compartir a un nivel superior (por ejemplo, compartiendo un sitio completo
     
 - Si tiene dos subcarpetas en una carpeta y desea compartir una subcarpeta con los grupos A y B y permitir que sólo el grupo tenga acceso a la segunda subcarpeta, comparta la carpeta principal con el grupo A y agregue el grupo B a la primera subcarpeta.
     
-[Dejar de compartir un archivo o una carpeta](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Dejar de compartir un archivo o una carpeta ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

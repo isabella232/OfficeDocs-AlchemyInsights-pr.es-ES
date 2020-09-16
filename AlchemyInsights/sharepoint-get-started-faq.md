@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771196"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720330"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Problemas y soluciones comunes de SharePoint Online
 
@@ -29,7 +30,7 @@ Estos son algunos de los temas que se solicitan con más frecuencia para problem
 
 - **Trabajar con archivos de documento**: Obtenga más información sobre la [carga](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)de archivos, la [descarga](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)de archivos, las [ediciones](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)de archivos y las limitaciones actuales de [archivos](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) .
 
-- **Almacenamiento**: Aprenda a administrar el almacenamiento</a>de OneDrive de los usuarios, como la administración del almacenamiento del [sitio](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) para la suscripción y la comprensión de [todos los límites](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Almacenamiento**: Aprenda a administrar el almacenamiento de OneDrive de los usuarios </a> , como la [Administración del almacenamiento del sitio](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) para la suscripción y la comprensión de [todos los límites](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
 
 - Cambio de **nombre de inquilino**: vea [cambiar el nombre de dominio de SharePoint](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) para obtener más información.
 
