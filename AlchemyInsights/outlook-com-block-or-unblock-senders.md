@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,12 +16,12 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
-ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
+ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43793972"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753708"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear o desbloquear remitentes
 
@@ -28,14 +29,14 @@ Los mensajes de direcciones de correo electrónico o dominios de la lista de rem
 
 **Desde la bandeja de entrada:**
 
-- En la lista mensaje, seleccione el mensaje y, a continuación, seleccione**bloque**de **correo no deseado** > .
+- En la lista mensaje, seleccione el mensaje y, a continuación, seleccione bloque de **correo no deseado**  >  **Block**.
 
 **De la configuración:**
 
 1. Abrir la configuración del [correo electrónico no deseado](https://outlook.live.com/mail/options/mail/junkEmail) .
 2. En **remitentes y dominios bloqueados**, seleccione **Agregar**.
 3. Escriba la dirección de correo electrónico del dominio que quiera bloquear y presione Entrar.
-4. Haga clic en **Guardar**.
+4. Seleccione **Guardar**.
 
 Para desbloquear un remitente, seleccione el icono de la papelera junto a la dirección de correo electrónico o el dominio que quiera desbloquear.
 
