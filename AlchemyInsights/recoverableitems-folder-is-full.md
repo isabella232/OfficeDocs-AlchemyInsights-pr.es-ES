@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ae608b776332402fe333315f5e4ff6072b0a651
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510769"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741284"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>La carpeta elementos recuperables está llena
 
@@ -33,7 +34,7 @@ Cuando la carpeta elementos recuperables alcanza el límite de almacenamiento, l
 
 - Para los buzones que tienen habilitado el registro de auditoría de buzones de correo, las entradas del registro de auditoría de buzones no se pueden guardar en la subcarpeta auditorías de la carpeta elementos recuperables.
 
-Para los buzones que no están en suspensión, los administradores pueden usar el `Search-Mailbox -SearchDumpsterOnly -DeleteContent` comando en Exchange Online PowerShell para eliminar elementos de la carpeta elementos recuperables. Para obtener más información, vea los siguientes temas:
+Para los buzones que no están en suspensión, los administradores pueden usar el `Search-Mailbox -SearchDumpsterOnly -DeleteContent` comando en Exchange Online PowerShell para eliminar elementos de la carpeta elementos recuperables. Para obtener más información, consulte los siguientes temas:
 
 - [Búsqueda y eliminación de mensajes](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
