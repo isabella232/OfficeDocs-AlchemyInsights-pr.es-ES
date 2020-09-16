@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 94dda7a42632f57ce3aef5f467b87df1033b8d49
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268710"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730176"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>Solucionar problemas de Bluetooth en Windows 10
 
@@ -32,11 +33,11 @@ Si has instalado recientemente actualizaciones de Windows 10 o actualizado a Win
 
 1. En el administrador de dispositivos, haga clic en **Bluetooth**y, a continuación, haga clic en el nombre del adaptador Bluetooth (que puede incluir la palabra "radio").
 
-2. Mantén presionado (o haz clic con el botón derecho) en el adaptador Bluetooth y, a continuación, haz clic en **Actualizar** > **búsqueda de controlador automáticamente para el software de controlador actualizado**. Siga los pasos y, a continuación, haga clic en **cerrar**.
+2. Mantén presionado (o haz clic con el botón derecho) en el adaptador Bluetooth y, a continuación, haz clic en **Actualizar**  >  **búsqueda de controlador automáticamente para el software de controlador actualizado**. Siga los pasos y, a continuación, haga clic en **cerrar**.
 
       - Si Windows no encuentra un nuevo controlador Bluetooth, visita el sitio web del fabricante del equipo y descarga el controlador Bluetooth más reciente desde allí.
 
-    - Una vez descargado, haga clic en **Actualizar controlador** > **Buscar en el equipo para el software** > de controlador**Busque** la ubicación en la que se almacenan los archivos del controlador > **Aceptar** > **y siga**los pasos para instalar.
+    - Una vez descargado, haga clic en **Actualizar controlador**buscar en el  >  **equipo para el software de controlador**  >  **Busque** la ubicación en la que se almacenan los archivos del controlador > **Aceptar**  >  **Next**y siga los pasos para instalar.
 
 3. Después de instalar el controlador actualizado, reinicie el equipo y, a continuación, compruebe si se ha corregido el problema de conexión.
 
