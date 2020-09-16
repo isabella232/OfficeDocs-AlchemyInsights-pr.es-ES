@@ -4,47 +4,48 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fdcc6d81411e231ba18ad296508fef6c4ca648b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495644"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727224"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="7b1e8-102">Habilitar el uso compartido externo en SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="7b1e8-102">Enable external sharing in SharePoint Online</span></span>
+# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="e6145-102">Habilitar el uso compartido externo en SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="e6145-102">Enable external sharing in SharePoint Online</span></span>
 
-<span data-ttu-id="7b1e8-103">Si su organización realiza tareas que implican compartir documentos o colaborar directamente con proveedores, clientes o clientes, puede usar las [características de uso compartido externo de SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) para compartir contenido con personas de fuera de la organización.</span><span class="sxs-lookup"><span data-stu-id="7b1e8-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
+<span data-ttu-id="e6145-103">Si su organización realiza tareas que implican compartir documentos o colaborar directamente con proveedores, clientes o clientes, puede usar las [características de uso compartido externo de SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) para compartir contenido con personas de fuera de la organización.</span><span class="sxs-lookup"><span data-stu-id="e6145-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
 
-<span data-ttu-id="7b1e8-104">Para obtener más información sobre el uso compartido externo (invitados), visite los siguientes vínculos.</span><span class="sxs-lookup"><span data-stu-id="7b1e8-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
+<span data-ttu-id="e6145-104">Para obtener más información sobre el uso compartido externo (invitados), visite los siguientes vínculos.</span><span class="sxs-lookup"><span data-stu-id="e6145-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
 
-- [<span data-ttu-id="7b1e8-105">¿Qué es un usuario externo?</span><span class="sxs-lookup"><span data-stu-id="7b1e8-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [<span data-ttu-id="e6145-105">¿Qué es un usuario externo?</span><span class="sxs-lookup"><span data-stu-id="e6145-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [<span data-ttu-id="7b1e8-106">¿Qué ocurre cuando se comparte un sitio o documento?</span><span class="sxs-lookup"><span data-stu-id="7b1e8-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [<span data-ttu-id="e6145-106">¿Qué ocurre cuando se comparte un sitio o documento?</span><span class="sxs-lookup"><span data-stu-id="e6145-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [<span data-ttu-id="7b1e8-107">Activar y desactivar el uso compartido externo para SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="7b1e8-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [<span data-ttu-id="e6145-107">Activar y desactivar el uso compartido externo para SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="e6145-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [<span data-ttu-id="7b1e8-108">Activar o desactivar el uso compartido externo para un sitio</span><span class="sxs-lookup"><span data-stu-id="7b1e8-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [<span data-ttu-id="e6145-108">Activar o desactivar el uso compartido externo para un sitio</span><span class="sxs-lookup"><span data-stu-id="e6145-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [<span data-ttu-id="7b1e8-109">Administrar el acceso de invitado en grupos de 365 de Microsoft</span><span class="sxs-lookup"><span data-stu-id="7b1e8-109">Manage guest access in Microsoft 365 Groups</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
+- [<span data-ttu-id="e6145-109">Administrar el acceso de invitado en grupos de 365 de Microsoft</span><span class="sxs-lookup"><span data-stu-id="e6145-109">Manage guest access in Microsoft 365 Groups</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
-- [<span data-ttu-id="7b1e8-110">Usar SharePoint Online como una solución de extranet de negocio a negocio (B2B)</span><span class="sxs-lookup"><span data-stu-id="7b1e8-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [<span data-ttu-id="e6145-110">Usar SharePoint Online como una solución de extranet de negocio a negocio (B2B)</span><span class="sxs-lookup"><span data-stu-id="e6145-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [<span data-ttu-id="7b1e8-111">Compartir archivos o carpetas de SharePoint</span><span class="sxs-lookup"><span data-stu-id="7b1e8-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [<span data-ttu-id="e6145-111">Compartir archivos o carpetas de SharePoint</span><span class="sxs-lookup"><span data-stu-id="e6145-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [<span data-ttu-id="7b1e8-112">Dejar de compartir archivos o carpetas de OneDrive o SharePoint, o cambiar permisos</span><span class="sxs-lookup"><span data-stu-id="7b1e8-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [<span data-ttu-id="e6145-112">Dejar de compartir archivos o carpetas de OneDrive o SharePoint, o cambiar permisos</span><span class="sxs-lookup"><span data-stu-id="e6145-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [<span data-ttu-id="7b1e8-113">Eliminar un usuario externo</span><span class="sxs-lookup"><span data-stu-id="7b1e8-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [<span data-ttu-id="e6145-113">Eliminar un usuario externo</span><span class="sxs-lookup"><span data-stu-id="e6145-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-<span data-ttu-id="7b1e8-114">**¿Recibe un error con un usuario externo (invitado)?**</span><span class="sxs-lookup"><span data-stu-id="7b1e8-114">**Receiving an error with an external user (guest)?**</span></span>
+<span data-ttu-id="e6145-114">**¿Recibe un error con un usuario externo (invitado)?**</span><span class="sxs-lookup"><span data-stu-id="e6145-114">**Receiving an error with an external user (guest)?**</span></span>
 
-<span data-ttu-id="7b1e8-115">Compruebe los siguientes vínculos.</span><span class="sxs-lookup"><span data-stu-id="7b1e8-115">Check the links below.</span></span> 
+<span data-ttu-id="e6145-115">Compruebe los siguientes vínculos.</span><span class="sxs-lookup"><span data-stu-id="e6145-115">Check the links below.</span></span> 
 
-- [<span data-ttu-id="7b1e8-116">Errores de uso compartido de OSE en SharePoint o OneDrive</span><span class="sxs-lookup"><span data-stu-id="7b1e8-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="e6145-116">Errores de uso compartido de OSE en SharePoint o OneDrive</span><span class="sxs-lookup"><span data-stu-id="e6145-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [<span data-ttu-id="7b1e8-117">Mensaje de error cuando un usuario externo acepta una invitación de SharePoint Online con otra cuenta</span><span class="sxs-lookup"><span data-stu-id="7b1e8-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="e6145-117">Mensaje de error cuando un usuario externo acepta una invitación de SharePoint Online con otra cuenta</span><span class="sxs-lookup"><span data-stu-id="e6145-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [<span data-ttu-id="7b1e8-118">Acceso denegado a una carpeta compartida</span><span class="sxs-lookup"><span data-stu-id="7b1e8-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [<span data-ttu-id="e6145-118">Acceso denegado a una carpeta compartida</span><span class="sxs-lookup"><span data-stu-id="e6145-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
