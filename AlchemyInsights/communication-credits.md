@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: a4f9b04ed0fc51d9c5a79c12162ca57a75ea7eb3
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44204269"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733416"
 ---
 # <a name="communication-credits"></a>Créditos de comunicaciones
 
