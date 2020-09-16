@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710748"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728844"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Correo no deseado y correo no deseado en Outlook.com
 
@@ -24,12 +25,12 @@ Si recibe demasiado correo no deseado o correo no deseado, pruebe estos métodos
 
 1. **Marcar un mensaje como correo no deseado**
     1. Seleccione el mensaje.
-    1.  > Seleccione **correo no deseado****para mover el mensaje a la** carpeta correo electrónico no deseado.
+    1. Seleccione **correo no deseado**  >  **Junk** para mover el mensaje a la carpeta correo electrónico no deseado.
     1. [Obtenga más información sobre cómo evitar el correo no deseado y el correo no deseado de la bandeja de entrada.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **Bloquear a un remitente de la bandeja de entrada**
     1. Seleccione el mensaje.
-    1. Seleccione el**bloque** > de **correo no deseado** > **correcto**.
+    1. Seleccione el bloque de **correo no deseado**  >  **Block**  >  **correcto**.
     1. [Obtenga más información sobre cómo bloquear o desbloquear a los remitentes.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **Agregar un remitente a la lista de remitentes bloqueados**
@@ -41,5 +42,5 @@ Si recibe demasiado correo no deseado o correo no deseado, pruebe estos métodos
 
 1. **Crear una regla de bandeja de entrada**
     1. Haga clic con el botón derecho en un mensaje de la lista de mensajes y seleccione **crear regla**.
-    1. Elija la carpeta a la que desea que se muevan todos los mensajes de ese remitente y seleccione **Aceptar** > **Aceptar**.
+    1. Elija la carpeta a la que desea que se muevan todos los mensajes de ese remitente y seleccione **Aceptar**  >  **Aceptar**.
     1. [Obtenga más información sobre las reglas de la bandeja de entrada en Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
