@@ -6,19 +6,20 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6137"
 - "9003244"
-ms.openlocfilehash: b57a9f41c104c7b77955cd9eff482d7b5debb91d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 03cc7753d1cfd93c2d87d7f2ab52ca2a2653ea84
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545726"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743734"
 ---
-# <a name="hybrid-join-with-windows-legacy-devices"></a><span data-ttu-id="79b18-102">Combinación híbrida con dispositivos heredados de Windows</span><span class="sxs-lookup"><span data-stu-id="79b18-102">Hybrid join with Windows legacy devices</span></span>
+# <a name="hybrid-join-with-windows-legacy-devices"></a><span data-ttu-id="8da80-102">Combinación híbrida con dispositivos heredados de Windows</span><span class="sxs-lookup"><span data-stu-id="8da80-102">Hybrid join with Windows legacy devices</span></span>
 
-<span data-ttu-id="79b18-103">Para obtener instrucciones sobre cómo resolver posibles problemas con los dispositivos heredados de Windows de Azure Active Directory (Azure AD) híbrido, consulte [Solución de problemas de dispositivos de nivel inferior unidos a Azure Active Directory híbrido](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy).</span><span class="sxs-lookup"><span data-stu-id="79b18-103">For guidance on how to resolve potential issues with Hybrid Azure Active Directory (Azure AD) Windows legacy devices, see [Troubleshooting hybrid Azure Active Directory joined down-level devices](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy).</span></span> 
+<span data-ttu-id="8da80-103">Para obtener instrucciones sobre cómo resolver posibles problemas con los dispositivos heredados de Windows de Azure Active Directory (Azure AD) híbrido, consulte [Solución de problemas de dispositivos de nivel inferior unidos a Azure Active Directory híbrido](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy).</span><span class="sxs-lookup"><span data-stu-id="8da80-103">For guidance on how to resolve potential issues with Hybrid Azure Active Directory (Azure AD) Windows legacy devices, see [Troubleshooting hybrid Azure Active Directory joined down-level devices](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy).</span></span> 
