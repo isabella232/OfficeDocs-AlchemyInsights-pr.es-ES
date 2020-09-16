@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265033"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750360"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Solución de problemas de audio en Windows 10
 
@@ -24,13 +25,13 @@ ms.locfileid: "42265033"
 
 1.  Abra la [configuración para solucionar problemas](ms-settings:troubleshoot).
 
-2.  Seleccionar **reproducir audio** > **ejecute el solucionador de problemas**.
+2.  Seleccionar **reproducir audio**  >  **ejecute el solucionador de problemas**.
 
 **Establecer el dispositivo predeterminado**
 
 Si te conectas a un dispositivo de audio mediante USB o HDMI, es posible que tengas que establecer ese dispositivo como predeterminado:
 
-1. Abra el**sonido**de **Inicio** > y, a continuación, seleccione **sonido** o cambie los **sonidos del sistema** de la lista de resultados.
+1. Abra **Start**  >  el**sonido**de inicio y, a continuación, seleccione **sonido** o cambie los **sonidos del sistema** de la lista de resultados.
 
 2.  En la pestaña **reproducción** , seleccione un dispositivo, seleccione **establecer como predeterminado**y, después, haga clic en **Aceptar**.
 
@@ -62,4 +63,4 @@ Si no puede actualizar mediante el administrador de dispositivos o encontrar un 
 
 1. En el administrador de dispositivos, haga clic con el botón derecho (o mantenga presionado) el controlador de audio y seleccione **desinstalar**. Reinicia el dispositivo y Windows intentará reinstalar el controlador.
 
-2. Si no funciona la reinstalación del controlador, prueba a usar el controlador de audio genérico que se incluye con Windows. En el administrador de dispositivos, haga clic con el botón derecho (o mantenga presionado) el controlador de audio > **actualizar el software** > **de controlador buscar en el equipo para el software** > de controlador**permitirme elegir de una lista de controladores de dispositivo en mi PC**, seleccione **dispositivo de audio de alta definición**, seleccione **siguiente**y siga las instrucciones para instalarlo.
+2. Si no funciona la reinstalación del controlador, prueba a usar el controlador de audio genérico que se incluye con Windows. En el administrador de dispositivos, haga clic con el botón derecho (o mantenga presionado) el controlador de audio > **actualizar el software**  >  **de controlador buscar en el equipo para el software de controlador**  >  **permitirme elegir de una lista de controladores de dispositivo en mi PC**, seleccione **dispositivo de audio de alta definición**, seleccione **siguiente**y siga las instrucciones para instalarlo.

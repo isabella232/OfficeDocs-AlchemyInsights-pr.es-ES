@@ -5,17 +5,18 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766870"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750468"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Habilitación del cifrado de BitLocker con Intune
 
@@ -24,7 +25,7 @@ La Directiva de Intune Endpoint Protection se puede usar para establecer la conf
 Debe tener en cuenta que muchos dispositivos nuevos que ejecutan Windows 10 admiten el cifrado de BitLocker automático que se desencadena sin la aplicación de la Directiva de MDM. Esto puede afectar a la aplicación de la Directiva si se configuran las opciones no predeterminadas. Consulte las preguntas más frecuentes para obtener más información.
 
 
-P  + f p: ¿Qué ediciones de Windows admiten el cifrado de dispositivos con la Directiva de Endpoint Protection?
+P + f   p: ¿Qué ediciones de Windows admiten el cifrado de dispositivos con la Directiva de Endpoint Protection?
  A: la configuración de la Directiva de la protección de extremos de Intune se implementa con el CSP de BitLocker.No todas las ediciones ni las compilaciones de Windows admiten el CSP de BitLocker. 
       En este momento, ediciones de Windows: Enterprise; Se admiten educación, móvil, Mobile Enterprise y Professional (desde la compilación 1809 en adelante).
 
