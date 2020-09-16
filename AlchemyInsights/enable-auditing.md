@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507007"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806596"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Habilitación y búsqueda del registro de auditoría
 
@@ -29,7 +30,7 @@ Para buscar en el registro de auditoría de Microsoft 365, siga [estos pasos](ht
 
 - Las actividades de administración de Exchange se auditan de forma predeterminada.
 
-- La auditoría de buzones de correo está habilitada de forma predeterminada en Microsoft 365. Para obtener más información, vea [este artículo](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
+- La auditoría de buzones de correo está habilitada de forma predeterminada en Microsoft 365. Para obtener más información, vea  [este artículo](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
 - Los buzones de grupo 365 de Microsoft y los buzones de carpetas públicas de Exchange online no admiten el registro de auditoría.
 
@@ -44,6 +45,6 @@ Para buscar en el registro de auditoría de Microsoft 365, siga [estos pasos](ht
     - Actividades de administración del sitio
     - Actividades de sincronización de archivos
 
-- Para obtener información acerca de las actividades auditadas en otros servicios, vea [la tabla de este artículo](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Para obtener información acerca de las actividades auditadas en otros servicios, vea  [la tabla de este artículo](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
 - Aquí encontrará una lista de preguntas más frecuentes sobre las preguntas más [frecuentes sobre cómo](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) buscar en el registro de auditoría.
