@@ -6,21 +6,22 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "812"
 - "8000048"
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: eee0659e9c9e691f25accce5af7386b3bb3bdf47
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 2ccc76ee6631ec976fcfa7d61fbc55d1b0866022
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765791"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722796"
 ---
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a><span data-ttu-id="0a762-102">Outlook.com envía un correo electrónico "en nombre de" mi dirección de correo electrónico</span><span class="sxs-lookup"><span data-stu-id="0a762-102">Outlook.com sends email "on behalf of" my email address</span></span>
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a><span data-ttu-id="0e5a5-102">Outlook.com envía un correo electrónico "en nombre de" mi dirección de correo electrónico</span><span class="sxs-lookup"><span data-stu-id="0e5a5-102">Outlook.com sends email "on behalf of" my email address</span></span>
 
-<span data-ttu-id="0a762-103">El correo electrónico que se envía desde una cuenta conectada se muestra como enviado "en nombre" de su cuenta de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0a762-103">Email sent from a connected account shows as being sent "on behalf" of your Microsoft account.</span></span> <span data-ttu-id="0a762-104">Se trata de un problema conocido y se solucionará en una versión futura.</span><span class="sxs-lookup"><span data-stu-id="0a762-104">This is known issue and will be fixed in a future release.</span></span> <span data-ttu-id="0a762-105">Hasta entonces, puede cambiar la dirección de para que sea la misma que el alias de la cuenta principal de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0a762-105">Until then, you can change your From address to be the same as your primary Microsoft account alias.</span></span>
+<span data-ttu-id="0e5a5-103">El correo electrónico que se envía desde una cuenta conectada se muestra como enviado "en nombre" de su cuenta de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0e5a5-103">Email sent from a connected account shows as being sent "on behalf" of your Microsoft account.</span></span> <span data-ttu-id="0e5a5-104">Se trata de un problema conocido y se solucionará en una versión futura.</span><span class="sxs-lookup"><span data-stu-id="0e5a5-104">This is known issue and will be fixed in a future release.</span></span> <span data-ttu-id="0e5a5-105">Hasta entonces, puede cambiar la dirección de para que sea la misma que el alias de la cuenta principal de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0e5a5-105">Until then, you can change your From address to be the same as your primary Microsoft account alias.</span></span>
   
-<span data-ttu-id="0a762-106">Para obtener más información, consulte [Outlook.com enviar correo electrónico "en nombre de" mi dirección de correo electrónico](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="0a762-106">For more information, see [Outlook.com send email "on behalf of" my email address](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="0e5a5-106">Para obtener más información, consulte [Outlook.com enviar correo electrónico "en nombre de" mi dirección de correo electrónico](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="0e5a5-106">For more information, see [Outlook.com send email "on behalf of" my email address](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
