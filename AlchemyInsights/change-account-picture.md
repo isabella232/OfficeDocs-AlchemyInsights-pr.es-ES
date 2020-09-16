@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
-ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
+ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42574388"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734064"
 ---
 # <a name="change-account-picture"></a>Cambiar la imagen de la cuenta
 
 Si usas un nombre de usuario y una contraseña para iniciar sesión en Windows 10, estás usando una cuenta local. **Para cambiar la imagen de la cuenta local**:
 
-1. Vaya a la**configuración** > **** > **de** **Inicio** > para obtener información sobre la cuenta.
+1. Vaya a **Start**  >  la**configuración**de inicio para obtener información sobre  >  **Accounts**  >  **la**cuenta.
 2. En **crear la imagen**, haga clic en **buscar una**. O bien, si el dispositivo tiene una cámara, haz clic en **cámara** y toma una propia. 
     **Nota**: Windows recuerda las últimas tres imágenes que has usado. Haga clic en la imagen en la página su información para cambiar a esa.
 
