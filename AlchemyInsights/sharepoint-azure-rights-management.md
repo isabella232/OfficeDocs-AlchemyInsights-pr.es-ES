@@ -4,31 +4,32 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 77f9938fe40d9f693ccce1dac3581625ed7e424a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: cc6f93ba8ae3a030f83da5eca2d28dcf38f0f8f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509581"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800913"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a><span data-ttu-id="3ffc7-102">Protección de IRM para archivos de SharePoint</span><span class="sxs-lookup"><span data-stu-id="3ffc7-102">IRM Protection to SharePoint files</span></span>
+# <a name="irm-protection-to-sharepoint-files"></a><span data-ttu-id="f9f8b-102">Protección de IRM para archivos de SharePoint</span><span class="sxs-lookup"><span data-stu-id="f9f8b-102">IRM Protection to SharePoint files</span></span>
 
 
-<span data-ttu-id="3ffc7-103">En SharePoint Online, la protección de IRM se aplica a los archivos en el nivel de lista y biblioteca.</span><span class="sxs-lookup"><span data-stu-id="3ffc7-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="3ffc7-104">Antes de que su organización pueda usar la protección IRM, primero debe configurar Rights Management.</span><span class="sxs-lookup"><span data-stu-id="3ffc7-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="3ffc7-105">IRM se basa en el servicio Azure Rights Management de Azure Information Protection para cifrar y asignar restricciones de uso.</span><span class="sxs-lookup"><span data-stu-id="3ffc7-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span> <span data-ttu-id="3ffc7-106">Algunas suscripciones de Microsoft 365 incluyen Azure Rights Management, pero no todos.</span><span class="sxs-lookup"><span data-stu-id="3ffc7-106">Some Microsoft 365 subscriptions include Azure Rights Management, but not all.</span></span> 
+<span data-ttu-id="f9f8b-103">En SharePoint Online, la protección de IRM se aplica a los archivos en el nivel de lista y biblioteca.</span><span class="sxs-lookup"><span data-stu-id="f9f8b-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="f9f8b-104">Antes de que su organización pueda usar la protección IRM, primero debe configurar Rights Management.</span><span class="sxs-lookup"><span data-stu-id="f9f8b-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="f9f8b-105">IRM se basa en el servicio Azure Rights Management de Azure Information Protection para cifrar y asignar restricciones de uso.</span><span class="sxs-lookup"><span data-stu-id="f9f8b-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span> <span data-ttu-id="f9f8b-106">Algunas suscripciones de Microsoft 365 incluyen Azure Rights Management, pero no todos.</span><span class="sxs-lookup"><span data-stu-id="f9f8b-106">Some Microsoft 365 subscriptions include Azure Rights Management, but not all.</span></span> 
 
-<span data-ttu-id="3ffc7-107">Para más información, consulte:</span><span class="sxs-lookup"><span data-stu-id="3ffc7-107">To learn more, see:</span></span>
+<span data-ttu-id="f9f8b-107">Para más información, vea:</span><span class="sxs-lookup"><span data-stu-id="f9f8b-107">To learn more, see:</span></span>
 
-- <span data-ttu-id="3ffc7-108">[Cómo los servicios y las aplicaciones de Office admiten Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span><span class="sxs-lookup"><span data-stu-id="3ffc7-108">[How Office applications and services support Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span></span>
+- <span data-ttu-id="f9f8b-108">[Cómo los servicios y las aplicaciones de Office admiten Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span><span class="sxs-lookup"><span data-stu-id="f9f8b-108">[How Office applications and services support Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span></span>
 
-- <span data-ttu-id="3ffc7-109">[Configurar Information Rights Management (IRM) en el centro de administración de SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="3ffc7-109">[Set up Information Rights Management (IRM) in SharePoint admin center](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span></span>
+- <span data-ttu-id="f9f8b-109">[Configurar Information Rights Management (IRM) en el centro de administración de SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="f9f8b-109">[Set up Information Rights Management (IRM) in SharePoint admin center](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span></span>
 
-- <span data-ttu-id="3ffc7-110">[IRM: habilitar listas y bibliotecas de documentos de SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span><span class="sxs-lookup"><span data-stu-id="3ffc7-110">[IRM-enable SharePoint document libraries and lists](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span></span>
+- <span data-ttu-id="f9f8b-110">[IRM: habilitar listas y bibliotecas de documentos de SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span><span class="sxs-lookup"><span data-stu-id="f9f8b-110">[IRM-enable SharePoint document libraries and lists](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span></span>
 
-- <span data-ttu-id="3ffc7-111">[Information Rights Management en Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span><span class="sxs-lookup"><span data-stu-id="3ffc7-111">[Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span></span>
+- <span data-ttu-id="f9f8b-111">[Information Rights Management en Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span><span class="sxs-lookup"><span data-stu-id="f9f8b-111">[Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span></span>
 
-- <span data-ttu-id="3ffc7-112">[Information Rights Management en Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).</span><span class="sxs-lookup"><span data-stu-id="3ffc7-112">[Information Rights Management in Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).</span></span>
+- <span data-ttu-id="f9f8b-112">[Information Rights Management en Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).</span><span class="sxs-lookup"><span data-stu-id="f9f8b-112">[Information Rights Management in Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).</span></span>
 
 
