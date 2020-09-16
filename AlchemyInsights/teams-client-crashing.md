@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: c49dfbf422b312f4744711d5f12b0eb83b6ebf2e
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268789"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691124"
 ---
 # <a name="teams-client-crashing"></a>¿El cliente de Teams está fallando?
 
@@ -28,36 +29,22 @@ Si el cliente de Teams está fallando, intenta lo siguiente:
 
 - Inicie sesión con su cuenta de administrador de inquilino y compruebe el [panel de estado del servicio](https://docs.microsoft.com/office365/enterprise/view-service-health) para verificar que no exista ninguna interrupción o degradación del servicio.
 
- - Como último paso, puede intentar borrar la memoria caché del cliente de Teams:
+- Desinstalar y volver a instalar la aplicación Teams (vínculo)
+    - Examine la carpeta %appdata%\Microsoft\teams\ en su equipo y elimine todos los archivos en ese directorio.
+    - [Descargue e instale la aplicación Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy) y, si es posible, instale Teams como administrador (haga clic con el botón derecho en el instalador de Teams y seleccione "Ejecutar como administrador" si está disponible).
 
-    1.  Salir completamente del cliente de escritorio de Microsoft Teams. Puede hacer clic con el botón derecho del ratón en **Teams** desde la Bandeja de Iconos y luego hacer clic en **Salir**, o ejecutar el Administrador de Tareas y finalizar el proceso por completo.
-
-    2.  Ve al Explorador de archivos, y escribe %appdata%\Microsoft\teams.
-
-    3.  Una vez en el directorio, verá algunas de las siguientes carpetas:
-
-         - Desde la memoria **caché de aplicaciones**, vaya a almacenamiento en caché y elimine cualquiera de los archivos en la ubicación de caché: %appdata%\Microsoft\teams\application cache\cache.
-
-        - En **Blob_storage**, elimine todos los archivos: %appdata%\Microsoft\teams\blob_storage.
-
-        - En **Cache**, elimine todos los archivos: %appdata%\Microsoft\teams\Cache.
-
-        - En **databases**, elimine todos los archivos: %appdata%\Microsoft\teams\databases.
-
-        - En **GPUCache**, elimine todos los archivos: %appdata%\Microsoft\teams\GPUcache.
-
-        - En **IndexedDB**, elimine el archivo con extensión .db: %appdata%\Microsoft\teams\IndexedDB.
-
-        - En **Local Storage**, elimine todos los archivos: %appdata%\Microsoft\teams\Local Storage.
-
-        - Por último, en **tmp**, elimine cualquier archivo: %appdata%\Microsoft\teams\tmp.
-
-    4. Reinicie su cliente de Teams.
-
-Si el cliente de su equipo aún se bloquea, ¿puede reproducir el problema? En ese caso: 
+Si el cliente de su equipo aún se bloquea, ¿puede reproducir el problema? En ese caso:
 
 1. Use la Grabación de acciones de usuario para capturar los pasos.
     - Cierre todas las aplicaciones innecesarias o confidenciales.
     - Inicie sesión con la cuenta de usuario afectada, abra la Grabación de acciones de usuario y reproduzca el problema.
+    - [Recopile los registros de los equipos que capturen los pasos de reproducción grabados](https://docs.microsoft.com/microsoftteams/log-files). **Nota**: Asegúrese de capturar la dirección de inicio de sesión del usuario afectado.
+    - Recopile la información de la copia de seguridad y/o el depósito con errores (Windows). Inicie Windows PowerShell en la máquina en donde se produce el bloqueo y ejecute los siguientes comandos:
+
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
     
 2. Anexe el archivo a su caso de soporte técnico.

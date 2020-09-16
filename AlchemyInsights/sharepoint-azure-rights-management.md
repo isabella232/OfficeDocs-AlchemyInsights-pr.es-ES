@@ -4,22 +4,23 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 77f9938fe40d9f693ccce1dac3581625ed7e424a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: cc6f93ba8ae3a030f83da5eca2d28dcf38f0f8f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509581"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800913"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Protección de IRM para archivos de SharePoint
 
 
 En SharePoint Online, la protección de IRM se aplica a los archivos en el nivel de lista y biblioteca. Antes de que su organización pueda usar la protección IRM, primero debe configurar Rights Management. IRM se basa en el servicio Azure Rights Management de Azure Information Protection para cifrar y asignar restricciones de uso. Algunas suscripciones de Microsoft 365 incluyen Azure Rights Management, pero no todos. 
 
-Para más información, consulte:
+Para más información, vea:
 
 - [Cómo los servicios y las aplicaciones de Office admiten Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
