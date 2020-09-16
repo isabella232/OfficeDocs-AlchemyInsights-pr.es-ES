@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6b4db67aab55f309c83aeddf7744cbd047881bea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682093"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729060"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Abrir y usar un buzón compartido en Outlook en la Web
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Abrir y usar un buzón de correo compartido en Outlook
 
-Los buzones compartidos a los que tiene acceso no se muestran automáticamente en Outlook en la Web (anteriormente conocida como Outlook Web App).
+Los buzones de correo compartidos permiten a un grupo de personas supervisar y enviar correos desde una dirección de correo electrónico común. 
 
-Puede mostrar el buzón compartido y el buzón principal juntos o abrir el buzón compartido en una ventana independiente del explorador. Para recibir notificaciones de nuevos mensajes para el buzón compartido, debe abrir el buzón compartido en una ventana independiente del explorador. Para obtener más información, vea [Open and use a shared mailbox in Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207) (Abrir y usar un buzón de correo compartido en Outlook Web App).
+**Nota**: Su administrador de Microsoft 365 debe crear el buzón de correo compartido y agregarlo a usted como miembro.
+
+Consulte lo siguiente para obtener información sobre cómo abrir y usar el buzón de correo compartido:
+
+- [Agregar un buzón de correo compartido a Outlook en la Web](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [Abrir y usar un buzón de correo compartido en Outlook para Windows](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [Abrir una carpeta o un buzón de correo compartido en Outlook para Mac](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [Agregar un buzón de correo compartido a Outlook Mobile (Outlook para iOS y Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)

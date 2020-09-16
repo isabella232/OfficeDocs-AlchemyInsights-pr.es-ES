@@ -23,8 +23,8 @@ ms.locfileid: "46903625"
 
 Aquí tiene tres formas de hacer que la batería dure más cuando no pueda enchufar su portátil o tableta.  
 
-- **Use la función de ahorro de batería** Seleccione el botón **Inicio** y, después, seleccione **Configuración**  >  **Sistema**  >  **Batería**. De forma predeterminada, el ahorro de batería se activa cuando el nivel de batería es inferior al 20%, pero puede ajustar esto en la configuración de batería.
+- **Use la función de ahorro de batería** Seleccione el botón **Inicio** y, después, seleccione **Configuración**  >  **Sistema**  >  **Batería**. De forma predeterminada, el ahorro de batería se activa cuando el nivel de batería es inferior al 20 %, pero puede ajustar esto en la configuración de batería.
     
-- **Usar Microsoft Edge para navegar** Las pruebas muestran que cuando se navega con Microsoft Edge, la batería dura un 36-53% más que cuando se navega con Chrome, Firefox u Opera en Windows 10.
+- **Usar Microsoft Edge para navegar** Las pruebas muestran que cuando se navega con Microsoft Edge, la batería dura un 36-53 % más que cuando se navega con Chrome, Firefox u Opera en Windows 10.
     
 - **Ejecutar el solucionador de problemas de energía** Seleccione el botón **Inicio** y, a continuación, elija **Configuración** > ** Actualización y seguridad** > **Solucionar problemas** > **Energía** > **Ejecutar el solucionador de problemas**.
