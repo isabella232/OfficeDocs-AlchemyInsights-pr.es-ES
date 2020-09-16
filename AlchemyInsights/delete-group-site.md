@@ -6,7 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 0d7a77f09eda3d8fb13f710763ac366557c82c4e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580278"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745840"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Eliminar un sitio de SharePoint que pertenece a un grupo de 365 de Microsoft
 

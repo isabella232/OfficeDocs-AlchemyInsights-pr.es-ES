@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702791"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745624"
 ---
 # <a name="file-open-read-only"></a>Abrir archivo en modo de solo lectura
 
@@ -37,7 +38,7 @@ Los archivos de Internet y de otras ubicaciones potencialmente no seguras pueden
   
  **¿Está lleno OneDrive?**
   
-Si el archivo está almacenado en OneDrive y el espacio de almacenamiento de OneDrive está lleno, no podrá guardar el documento hasta que se encuentre en el espacio asignado. Puede comprobar el espacio libre en OneDrive haciendo clic en el icono de OneDrive en el centro de notificaciones y eligiendo administrar almacenamiento, o [https://onedrive.live.com](https://onedrive.live.com)puede iniciar sesión y tener en cuenta la cantidad de espacio usado en la parte inferior izquierda de la pantalla.
+Si el archivo está almacenado en OneDrive y el espacio de almacenamiento de OneDrive está lleno, no podrá guardar el documento hasta que se encuentre en el espacio asignado. Puede comprobar el espacio libre en OneDrive haciendo clic en el icono de OneDrive en el centro de notificaciones y eligiendo administrar almacenamiento, o puede [https://onedrive.live.com](https://onedrive.live.com) iniciar sesión y tener en cuenta la cantidad de espacio usado en la parte inferior izquierda de la pantalla.
   
  **¿Está Office activado?**
   
