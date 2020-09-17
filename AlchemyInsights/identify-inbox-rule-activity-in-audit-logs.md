@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716441"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779068"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar la actividad de las reglas de entrada en los registros de auditoría
 
@@ -25,7 +26,7 @@ Puede usar la búsqueda de registros de auditoría en el centro de cumplimiento 
 
 1. Inicie sesión en el [centro de cumplimiento de & de seguridad de Microsoft 365](https://protection.office.com/).
 
-2. Vaya a la página de**búsqueda del registro de auditoría** de **búsqueda** > .
+2. Vaya a la **Search**  >  Página de**búsqueda del registro de auditoría** de búsqueda.
 
 3. Seleccione el intervalo de fechas en los campos **fecha de inicio** y **fecha de finalización** .
 
