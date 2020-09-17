@@ -19,6 +19,6 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47736484"
 ---
-# <a name="teams-freemium"></a><span data-ttu-id="9e5f9-102">Teams Freemium</span><span class="sxs-lookup"><span data-stu-id="9e5f9-102">Teams Freemium</span></span>
+# <a name="teams-freemium"></a><span data-ttu-id="3a7cf-102">Teams Freemium</span><span class="sxs-lookup"><span data-stu-id="3a7cf-102">Teams Freemium</span></span>
 
-<span data-ttu-id="9e5f9-103">Puede obtener más información de forma gratuita sobre Teams (también denominado Freemium)[aquí](https://docs.microsoft.com/alchemyinsights/teams-freemium).</span><span class="sxs-lookup"><span data-stu-id="9e5f9-103">You can learn more about Teams free (also called Freemium) [here](https://docs.microsoft.com/alchemyinsights/teams-freemium).</span></span>
+<span data-ttu-id="3a7cf-103">Puede obtener más información sobre Teams gratuito (también denominado Freemium)[aquí](https://docs.microsoft.com/alchemyinsights/teams-freemium).</span><span class="sxs-lookup"><span data-stu-id="3a7cf-103">You can learn more about Teams free (also called Freemium) [here](https://docs.microsoft.com/alchemyinsights/teams-freemium).</span></span>

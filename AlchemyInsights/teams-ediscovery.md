@@ -19,6 +19,6 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47736772"
 ---
-# <a name="teams-ediscovery"></a><span data-ttu-id="0f323-102">eDiscovery de Teams</span><span class="sxs-lookup"><span data-stu-id="0f323-102">Teams eDiscovery</span></span>
+# <a name="teams-ediscovery"></a><span data-ttu-id="862db-102">eDiscovery de Teams</span><span class="sxs-lookup"><span data-stu-id="862db-102">Teams eDiscovery</span></span>
 
-<span data-ttu-id="0f323-103">Puede obtener más información sobre Teams eDiscovery [aquí](https://docs.microsoft.com/microsoftteams/ediscovery-investigation)</span><span class="sxs-lookup"><span data-stu-id="0f323-103">You can learn more about Teams eDiscovery [here](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span></span>
+<span data-ttu-id="862db-103">Puede obtener más información sobre Teams eDiscovery [aquí](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span><span class="sxs-lookup"><span data-stu-id="862db-103">You can learn more about Teams eDiscovery [here](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span></span>
