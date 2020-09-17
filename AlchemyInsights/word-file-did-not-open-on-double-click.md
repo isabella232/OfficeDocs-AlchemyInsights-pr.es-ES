@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558202"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794820"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Documento de Word abierto en la aplicación incorrecta o no se ha abierto
 
@@ -44,6 +45,6 @@ Pruebe una de estas sugerencias:
 
 **Ejecutar este solucionador de problemas para configurar las extensiones de archivo de Office para que se abran en Office**
 
-1. Ejecute este solucionador de https://aka.ms/diag_officefileproblemas:.
+1. Ejecute este solucionador de problemas: https://aka.ms/diag_officefile .
 
 2. Según el explorador, **abre** o **guarda** el solucionador de problemas en el escritorio y, a continuación, **ejecuta** .

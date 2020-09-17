@@ -4,28 +4,29 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8943f2f8243d908f07823da534e16f80cd7d4903
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764709"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795801"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Institución académica cualificada y formación remota de Microsoft
 
-Para empezar a usar Microsoft para el ámbito educativo, visite este [sitio](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) e inicie sesión.
+Para empezar a usar Microsoft Office 365 para el ámbito educativo, visite este [sitio](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) y regístrese.
 
-Tendrá la prueba de Office 365 A1 para profesores y Office 365 A1 para estudiantes mientras espera a que se revise la idoneidad de su organización.  Asegúrese de agregar un dominio, ya que puede ayudar a acelerar el proceso de aprobación.
+Tendrá la prueba de Office 365 A1 para profesores y Office 365 A1 para estudiantes mientras espera a que se revise la idoneidad de su organización. Asegúrese de agregar un dominio, ya que puede ayudar a acelerar el proceso de aprobación.
 
 Recibirá un correo electrónico para informarle de si se ha aprobado la idoneidad de su organización.  
 
-Cuando se le apruebe, puede ir a la pestaña [Servicios de compra](https://admin.microsoft.com/Adminportal/Home#/catalog) en el Centro de administración de Microsoft para comprar suscripciones.
+Una vez aprobado, puede ir a la pestaña de [Comprar servicios](https://admin.microsoft.com/Adminportal/Home#/catalog) en el Centro de administración de Microsoft 365 para comprar suscripciones.
 
 **Formación y aprendizaje remotos**
 
