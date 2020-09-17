@@ -4,14 +4,15 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: d3eda12d4fff625325cc55251444b489459f09fa
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: aee565878fe2d879f0d74cd20dcff044e08abc12
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767950"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801561"
 ---
 # <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Problemas de aprovisionamiento en OneDrive y SharePoint
 

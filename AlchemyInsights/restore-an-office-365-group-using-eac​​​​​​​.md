@@ -6,16 +6,17 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: 221f075669f5f0e35ae5df11a4a59845ea81b5cd
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 34d7b9195ff7d8d8d43da173a4c77643080ef67e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582396"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801417"
 ---
 # <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Restaurar un grupo de 365 de Microsoft mediante el centro de administración de Exchange
 
