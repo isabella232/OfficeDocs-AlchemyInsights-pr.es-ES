@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 7472af5c4e19e5697b5fb4802ed1cbb2c74f1d19
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741280"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783568"
 ---
 # <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Error "error al validar el token de acceso" durante la incorporación de Desktop Analytics
 

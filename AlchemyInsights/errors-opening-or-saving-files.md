@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600149"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783604"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Resolver errores al abrir o guardar archivos de Word
 
@@ -29,16 +30,16 @@ Si tiene problemas para abrir o guardar documentos de Word, pruebe lo siguiente:
 
 Si ha recibido un error como uno de los siguientes, use las sugerencias de [mensaje de error de Office cuando la configuración de directiva del registro bloquea un archivo](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
-- Está intentando abrir un archivo que está bloqueado por la configuración de la Directiva del registro.
-- Está intentando abrir un ** \<tipo\> de archivo** de tipo de archivo que ha sido bloqueado por la configuración de bloqueo de archivos en el centro de confianza.
-- Está intentando abrir un archivo que se creó en una versión anterior de Microsoft Office. La configuración de la Directiva del registro impide que este tipo de archivo se abra en esta versión.
-- Está intentando guardar un archivo que está bloqueado por la configuración de la Directiva del registro.
+- Está intentando abrir un tipo de archivo bloqueado por la configuración de directivas del Registro.
+- Está intentando abrir un tipo de archivo **\<File Type\>** bloqueado por la configuración de Bloqueo de archivos del Centro de confianza.
+- Está intentando abrir un archivo creado en una versión anterior de Microsoft Office. La configuración de directivas del Registro impide la apertura de este tipo de archivo en esta versión.
+- Está intentando guardar un tipo de archivo bloqueado por la configuración de directivas del Registro.
 - Está intentando guardar un tipo de archivo bloqueado por la configuración de bloqueo de archivos en el centro de confianza.
 
-Si tiene problemas para abrir archivos de Office desde bibliotecas de documentos de SharePoint o OneDrive, pruebe lo siguiente:
+Si tiene problemas para abrir archivos de Office en bibliotecas de documentos de SharePoint o OneDrive, pruebe lo siguiente:
 
-- Compruebe las limitaciones de archivo en nombres de archivo [y tipos de archivo no válidos en onedrive, onedrive para la empresa y SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) para asegurarse de que el archivo es compatible. 
-- [Elimine la caché de documentos de Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
+- Comprobar limitaciones de archivos en [Nombres de archivos y tipos de archivos no válidos en OneDrive, OneDrive para la Empresa y SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) para asegurarse de que el archivo es compatible. 
+- [Eliminar el caché de documentos de Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
 ). 
 
-Para obtener más información, vea [solucionar problemas para abrir documentos en bibliotecas de SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
+Para más información, consulte [Solucionar problemas para abrir documentos en bibliotecas de SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
