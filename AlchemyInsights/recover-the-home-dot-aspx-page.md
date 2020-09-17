@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: 58d882c7283ceac24f4306f474de5327fec03b64
-ms.sourcegitcommit: b196100759b29aecd62b693a2bfedbbd25a697c6
+ms.openlocfilehash: 32e600a4a3bb98fb5d31a7de4923b16c43db9205
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44320473"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741248"
 ---
 # <a name="recover-the-homeaspx-page"></a>Recuperar la página Home.aspx
 
 Si se elimina la página de inicio del sitio, puede recuperarla desde la papelera de reciclaje accediendo a la dirección URL de la papelera de reciclaje.
 
-1. Vaya a https://\<espacioempresarial >.sharepoint.com/sites/\<nombredesitio>/_layouts/15/RecycleBin.aspx?, sustituyendo <**espacioempresarial**> con el nombre del espacio empresarial y <**nombre de sitio**> con el nombre del sitio.
+1. Vaya a https://\<tenantname>.sharepoint.com/sites/\<sitename>/_layouts/15/RecycleBin.aspx?, y reemplace <**tenantname**> por el nombre de su espacio empresarial y <**sitename**> con el nombre de su sitio.
 
 2. Seleccione la página que desea restaurar.
 

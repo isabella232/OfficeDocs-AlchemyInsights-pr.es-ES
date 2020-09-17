@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f5e1e597067efff58872a5f0080bb18c42af648e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44496292"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781876"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Permitir comunicaciones externas con Skype empresarial 
 
@@ -25,7 +26,7 @@ ms.locfileid: "44496292"
 
 Los registros DNS deben configurarse correctamente para que las comunicaciones externas funcionen correctamente. Compruebe [aquí](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) para ver si tenemos instrucciones específicas sobre cómo establecer registros DNS con su proveedor. 
 
-¿Desea permitir que los usuarios de Skype empresarial se pongan en contacto con usuarios consumidores de Skype? Consulte:
+¿Desea permitir que los usuarios de Skype empresarial se pongan en contacto con usuarios consumidores de Skype? Vea:
 
 - [Permita que los usuarios de Skype empresarial agreguen contactos de Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
