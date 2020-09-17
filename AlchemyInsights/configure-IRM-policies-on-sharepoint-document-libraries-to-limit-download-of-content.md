@@ -1,0 +1,26 @@
+---
+title: Configurar directivas de IRM en bibliotecas de documentos de SharePoint para limitar la descarga de contenido
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9000213"
+- "5712"
+ms.openlocfilehash: 5da849e8986db271fa7ae7f0d1a99074410107b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681097"
+---
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a><span data-ttu-id="f6055-102">Configurar directivas de IRM en bibliotecas de documentos de SharePoint para limitar la descarga de contenido</span><span class="sxs-lookup"><span data-stu-id="f6055-102">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>
+
+<span data-ttu-id="f6055-103">En SharePoint Online, la protección IRM se aplica a los archivos del nivel de lista y de biblioteca.</span><span class="sxs-lookup"><span data-stu-id="f6055-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="f6055-104">Antes de que su organización pueda usar la protección de IRM, primero debe configurar la Administración de derechos.</span><span class="sxs-lookup"><span data-stu-id="f6055-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="f6055-105">IRM confía en el servicio Azure Rights Management de Azure Information Protection para cifrar y asignar restricciones de uso.</span><span class="sxs-lookup"><span data-stu-id="f6055-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span>
+
+- <span data-ttu-id="f6055-106">[Configurar directivas de IRM en bibliotecas de documentos de SharePoint para limitar la descarga de contenido](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="f6055-106">[Configure IRM policies on SharePoint document libraries to limit download of content](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span></span>
