@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944551"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714921"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: instalación del cliente de AIP
 
@@ -33,4 +34,8 @@ Si va a instalar el cliente de AIP, siga estos pasos recomendados:
 
 4. Si sigue teniendo problemas al instalar el propio cliente después de ejecutar la herramienta anterior, busque la carpeta **%temp%** y proporcione los archivos de registro de instalación del cliente que comiencen por Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.
 
-5. Si la instalación se realizó correctamente y aún tiene problemas al usar AIP, seleccione el tema de soporte técnico adecuado para ver soluciones relevantes.
+Para obtener más información:
+
+- Consulte la configuración, [requerimientos](https://docs.microsoft.com/azure/information-protection/get-started/requirements) y ubicación de la [documentación de Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), para [descargar el cliente de AIP](https://www.microsoft.com/download/details.aspx?id=53018).
+
+- Para más información sobre la suscripción de Azure, consulte [Suscripciones y características de Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection).

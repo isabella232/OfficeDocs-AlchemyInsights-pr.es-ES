@@ -23,7 +23,7 @@ ms.locfileid: "47741248"
 
 Si se elimina la página de inicio del sitio, puede recuperarla desde la papelera de reciclaje accediendo a la dirección URL de la papelera de reciclaje.
 
-1. Vaya a https://\<tenantname>.sharepoint.com/sites/\<sitename>/_layouts/15/RecycleBin.aspx?, y reemplace <**tenantname**> por el nombre de su espacio empresarial y <**sitename**> con el nombre de su sitio.
+1. Vaya a https://\<tenantname>.sharepoint.com/sites/\<sitename>/_layouts/15/RecycleBin.aspx? y reemplace <**tenantname**> por el nombre de su espacio empresarial y <**sitename**> con el nombre de su sitio.
 
 2. Seleccione la página que desea restaurar.
 

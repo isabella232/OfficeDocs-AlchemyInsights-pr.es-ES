@@ -1,5 +1,5 @@
 ---
-title: Recuperar elementos eliminados con el cmdlet
+title: Recuperar elementos eliminados con un cmdlet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -19,10 +19,10 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47741320"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a>Recuperar elementos eliminados con el cmdlet
+# <a name="recover-deleted-items-with-cmdlet"></a>Recuperar elementos eliminados con un cmdlet
 
-- Use el cmdlet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) para ver los elementos eliminados en los buzones. Cuando encuentre los elementos eliminados, use el cmdlet [restore RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) para restaurarlos.
+- Use el cmdlet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) para ver los elementos eliminados en los buzones. Cuando encuentre los elementos eliminados, use el cmdlet [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) para restaurarlos.
 
-- Para obtener más información, vea todos los detalles de [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- Vea todos los detalles de [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
 
 - Debe tener asignado el rol de exportación e importación de buzón de correo antes de que pueda ejecutar este cmdlet. Para obtener más información, consulte [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).

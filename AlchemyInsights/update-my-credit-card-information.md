@@ -29,6 +29,6 @@ Puede agregar o quitar un método de pago desde el **Centro de administración d
 
 3. En la parte inferior del panel **Eliminar método de pago**, haga clic en **Eliminar**.
 
-Para más información, vea [Administrar métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para obtener más información, vea [Administrar métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 Para solucionar el problema, vea [Métodos de pago de resolución de problemas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods)

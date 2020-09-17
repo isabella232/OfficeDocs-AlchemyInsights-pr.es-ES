@@ -21,4 +21,4 @@ ms.locfileid: "47736772"
 ---
 # <a name="teams-ediscovery"></a>eDiscovery de Teams
 
-Puede obtener más información sobre Teams eDiscovery [aquí](https://docs.microsoft.com/microsoftteams/ediscovery-investigation)
+Puede obtener más información sobre Teams eDiscovery [aquí](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).

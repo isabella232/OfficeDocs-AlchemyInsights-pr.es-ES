@@ -21,6 +21,6 @@ ms.locfileid: "47681097"
 ---
 # <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Configurar directivas de IRM en bibliotecas de documentos de SharePoint para limitar la descarga de contenido
 
-En SharePoint Online, la protección IRM se aplica a los archivos del nivel de lista y de biblioteca. Antes de que su organización pueda usar la protección de IRM, primero debe configurar la Administración de derechos. IRM confía en el servicio Azure Rights Management de Azure Information Protection para cifrar y asignar restricciones de uso.
+En SharePoint Online, la protección IRM se aplica a los archivos del nivel de lista y de biblioteca. Antes de que su organización pueda usar la protección de IRM, primero debe configurar Rights Management. IRM confía en el servicio Azure Rights Management de Azure Information Protection para cifrar y asignar restricciones de uso.
 
-- [Configurar directivas de IRM en bibliotecas de documentos de SharePoint para limitar la descarga de contenido](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
+- [Configure directivas de IRM en bibliotecas de documentos de SharePoint para limitar la descarga de contenido](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).

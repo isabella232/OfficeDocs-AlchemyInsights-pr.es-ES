@@ -21,4 +21,4 @@ ms.locfileid: "47736484"
 ---
 # <a name="teams-freemium"></a>Teams Freemium
 
-Puede obtener más información de forma gratuita sobre Teams (también denominado Freemium)[aquí](https://docs.microsoft.com/alchemyinsights/teams-freemium).
+Puede obtener más información sobre Teams gratuito (también denominado Freemium)[aquí](https://docs.microsoft.com/alchemyinsights/teams-freemium).

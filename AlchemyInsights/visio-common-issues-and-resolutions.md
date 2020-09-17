@@ -25,7 +25,7 @@ Estos son algunos temas solicitados con frecuencia con Microsoft Visio:
 
 **Opciones de Visio Online**
 
-- Visio se vende como una [aplicación independiente](https://products.office.com/visio/flowchart-software). Los administradores pueden comprar la [Suscripción de Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) en el Centro de administración de Microsoft 365.
+- Visio se vende como una [aplicación independiente](https://products.office.com/visio/flowchart-software). Los administradores pueden adquirir la [Suscripción de Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) en el Centro de administración de Microsoft 365.
 
 - Visio ofrece [diferentes planes de suscripción](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Si falta alguna característica en Visio, [compare las opciones de Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) para tener más información sobre las diferencias entre los planes 1 y 2.  Tenga en cuenta que Visio online plan 1 no incluye una versión de escritorio de Visio.
 

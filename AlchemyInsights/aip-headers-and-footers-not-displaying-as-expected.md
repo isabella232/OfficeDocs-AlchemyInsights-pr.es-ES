@@ -27,7 +27,7 @@ Si tiene problemas con las marcas visuales que no se muestran como se esperaba, 
 2. En el caso de las etiquetas de Office, consulte [Cuando Office 365 aplica el cifrado y la marca de contenidos](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
 3. Si desea quitar los encabezados y pies de página existentes, consulte [Quitar los encabezados y pies de página de otras soluciones de etiqueta](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
 
-Si sigue experimentando el problema, recopile los registros de los clientes de Azure Information Protection y adjunte los registros exportados a este tíquet.
+Si sigue experimentando el problema, recopile los registros de los clientes de Azure Information Protection y adjunte los registros exportados a este vale.
 
 **Exportar documentos de Azure Information Protection**
 

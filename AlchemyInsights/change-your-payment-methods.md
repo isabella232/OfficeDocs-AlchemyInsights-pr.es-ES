@@ -27,8 +27,8 @@ Puede comprar los productos y servicios de Microsoft con una **tarjeta de crédi
 
 - [Actualizar detalles del método de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
 
-- [Reemplazar un método de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
+- [Reemplazar un método de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)
 
-- [Eliminar un método de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
+- [Eliminar un método de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)
 
 - [Solucionar los problemas de los métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods)

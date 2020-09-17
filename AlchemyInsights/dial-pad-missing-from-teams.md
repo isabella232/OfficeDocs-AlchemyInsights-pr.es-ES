@@ -1,5 +1,5 @@
 ---
-title: Teclado de marcación no se encuentra en Teams
+title: El teclado de marcación no se encuentra en Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -19,6 +19,6 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47730680"
 ---
-# <a name="dial-pad-missing-from-teams"></a>Teclado de marcación no se encuentra en Teams
+# <a name="dial-pad-missing-from-teams"></a>El teclado de marcación no se encuentra en Teams
 
-¿No encuentra el teclado de marcación en Teams? Para más información, haga clic [aquí](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing).
+¿No encuentra el teclado de marcación en Teams? Para obtener más información, haga clic [aquí](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing).

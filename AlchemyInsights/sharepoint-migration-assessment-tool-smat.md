@@ -21,6 +21,6 @@ ms.locfileid: "47661973"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>Herramienta de evaluación de migración de SharePoint (SMAT)
 
-La Herramienta de evaluación de migración de SharePoint (SMAT) es un ejecutable de la línea de comandos muy simple que examinará el contenido de su granja de servidores de SharePoint para identificar el impacto de migrar su servidor a SharePoint Online con Microsoft 365.
+La Herramienta de evaluación de migración de SharePoint (SMAT) es un sencillo ejecutable de la línea de comandos que examinará el contenido de su granja de servidores de SharePoint para identificar el impacto de migrar su servidor a SharePoint Online con Microsoft 365.
 
 [Información general sobre la herramienta de evaluación de migración de SharePoint](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)

@@ -5,29 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: aca228c2010b3e3497d75b46a231aa404e4dd324
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599335"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662369"
 ---
 # <a name="purchase-visio-subscription"></a>Comprar una suscripción de Visio
 
 Los administradores pueden comprar la suscripción de Visio para su organización en el **Centro de administración de Microsoft 365**.
 
-1. Haga clic en **Facturación**.
+1. Vaya a la página de **Facturación ** > **[ Servicios de Compra](https://go.microsoft.com/fwlink/p/?linkid=868433)** para ver las suscripciones de su organización que se pueden comprar.
 
-2. Haga clic en **[Comprar servicios](https://go.microsoft.com/fwlink/p/?linkid=868433)** para ver las suscripciones que se pueden comprar para la organización.
+2. Busque los planes de Visio buscando en "Visio".
 
-3. Busque los planes de Visio buscando en "Visio".
+3. Seleccione **Visio Plan 1** o **Visio Plan 2**. Ambos planes ofrecen una suscripción mensual o anual.
 
-4. Seleccione **Visio Plan 1** o **Visio Plan 2**. Ambos planes ofrecen una suscripción mensual o anual.
-
-Para obtener más información sobre las diferencias entre Visio Plan1 y Visio Plan 2, vea [Comparar las opciones de Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options). 
+Para obtener más información sobre las diferencias entre Visio Plan1 y Visio Plan 2, vea [Comparar las opciones de Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options).

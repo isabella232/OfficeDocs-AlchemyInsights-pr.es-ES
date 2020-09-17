@@ -1,5 +1,5 @@
 ---
-title: Recuperar elementos eliminados desde el centro de administración de Exchange
+title: Recuperar elementos eliminados desde el Centro de administración de Exchange
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -19,12 +19,12 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "47693140"
 ---
-# <a name="recover-deleted-items-from-exchange-admin-center"></a>Recuperar elementos eliminados desde el centro de administración de Exchange
+# <a name="recover-deleted-items-from-exchange-admin-center"></a>Recuperar elementos eliminados desde el Centro de administración de Exchange
 
-Dentro de la [experiencia de administración de buzones de correo](https://admin.exchange.microsoft.com/#/mailboxes) simplificada y actualizada en el centro de administración de Exchange (EAC), puede seleccionar el buzón específico del usuario y los elementos recuperados.
+Dentro de la [experiencia de administración de buzones de correo](https://admin.exchange.microsoft.com/#/mailboxes) simplificada y actualizada en el Centro de administración de Exchange (EAC), puede seleccionar el buzón específico del usuario y los elementos recuperados.
 
 1. Elija **buzones** en **Destinatarios**.
 2. Seleccione el usuario del que quiere recuperar los correos electrónicos.
 3. Haga clic en **Recuperar elementos eliminados**.
-    - Es posible que tenga que buscar en la lista desplegable **...más** para ver **Recuperar elementos eliminados**.
-4. Usuario las opciones de filtro para buscar los elementos que necesita recuperar.
+    - Es posible que tenga que buscar en la lista desplegable **... más** para ver **Recuperar elementos eliminados**.
+4. Use las opciones de filtro para buscar los elementos que necesita recuperar.
