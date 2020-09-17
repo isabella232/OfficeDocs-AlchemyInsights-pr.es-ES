@@ -5,23 +5,24 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 2702837bff2c0a465dde2c090a44e02747cc85ec
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fc560686ec5c6a3d42a97687fda80ae5001b5c60
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051082"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797565"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Restaurar un archivo o carpeta eliminados
 
-SharePoint Online conserva las copias de seguridad de todo el contenido durante 14 días adicionales más allá de la eliminación real. Si el contenido no se puede restaurar a través de la papelera de reciclaje o de la restauración de archivos, un administrador puede ponerse en contacto con el soporte técnico de Microsoft para solicitar una restauración en cualquier momento dentro del período de 14 días. Las restauraciones a partir de copias de seguridad solo se pueden completar para colecciones de sitios o subsitios, no para archivos, listas o bibliotecas específicos.
+SharePoint Online conserva copias de seguridad de todo el contenido durante 14 días adicionales a partir de la eliminación real. Si el contenido no se puede restaurar a través de la papelera de reciclaje o de la restauración de archivos, un administrador puede ponerse en contacto con el soporte técnico de Microsoft para solicitar una restauración en cualquier momento dentro del período de 14 días. Solo se puede realizar la restauración de copias de seguridad de colecciones de sitios o subsitios, no de archivos específicos, listas o bibliotecas.
 
-Cuando se elimina un elemento o sitio de SharePoint, no se elimina inmediatamente. Los elementos eliminados entran en la papelera de reciclaje durante un período de tiempo. Durante este tiempo, puede restaurar los elementos que eliminó en su ubicación original. Para obtener más información, vea los siguientes vínculos.
+Cuando se elimina un elemento o sitio de SharePoint, no se elimina inmediatamente. Los elementos eliminados se quedan en la papelera de reciclaje durante un período de tiempo. Durante ese tiempo, se pueden restaurar los elementos eliminados a su ubicación original. Para obtener más información, visite los vínculos siguientes.
 
 [Restaurar elementos en la papelera de reciclaje de un sitio de SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
 
@@ -33,11 +34,11 @@ Cuando se elimina un elemento o sitio de SharePoint, no se elimina inmediatament
 
 Para las acciones de la papelera de reciclaje en masa, los administradores pueden considerar el uso de [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
 
-**Característica de restauración de archivos**
+**Característica Restaurar archivos**
 
 Si muchos de los archivos de OneDrive o SharePoint se eliminan, se sobrescriben, están dañados o están infectados por malware, puede restaurar la biblioteca de SharePoint o de OneDrive completa a una hora anterior mediante la característica de restauración de archivos.
 
 [Restaurar una biblioteca de OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-[Restauración de una biblioteca de documentos](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+[Restaurar una biblioteca de documentos](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
