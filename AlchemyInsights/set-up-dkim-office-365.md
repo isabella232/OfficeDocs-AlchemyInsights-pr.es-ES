@@ -5,16 +5,17 @@ author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509401"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808724"
 ---
 # <a name="setup-dkim"></a>Configuración DKIM
 
@@ -24,19 +25,19 @@ ms.locfileid: "44509401"
 
    Los registros CNAME de DKIM para **cada** dominio personalizado usan los siguientes formatos:
 
-   - **Nombre de host**:`selector1._domainkey.<CustomDomain>`
+   - **Nombre de host**: `selector1._domainkey.<CustomDomain>`
 
-     **Apunta a la dirección o al valor**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Nombre de host**:`selector2._domainkey.<CustomDomain>`
-
-     **Apunta a la dirección o al valor**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Apunta a la dirección o al valor**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\>es el texto a la izquierda de `.mail.protection.outlook.com` en el registro MX personalizado para el dominio personalizado (por ejemplo, `contoso-com` para el dominio contoso.com). \<InitialDomain\>es el dominio que usó cuando se suscribió a Microsoft 365 (por ejemplo, contoso.onmicrosoft.com).
+   - **Nombre de host**: `selector2._domainkey.<CustomDomain>`
+
+     **Apunta a la dirección o al valor**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
+
+     **TTL**: 3600
+
+   \<DomainGUID\> es el texto a la izquierda de `.mail.protection.outlook.com` en el registro MX personalizado para el dominio personalizado (por ejemplo, `contoso-com` para el dominio contoso.com). \<InitialDomain\> es el dominio que usó cuando se suscribió a Microsoft 365 (por ejemplo, contoso.onmicrosoft.com).
 
 2. Una vez que haya creado los registros CNAME para sus dominios personalizados, siga las instrucciones siguientes:
 
