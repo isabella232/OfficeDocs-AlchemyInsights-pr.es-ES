@@ -23,4 +23,4 @@ ms.locfileid: "47661901"
 
 Si recibe el error "**error en la carga del fragmento XXX**" durante el acceso a la pestaña archivos en Teams, pruebe a cerrar sesión en el equipo y, a continuación, vuelva a iniciar sesión para resolver el error.
 
-- Para entender cómo cerrar la sesión de Teams, consulte [Cerrar la sesión deTeams](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
+- Para entender cómo cerrar la sesión de Teams, consulte [Cerrar la sesión de Teams](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
