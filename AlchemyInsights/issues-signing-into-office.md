@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677007"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236142"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemas al iniciar sesión en aplicaciones de 365 de Microsoft
 
@@ -25,6 +25,8 @@ Para solucionar los problemas de inicio de sesión con las aplicaciones de Micro
 
 - Para Windows, vea [recomendaciones sobre la resolución de problemas de inicio de sesión comunes](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Para Mac, consulte  [no se puede iniciar sesión en una aplicación de Office 2016 para Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Sugerencia** En los equipos con Windows, podemos diagnosticar y corregir automáticamente varios problemas comunes de inicio de sesión de Office. Descargue y ejecute el  **[Asistente para soporte y recuperación de Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** para usar nuestra herramienta automatizada.
 
 **Nota:**  **No se recomienda**deshabilitar la autenticación moderna (Adal) o la administración de cuentas web (WAM) para solucionar problemas de inicio de sesión o activación. Si se producen errores al conectar con Microsoft 365 mediante Office 2013, asegúrese de [Habilitar la autenticación moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  para el cliente de Office.
 
