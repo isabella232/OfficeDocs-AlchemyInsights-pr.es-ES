@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711112"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277950"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>¿No puede instalar ni ejecutar la herramienta de exportación de exhibición de documentos electrónicos?
 
@@ -47,4 +47,5 @@ Si no puede instalar ni ejecutar la herramienta de exportación de exhibición d
 - Tiene asignada la función Export en el centro de seguridad y cumplimiento de Microsoft 365 &amp; . De forma predeterminada, este rol solo se asigna al grupo de roles eDiscovery Manager. Consulte [asignar permisos de exhibición](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)de documentos electrónicos.
 
 Para obtener más información, vea [exportar resultados](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)de la búsqueda de contenido.
-  
+
+Si va a exportar más de 100 k buzones, tendrá que usar el siguiente PowerShell para descargar los resultados de la exportación:  [exportar resultados de más de 100 k buzones de correo](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).

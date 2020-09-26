@@ -2,7 +2,7 @@
 title: Cómo realizar una compra de Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,21 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 57cf149b0ecfaf06f34b7fb8cd746584e305a232
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703894"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287155"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Cómo realizar una compra de Microsoft 365
 
-Las compras en Microsoft 365 se pueden realizar en el centro de administración.
+Puede comprar una suscripción a Microsoft 365 en el centro de administración.
   
 - Para comprar un plan, vaya a la **Billing** \> Página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.
-
-- Para adquirir más licencias, vaya a la página **facturación** \> **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Elija la suscripción a la que desea agregar licencias y, a continuación, seleccione **Agregar o quitar licencias**.
+- Para adquirir más licencias, vaya a la página **facturación** \> [de productos](https://go.microsoft.com/fwlink/p/?linkid=842054) . Seleccione la suscripción que desea cambiar y, a continuación, seleccione **comprar licencias** o **quitar licencias**.
   
-Para obtener más información, consulte [comprar licencias para la suscripción a Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Para obtener más información, consulte [comprar licencias para la suscripción a Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
 
 **Solución de problemas**
 
@@ -37,5 +36,4 @@ Si tiene problemas con la carga de la página, intente abrir la página web en u
 **Recursos adicionales**
   
 - [Asignar licencias a usuarios en Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-
 - [Cancelar Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
