@@ -1,8 +1,8 @@
 ---
 title: Licencia o cuenta deshabilitada
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 465b61ad0319f533656effa2b6b09f0194260920
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14ce58da129f0a16b280d4fd85a0bc28c2c0282f
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676072"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286687"
 ---
 # <a name="license-or-account-disabled"></a>Licencia o cuenta deshabilitada
 
@@ -25,14 +25,11 @@ Si su subscripción ha expirado, Microsoft la ha deshabilitado o si la ha cancel
 
 **Reactivar una suscripción**
 
-1. En el centro de administración, vaya a la página **Facturación** > **[Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Busque la suscripción que desea reactivar.
-
-3. En la sección **Facturación**, haga clic en **Reactivar ahora**. Si está en la vista **Tarjetas**, haga clic en los puntos suspensivos entre **Nombre** y **Cantidad disponible** y elija **Reactivar** en el menú.
-
-**Nota**: Si no ve la suscripción que está buscando, es posible que tenga que ajustar el filtro de **Estado de la suscripción** que se encuentra en la parte superior de la página con la opción **Todas**.
-
-4. Confirme los datos de pago para actualizar su información de pago actual. Cuando haya terminado de especificar el método de pago, haga clic en **Reactivar**.
+1. En el centro de administración, vaya a la página de **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. En la pestaña **Productos**, busque la suscripción que quiere reactivar. Seleccione **Más acciones** (tres puntos) y, a continuación, seleccione **Reactivar esta suscripción**.
+    > [!NOTE]
+    > Si no ve la opción **Reactivar esta suscripción**, póngase en contacto con el soporte técnico.
+3. En el panel **Reactivar esta suscripción**, seleccione un método de pago de la lista desplegable o seleccione **Agregar método de pago**.
+4. Seleccione **Guardar**.
 
 Para obtener más información, vea [Reactivar la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
