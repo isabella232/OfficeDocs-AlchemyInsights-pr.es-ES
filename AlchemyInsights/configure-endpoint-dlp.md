@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
+ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812132"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48305460"
 ---
 # <a name="configure-endpoint-dlp"></a>Configurar DLP en punto de conexión
 
@@ -32,3 +32,13 @@ Para empezar a usar DLP en punto de conexión:
 - Cree directivas DLP para proteger sus elementos confidenciales. Para más información, consulte [Escenarios de directiva DLP de los puntos de conexión](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
 Para más información sobre DLP en punto de conexión de Microsoft, consulte [Obtener información sobre la prevención de pérdida de datos en punto de conexión de Microsoft 365 (vista previa)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+
+**Pasos importantes de recopilación de datos, si se necesita Soporte técnico:**
+
+1. Descargue la versión preliminar de MDATP Client Analyzer en [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer")
+2. Ejecute la herramienta como administrador en la ventana de cmd:
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. Cuando aparezca el mensaje "Escriba el número de minutos para recopilar seguimientos: ", escriba el número de minutos necesarios para ejecutar el escenario
+5. Ejecute el escenario
+
+Guarde el archivo zip para entregarlo al agente de soporte.
