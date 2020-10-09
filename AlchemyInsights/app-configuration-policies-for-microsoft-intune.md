@@ -12,15 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 3ad5dfd1d1514ddf0e7d221e92d082b2868809c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003770"
+- "6709"
+ms.openlocfilehash: babdff75b53c4a5cab0ae7697369304319d105af
+ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717198"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48366409"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Directivas de configuración de aplicaciones para Microsoft Intune
 
-Use las directivas de configuración de aplicaciones en Microsoft Intune para proporcionar opciones de configuración para una aplicación iOS o Android. Estas opciones de configuración permiten personalizar una aplicación. La compatibilidad con las directivas de configuración está limitada por las versiones y las aplicaciones del sistema operativo.
+Las directivas de configuración de aplicaciones en Microsoft Intune se utilizan para proporcionar opciones de configuración para aplicaciones iOS o Android. Estas opciones de configuración permiten personalizar una aplicación. Tenga en cuenta que existen limitaciones con respecto a qué versiones del sistema operativo y qué aplicaciones admiten el uso de directivas de configuración.
 
-Para saber más, consulte [Directivas de configuración de aplicaciones para Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)
+Consulte la siguiente documentación para más información.
+
+[Directivas de configuración de aplicaciones para Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Agregar directivas de configuración de aplicaciones para dispositivos iOS administrados](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Agregar directivas de configuración de aplicaciones para dispositivos Android administrados](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Agregar directivas de configuración de aplicaciones para aplicaciones administradas sin inscripción de dispositivo](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
