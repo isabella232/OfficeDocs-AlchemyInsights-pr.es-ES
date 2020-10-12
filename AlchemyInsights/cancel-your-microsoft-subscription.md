@@ -1,8 +1,8 @@
 ---
 title: Cancelar la suscripción a Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683275"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416442"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="5c4d3-102">Cancelar la suscripción a Microsoft</span><span class="sxs-lookup"><span data-stu-id="5c4d3-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="f19de-102">Cancelar la suscripción a Microsoft</span><span class="sxs-lookup"><span data-stu-id="f19de-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="5c4d3-103">Vaya a [Servicios y suscripciones](https://account.microsoft.com/services/) e inicie sesión con la cuenta de Microsoft que usó al comprar la suscripción.</span><span class="sxs-lookup"><span data-stu-id="5c4d3-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="f19de-103">Los administradores pueden cancelar la suscripción para su organización en el Centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f19de-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="5c4d3-104">Busque la suscripción y haga clic en **Administrar**.</span><span class="sxs-lookup"><span data-stu-id="5c4d3-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="5c4d3-105">Si ve **Activar la facturación periódica** en lugar de **Administrar**, vaya a la sección Solución de problemas, en caso contrario, vaya al paso 3.</span><span class="sxs-lookup"><span data-stu-id="5c4d3-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="f19de-104">Vaya a la página **Facturación** \> [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="f19de-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="f19de-105">En la pestaña **Productos**, busque la suscripción que quiere cancelar.</span><span class="sxs-lookup"><span data-stu-id="f19de-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="f19de-106">Seleccione **Más acciones** (tres puntos) y luego seleccione **Cancelar suscripción**.</span><span class="sxs-lookup"><span data-stu-id="f19de-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="f19de-107">En el panel **Cancelar suscripción**, seleccione una razón por la que cancela.</span><span class="sxs-lookup"><span data-stu-id="f19de-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="f19de-108">Opcionalmente, proporcione algún comentario.</span><span class="sxs-lookup"><span data-stu-id="f19de-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="f19de-109">Seleccione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="f19de-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="5c4d3-106">En la página siguiente, haga clic en **Cancelar** o en **Actualizar o cancelar**, según el tipo de suscripción.</span><span class="sxs-lookup"><span data-stu-id="5c4d3-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="5c4d3-107">Siga las instrucciones de la página para continuar con la cancelación.</span><span class="sxs-lookup"><span data-stu-id="5c4d3-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="f19de-110">**Reembolso:** cualquier crédito prorrateado se le devolverá en el próximo ciclo de facturación.</span><span class="sxs-lookup"><span data-stu-id="f19de-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
