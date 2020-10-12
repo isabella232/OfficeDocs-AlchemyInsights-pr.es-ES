@@ -1,8 +1,8 @@
 ---
 title: Cancelar la suscripción a Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683275"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416442"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Cancelar la suscripción a Microsoft
 
-1. Vaya a [Servicios y suscripciones](https://account.microsoft.com/services/) e inicie sesión con la cuenta de Microsoft que usó al comprar la suscripción.
+Los administradores pueden cancelar la suscripción para su organización en el Centro de administración de Microsoft 365.
 
-2. Busque la suscripción y haga clic en **Administrar**. Si ve **Activar la facturación periódica** en lugar de **Administrar**, vaya a la sección Solución de problemas, en caso contrario, vaya al paso 3.
+1. Vaya a la página **Facturación** \> [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. En la pestaña **Productos**, busque la suscripción que quiere cancelar. Seleccione **Más acciones** (tres puntos) y luego seleccione **Cancelar suscripción**.
+3. En el panel **Cancelar suscripción**, seleccione una razón por la que cancela. Opcionalmente, proporcione algún comentario.
+4. Seleccione **Guardar**.
 
-3. En la página siguiente, haga clic en **Cancelar** o en **Actualizar o cancelar**, según el tipo de suscripción.
-
-4. Siga las instrucciones de la página para continuar con la cancelación.
+**Reembolso:** cualquier crédito prorrateado se le devolverá en el próximo ciclo de facturación.
