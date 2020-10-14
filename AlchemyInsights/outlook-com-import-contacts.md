@@ -14,12 +14,12 @@ ms.custom:
 - "278"
 - "8000019"
 ms.assetid: 921c5c7c-9a02-4682-9bd1-03ef9bb0fd6e
-ms.openlocfilehash: 3ba007f265e580196e23cb636cab029784e255d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c6cf2ee9677fdc3b29f1b29a4b29be71bd137a9
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724020"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452029"
 ---
 # <a name="import-contacts"></a>Importar contactos
 
@@ -31,3 +31,4 @@ Antes de importar contactos a Outlook.com, tendrá que exportarlos desde el otro
 3. Seleccione **examinar**, vaya a la carpeta en la que guardó los contactos exportados y seleccione **abrir**.
 
 Para obtener más información, consulte [Importar contactos a Outlook.com](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy).
+

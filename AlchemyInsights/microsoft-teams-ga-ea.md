@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798393"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452245"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams: acceso de invitado
 
@@ -24,13 +24,10 @@ Si necesita ayuda para comunicarse con usuarios externos a la organización en M
 
 Asegúrese de [revisar las diferencias](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) para comprender las características disponibles para cada una de ellas.  Por ejemplo, el acceso externo (Federación) permite comunicaciones de 1:1, como chat y presencia.  Sin embargo, los usuarios federados no pueden participar en la colaboración de Microsoft Teams.  Si desea que un usuario externo se unan a las conversaciones del canal de Microsoft Teams o comparta archivos, deberá activar el acceso de invitado.
 
-**Opción 1: activar el acceso de invitado**   
-En el centro de administración de Teams, vaya a [configuración de toda la organización > acceso de invitado](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) y Active "permitir el acceso de invitado a Microsoft Teams".  Para un inquilino con todas las demás opciones de configuración predeterminadas, esto debería ser todo lo que necesita hacer.  Para personalizar la configuración de acceso de invitado, asegúrese de seguir todos los pasos de la [lista de comprobación de acceso de invitado](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Una vez que haya terminado, tendrá que [esperar hasta 24 horas](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) para que la configuración surta efecto.
+**Opción 1: activar el acceso de invitado** En el centro de administración de Teams, vaya a [configuración de toda la organización > acceso de invitado](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) y Active "permitir el acceso de invitado a Microsoft Teams".  Para un inquilino con todas las demás opciones de configuración predeterminadas, esto debería ser todo lo que necesita hacer.  Para personalizar la configuración de acceso de invitado, asegúrese de seguir todos los pasos de la [lista de comprobación de acceso de invitado](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Una vez que haya terminado, tendrá que [esperar hasta 24 horas](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) para que la configuración surta efecto.
 
 Si está seguro de que ha completado todos los pasos de la lista de comprobación y de que ha sido más de 24 horas, siga adelante e intente [Agregar un invitado al equipo](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
 Para obtener más información, incluidos los vídeos de procedimientos, consulte [acceso de invitado en Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
 **Opción 2: activar el acceso externo (Federación)** Si también desea activar el acceso externo (Federación), en el centro de administración de Microsoft Teams, vaya a [configuración de toda la organización > acceso externo](https://admin.teams.microsoft.com/company-wide-settings/external-communications) y Active "los usuarios pueden comunicarse con los usuarios de Skype empresarial y Teams" y, a continuación, siga todos los pasos de [permitir que los usuarios de Microsoft Teams hablen y comuniquen con los usuarios de otra organización](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
-
-
