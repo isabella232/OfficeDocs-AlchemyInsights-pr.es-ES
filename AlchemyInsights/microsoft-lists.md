@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724596"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466021"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
 Microsoft inicia la primera etapa de Microsoft Lists, una aplicación de Microsoft 365. Microsoft Lists es el sitio central para ver y administrar todas las listas.  
   
-**Etapas**  
+**Timing**  
 
-- Comenzó la implementación para las organizaciones habilitadas para la recepción de la versión dirigida.
-- Estará disponible para todas las organizaciones a partir de mediados de octubre del 2020.
+- La implementación está completada para las organizaciones que estén habilitadas para la versión de destino.
+- Ha iniciado la implementación para organizaciones de la versión liberación estándar y finalizará al final del 2020 de noviembre.
 
-Cualquier usuario con licencia de SharePoint puede acceder al icono de Lists y empezar a usar Microsoft Lists. Los administradores no pueden desactivar la característica actualmente.
- 
-En el iniciador de aplicaciones de Microsoft 365, seleccione el icono Lists. Cree una lista desde cero o con plantillas predefinidas. Además, puede crear nuevas listas a partir de unas existentes o al importar datos de Excel para crear una lista. Vea las listas favoritas y recientes, incluidas las listas de su propiedad o que se han compartido con usted. Puede crear tanto listas personales como listas de equipos.  
+Cualquier usuario con licencia de SharePoint puede acceder al icono de Lists y empezar a usar Microsoft Lists.
+
+Como administrador global o de SharePoint en Microsoft 365, puede controlar la configuración de las listas de Microsoft. Puede:
+
+Deshabilite la creación de listas personales (impedir que los usuarios guarden listas nuevas en "Mis listas").
+Deshabilite las plantillas de listas integradas que no son relevantes para su organización.
+Vea [Listas de control](https://docs.microsoft.com/sharepoint/control-lists)
 
 Para obtener más información, consulta [Microsoft Lists](https://aka.ms/microsoftlists).
