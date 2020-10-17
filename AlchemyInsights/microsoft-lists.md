@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724596"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466021"
 ---
-# <a name="microsoft-lists"></a><span data-ttu-id="6d096-102">Microsoft Lists</span><span class="sxs-lookup"><span data-stu-id="6d096-102">Microsoft Lists</span></span>
+# <a name="microsoft-lists"></a><span data-ttu-id="33652-102">Microsoft Lists</span><span class="sxs-lookup"><span data-stu-id="33652-102">Microsoft Lists</span></span>
 
-<span data-ttu-id="6d096-103">Microsoft inicia la primera etapa de Microsoft Lists, una aplicación de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6d096-103">Microsoft is launching the first stage of Microsoft Lists, a Microsoft 365 app.</span></span> <span data-ttu-id="6d096-104">Microsoft Lists es el sitio central para ver y administrar todas las listas.</span><span class="sxs-lookup"><span data-stu-id="6d096-104">Microsoft Lists is the central place to see and manage all of your lists.</span></span>  
+<span data-ttu-id="33652-103">Microsoft inicia la primera etapa de Microsoft Lists, una aplicación de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="33652-103">Microsoft is launching the first stage of Microsoft Lists, a Microsoft 365 app.</span></span> <span data-ttu-id="33652-104">Microsoft Lists es el sitio central para ver y administrar todas las listas.</span><span class="sxs-lookup"><span data-stu-id="33652-104">Microsoft Lists is the central place to see and manage all of your lists.</span></span>  
   
-<span data-ttu-id="6d096-105">**Etapas**</span><span class="sxs-lookup"><span data-stu-id="6d096-105">**Timing**</span></span>  
+<span data-ttu-id="33652-105">**Timing**</span><span class="sxs-lookup"><span data-stu-id="33652-105">**Timing**</span></span>  
 
-- <span data-ttu-id="6d096-106">Comenzó la implementación para las organizaciones habilitadas para la recepción de la versión dirigida.</span><span class="sxs-lookup"><span data-stu-id="6d096-106">Roll out has begun for organizations enabled for targeted release.</span></span>
-- <span data-ttu-id="6d096-107">Estará disponible para todas las organizaciones a partir de mediados de octubre del 2020.</span><span class="sxs-lookup"><span data-stu-id="6d096-107">Release to all organizations by mid-October 2020.</span></span>
+- <span data-ttu-id="33652-106">La implementación está completada para las organizaciones que estén habilitadas para la versión de destino.</span><span class="sxs-lookup"><span data-stu-id="33652-106">Roll out is complete for organizations enabled for Targeted release.</span></span>
+- <span data-ttu-id="33652-107">Ha iniciado la implementación para organizaciones de la versión liberación estándar y finalizará al final del 2020 de noviembre.</span><span class="sxs-lookup"><span data-stu-id="33652-107">Rollout for Standard release organizations has started and will complete end of November 2020.</span></span>
 
-<span data-ttu-id="6d096-108">Cualquier usuario con licencia de SharePoint puede acceder al icono de Lists y empezar a usar Microsoft Lists.</span><span class="sxs-lookup"><span data-stu-id="6d096-108">Any user with a SharePoint license can access the Lists icon and start using Microsoft Lists.</span></span> <span data-ttu-id="6d096-109">Los administradores no pueden desactivar la característica actualmente.</span><span class="sxs-lookup"><span data-stu-id="6d096-109">Admins can't currently turn off the feature.</span></span>
- 
-<span data-ttu-id="6d096-110">En el iniciador de aplicaciones de Microsoft 365, seleccione el icono Lists.</span><span class="sxs-lookup"><span data-stu-id="6d096-110">In the Microsoft 365 app launcher, select the Lists icon.</span></span> <span data-ttu-id="6d096-111">Cree una lista desde cero o con plantillas predefinidas.</span><span class="sxs-lookup"><span data-stu-id="6d096-111">Start a list from scratch or with pre-built templates.</span></span> <span data-ttu-id="6d096-112">Además, puede crear nuevas listas a partir de unas existentes o al importar datos de Excel para crear una lista.</span><span class="sxs-lookup"><span data-stu-id="6d096-112">In addition, you can create new lists from existing lists or by importing Excel data to create a list.</span></span> <span data-ttu-id="6d096-113">Vea las listas favoritas y recientes, incluidas las listas de su propiedad o que se han compartido con usted.</span><span class="sxs-lookup"><span data-stu-id="6d096-113">View favorite and recent lists, including lists that you own or that have been shared with you.</span></span> <span data-ttu-id="6d096-114">Puede crear tanto listas personales como listas de equipos.</span><span class="sxs-lookup"><span data-stu-id="6d096-114">You can create both personal lists and team lists.</span></span>  
+<span data-ttu-id="33652-108">Cualquier usuario con licencia de SharePoint puede acceder al icono de Lists y empezar a usar Microsoft Lists.</span><span class="sxs-lookup"><span data-stu-id="33652-108">Any user with a SharePoint license can access the Lists icon and start using Microsoft Lists.</span></span>
 
-<span data-ttu-id="6d096-115">Para obtener más información, consulta [Microsoft Lists](https://aka.ms/microsoftlists).</span><span class="sxs-lookup"><span data-stu-id="6d096-115">For more info, see [Microsoft Lists](https://aka.ms/microsoftlists).</span></span>
+<span data-ttu-id="33652-109">Como administrador global o de SharePoint en Microsoft 365, puede controlar la configuración de las listas de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="33652-109">As a global or SharePoint admin in Microsoft 365, you can control settings for Microsoft Lists.</span></span> <span data-ttu-id="33652-110">Puede:</span><span class="sxs-lookup"><span data-stu-id="33652-110">You can:</span></span>
+
+<span data-ttu-id="33652-111">Deshabilite la creación de listas personales (impedir que los usuarios guarden listas nuevas en "Mis listas").</span><span class="sxs-lookup"><span data-stu-id="33652-111">Disable the creation of personal lists (prevent users from saving new lists to "My lists").</span></span>
+<span data-ttu-id="33652-112">Deshabilite las plantillas de listas integradas que no son relevantes para su organización.</span><span class="sxs-lookup"><span data-stu-id="33652-112">Disable built-in list templates that aren't relevant for your organization.</span></span>
+<span data-ttu-id="33652-113">Vea [Listas de control](https://docs.microsoft.com/sharepoint/control-lists)</span><span class="sxs-lookup"><span data-stu-id="33652-113">See [Control Lists](https://docs.microsoft.com/sharepoint/control-lists)</span></span>
+
+<span data-ttu-id="33652-114">Para obtener más información, consulta [Microsoft Lists](https://aka.ms/microsoftlists).</span><span class="sxs-lookup"><span data-stu-id="33652-114">For more info, see [Microsoft Lists](https://aka.ms/microsoftlists).</span></span>
