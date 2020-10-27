@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: df11effad3e8fafcf3d618b285cb024ca75f780a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0a0ee350c4c9a0f0204b4d077f17313f559a6a46
+ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741428"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "48753724"
 ---
 # <a name="recording-in-teams"></a>Grabar en Teams
 
-Si no puede realizar grabaciones en Teams, o si necesita saber cómo grabar en Teams, consulte uno de los siguientes artículos.
+La grabación de la reunión de Microsoft Teams ahora puede almacenada en OneDrive para obtener más información y para optar por participar en el centro de mensajes, vea la publicación siguiente: [(actualizado) Microsoft Teams: guardar las grabaciones en OneDrive y SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Las opciones de grabación de Teams dependen de la disponibilidad de Stream en países y regiones.  Si no puede grabar una reunión, compruebe que [Streams esté disponible en su país o región](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).  Para obtener más información, consulte la siguiente entrada del Centro de mensajes en el Portal de administración:
+Cambiar la ubicación de almacenamiento a OneDrive y SharePoint elimina el requisito previo de que la secuencia esté disponible en su región.
 
-- [Característica actualizada: control de almacenamiento regional para las grabaciones en la nube de Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Para obtener más información sobre cómo **habilitar y configurar las características** de grabación para su organización en Teams **, incluidos los controles para habilitar o deshabilitar la grabación de reuniones para usuarios específicos** , vea reseña[ de una reunión en la nube de Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
+
+Si no puede **realizar grabaciones en Teams, o si necesita saber cómo grabar** en Teams, vea uno de los siguientes artículos.
+
+Si aún no ha optado por el almacenamiento de OneDrive SharePoint para la grabación de reuniones de Teams, dichas capacidades dependen de la disponibilidad de Stream a nivel regional y nacional. Si no puede grabar una comprobación de reunión, debe asegurarse de que [Streams esté disponible en su país o región](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Para obtener más información, vea el siguiente mensaje de error en el centro de mensajes en el portal de administración: [característica actualizada: control de almacenamiento en la nube de grabaciones de Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
 La grabación de reuniones en Teams [requiere que se asignen directivas y licencias específicas](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), incluidas las licencias de Stream para cargar o descargar grabaciones de la reunión en Microsoft Stream.
-
-Para obtener información sobre cómo habilitar y configurar la función de grabación para su organización en Teams, incluidos los controles para habilitar o deshabilitar la Grabación de reuniones para usuarios específicos, vea [Grabación de una reunión en la nube de Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
 
 Una vez que haya confirmado que se cumplen todos los requisitos, incluidas licencias, directivas y disponibilidad regional de Stream, revise [Grabar una reunión en Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
