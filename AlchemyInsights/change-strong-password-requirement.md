@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: d888f4a208ccbc6f54469f5e1eb88f9f4197e5c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ce331275e066b5a4f177ae27178ec726f90762f
+ms.sourcegitcommit: aa35d2e1829f7d07f64fb891bf73b1fd80f0864c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681889"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48804440"
 ---
-# <a name="change-strong-password-requirement"></a><span data-ttu-id="dc214-102">Cambiar el requisito de contraseña segura</span><span class="sxs-lookup"><span data-stu-id="dc214-102">Change strong password requirement</span></span>
+# <a name="change-strong-password-requirement"></a><span data-ttu-id="228b9-102">Cambiar el requisito de contraseña segura</span><span class="sxs-lookup"><span data-stu-id="228b9-102">Change strong password requirement</span></span>
 
-<span data-ttu-id="dc214-103">Microsoft requiere contraseñas seguras de forma predeterminada.</span><span class="sxs-lookup"><span data-stu-id="dc214-103">Microsoft requires strong passwords by default.</span></span> 
+<span data-ttu-id="228b9-103">Microsoft requiere contraseñas seguras de forma predeterminada.</span><span class="sxs-lookup"><span data-stu-id="228b9-103">Microsoft requires strong passwords by default.</span></span>
 
-<span data-ttu-id="dc214-104">Con PowerShell, puede deshabilitar las contraseñas seguras para determinados usuarios con este comando:</span><span class="sxs-lookup"><span data-stu-id="dc214-104">Using PowerShell, you can disable strong passwords for specific users with this command:</span></span><br>
-<span data-ttu-id="dc214-105">*Set-MsolUser – UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $false*</span><span class="sxs-lookup"><span data-stu-id="dc214-105">*Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false*</span></span>
+<span data-ttu-id="228b9-104">Con PowerShell, puede deshabilitar las contraseñas seguras para determinados usuarios con estos comandos:</span><span class="sxs-lookup"><span data-stu-id="228b9-104">Using PowerShell, you can disable strong passwords for specific users with these commands:</span></span>
 
-- [<span data-ttu-id="dc214-106">Más información sobre la Directiva de contraseñas</span><span class="sxs-lookup"><span data-stu-id="dc214-106">More information on password policy</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [<span data-ttu-id="dc214-107">Cómo conectarse a Microsoft 365 con PowerShell</span><span class="sxs-lookup"><span data-stu-id="dc214-107">How to connect to Microsoft 365 with PowerShell</span></span>](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [<span data-ttu-id="dc214-108">Más información acerca de los comandos de PowerShell MsolUser</span><span class="sxs-lookup"><span data-stu-id="dc214-108">More information on PowerShell MsolUser commands</span></span>](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+`Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false`
+
+<span data-ttu-id="228b9-105">Para deshabilitar las contraseñas seguras para todos los usuarios, use:</span><span class="sxs-lookup"><span data-stu-id="228b9-105">To disable strong passwords for all users, use:</span></span>
+
+`Get-MsolUser | Set-MsolUser -StrongPasswordRequired $false`
+
+- [<span data-ttu-id="228b9-106">Más información sobre la Directiva de contraseñas</span><span class="sxs-lookup"><span data-stu-id="228b9-106">More information on password policy</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [<span data-ttu-id="228b9-107">Cómo conectarse a Microsoft 365 con PowerShell</span><span class="sxs-lookup"><span data-stu-id="228b9-107">How to connect to Microsoft 365 with PowerShell</span></span>](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [<span data-ttu-id="228b9-108">Más información acerca de los comandos de PowerShell MsolUser</span><span class="sxs-lookup"><span data-stu-id="228b9-108">More information on PowerShell MsolUser commands</span></span>](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
