@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745305"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791311"
 ---
 # <a name="configure-files-on-demand"></a>Configurar Archivos a petición
+
+Los archivos de OneDrive según demanda requieren[Windows 10 Fall Creators Update](https://go.microsoft.com/fwlink/p/?linkid=859040)(versión 1709 o posterior) o Windows Server 2019 y OneDrive compilación 17.3.7064.1005 o posterior.
 
 Archivos a petición de OneDrive permite tener acceso a todos los archivos en OneDrive sin necesidad de descargarlos todos ni usar espacio de almacenamiento en el dispositivo.
 
 Para configurar Archivos a petición en su PC:
 
-1. Seleccione el icono de nube de color blanco o azul de **OneDrive** en el área de notificaciones de la barra de tareas de Windows. Seleccione el icono de engranaje de **Ayuda y configuración** > **Configuración**.
-2. En la pestaña **Configuración**, seleccione la casilla **Ahorrar espacio y descargar archivos a medida que se usan**.  
+1. Seleccione el icono de nube de color blanco o azul de **OneDrive** en el área de notificaciones de la barra de tareas de Windows. Seleccione el icono de engranaje de **Ayuda y configuración** > **Configuración** .
+2. En la pestaña **Configuración** , seleccione la casilla **Ahorrar espacio y descargar archivos a medida que se usan** .  
 
 También puede configurar Archivos a petición con el registro.
 
