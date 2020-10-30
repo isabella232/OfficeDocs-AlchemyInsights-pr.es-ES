@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759236"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801568"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulador de ataques en Microsoft 365
 
-- ¿Falta el simulador de ataque? El simulador de ataque requiere el **plan 2 de la protección contra amenazas avanzada de office 365 (ATP plan 2)** u **Office 365 Enterprise E5**. El simulador de ataque **no** se incluye en el plan 1 de la protección contra amenazas avanzada de Office 365 (ATP plan 1), Office 365 Enterprise E3 o cualquier suscripción a Microsoft 365 para empresas.
+- ¿Falta el simulador de ataque? El simulador **de ataque requiere Microsoft defender para Office 365 plan 2 (ATP plan 2)** u **Office 365 Enterprise E5** . El simulador de ataque **no** se incluye en Microsoft defender para Office 365 plan 1 (ATP plan 1), Office 365 Enterprise E3 ni ninguna de las suscripciones de Microsoft 365 apps for Business.
 
 - La cuenta que use para iniciar ataques simulados requiere permisos de administrador global o de administrador de seguridad y autenticación multifactor (MFA). Para obtener más información acerca de los requisitos de los simuladores de ataques, vea [este tema](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759236"
 
 - Aspectos importantes que debe conocer sobre las simulaciones de conexión de **"Spear phishing"** :
 
-  - Por diseño, no puede proporcionar un valor personalizado para la **dirección URL del servidor de inicio de sesión de suplantación de identidad**.
+  - Por diseño, no puede proporcionar un valor personalizado para la **dirección URL del servidor de inicio de sesión de suplantación de identidad** .
 
   - Si un destinatario usa el [complemento habilitar el mensaje de informe](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) para informar del mensaje como suplantación de identidad (phishing), es posible que no reciba alertas del mensaje (ya que se trata de un ataque simulado).
 

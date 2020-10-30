@@ -1,5 +1,5 @@
 ---
-title: Protección contra amenazas avanzada de Office 365
+title: Microsoft defender para Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696638"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801244"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Protección contra amenazas avanzada de Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft defender para Office 365
 
-- Los datos adjuntos seguros, vínculos seguros y antiphishing forman parte de la protección contra amenazas avanzada de Office 365 (ATP). Enterprise E5, educación A5 y Microsoft 365 Business Premium incluyen ATP. Todos los demás planes requieren una suscripción a ATP del complemento.
+- Los datos adjuntos seguros, vínculos seguros y contra phishing forman parte de Microsoft defender para Office 365 (ATP). Enterprise E5, educación A5 y Microsoft 365 Business Premium incluyen ATP. Todos los demás planes requieren una suscripción a ATP del complemento.
 
 - Debe asignar las licencias adecuadas para proteger a los usuarios mediante ATP de Office 365. Vea [este tema](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) para obtener instrucciones sobre cómo aplicar licencias en masa a los usuarios.
 
-- Los administradores globales o los administradores de seguridad pueden tener acceso a las características de ATP de Office 365 en el centro de seguridad & cumplimiento en la directiva **Threat Managmeent** \> **Policy**.
+- Los administradores globales o los administradores de seguridad pueden tener acceso a las características de ATP de Office 365 en el centro de seguridad & cumplimiento en la directiva **Threat Managmeent** \> **Policy** .
 
 - Los datos adjuntos seguros y las directivas de vínculo seguro pueden tener un ámbito para toda la organización, dominios específicos o grupos de usuarios más pequeños.
 
