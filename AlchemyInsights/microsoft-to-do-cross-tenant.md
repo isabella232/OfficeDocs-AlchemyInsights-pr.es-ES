@@ -10,16 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: c08a344e198c2b1c6c7ea47d598f1b92b681d027
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
+ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801604"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815955"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a><span data-ttu-id="6f37e-102">Microsoft para el uso compartido entre inquilinos</span><span class="sxs-lookup"><span data-stu-id="6f37e-102">Microsoft To Do cross-tenant sharing</span></span>
+# <a name="microsoft-to-do-cross-tenant-sharing"></a><span data-ttu-id="531b7-102">Microsoft para el uso compartido entre inquilinos</span><span class="sxs-lookup"><span data-stu-id="531b7-102">Microsoft To Do cross-tenant sharing</span></span>
 
-<span data-ttu-id="6f37e-103">Microsoft to do admitirá la lista de uso compartido entre las cuentas personales y laborales a partir del 25 de septiembre de 2020.</span><span class="sxs-lookup"><span data-stu-id="6f37e-103">Microsoft To Do will support list sharing between personal and work accounts starting September 25, 2020.</span></span> <span data-ttu-id="6f37e-104">Esto permite a los usuarios de su organización unirse, ver, modificar y agregar datos a las listas que pertenecen a las cuentas personales de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="6f37e-104">This lets users in your organization join, view, modify, and add data to lists owned by personal Microsoft accounts.</span></span>
+<span data-ttu-id="531b7-103">Microsoft to do admite el uso compartido de listas entre las cuentas personales y de trabajo.</span><span class="sxs-lookup"><span data-stu-id="531b7-103">Microsoft To Do supports list sharing between personal and work accounts.</span></span> <span data-ttu-id="531b7-104">Esto permite a los usuarios de la organización</span><span class="sxs-lookup"><span data-stu-id="531b7-104">This lets users in your organization</span></span>
 
-<span data-ttu-id="6f37e-105">Hay disponible una nueva configuración de administrador para que los administradores deshabiliten esta característica desactivando la opción.</span><span class="sxs-lookup"><span data-stu-id="6f37e-105">A new admin setting is available for administrators to disable this feature by un-checking the option.</span></span>
-<span data-ttu-id="6f37e-106">El administrador puede encontrar esta opción en el portal de administración en **Settings**  >  **org Settings**  >  **Services**  >  **Microsoft to do** .</span><span class="sxs-lookup"><span data-stu-id="6f37e-106">The admin can find this setting in the admin portal under **Settings** > **Org Settings** > **Services** > **Microsoft To Do** .</span></span>
+<span data-ttu-id="531b7-105">unirse, ver, modificar y agregar datos a las listas que pertenecen a las cuentas personales de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="531b7-105">join, view, modify, and add data to lists owned by personal Microsoft accounts.</span></span>
+
+<span data-ttu-id="531b7-106">Hay disponible una nueva configuración de administrador para que los administradores deshabiliten esta característica desactivando la opción.</span><span class="sxs-lookup"><span data-stu-id="531b7-106">A new admin setting is available for administrators to disable this feature by un-checking the option.</span></span>
+
+<span data-ttu-id="531b7-107">El administrador puede encontrar esta opción en el portal de administración en **Settings**  >  **org Settings**  >  **Services**  >  **Microsoft to do** .</span><span class="sxs-lookup"><span data-stu-id="531b7-107">The admin can find this setting in the admin portal under **Settings** > **Org Settings** > **Services** > **Microsoft To Do** .</span></span>  
+
+[<span data-ttu-id="531b7-108">¿Por qué no puedo unirme a una lista compartida?</span><span class="sxs-lookup"><span data-stu-id="531b7-108">Why can't I join a shared list?</span></span>](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
