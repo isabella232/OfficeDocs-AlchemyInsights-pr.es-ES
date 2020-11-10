@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 551517b99f8f725f7034efdc73e866e296dec8b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2480a50c5cb017dfee4adda45704bf980080c6b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678773"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949690"
 ---
 # <a name="domain-transfers"></a>Transferencias de dominios
 
 [Cómo transferir un dominio comprado de Microsoft a otro proveedor después de 60 días](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-Aunque los dominios comprados por Microsoft no admiten el cambio de registros NS, considere la posibilidad de [actualizar los registros DNS para su sitio web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) en lugar de transferir el registro de dominio al host de la web.
+- Tenga en cuenta que un dominio comprado por Microsoft no se puede transferir entre espacios empresariales de Microsoft 365.
+- Aunque los dominios comprados por Microsoft no admiten el cambio de registros NS, considere la posibilidad de [actualizar los registros DNS para su sitio web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) en lugar de transferir el registro de dominio al host de la web.
 
-Un dominio comprado por Microsoft no se puede transferir entre espacios empresariales de Microsoft 365.
+Los dominios personalizados se pueden [verificar y usar con Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 
-Sin embargo, puede transferir un dominio de terceros entre los espacios empresariales de Microsoft 365 si [quita el dominio de un espacio empresarial](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) y verifica el dominio en otro espacio empresarial.
+- No se puede transferir un registro o facturación de dominios de terceros a Microsoft.
 
-No se puede transferir un registro o facturación de dominios de terceros a Microsoft.
-
-Los dominios personalizados se pueden [verificar y usar con Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide). Los dominios predeterminados de Onmicrosoft.com no se pueden transferir ni cambiar de nombre.
+Los dominios predeterminados de Onmicrosoft.com no se pueden transferir ni cambiar de nombre.
