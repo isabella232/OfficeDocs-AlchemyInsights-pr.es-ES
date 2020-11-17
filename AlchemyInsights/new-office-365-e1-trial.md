@@ -12,25 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769524"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086101"
 ---
 # <a name="new-office-365-e1-trial"></a>Nueva prueba de Office 365 E1
 
-En el 2020 de marzo, existe una versión de prueba gratuita de 6 meses de [Office 365 E1](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), incluido Microsoft Teams, que ya está disponible. Para obtener información sobre lo que está disponible con una licencia de E1, consulte [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
-
-**¿Quién es elegible?**
-
-Esta oferta está destinada a los clientes administrados por un representante de la cuenta de Microsoft. Es para organizaciones que no han activado ningún otro periodo de prueba de Office 365 E1 en el pasado. Una vez que haya usado el código de la promoción de la versión de prueba de E1, no podrá volver a utilizarlo, ni podrá activar otro código de prueba de E1. En estos casos, puede hacer que sus empleados activen una licencia de exploración de Microsoft [Teams](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
-
-**¿Quién no es elegible?**
-
-- Esta oferta no está disponible para los clientes de GCC, GCC High, DoD o EDU. Estamos trabajando en una versión GCC de la prueba de E1: estará disponible próximamente.
-
- - Los clientes de EDU deben usar la licencia gratuita Office 365 a1.
-
-No se pierdan todas nuestras instrucciones para [admitir trabajadores remotos con Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+A partir del 1 de julio de 2020, la licencia de prueba de Office 365 E1 ya no está disponible. Si necesita obtener una licencia para los usuarios de Microsoft Teams, lea la [Descripción del servicio de Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) para obtener una lista de las suscripciones de pago que incluyen a teams. Como alternativa, las organizaciones elegibles pueden usar la [versión gratuita de Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)o los empleados pueden activar la experiencia [exploratorias de Teams](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) .
