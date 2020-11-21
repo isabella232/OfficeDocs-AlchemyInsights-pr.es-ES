@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685759"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353487"
 ---
 # <a name="block-download-on-sharing-links"></a>Bloquear las descargas en vínculos para compartir
 
-**Bloquear descargas** está disponible para los **vínculos de solo vista** a los documentos de Office. Si selecciona esta opción, los usuarios que tengan acceso al archivo a través del vínculo que creó no verán las opciones para descargar, imprimir o copiar el archivo.
+Al compartir con otros usuarios en OneDrive o SharePoint, puede proporcionarles acceso para ver, pero no descargar.
 
-Los administradores pueden controlar si la configuración de "bloquear descargas" solo aparece para archivos de Office cambiando la configuración `BlockDownloadLinksFileType` en los cmdlets de PowerShell [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) o [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps).
+Para más información, vea: [Bloquear descargas para archivos de solo vista en SharePoint y OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e).
