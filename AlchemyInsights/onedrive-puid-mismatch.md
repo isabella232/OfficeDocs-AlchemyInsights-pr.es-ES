@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754356"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569184"
 ---
 # <a name="onedrive-puid-mismatch"></a>Discrepancia de los PUID de OneDrive
-Parece que está experimentando un error de [coincidencia de PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) en OneDrive para la empresa. Siga los pasos que se indican a continuación para que podamos ayudarle lo antes posible:
 
-1. Haga clic en **contactar con soporte técnico**y, a continuación, en **nueva solicitud de servicio**.
-2. Deje el título y la descripción como **PUID no coincidente en el sitio de OneDrive**.
+Parece que está experimentando un error de [coincidencia de ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) en OneDrive para la empresa. Siga los pasos que se indican a continuación para que podamos ayudarle lo antes posible:
+
+1. Haga clic en  **contactar con soporte técnico** y, a continuación, en  **nueva solicitud de servicio**.
+2. Dejar el título y la descripción como el  **identificador de usuario del sitio de OneDrive no coinciden**.
 3. Una vez enviado el vale, actualícelo con la siguiente información:
     - Dirección URL del sitio de OneDrive afectada.
     - Nombre principal de usuario (UPN) del usuario afectado.
-
-
-
