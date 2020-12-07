@@ -13,24 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947429"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477491"
 ---
 # <a name="lists-app-in-teams"></a>Aplicación de Listas en Teams
 
-La aplicación Listas de Microsoft Teams trae las listas de los sitios de SharePoint de equipo a los lienzos de colaboración y de trabajo en equipo de los canales Con esta aplicación, los usuarios pueden trabajar en sus listas favoritas desde Teams.
+La aplicación Listas de Microsoft Teams trae las listas de los sitios de SharePoint de equipo a los lienzos de colaboración y de trabajo en equipo de los canales Los usuarios pueden trabajar sobre sus listas favoritas con esta aplicación desde Teams.
 
-La aplicación de Listas está preinstalada para todos los usuarios de Teams y está disponible directamente en la galería de fichas de todos los equipos y canales.
+Listas está preinstalada para todos los usuarios de Teams y está disponible directamente en la galería de fichas de todos los equipos y canales.
 
-Los administradores de Teams pueden controlar la disponibilidad de la aplicación con las directivas de permisos de Microsoft Teams. Para obtener más información, consulte [Administrar directivas de permisos de aplicaciones de Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
-
-**Intervalos:** principios de septiembre y finalizado a mediados de octubre de 2020  
-
-**Implementación** : nivel de organización  
+Los administradores de Teams pueden controlar la disponibilidad de la aplicación con las directivas de permisos de Microsoft Teams. Para más información, consultar [Administrar directivas de permisos de aplicaciones de Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
 **Tipo de control:**  control de administración de Teams  
 
