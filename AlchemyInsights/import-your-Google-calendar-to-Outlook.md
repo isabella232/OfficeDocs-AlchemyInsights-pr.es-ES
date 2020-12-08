@@ -1,0 +1,33 @@
+---
+title: Importar el calendario de Google a Outlook
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 12/07/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "3800007"
+- "7354"
+ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
+ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49585572"
+---
+# <a name="import-your-google-calendar-to-outlook"></a><span data-ttu-id="6658b-102">Importar el calendario de Google a Outlook</span><span class="sxs-lookup"><span data-stu-id="6658b-102">Import your Google calendar to Outlook</span></span>
+
+<span data-ttu-id="6658b-103">Repita este procedimiento en cada calendario de Google que desee importar a Outlook.</span><span class="sxs-lookup"><span data-stu-id="6658b-103">Repeat this procedure each Google Calendar you want to import to Outlook.</span></span>
+
+1. <span data-ttu-id="6658b-104">En Outlook en el escritorio (Outlook 2013 o Outlook 2016), vaya a su **calendario**.</span><span class="sxs-lookup"><span data-stu-id="6658b-104">In Outlook on your desktop (Outlook 2013 or Outlook 2016), go to your **Calendar**.</span></span>
+1. <span data-ttu-id="6658b-105">Haga clic en **archivo**  >  **abrir & exportar**  >  **importar o exportar**.</span><span class="sxs-lookup"><span data-stu-id="6658b-105">Click **File** > **Open & Export** > **Import/Export**.</span></span>
+1. <span data-ttu-id="6658b-106">En el **Asistente para importar y exportar**, seleccione **importar un archivo de iCalendar (. ICS) o vCalendar** y, a continuación, haga clic en **siguiente**.</span><span class="sxs-lookup"><span data-stu-id="6658b-106">In the **Import and Export Wizard**, select **Import an iCalendar (.ics) or vCalendar file**, and then click **Next**.</span></span>
+1. <span data-ttu-id="6658b-107">Vaya a la ubicación donde almacenó el archivo extraído y elija el que acaba con **gmail.com** y haga clic en **Aceptar**.</span><span class="sxs-lookup"><span data-stu-id="6658b-107">Browse to where you stored the extracted file, and choose the one that ends with **gmail.com**, and click **OK**.</span></span>
+1. <span data-ttu-id="6658b-108">Haga clic en **Importar**</span><span class="sxs-lookup"><span data-stu-id="6658b-108">Click **Import**</span></span>
+
+<span data-ttu-id="6658b-109">Vaya a su calendario de Outlook.</span><span class="sxs-lookup"><span data-stu-id="6658b-109">Go to your Outlook calendar.</span></span> <span data-ttu-id="6658b-110">Ahora debería ver los eventos del calendario de Google allí.</span><span class="sxs-lookup"><span data-stu-id="6658b-110">You should now see your Google Calendar events there.</span></span>
