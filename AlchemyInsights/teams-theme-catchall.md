@@ -1,5 +1,5 @@
 ---
-title: ¿Es la primera vez que usa Microsoft Teams?
+title: Configurar Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750432"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576268"
 ---
-# <a name="new-to-microsoft-teams"></a>¿Es la primera vez que usa Microsoft Teams?
+# <a name="set-up-microsoft-teams"></a>Configurar Microsoft Teams
 
-Consulte  [Introducción a Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Asegúrese de consultar los vídeos de aprendizaje, las cartas de aprendizaje y más información de Microsoft Teams para administradores.
+La  [guía de configuración de Microsoft Teams](https://aka.ms/teamsguidance)  proporciona a su organización instrucciones para configurar espacios de trabajo en equipo que hospeden conversaciones en tiempo real a través de mensajes, llamadas y reuniones de audio o video tanto para la comunicación privada como del equipo. Recibirá las instrucciones para determinar los requisitos de red de su organización con la herramienta de Planeamiento de red y el asesor de Teams en el Centro de administración de Microsoft Teams. Una vez completada la implementación, en la guía se incluyen recursos útiles para empezar a usar Microsoft Teams.
 
-Si necesita ayuda para implementar Teams para admitir a los trabajadores remotos (WFH) debido a COVID-19, consulte [soporte técnico para trabajadores remotos con Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). También puede optar por la ayuda de implementación del programa Microsoft 365 FastTrack; visite el [Centro de FastTrack](https://www.microsoft.com/fasttrack) para enviar una solicitud.
-
-**Importante**: debido al reciente aumento en el uso de los Teams, cuando asigne una licencia de Teams a un usuario, es posible que tarde 24 horas antes de que se configure completamente. Si no lo hace, no podrá asignarlas a las directivas de Teams, y es posible que no tengan acceso a algunas de las características de Teams como las conferencias de audio y llamadas.
+Para más información, vea [Introducción a Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
