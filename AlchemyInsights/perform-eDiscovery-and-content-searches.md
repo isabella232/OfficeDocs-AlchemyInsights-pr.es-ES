@@ -14,25 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721463"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668531"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cómo realizar búsquedas de contenido y búsquedas de exhibición de documentos electrónicos
 
-Use la herramienta de búsqueda de contenido en el centro de seguridad & cumplimiento para encontrar rápidamente el correo electrónico en los buzones de Exchange, los documentos en los sitios de SharePoint y la cuenta de OneDrive, y las conversaciones de mensajería instantánea en Skype empresarial. También puede usar la herramienta de búsqueda de contenido para buscar correos electrónicos, documentos y conversaciones de mensajería instantánea en las herramientas de colaboración de Microsoft 365, como Microsoft Teams y Microsoft 365 groups.
-
-**Para realizar una búsqueda de contenido**
+**Para realizar una búsqueda de contenido**:
 
 1. Vaya al [centro de seguridad & cumplimiento](https://protection.office.com) e inicie sesión.
 2. Haga clic en **buscar >** búsqueda de contenido.
 3. Haga clic en **nueva búsqueda** para crear una nueva búsqueda.
-4. Especifique las condiciones de búsqueda necesarias, incluidas las palabras clave y las ubicaciones de contenido.  
+4. Especifique las condiciones de búsqueda necesarias, incluidas las palabras clave y las ubicaciones de contenido.
 5. Haga clic en **guardar & ejecutar** para asignar un nombre a la búsqueda, iniciarla y, a continuación, obtener una vista previa de los resultados.
+
+> [!NOTE]
+> En el **centro de cumplimiento de M365**, en **soluciones**, elija expandir **eDiscovery** y seleccione la herramienta de exhibición de documentos electrónicos que desee.
 
 Para obtener instrucciones detalladas sobre las búsquedas de contenido, exportar los resultados y crear casos de exhibición de documentos electrónicos para contener datos, consulte [búsquedas de contenido](https://docs.microsoft.com/microsoft-365/compliance/content-search) y [casos de exhibición](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)de documentos electrónicos.
 
-Obtenga más información sobre la búsqueda de contenido mediante la revisión de los [requisitos y los límites](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) y la investigación de los  [elementos indizados parcialmente](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) y otros resultados que deben tenerse en cuenta.
+**Más información**:
+
+- Para obtener más información sobre las herramientas de exhibición de documentos electrónicos de Microsoft 365, consulte [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Obtenga información sobre los permisos, los requisitos y los límites necesarios para realizar búsquedas de eDiscovery a partir de [los permisos necesarios para las búsquedas](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) y [los requisitos y límites](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)de la exhibición de documentos electrónicos.
+- Si está solucionando problemas relacionados con la exhibición de documentos electrónicos, vea [eDiscovery Troubleshooting Common issues](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) y [Investigating items indexados parcialmente](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
