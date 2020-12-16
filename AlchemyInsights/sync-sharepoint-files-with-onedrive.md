@@ -25,7 +25,7 @@ ms.locfileid: "49086065"
 
 Siga los pasos y las prácticas recomendadas que se indican en los siguientes artículos:
 
-- [Cómo usar el comando "Abrir con el Explorador" para solucionar problemas en SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
+- [Cómo usar el comando “Abrir con el Explorador” para solucionar problemas en SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
 
 - [Copiar o mover archivos de las bibliotecas mediante Abrir con el Explorador](https://support.microsoft.com/office/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2?ui=en-us&rs=en-us&ad=us)
 

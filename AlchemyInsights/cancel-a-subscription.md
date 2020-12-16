@@ -30,6 +30,6 @@ Solo puede cancelar la suscripción de Azure en Microsoft Azure Portal si es el 
 
 Después de cancelar la suscripción, la facturación se detiene inmediatamente. Sin embargo, la cancelación puede tardar hasta 10 minutos en aparecer en el portal. Si cancela en mitad de un período de facturación, enviaremos la factura final en su fecha de factura típica después de que finalice el período.
 
-Después de que se cancele la suscripción, Microsoft espera de 30 a 90 días antes de eliminar de forma permanente los datos, por si necesita acceder a ellos o cambia de opinión. No se le cobra por retener datos. Para obtener más información, vea [Centro de confianza de Microsoft: cómo administramos sus datos](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Después de que se cancele la suscripción, Microsoft espera de 30 a 90 días antes de eliminar de forma permanente los datos, por si necesita acceder a ellos o cambia de opinión. No se le cobra por retener datos. Para más información, vea [Centro de confianza de Microsoft: cómo administramos sus datos](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 
 
