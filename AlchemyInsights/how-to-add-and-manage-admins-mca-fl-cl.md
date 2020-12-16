@@ -1,0 +1,40 @@
+---
+title: Cómo agregar y administrar administradores-MCA FL/CL
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004114"
+- "7424"
+ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684004"
+---
+# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Cómo agregar y administrar administradores-MCA FL/CL
+
+Para administrar su cuenta de facturación para un acuerdo de cliente de Microsoft (MCA), puede usar diferentes roles con el nivel de acceso deseado. Estos roles se agregan además de los roles de servicio de Azure integrados que le ayudarán a controlar los recursos.
+
+**Para agregar roles de facturación en Azure Portal:**
+
+1. Inicie sesión en el [portal de Azure](https://portal.azure.com/).
+2. Buscar la *Administración de costos + facturación*.
+3. Seleccione control de acceso (IAM) en un ámbito como la cuenta de facturación, el perfil de facturación o la sección de facturas donde desea dar acceso.
+4. La página control de acceso (IAM) enumera los usuarios y grupos que se asignan a cada rol para ese ámbito.
+5. Para conceder acceso a un usuario, seleccione **Agregar** desde la parte superior de la página. En la lista desplegable *rol* , seleccione un rol. Escriba la dirección de correo electrónico del usuario al que desea conceder acceso. Seleccione **Guardar** para asignar el rol.
+6. Para quitar el acceso de un usuario, seleccione el usuario con la asignación de roles que desea quitar. Seleccione **quitar**.
+
+**Documentos recomendados**
+
+- [Definiciones de roles de facturación](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+- [Roles y tareas de la cuenta de facturación](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
+- [Introducción a su cuenta de facturación de MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-overview)
+- [Comprobar el acceso a un acuerdo de cliente de Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
