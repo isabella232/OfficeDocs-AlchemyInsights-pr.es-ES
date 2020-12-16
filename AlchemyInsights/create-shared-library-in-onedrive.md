@@ -20,6 +20,6 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 11/17/2020
 ms.locfileid: "49086332"
 ---
-# <a name="create-a-shared-library-in-onedrive"></a><span data-ttu-id="353e9-102">Crear una biblioteca compartida en OneDrive</span><span class="sxs-lookup"><span data-stu-id="353e9-102">Create a shared library in OneDrive</span></span>
+# <a name="create-a-shared-library-in-onedrive"></a><span data-ttu-id="72da9-102">Crear una biblioteca compartida en OneDrive</span><span class="sxs-lookup"><span data-stu-id="72da9-102">Create a shared library in OneDrive</span></span>
 
-<span data-ttu-id="353e9-103">Para obtener más información, consulte [Crear una nueva biblioteca compartida desde OneDrive](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US).</span><span class="sxs-lookup"><span data-stu-id="353e9-103">For more information, see [Create a new shared library from OneDrive](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US).</span></span>
+<span data-ttu-id="72da9-103">Para obtener más información, consulte [Crear una nueva biblioteca compartida desde OneDrive](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US).</span><span class="sxs-lookup"><span data-stu-id="72da9-103">For more information, see [Create a new shared library from OneDrive](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US).</span></span>
