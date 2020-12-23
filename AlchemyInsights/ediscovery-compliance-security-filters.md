@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666666"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727240"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>No se devolvieron resultados durante la búsqueda o exportación de contenido
 
@@ -26,7 +26,7 @@ Si experimenta problemas con los siguientes escenarios de exhibición de documen
 - La búsqueda y la exportación de contenido no devuelve datos o datos inesperados
 - error de búsqueda o exportación de eDiscovery
 
-Esto puede deberse a ciertos filtros de seguridad de cumplimiento que fueron configurados por un administrador específico y que no se han comunicado a todos los administradores.
+Esto puede deberse a ciertos filtros de seguridad de cumplimiento que fueron configurados por un administrador específico y que no se comunicaron a todos los administradores.
 
 Para solucionar esto, compruebe si hay filtros de seguridad de cumplimiento que puedan causar estos problemas:
 
