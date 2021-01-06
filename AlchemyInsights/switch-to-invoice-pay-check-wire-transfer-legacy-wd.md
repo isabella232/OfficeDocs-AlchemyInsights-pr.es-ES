@@ -1,5 +1,5 @@
 ---
-title: 'Cambiar a pago de factura (cheque/transferencia bancaria): WD heredado'
+title: Cambiar a pago mediante factura (cheque/transferencia bancaria)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49722830"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755420"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Cambiar a pago de factura (cheque/transferencia bancaria): WD heredado
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Cambiar a pago mediante factura (cheque/transferencia bancaria)
+
+En función de la descripción del problema, hemos encontrado una soluci? a para usted. La mayoría de los clientes pudieron resolver su problema por su cuenta después de seguir la documentación.
 
 Si cambia a pago mediante factura, significa que pagará la factura en un plazo de 30 días a partir de la fecha de facturación. Para que se pueda pagar la suscripción de Azure por factura, envíe una solicitud a Azure support. Una vez aprobada la solicitud, puede cambiar una suscripción a pago de facturas en el [portal de Azure](https://portal.azure.com/).
 

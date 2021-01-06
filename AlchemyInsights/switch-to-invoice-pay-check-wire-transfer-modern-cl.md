@@ -1,5 +1,5 @@
 ---
-title: 'Cambiar a pago de la factura (comprobación/transferencia bancaria): CL moderno'
+title: Cambiar a pago mediante factura (comprobación/transferencia bancaria)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693396"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755512"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Cambiar a pago de la factura (comprobación/transferencia bancaria): CL moderno
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Cambiar a pago mediante factura (comprobación/transferencia bancaria)
+
+En función de la descripción del problema, hemos encontrado una soluci? a para usted. La mayoría de los clientes pudieron resolver su problema por su cuenta después de seguir la documentación.
 
 Si cambia a pago mediante factura, significa que pagará la factura en un plazo de 30 días a partir de la fecha de facturación. Para que se pueda pagar la suscripción de Azure por factura, envíe una solicitud a Azure support. Una vez aprobada la solicitud, puede cambiar una suscripción a pago de facturas en el portal de Azure.
 

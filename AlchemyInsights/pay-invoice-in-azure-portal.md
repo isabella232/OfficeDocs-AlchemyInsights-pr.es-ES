@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709830"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755636"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Pagar factura en Azure portal-pasos recomendados
+
+En función de la descripción del problema, hemos encontrado una soluci? a para usted. La mayoría de los clientes pudieron resolver su problema por su cuenta después de seguir la documentación.
 
 Debe ser el administrador de la cuenta de facturación para pagar las facturas en el portal de Azure. El administrador de la cuenta de facturación es el usuario que originalmente se registró en la cuenta de acuerdo de cliente de Microsoft. 
 
 Para pagar la factura en Azure Portal: 
 
 1. Inicie sesión en el [portal de Azure](https://portal.azure.com/).
-1. Búsqueda en **Administración de costos + facturación**.
+1. Buscar en **Administración de costos + facturación**.
 1. En el panel izquierdo, en **facturación**, haga clic en **facturas**.
 1. Si alguna de las facturas vencidas o vencidas, verá un vínculo azul a **pagar** a la factura. Haga clic en **pagar ahora**.
 1. En la nueva hoja, haga clic en **seleccionar un método de pago** para elegir una tarjeta de crédito existente o agregar una nueva.
