@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731256"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768834"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Habilitación del cifrado de BitLocker con Intune
 
@@ -30,10 +30,12 @@ Para obtener información sobre cómo solucionar problemas de BitLocker, vea [so
  
 **Preguntas frecuentes**
 
- P: ¿Qué ediciones de Windows admiten el cifrado de dispositivos con la Directiva de Endpoint Protection?<br>
- A: la configuración de la Directiva de la protección de extremos de Intune se implementa con el [CSP de BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). No todas las ediciones o compilaciones de Windows admiten el CSP de BitLocker. <br><br>
-      En este momento, se admiten las siguientes ediciones de Windows: Enterprise, Education, Mobile, Mobile Enterprise y Professional (compilación 1809 y posteriores).
- 
+P: ¿Qué ediciones de Windows admiten el cifrado de dispositivos con la Directiva de Endpoint Protection?<br>
+A: la configuración de la Directiva de la protección de extremos de Intune se implementa con el [CSP de BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). No todas las ediciones o compilaciones de Windows admiten el CSP de BitLocker. <br><br>
+
+P: ¿cómo se puede habilitar BitLocker en dispositivos sin que sea necesaria la interacción del usuario final?<br>
+A: siempre que se cumplan los requisitos previos necesarios, es posible habilitar el "cifrado silencioso" de BitLocker a través de Intune. Vea los detalles de la configuración de directiva de ejemplo y los requisitos de dispositivo para habilitar el cifrado silencioso en el siguiente documento: [Habilitar el cifrado de BitLocker en modo silencioso](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 P: Si ya se ha cifrado un dispositivo con BitLocker mediante la configuración predeterminada del sistema operativo para el método de cifrado y la seguridad de cifrado (XTS-AES-128), se aplicará una directiva con una configuración diferente para activar de nuevo el cifrado de la unidad con la nueva configuración.<br>
 R: No. Para aplicar la nueva configuración de cifrado, primero debe descifrarse la unidad.<br><br>
 **Nota:** Para los dispositivos que se inscriben con AutoPilot, el cifrado automático que se produciría durante la OOBE no se desencadena hasta que se evalúe la Directiva de Intune, lo que permite usar la configuración basada en directivas en lugar de los valores predeterminados del sistema operativo.
