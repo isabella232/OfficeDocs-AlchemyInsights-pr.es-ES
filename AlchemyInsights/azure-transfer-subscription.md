@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736895"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755564"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Transferir la propiedad de facturación de Azure
 
 Inicie sesión en el [portal de Azure](https://portal.azure.com/) como administrador de la cuenta de facturación que tiene la suscripción que quiere transferir. Si no está seguro de si es el administrador, o si necesita determinar quién es, vea [Determinar el administrador de facturación de la cuenta](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Buscar en _Administración de costos + facturación_.
+1. Busque _Administración de costos + Facturación_.
 1. Seleccione **Suscripciones** en el panel izquierdo. Según el acceso, es posible que tenga que seleccionar un ámbito de facturación y, a continuación, las **Suscripciones** o las **Suscripciones de Azure**.
 1. Seleccione **Transferir propiedad de facturación** para la suscripción que desea transferir
 1. Escriba la dirección de correo electrónico de un usuario que sea administrador de facturación de la cuenta y que será el nuevo propietario de la suscripción. A continuación, seleccione **Enviar solicitud de transferencia**
