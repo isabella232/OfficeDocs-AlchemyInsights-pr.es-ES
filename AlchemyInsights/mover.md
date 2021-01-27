@@ -12,20 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 9a50525540d7b591c9272bc39714105cd1aa121f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
+ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702776"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49986315"
 ---
 # <a name="mover"></a>Mover
 
-El 21 de octubre de 2019, Microsoft compró  **Movers**, un proveedor líder de migración de archivos en la nube.
+Para obtener información sobre Mover, consulte los siguientes artículos:
 
-En el momento actual, [dirija todas las solicitudes de soporte técnico](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **aquí**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
-
-Para obtener más información sobre el organizador, consulte los siguientes artículos:
-
-- [Guías de migración ](https://mover.io/guides/)
-- [Preguntas frecuentes generales sobre la migración](https://mover.io/guides/general/)
+- [Planear la migración con Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [Administrar conectores](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [Ejecutar la migración de Mover](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
