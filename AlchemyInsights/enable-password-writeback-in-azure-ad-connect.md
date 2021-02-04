@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560457"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093372"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Habilitar la escritura diferida en Azure AD Connect
 
@@ -43,4 +43,4 @@ Con la escritura a contraseña diferida en Azure AD Connect, ahora configure Azu
 Para obtener más información, consulte [Habilitar la reescritura diferida de la contraseña de autoservicio de Azure Active Directory en un entorno local](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Cuando un administrador restablece la contraseña de un usuario en Azure Portal, si ese usuario es federado o se sincroniza con hash de contraseña, la contraseña se vuelve a escribir en local. Esta función no está disponible actualmente en el portal de administración de Office.
+>  Cuando un administrador restablece la contraseña de un usuario en Azure Portal, si ese usuario es federado o se sincroniza con hash de contraseña, la contraseña se vuelve a escribir en local. Esta funcionalidad necesita de una licencia Azure Premium (P1 o P2) y que actualmente no está respaldada en el portal de Administrador de Office.
