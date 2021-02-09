@@ -1,23 +1,23 @@
 ---
 title: Agregar, actualizar o quitar método de pago
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002348"
 - "4574"
-ms.openlocfilehash: 4325aceb334661db2fcc681d731182fa647b890e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edd6cf55ecc7808e80b74728a686d7d700ffc222
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687523"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152551"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Agregar, actualizar o quitar método de pago
 
