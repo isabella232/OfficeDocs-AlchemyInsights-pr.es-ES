@@ -1,37 +1,35 @@
 ---
-title: ¿Cómo puedo cambiar los pagos con tarjeta de crédito a la factura?
+title: ¿Cómo puedo cambiar de pagos con tarjeta de crédito a facturar?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286759"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152323"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>¿Cómo puedo cambiar los pagos con tarjeta de crédito a la factura?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>¿Cómo puedo cambiar de pagos con tarjeta de crédito a facturar?
 
 > [!NOTE]
-> La opción de pago mediante factura solo está disponible si la suscripción cuesta una cantidad determinada (que varía según la ubicación de servicio). En el caso de los pagos de las facturas con un importe más elevado, puede ser necesario realizar una comprobación de crédito. Para obtener más información, consulte [Pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> Solo puede cambiar al pago mediante factura si su suscripción cuesta por encima de un importe determinado. Primero debe pagar el saldo pendiente en la tarjeta de crédito, débito o cuenta bancaria antes de cambiar a pagar mediante factura.
 
 1. En el centro de administración, vaya a la página de **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Busque la suscripción que desea cambiar. En **facturación**, junto al método de pago, seleccione **Editar**.
-3. Junto a su método de pago existente, seleccione **cambiar**.
-4. En el menú desplegable, seleccione **factura o transferencia bancaria**.
-5. Escriba su nombre, dirección y número de teléfono. También puede Agregar un número de pedido de compra para que se muestre en la factura.
-6. Cuando termine, seleccione **Guardar**.
-7. Compruebe que el método de pago seleccionado sea correcto y, a continuación, seleccione **Guardar**.
+2. En la **pestaña** Productos, busque la suscripción que desea pagar con el método de pago alternativo.
+3. Seleccione **Más acciones** (tres puntos) y, a continuación, seleccione Reemplazar método de **pago.**
+4. En el **panel Reemplazar método de** pago, seleccione Agregar método de **pago.**
+5. En el **panel Agregar un método de** pago, seleccione Factura o transferencia **bancaria.**
+6. Escriba su nombre, dirección y número de teléfono. También puede agregar un número de pedido de compra para mostrar en la factura.
+7. Cuando termine, seleccione **Guardar**.
 
-Para obtener más información, consulte [cambiar el método de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Para obtener más información, [consulte Cómo pagar la suscripción.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
