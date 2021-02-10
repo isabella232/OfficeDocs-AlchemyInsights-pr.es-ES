@@ -1,0 +1,31 @@
+---
+title: Agregar firma de correo electrónico en Outlook para Mac
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "1200009"
+- "8200"
+ms.openlocfilehash: 5d76bac16d640f8634903abae59fc7e61fa60cb3
+ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50165269"
+---
+# <a name="add-email-signature-in-outlook-for-mac"></a>Agregar firma de correo electrónico en Outlook para Mac
+
+1. En el menú **de Outlook,** haga clic en **Preferencias.**
+2. En **Correo electrónico,** haga clic **en Firmas**.
+3. Haga **clic en Agregar +**.
+4. Haga doble clic **en Sin título** y, a continuación, escriba un nombre para la firma.
+5. En el panel derecho, escriba el texto que desea incluir en la firma.
+6. Cierre la **página Firmas.**
+7. Para aplicar formato como fuente, estilo de fuente, tamaño de fuente, color de fuente o resaltado, seleccione el texto y, a continuación, en el menú Formato, haga clic en la opción que desee.
+8. Cierre la **página Firmas.**
