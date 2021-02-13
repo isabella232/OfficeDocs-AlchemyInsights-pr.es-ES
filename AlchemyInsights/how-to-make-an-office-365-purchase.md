@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287155"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232384"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Cómo realizar una compra de Microsoft 365
 
 Puede comprar una suscripción a Microsoft 365 en el centro de administración.
   
-- Para comprar un plan, vaya a la **Billing** \> Página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.
-- Para adquirir más licencias, vaya a la página **facturación** \> [de productos](https://go.microsoft.com/fwlink/p/?linkid=842054) . Seleccione la suscripción que desea cambiar y, a continuación, seleccione **comprar licencias** o **quitar licencias**.
+- Para comprar un plan, vaya a la página **Servicios de compra** de \> **[facturación.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Para comprar licencias adicionales,  vaya a la página \> **[Facturación de sus productos.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Seleccione la suscripción que desea cambiar y, a continuación, **seleccione Comprar licencias.\**
+**VEA un vídeo** que muestra cómo hacerlo: [Comprar nuevas licencias](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Para obtener más información, consulte [comprar licencias para la suscripción a Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Para obtener más información, [vea Comprar o quitar licencias.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Solución de problemas**
 
