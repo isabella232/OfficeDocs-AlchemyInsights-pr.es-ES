@@ -1,0 +1,32 @@
+---
+title: Crear una firma en Outlook para Mac
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/18/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "1200009"
+- "7310"
+ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
+ms.sourcegitcommit: 616ae0cbd5769e12ae428e00088840cf05e52b6a
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50282861"
+---
+# <a name="create-a-signature-in-outlook-for-mac"></a>Crear una firma en Outlook para Mac
+
+1.  En el menú **de Outlook,** haga clic **en Preferencias.**
+2.  En **Correo electrónico,** haga clic **en Firmas**.
+3.  Haga clic **en Agregar** **+** .
+4.  Haga doble clic **en Sin título** y, a continuación, escriba un nombre para la firma.
+5.  En el panel derecho, escriba el texto que desea incluir en la firma.
+6.  Cierre la **página Firmas.**
+7.  Para aplicar formato como fuente, estilo de fuente, tamaño de fuente, color de fuente o resaltado, seleccione el texto y, a continuación, en el menú Formato, haga clic en la opción que desee.
+8.  Cierre la **página Firmas.**
