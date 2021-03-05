@@ -12,14 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+- commerce
+ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488934"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50470023"
 ---
 # <a name="suspend-or-pause-licenses"></a>Suspender o pausar licencias
+
+**Vea un vídeo** que muestra cómo hacer esto: [Quitar licencias existentes](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 Para suspender o pausar temporalmente el uso de sus licencias, puede quitar las licencias desde el Centro de administración de Microsoft 365 y volver a agregarlas en otro momento.
 
@@ -29,4 +32,4 @@ Para suspender o pausar temporalmente el uso de sus licencias, puede quitar las 
 4. En la página de detalles de la suscripción, seleccione **Quitar licencias**.
 5. En el panel **Quitar licencias**, en el cuadro **Licencias totales**, escriba el número total de licencias que quiera para esta suscripción y seleccione **Guardar**. Por ejemplo, si tiene 100 licencias y quiere suspender o pausar 25, escriba 75 como el total de licencias de la suscripción.
 
-Para obtener más información, consulte [Administrar las licencias de suscripción](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Para más información, consulte [Asignar o quitar licencias](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
