@@ -1,9 +1,10 @@
 ---
-title: Regla avanzada de detección de todos los de implementación
+title: Regla de captura de implementación avanzada
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696709"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448660"
 ---
-# <a name="deploy-microsoft-365-apps"></a>Implementación de aplicaciones de Microsoft 365
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Instalar Office con el asesor de implementación de Aplicaciones de Microsoft 365
 
-Para implementar aplicaciones de Microsoft 365 en varios usuarios finales mediante la herramienta de implementación de Office, el administrador de configuración de Microsoft Endpoint, como parte de una imagen de disco de sistema operativo o en un escenario de equipos compartidos mediante Windows Server con servicios de escritorio remoto (RDS) o Terminal Services, considere la posibilidad de usar la guía paso a paso del **Asesor de implementación de Microsoft 365**.
+El asesor de implementación de Aplicaciones de [Microsoft 365](https://admin.microsoft.com/adminportal/home) le ayuda a obtener los dispositivos de los usuarios que ejecutan la versión más reciente de productos de Office como Word, Excel, PowerPoint y OneNote.
   
-Para empezar, asegúrese de que ha iniciado sesión como administrador de inquilinos o administrador global y, a continuación, haga clic aquí: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+Encontrará instrucciones sobre los distintos métodos de implementación, que incluyen opciones fáciles de instalar automáticamente, así como implementaciones empresariales con herramientas de administración. Las instrucciones le ayudarán a evaluar su entorno, averiguar sus requisitos de implementación específicos e implementar las herramientas de soporte necesarias para garantizar una instalación correcta.
   

@@ -1,10 +1,10 @@
 ---
-title: Implementar Office en la guía de usuarios
+title: Deploy Office to your users Guide
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004198"
 - "7379"
-ms.openlocfilehash: 4eb1deb2326afc8cb7b54a7ee89cd5f8f7a540c9
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "2000022"
+- "871"
+ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609663"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448696"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Implementar Office en la guía de usuarios
+# <a name="deploy-office-to-your-users-guide"></a>Deploy Office to your users Guide
 
-Implemente las aplicaciones de Office desde la nube con la capacidad de personalizar la instalación mediante la herramienta de implementación de Office.
+Implemente aplicaciones de Office desde la nube con la capacidad de personalizar la instalación mediante la Herramienta de implementación de Office.
 
-La guía "implementar Office para los usuarios" le ayuda a crear una configuración de Office personalizada con configuración avanzada o puede usar una configuración recomendada predefinida. Tanto si los usuarios llevan a cabo una instalación automática o si va a implementar en forma individual o masiva a los usuarios, este asistente avanzado le proporciona instrucciones paso a paso para proporcionar a los usuarios una instalación de Office personalizada para su organización.
+La [guía Implementar Office para los](https://go.microsoft.com/fwlink/?linkid=2146451) usuarios le ayuda a crear una configuración personalizada de Office con una configuración avanzada o puede usar una configuración recomendada predefinida. Tanto si los usuarios realizan una instalación automática como si están implementando para los usuarios de forma individual o masiva, este asistente avanzado le proporciona instrucciones paso a paso para proporcionar a los usuarios una instalación de Office adaptada a su organización.
