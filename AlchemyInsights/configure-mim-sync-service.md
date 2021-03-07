@@ -1,0 +1,36 @@
+---
+title: Configurar el servicio de sincronización MIM
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 02/19/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "8472"
+- "9004688"
+ms.openlocfilehash: 48e9a0e8c26088b690092bfaedfba641841739f6
+ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430770"
+---
+# <a name="configure-mim-sync-service"></a><span data-ttu-id="1b7f2-102">Configurar el servicio de sincronización MIM</span><span class="sxs-lookup"><span data-stu-id="1b7f2-102">Configure MIM Sync service</span></span>
+
+<span data-ttu-id="1b7f2-103">El servicio de sincronización de Microsoft Identity Manager (MIM) es un componente de MIM.</span><span class="sxs-lookup"><span data-stu-id="1b7f2-103">Microsoft Identity Manager (MIM) Synchronization Service is a component of MIM.</span></span> <span data-ttu-id="1b7f2-104">Es un servicio local centralizado que almacena e integra información para organizaciones que tienen varios directorios y bases de datos locales.</span><span class="sxs-lookup"><span data-stu-id="1b7f2-104">It is a centralized on-premises service that stores and integrates information for organizations that have multiple on-premises directories and databases.</span></span> <span data-ttu-id="1b7f2-105">Es posible que pueda resolver el problema con la sincronización de MIM si el problema se abordó en una actualización reciente de MIM o si es uno de los otros problemas mencionados en la sección siguiente.</span><span class="sxs-lookup"><span data-stu-id="1b7f2-105">You may be able to resolve your problem with MIM Sync if the issue was addressed in a recent update to MIM or is one of the other issues mentioned in the below section.</span></span>
+
+<span data-ttu-id="1b7f2-106">**Pasos recomendados**</span><span class="sxs-lookup"><span data-stu-id="1b7f2-106">**Recommended steps**</span></span>
+
+1. <span data-ttu-id="1b7f2-107">Asegúrese de que está utilizando una actualización reciente de la sincronización de MIM y compruebe las [notas de la versión de la sincronización de MIM](https://docs.microsoft.com/microsoft-identity-manager/reference/version-history) para determinar si el problema se ha resuelto en una actualización.</span><span class="sxs-lookup"><span data-stu-id="1b7f2-107">Ensure that you are using a recent update of MIM Sync and check the [MIM Sync release notes](https://docs.microsoft.com/microsoft-identity-manager/reference/version-history) to determine if the issue has been resolved in an update.</span></span>
+2. <span data-ttu-id="1b7f2-108">Si el problema es con el conector LDAP genérico, el SQL genérico, el Lotus Domino o el de los servicios Web, asegúrese de que está usando una actualización reciente de los [conectores genéricos](https://docs.microsoft.com/microsoft-identity-manager/reference/microsoft-identity-manager-2016-connector-version-history).</span><span class="sxs-lookup"><span data-stu-id="1b7f2-108">If the problem is with the Generic LDAP, Generic SQL, Lotus Domino or Web Services connector, ensure that you are using a recent update of the [generic connectors](https://docs.microsoft.com/microsoft-identity-manager/reference/microsoft-identity-manager-2016-connector-version-history).</span></span>
+3. <span data-ttu-id="1b7f2-109">Si una ejecución de sincronización de MIM se detiene con un error, consulte la tabla de [códigos de error de ejecución](https://docs.microsoft.com/microsoft-identity-manager/reference/maerrorcodes) para determinar las posibles causas.</span><span class="sxs-lookup"><span data-stu-id="1b7f2-109">If an MIM Sync-run stops with an error, consult the table of [run error codes](https://docs.microsoft.com/microsoft-identity-manager/reference/maerrorcodes) to determine the potential causes.</span></span>
+4. <span data-ttu-id="1b7f2-110">Si la ejecución se detiene con **extension-dll-exception**, entonces haga clic en esas palabras para abrir la ventana de **propiedades del objeto del espacio conector**, y haga clic en **Seguimiento de pila...** para ver más información sobre la causa subyacente, tal y como se describe en [Extension-DLL-Exception](https://social.technet.microsoft.com/wiki/contents/articles/7515.fim-troubleshooting-extension-dll-exception.aspx).</span><span class="sxs-lookup"><span data-stu-id="1b7f2-110">If the run stops with **extension-dll-exception**, then click on those words to open the **Connector Space Object properties** window, and click on **Stack Trace...** to see more information on the underlying cause, as described in [Extension-DLL-Exception](https://social.technet.microsoft.com/wiki/contents/articles/7515.fim-troubleshooting-extension-dll-exception.aspx).</span></span>
+5. <span data-ttu-id="1b7f2-111">Si el componente del Servicio de notificación de cambio de contraseña (PCNS) muestra el **error 6025** en el registro de eventos durante la sincronización de la contraseña, compruebe la guía para la solución problemas del [informe del error 6025 de PCNS](https://social.technet.microsoft.com/wiki/contents/articles/4159.pcns-troubleshooting-event-id-6025.aspx).</span><span class="sxs-lookup"><span data-stu-id="1b7f2-111">If the Password Change Notification Service (PCNS) component reports **error 6025** in the event log during password synchronization, check the guide for troubleshooting [PCNS reporting error 6025](https://social.technet.microsoft.com/wiki/contents/articles/4159.pcns-troubleshooting-event-id-6025.aspx).</span></span>
+6. <span data-ttu-id="1b7f2-112">Si la sincronización completa con el Agente de administración de servicio de FIM es lenta, compruebe la configuración de **crecimiento automático** para TempDB, como se describe en la [Solución de problemas de sincronización completa lenta o colgante](https://social.technet.microsoft.com/wiki/contents/articles/14713.troubleshooting-fim-performance-slow-or-hanging-full-synchronization.aspx).</span><span class="sxs-lookup"><span data-stu-id="1b7f2-112">If full synchronization with the FIM Service Management Agent is slow, check the **auto grow** setting for TempDB, as described in [Troubleshooting slow or hanging full synchronization](https://social.technet.microsoft.com/wiki/contents/articles/14713.troubleshooting-fim-performance-slow-or-hanging-full-synchronization.aspx).</span></span>
+7. <span data-ttu-id="1b7f2-113">Si se encuentra un error de servidor detenido con creación fallida a través de servicios web usando el Agente de administración de servicio de FIM, consulte [Información de soporte: creación fallida mediante servicios web](https://docs.microsoft.com/archive/blogs/iamsupport/support-info-fimma-failed-creation-via-web-services) para obtener una descripción general de las causas.</span><span class="sxs-lookup"><span data-stu-id="1b7f2-113">If you are encountering an error of stopped-server with failed-creation-via-web-services using the FIM Service Management Agent, see [Support-Info: failed-creation-via-web-services](https://docs.microsoft.com/archive/blogs/iamsupport/support-info-fimma-failed-creation-via-web-services) for an overview of causes.</span></span>
+
