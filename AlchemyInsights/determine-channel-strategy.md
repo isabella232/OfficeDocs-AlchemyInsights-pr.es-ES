@@ -1,0 +1,39 @@
+---
+title: Determinar la estrategia de canal
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/08/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9144"
+- "9005291"
+ms.openlocfilehash: d3288bc4da83bcd8ddc82b0ce40482453a822aad
+ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 03/08/2021
+ms.locfileid: "50530121"
+---
+# <a name="determine-channel-strategy"></a>Determinar la estrategia de canal
+
+Microsoft Edge se lanza en cuatro canales que controlan la frecuencia con la que se actualiza el explorador. Para obtener información general en mayor profundidad sobre cada canal, consulte [Información general sobre el canal](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview).
+
+El Canal estable es el canal que querrá implementar en la mayoría de los dispositivos, pero debería considerar implementar varios canales y dispositivos.
+
+> [!NOTE]
+> Puedes instalar más de un canal en un solo dispositivo.
+
+**Varios dispositivos y canales**
+
+Se recomienda tener un subconjunto de dispositivos configurados para usar el canal beta o de prueba, para que pueda ver los próximos cambios y probarlos antes de aplicarlos a toda su organización.
+
+Instalar varios canales en un dispositivo puede reducir el riesgo de probar una nueva versión, ya que los usuarios pueden cambiar con facilidad al canal estable si experimentan problemas.
+
+Una vez que haya definido su estrategia de canal, estará listo para empezar a definir directivas.
+
