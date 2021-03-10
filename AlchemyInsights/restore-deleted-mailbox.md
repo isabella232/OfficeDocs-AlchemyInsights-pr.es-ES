@@ -15,22 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728088"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641535"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurar un buzón de correo eliminado
 
-Cuando un usuario pierde una licencia de Exchange Online, su buzón se conserva durante 30 días y se puede recuperar con tan solo volver a asignar la licencia al usuario.
+Cuando un usuario pierde una licencia de Exchange Online, su buzón se conserva durante 30 días y se puede recuperar simplemente asignando la licencia al usuario.
   
- *Esto funcionará sólo en un plazo de 30 días.*  
-  
-1. En el centro de administración de Microsoft 365, vaya **a la página usuarios** \> **activos** . Seleccione el usuario en cuestión.
+1. En el Centro de administración de Microsoft 365, vaya a la **página Usuarios** \> **usuarios activos.** Seleccione el usuario en cuestión.
 
-2. En la pestaña **licencias y aplicaciones** , asigne la licencia de Exchange Online y seleccione **Guardar cambios**.
+2. En la **pestaña Licencias y aplicaciones,** asigne la licencia de Exchange Online y seleccione **Guardar cambios**.
 
-Si está intentando recuperar un buzón compartido, también es recuperable durante 30 días. Puede encontrarlos en **usuarios** \> **eliminados**; los buzones compartidos no requieren una licencia. Si se da cuenta de que necesita restaurar un usuario eliminado, consulte [restore a User](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Si está intentando recuperar un buzón compartido o un usuario que se eliminó, también se puede recuperar durante 30 días. Puede encontrarlos en **Usuarios** \> **eliminados;** los buzones compartidos no requieren una licencia. Consulte Restaurar [un usuario](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+
+Los administradores pueden recuperar el correo electrónico del buzón del usuario yendo al [nuevo Centro de administración de Exchange.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
+
+Por último, si está intentando recuperar un buzón inactivo, [siga las instrucciones aquí](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
   
