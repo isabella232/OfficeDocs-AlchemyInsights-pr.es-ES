@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: fe3a13acb0ba5c8872d7c0bb8c3961d83f7d3526
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
+ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568696"
+ms.locfileid: "50585655"
 ---
 # <a name="problems-resetting-password"></a>Problemas para restablecer la contraseña
 
@@ -26,7 +26,7 @@ Estos son algunos de los problemas que puede tener que enfrentar al restablecer 
 
 **Tengo un problema con el restablecimiento de contraseña no cubierto en las otras categorías**
 
--Asegúrese de que está autorizado a restablecer las contraseñas. Solo los administradores globales, de contraseña y de usuario pueden restablecer las contraseñas de usuario. Los administradores globales también pueden restablecer las contraseñas de otros administradores con privilegios.
+- Asegúrese de que está autorizado a restablecer las contraseñas. Solo los administradores globales, de contraseña y de usuario pueden restablecer las contraseñas de usuario. Los administradores globales también pueden restablecer las contraseñas de otros administradores con privilegios.
 - Asegúrese de comprender los requisitos de licencia:
     - Debe tener al menos una licencia asignada en su organización
         - Solo usuarios en la nube: cualquier SKU de pago de Office 365 (O365) o Azure AD Basic

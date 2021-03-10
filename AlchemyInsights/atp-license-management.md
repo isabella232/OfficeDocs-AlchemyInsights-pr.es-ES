@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-- commerce
-ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 8bd6b4378c81241839ffe39dd36dc0a66c5c7f06
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469033"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601697"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Administración de licencias de Microsoft Defender para Office 365
 

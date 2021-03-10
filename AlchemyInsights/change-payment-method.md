@@ -9,20 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152455"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601169"
 ---
 # <a name="change-payment-method"></a>Cambiar el método de pago
 
-Puede cambiar el método de pago desde el Centro **de administración de Microsoft 365.**
+Puede cambiar el método de pago desde el Centro de administración de **Microsoft 365**.
   
 1. En el centro de administración, vaya a la página **Facturación** > **Facturas y pagos** > [Métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Seleccione la fila del método de pago que desea reemplazar. En el panel derecho se muestran todos los perfiles de facturación y las suscripciones individuales que usan el método de pago seleccionado.
@@ -36,4 +35,4 @@ Puede cambiar el método de pago desde el Centro **de administración de Microso
 
 Para obtener información sobre cómo agregar, actualizar, reemplazar o eliminar métodos de pago, vea [Administrar métodos de pago.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Para obtener información sobre cómo cambiar entre métodos de pago, consulte [Cómo pagar la suscripción.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Para obtener información sobre cómo cambiar entre métodos de pago, consulte [How to pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
