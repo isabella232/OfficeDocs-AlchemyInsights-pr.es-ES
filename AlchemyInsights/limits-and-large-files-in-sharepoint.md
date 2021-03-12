@@ -1,5 +1,5 @@
 ---
-title: Límites y archivos de gran tamaño en SharePoint
+title: Límites y archivos grandes en SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675783"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709195"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Archivos que no se pueden cargar en SharePoint Online
 
-Si un archivo no se carga en SharePoint Online, asegúrese de lo siguiente:
+Si un archivo no se carga en SharePoint Online, asegúrese de:
   
-- Su tamaño es inferior a 15 GB.
+- Tiene un tamaño inferior a 15 GB.
     
-- La ruta de acceso completa, incluido el nombre de archivo, tiene menos de 400 caracteres.
+- La ruta de acceso completa, incluido el nombre del archivo, tiene menos de 400 caracteres.
     
-- El nombre de archivo no contiene los caracteres " \* : \< \> ? / \ | y no se encuentra en la lista de [nombres no válidos](https://go.microsoft.com/fwlink/?linkid=866430).
+- El nombre del archivo no contiene los caracteres " \* : \< \> ? / \ | y no está en la lista de nombres [no válidos](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Si está intentando cargar el archivo con la aplicación de escritorio de OneDrive, vea [restricciones y limitaciones al sincronizar archivos y carpetas](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) o [solucionar problemas de sincronización de OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
+Si estás intentando cargar el archivo mediante la aplicación de escritorio de OneDrive, consulta [Restricciones](https://go.microsoft.com/fwlink/p/?LinkID=717734) y limitaciones al sincronizar archivos y carpetas o Solucionar problemas de sincronización [de OneDrive.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

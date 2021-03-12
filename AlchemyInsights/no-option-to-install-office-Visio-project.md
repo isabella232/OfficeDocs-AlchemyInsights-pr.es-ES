@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: 0a1a394ace2ea8aa32ec82668dee8130dd4600ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772676"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708511"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>No tiene la opción de instalar Office, Visio o Project
 
 Para instalar las aplicaciones cliente de Office, asegúrese de que tiene una suscripción a Office 365 o Microsoft 365 que [incluya las aplicaciones cliente de Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), como Microsoft 365 Empresa Premium, Aplicaciones de Microsoft 365 para negocios o Aplicaciones de Microsoft 365 para empresas.
 
-**Tenga en cuenta**: [Office Hogar y Empresa](https://products.office.com/home-and-business) es un producto de[Office para el hogar](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) y no forma parte de una suscripción empresarial. Project Online Essentials no incluye una versión de escritorio de Project, por lo que no es necesaria ninguna instalación. Los usuarios del Plan 1 de Visio pueden acceder a Visio en la Web, ya que el plan no incluye la aplicación de escritorio de Visio. Las aplicaciones de escritorio Project y Visio no están disponibles en Mac
+**Tenga en cuenta**: [Office Hogar y Empresa](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) es un producto de [Office para el hogar](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) y no forma parte de una suscripción empresarial. Project Online Essentials no incluye una versión de escritorio de Project, por lo que no es necesaria ninguna instalación. Los usuarios del Plan 1 de Visio pueden acceder a Visio en la Web, ya que el plan no incluye la aplicación de escritorio de Visio. Las aplicaciones de escritorio Project y Visio no están disponibles en Mac
 
 Si tiene una suscripción que incluye aplicaciones de Microsoft 365, no verá la opción de instalarla a menos que tenga una [licencia asignada](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Si es el administrador de Office 365 responsable de asignar licencias, consulte [Asignar licencias a usuarios](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 

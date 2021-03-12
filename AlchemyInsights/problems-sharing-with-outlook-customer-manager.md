@@ -1,5 +1,5 @@
 ---
-title: problemas de uso compartido-con-Outlook-Customer-Manager
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728268"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709267"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas al compartir con el administrador de clientes de Outlook
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas para compartir con el Administrador de clientes de Outlook
 
-Si tiene problemas de uso compartido con el administrador de clientes de Outlook, le recomendamos que primero intente borrar la memoria caché del explorador. Por ejemplo, en Internet Explorer:
+Si tiene problemas de uso compartido con el Administrador de clientes de Outlook, le recomendamos que primero intente borrar la memoria caché del explorador. Por ejemplo, en Internet Explorer:
 
-1. Vaya a **configuración**  >  **General** > configuración en **Browsing history**  >  **cachés y bases de datos**del historial de exploración.
-2. Eliminar los archivos de caché del sitio web "outlookapps.com".
+1. Vaya a **Configuración**  >  **general >** configuración en Historial de **exploración**  >  **Cachés y bases de datos**.
+2. Eliminar archivos de caché para el sitio web "outlookapps.com".
 3. Reinicie Outlook.
 
-Para obtener más información acerca del uso compartido, consulte [compartir información en el administrador de clientes de Outlook](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Para obtener más información acerca del uso compartido, [vea Compartir información en el Administrador de clientes de Outlook.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)

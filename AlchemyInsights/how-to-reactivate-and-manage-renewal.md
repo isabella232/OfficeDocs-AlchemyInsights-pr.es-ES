@@ -14,16 +14,16 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 9d5a05387a686b4e49c9ca14c7f5c6a76913fd23
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307071"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709159"
 ---
-# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Cómo reactivar una suscripción y administrar la facturación recurrente
+# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Cómo reactivar una suscripción y administrar la facturación periódica
 
-Parece que tiene una suscripción que ha expirado. Si desea volver a activarla, siga estos pasos.
+Parece que tiene una suscripción que ha expirado. If you would like to reactivate it, here's how.
   
 1. En el centro de administración, vaya a la página de **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. En la pestaña **Productos**, busque la suscripción que quiere reactivar. Seleccione **Más acciones** (tres puntos) y, a continuación, seleccione **Reactivar esta suscripción**.
@@ -31,14 +31,14 @@ Parece que tiene una suscripción que ha expirado. Si desea volver a activarla, 
 4. Seleccione **Guardar**.
 
 Para obtener más información, vea [Reactivar 
-la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).
+la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Para administrar la facturación mensual o anual, puede activar o desactivar la **facturación periódica**.
   
-1. En el centro de administración, vaya a la página de **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. En la pestaña **productos** , seleccione la suscripción que desea cambiar.
+1. En el centro de administración, vaya a la página **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. En la pestaña **Productos**, seleccione la suscripción que desee cambiar.
 3. En la página Detalles de la suscripción, en **Configuración de suscripción y pago**, seleccione **Editar facturación periódica**.
-4. En el panel **Editar la configuración de facturación periódica**, seleccione **Activado**, **Activado pero renovar una vez**o **Desactivar**.
+4. En el panel **Editar la configuración de facturación periódica**, seleccione **Activado**, **Activado pero renovar una vez** o **Desactivar**.
 5. Seleccione **Guardar**.
 
 Para más información, consulte [Activar o desactivar la facturación periódica](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
