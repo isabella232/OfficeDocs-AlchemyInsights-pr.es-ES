@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 641702f433c7b2d96198154500393b66e20e65c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736557"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708223"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Me gustaría suscribirse a Microsoft Teams de forma gratuita
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Me gustaría suscribirme a Teams de forma gratuita
 
-Teams está disponible de forma gratuita a través de un par de programas diferentes. Puesto que se pone en contacto con el soporte técnico de esta solicitud, ya tiene un inquilino de Microsoft 365, lo que significa que ya tiene Microsoft Teams.
+Teams está disponible de forma gratuita a través de un par de programas diferentes. Dado que está en contacto con el soporte técnico con esta solicitud, ya tiene un inquilino de Microsoft 365 existente, lo que significa que ya tiene Microsoft Teams.
 
-En la mayoría de los casos, Teams se activa de forma predeterminada para todos los usuarios. Una vez que está activada, los usuarios pueden ejecutar Teams, ya sea [desktop](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)mediante   la instalación de clientes [móviles](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) y de escritorio, o [desde el explorador](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client)   en <https://teams.microsoft.com.>
+En la mayoría de los casos, Teams está activado de forma predeterminada para todos los usuarios. Una vez activado, los usuarios pueden ejecutar Teams, ya sea instalando clientes de escritorio y móviles, o desde el [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)    [explorador](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)en Microsoft [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)    [Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
 
-La excepción a esto es Microsoft Teams para el ámbito educativo (EDU). Si tiene una licencia de EDU, debe habilitar Microsoft Teams manualmente. Para ello, vaya al centro de administración de Microsoft 365 **> servicios y complementos > Microsoft Teams**. Si está usando el nuevo centro de administración de Microsoft Teams, tendrá que desactivar **probar el nuevo centro de administración**   para buscar **servicios y complementos**. IMPORTANTE: es posible que tenga que esperar hasta 24 horas para que los cambios surtan efecto.
+La excepción a esto es Microsoft Teams for Education (EDU). Si tiene una licencia EDU, debe habilitar Microsoft Teams manualmente. Para ello, vaya al Centro de administración de Microsoft 365> Servicios y complementos **> Microsoft Teams**. Si usa el nuevo Centro de administración de Teams, tendrá que desactivar **Probar** el nuevo Centro de administración para buscar Servicios   y **complementos.** IMPORTANTE: Es posible que tenga que esperar hasta 24 horas para que los cambios entren en vigor.
 
-No se pierdan todas nuestras instrucciones para [admitir trabajadores remotos con Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+No se pierda todas nuestras instrucciones para admitir trabajadores [remotos con Teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
