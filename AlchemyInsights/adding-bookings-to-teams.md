@@ -14,15 +14,15 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: a189e8d74efb869b1068accbe6e065a0aebd0b1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 527f90621fb8a15967259b58de673bf28025bd3c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697106"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707287"
 ---
-# <a name="adding-bookings-to-teams"></a><span data-ttu-id="72a78-102">Agregar Bookings a Teams</span><span class="sxs-lookup"><span data-stu-id="72a78-102">Adding Bookings to Teams</span></span>
+# <a name="adding-bookings-to-teams"></a><span data-ttu-id="98fc7-102">Agregar Bookings a Teams</span><span class="sxs-lookup"><span data-stu-id="98fc7-102">Adding Bookings to Teams</span></span>
 
-<span data-ttu-id="72a78-103">Microsoft Bookings es una aplicación de programación de citas que le ayuda a realizar un seguimiento de las reservas, el personal y los clientes.</span><span class="sxs-lookup"><span data-stu-id="72a78-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="72a78-104">Los administradores pueden agregar Bookings como aplicación en la barra de aplicaciones de Microsoft Teams de sus usuarios al [administrar directivas de configuración de aplicaciones en Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).</span><span class="sxs-lookup"><span data-stu-id="72a78-104">Admins can add Bookings as an app to the Microsoft Teams app bar of their users by [Managing app setup policies in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).</span></span>
+<span data-ttu-id="98fc7-103">Microsoft Bookings es una aplicación de programación de citas que le ayuda a realizar un seguimiento de las reservas, el personal y los clientes.</span><span class="sxs-lookup"><span data-stu-id="98fc7-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="98fc7-104">Los administradores pueden agregar Bookings como aplicación en la barra de aplicaciones de Microsoft Teams de sus usuarios al [administrar directivas de configuración de aplicaciones en Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).</span><span class="sxs-lookup"><span data-stu-id="98fc7-104">Admins can add Bookings as an app to the Microsoft Teams app bar of their users by [Managing app setup policies in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).</span></span>
 
-<span data-ttu-id="72a78-105">Para obtener información o solucionar problemas en la aplicación Bookings, vea [artículos de Bookings](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="72a78-105">For information or troubleshooting in the Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
+<span data-ttu-id="98fc7-105">Para obtener información o solucionar problemas en la aplicación Bookings, vea [artículos de Bookings](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).</span><span class="sxs-lookup"><span data-stu-id="98fc7-105">For information or troubleshooting in the Bookings app, see [Bookings articles](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).</span></span>
