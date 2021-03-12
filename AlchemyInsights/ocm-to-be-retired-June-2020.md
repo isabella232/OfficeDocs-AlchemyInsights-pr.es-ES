@@ -1,5 +1,5 @@
 ---
-title: OCM que se retirará el 2020 de junio
+title: OCM se retirará en junio de 2020
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662774"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704839"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM que se retirará el 2020 de junio
+# <a name="ocm-to-be-retired-june-2020"></a>OCM se retirará en junio de 2020
 
 
-A partir del **30 de junio de 2020**, se retirará la aplicación móvil y el complemento del administrador de clientes de Outlook. Puede  **exportar datos**  de  **esta fecha antes de esta fecha**.  
+A **partir del 30 de junio de 2020,** se retirarán el complemento del Administrador de clientes de Outlook y la aplicación móvil. Puede exportar  **datos desde él**  antes de esta  **fecha**.  
 
-Puede comprobar quién en su organización tiene un plan de suscripción estándar de Microsoft 365 Business (anteriormente conocido como Office 365 empresa Premium) o Microsoft 365 Business Premium (anteriormente conocido como Microsoft 365 Business) con derechos para el administrador de clientes de Outlook haciendo clic [aquí](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
+Puede comprobar quién en su organización tiene un plan de suscripción a Microsoft 365 Empresa Standard (anteriormente conocido como Office 365 Empresa Premium) o Microsoft 365 Empresa Premium (anteriormente conocido como Microsoft 365 Empresa) con derechos para el Administrador de clientes de Outlook haciendo clic [aquí](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
 
-Para obtener más información, vea:
+Para más información, consulte:
 
-- [Exportar o eliminar los datos del administrador de clientes de Outlook](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [Exportar o eliminar los datos del Administrador de clientes de Outlook](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Preguntas más frecuentes del administrador de clientes de Outlook](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Preguntas más frecuentes del Administrador de clientes de Outlook](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)

@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687811"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704767"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Agregar, quitar o impedir que los usuarios cambien fotos de perfil
 
-- **Adición de fotos de perfil:** Las fotos de perfil pueden ser agregadas por un administrador en el [centro de administración de Microsoft 365, usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) o la  [Administración de usuarios de Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Si no ve la opción "cambiar foto", asegúrese de que haya una licencia asignada al usuario. Un usuario puede Agregar o cambiar fotos en su perfil de usuario desde cualquier servicio de Microsoft 365 haciendo clic en sus iniciales o fotografías en la esquina superior derecha de la pantalla. Para obtener más información sobre cómo agregar una foto de perfil, vea [Agregar una foto de perfil a Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Agregar fotos de perfil:** Un administrador puede agregar fotos de perfil en el Centro de administración de [Microsoft 365,](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) usuarios activos o Administración de usuarios [de Azure Active Directory.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)  Si no ves la opción "cambiar foto", asegúrate de que se haya asignado una licencia a ese usuario. Fotos puede agregar o cambiar por un usuario en su perfil de usuario desde cualquier servicio de Microsoft 365 haciendo clic en sus iniciales /foto en la parte superior derecha de la pantalla. Para obtener más información sobre cómo agregar una foto de perfil, vea [Agregar la foto de perfil a Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-- **Quitar fotos de perfil:** Un administrador puede quitar las fotos de perfil en la [Administración de usuarios de Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) o por un usuario en su perfil de usuario de Microsoft Teams.
+- **Quitar fotos de perfil:** Las fotos de perfil las puede quitar un administrador en [Azure Active Directory User Management](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) o un usuario en su perfil de usuario de Microsoft Teams.
 
-- **Bloqueo de cambios de fotos de perfil:** Los cambios en las fotos se pueden bloquear para todos los 365 * agregando una directiva de Outlook Web App por el artículo, [bloqueando fotos o restringiendo permisos para cambiar la foto de Perfil de Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Bloqueo de cambios de foto de perfil:** Los cambios de foto se pueden bloquear para todo Microsoft 365* agregando una directiva de Outlook Web App según el artículo, bloqueando fotos o restringiendo los permisos para cambiar la foto de perfil de [Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-* Tenga en cuenta que Microsoft Teams actualmente no es compatible con la Directiva de Outlook Web App para bloquear cambios de fotos, pero tiene previsto agregar compatibilidad con esta característica a principios de 2020.
+*Microsoft Teams no admite actualmente la directiva de Outlook Web App para bloquear los cambios de fotos, pero tiene previsto agregar compatibilidad con esta característica a principios de 2020.
