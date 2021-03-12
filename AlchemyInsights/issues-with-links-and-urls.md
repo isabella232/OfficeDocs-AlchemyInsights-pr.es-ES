@@ -3,7 +3,7 @@ title: Problemas con vínculos y direcciones URL
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950798"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707899"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemas con vínculos y direcciones URL
 
@@ -31,7 +31,7 @@ Los URI de redirección o las URL de respuesta (ambas expresiones significan lo 
 
 Al iniciar sesión con la aplicación que está desarrollando, si el cuadro de diálogo de inicio de sesión muestra **AADSTS50011: La dirección URL de respuesta especificada en la solicitud no coincide con las direcciones URL de respuesta configuradas para la aplicación <your app ID>**, tendrá que agregar al registro de la aplicación, el URI de redirección que usó el código en la solicitud de token a la Plataforma de identidad de Microsoft.
 
-Para agregar una dirección URL de respuesta, vaya a la pestaña **Autenticación** en la página **Registro de la aplicación** en Azure Portal y agregue una entrada en la sección **Redirigir los URI**. Debe escribir los URI de redirección (web, móvil o de escritorio). El valor que debe especificar depende del tipo de aplicación que cree, como se describe a continuación:
+Para agregar una dirección URL de respuesta, vaya a la pestaña **Autenticación** en la página **Registro de la aplicación** en Azure Portal y agregue una entrada en la sección **Redirigir los URI**. El valor que debe especificar depende del tipo de aplicación que cree, como se describe a continuación:
 
 - Para aplicaciones web y aplicaciones de una sola página, la dirección URL de respuesta es una dirección URL en su aplicación. Vea [Registro de una aplicación de una sola página](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) o [Registrar una aplicación web con Azure Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
 - Para las aplicaciones de escritorio, el valor que debe elegir depende de:

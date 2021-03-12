@@ -1,5 +1,5 @@
 ---
-title: Aplicar automáticamente etiquetas de sensibilidad
+title: Aplicar automáticamente etiquetas de confidencialidad
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715182"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707251"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Aplicar automáticamente etiquetas de sensibilidad
+# <a name="auto-apply-sensitivity-labels"></a>Aplicar automáticamente etiquetas de confidencialidad
 
-Los usuarios pueden aplicar manualmente las etiquetas de confidencialidad al contenido, o bien configurarlas para que se apliquen automáticamente al contenido.
+Los usuarios pueden aplicar manualmente etiquetas de confidencialidad al contenido o configurarlas para que se apliquen automáticamente al contenido.
 
-La aplicación automática de las etiquetas de confidencialidad elimina la necesidad de entrenar a los usuarios en la clasificación del contenido y en la necesidad de notificarlos sobre las configuraciones de la Directiva.
+La aplicación automática de etiquetas de confidencialidad elimina la necesidad de formar a los usuarios sobre cómo clasificar el contenido y la necesidad de notificarles las configuraciones de directivas.
 
-Para aplicar etiquetas automáticamente, es necesario lo siguiente:
+Para aplicar etiquetas automáticamente, se requiere lo siguiente:
 
 - Suscripción a Azure Information Protection P2
-- [Descargar e instalar el cliente de etiquetado Unificado de Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Descargar e instalar el cliente de etiquetado unificado de Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Estamos trabajando en soporte nativo que no requerirá el cliente de etiquetado Unificado de Azure Information Protection en el futuro.
+Estamos trabajando en compatibilidad nativa que no requerirá el cliente de etiquetado unificado de Azure Information Protection en el futuro.
 
-Actualmente, solo Windows admite el cliente de etiquetado unificado.  La característica todavía no es compatible con Mac, iOS y Android.
+Actualmente, solo Windows admite el cliente de etiquetado unificado.  La característica aún no es compatible con Mac, iOS y Android.
 
-Para obtener más información sobre las etiquetas de confidencialidad y su aplicación automática al contenido, vea:
+Para obtener más información sobre las etiquetas de confidencialidad y aplicarlas automáticamente al contenido, vea:
 
 - [Información general de etiquetas de confidencialidad](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Aplicar una etiqueta de confidencialidad automáticamente al contenido](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Aplicar una etiqueta de confidencialidad automáticamente al contenido](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
