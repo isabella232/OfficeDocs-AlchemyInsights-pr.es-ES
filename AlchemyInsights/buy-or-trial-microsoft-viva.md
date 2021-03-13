@@ -1,5 +1,5 @@
 ---
-title: Comprar o versión de prueba de Microsoft Viva
+title: Comprar o probar gratuitamente Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "8335"
 ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
 ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 02/17/2021
 ms.locfileid: "50279883"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a>Comprar o versión de prueba de Microsoft Viva
+# <a name="buy-or-trial-microsoft-viva"></a>Comprar o probar gratuitamente Microsoft Viva
 
-Temas de Microsoft Viva está disponible para comprar o versión de [prueba aquí.](https://aka.ms/BuyVivaTopics)
+Los Temas Microsoft Viva están disponibles para comprar o probar gratuitamente [aquí](https://aka.ms/BuyVivaTopics).
 
-La organización tendrá que usar una de las siguientes suscripciones:
+Su organización tendrá que usar alguna de las siguientes suscripciones:
 
-La licencia de Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Empresa Basic, Business Standard, Empresa Premium o SharePoint K, Plan 1 o Plan 2 puede optar a microsoft Viva Topics.
+Licencia de Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Empresa Básico, empresa estándar, empresa premium o SharePoint K, Plan 1 o Plan 2 para ser elegible para los Temas Microsoft Viva.
