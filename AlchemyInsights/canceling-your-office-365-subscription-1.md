@@ -1,10 +1,10 @@
 ---
-title: ¿Está cancelando la suscripción a Microsoft 365?
+title: ¿Cancelar la suscripción a Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757245"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837435"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>¿Está cancelando la suscripción a Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>¿Cancelar la suscripción a Microsoft 365?
 
-Lamentamos que vaya, pero estas son las opciones para cancelar su suscripción:
-  
-- **En función de los datos de su organización, creemos que todas las suscripciones actuales son suscripciones de prueba. No es necesario cancelar explícitamente una suscripción de prueba porque las suscripciones de prueba no requieren pagos y no hay ninguna obligación después de que finalice la prueba.**
+Sentimos que te vayas, estos son los pasos para cancelar la suscripción:
 
-- Para obtener más información acerca de cómo cancelar una suscripción o para obtener instrucciones paso a paso, consulte este artículo: [cancelar la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+1. En el Centro de administración, vaya a la página  >  **[Facturación de sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** y, a continuación, seleccione la **pestaña** Productos.
+2. Busque la suscripción que desea cancelar. Seleccione **Más acciones** (tres puntos) y luego seleccione **Cancelar suscripción**.
+3. En el panel **Cancelar suscripción**, seleccione una razón por la que cancela. Opcionalmente, proporcione algún comentario.
+4. Seleccione **Guardar**.
+
+Para obtener más información sobre cómo cancelar una suscripción o opciones, consulte [Cancelar la suscripción.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
