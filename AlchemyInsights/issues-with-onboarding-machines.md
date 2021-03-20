@@ -1,5 +1,5 @@
 ---
-title: Problemas con la incorporación de equipos
+title: Problemas relacionados con la incorporación de equipos a Microsoft Defender para puntos de conexión
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676899"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901584"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problemas con la incorporación de equipos
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problemas relacionados con la incorporación de equipos a Microsoft Defender para puntos de conexión
 
-Es posible que tenga problemas con la incorporación de equipos al servicio de MDATP. Si puede obtener acceso al equipo del usuario final, siga estos pasos:
+Es posible que tenga problemas con la incorporación de equipos al servicio de MDE. Si puede obtener acceso al equipo del usuario final, siga estos pasos:
 
-1. Descargue la herramienta de diagnóstico [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer).
-2. Extraiga y ejecute MDATPAnalyzer.cmd.
-3. Busque el registro de diagnóstico en la carpeta llamada MDATPClientAnalyzerResult, la misma carpeta en la que se ha descargado la herramienta de diagnóstico.
-4. Revise el archivo de registro, MDATPClientAnalyzer.txt, para buscar problemas de configuración del proxy de Internet o de conectividad.
+1. Descargue la última versión preliminar de la herramienta de diagnóstico [Analizador de clientes MDE](https://aka.ms/betamdeanalyzer).
+2. Haga clic con el botón derecho en **MDEClientAnalyzer.cmd** y seleccione "Ejecutar como administrador".
+3. Siga las instrucciones sugeridas en **MDEClientAnalyzer.htm**.
+4. Para consultar registros más detallados, consulte la subcarpeta creada llamada **MDEClientAnalyzerResult**.
+5. Si necesita instrucciones adicionales, contacte [Soporte técnico de Microsoft Defender para punto de conexión](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) y proporcione el archivo resultante MDEClientAnalyzerResult.zip para su análisis.
