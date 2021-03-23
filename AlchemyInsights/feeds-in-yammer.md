@@ -1,0 +1,38 @@
+---
+title: Fuentes en Yammer
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003219"
+- "9666"
+ms.openlocfilehash: d933c2b7fa73d6ab1fd91a452ed5736d084cdd18
+ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "50995294"
+---
+# <a name="feeds-in-yammer"></a><span data-ttu-id="3d809-102">Fuentes en Yammer</span><span class="sxs-lookup"><span data-stu-id="3d809-102">Feeds in Yammer</span></span>
+
+<span data-ttu-id="3d809-103">**Suministros**</span><span class="sxs-lookup"><span data-stu-id="3d809-103">**Feeds**</span></span>
+
+<span data-ttu-id="3d809-104">El nuevo Yammer presenta una [nueva fuente principal.](https://support.microsoft.com/office/what-s-in-the-yammer-home-feed-8fff52dd-5b38-468c-b963-fa4c6a4f9254)</span><span class="sxs-lookup"><span data-stu-id="3d809-104">New Yammer introduces a [new Home Feed](https://support.microsoft.com/office/what-s-in-the-yammer-home-feed-8fff52dd-5b38-468c-b963-fa4c6a4f9254).</span></span> <span data-ttu-id="3d809-105">Puedes leer más sobre las [novedades](https://techcommunity.microsoft.com/t5/yammer-blog/yammer-discovery-what-is-in-my-feed/ba-p/1596230) de esta fuente, diseñada para que el contenido de tus comunidades sea superficial y te ayude a descubrir contenido nuevo.</span><span class="sxs-lookup"><span data-stu-id="3d809-105">You can read more about [what's new with this feed](https://techcommunity.microsoft.com/t5/yammer-blog/yammer-discovery-what-is-in-my-feed/ba-p/1596230) which is designed to surface content from your communities and help you discover new content.</span></span> <span data-ttu-id="3d809-106">Al pasar el mouse sobre la opción Fuente principal, se habilita un menú con acceso a la vista Todas las conversaciones.</span><span class="sxs-lookup"><span data-stu-id="3d809-106">Hovering over the Home Feed option enables a menu with access to the All Conversations view.</span></span> <span data-ttu-id="3d809-107">Las actualizaciones futuras de la fuente pueden incluir contenido de orígenes adicionales dentro del conjunto de aplicaciones de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="3d809-107">Future updates to the feed may bring in content from additional sources within the Microsoft 365 suite.</span></span>
+
+<span data-ttu-id="3d809-108">Yammer clásico tiene la [fuente de detección](https://support.microsoft.com/office/what-s-in-the-yammer-discovery-feed-28ba9a79-2bde-4e7c-8420-db2296c3ca49) que no está avanzada en términos de cómo identifica contenido para usted.</span><span class="sxs-lookup"><span data-stu-id="3d809-108">Classic Yammer has the [Discovery feed](https://support.microsoft.com/office/what-s-in-the-yammer-discovery-feed-28ba9a79-2bde-4e7c-8420-db2296c3ca49) which is not advanced in terms of how it identifies content for you.</span></span> <span data-ttu-id="3d809-109">Las opciones para cambiar a las fuentes Todo y Siguiente están disponibles en la parte superior de la página principal.</span><span class="sxs-lookup"><span data-stu-id="3d809-109">The options to switch to the All and Following feeds are available at the top of the homepage.</span></span>
+
+<span data-ttu-id="3d809-110">Las fuentes de Yammer también se pueden incluir en sitios de SharePoint mediante los elementos web Conversaciones y [resaltados de Yammer.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)</span><span class="sxs-lookup"><span data-stu-id="3d809-110">Yammer feeds can also be included on SharePoint sites using the [Yammer Conversations and Highlights web parts](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).</span></span>
+
+<span data-ttu-id="3d809-111">**Problemas de publicación**</span><span class="sxs-lookup"><span data-stu-id="3d809-111">**Posting problems**</span></span>
+
+<span data-ttu-id="3d809-112">Debería ser posible publicar en Yammer de muchas maneras.</span><span class="sxs-lookup"><span data-stu-id="3d809-112">It should be possible to post to Yammer in many ways.</span></span> <span data-ttu-id="3d809-113">Estos son algunos de los problemas comunes a los que pueden enfrentarse los usuarios:</span><span class="sxs-lookup"><span data-stu-id="3d809-113">Following are some of the common issues users may face:</span></span>
+
+- <span data-ttu-id="3d809-114">Un administrador ha [restringido la publicación de nuevas conversaciones](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) en Toda la compañía.</span><span class="sxs-lookup"><span data-stu-id="3d809-114">An admin has [restricted posting of new conversations](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) in All Company.</span></span> <span data-ttu-id="3d809-115">Se trata de una restricción que el administrador tendrá que quitar para permitir que los usuarios normales publiquen.</span><span class="sxs-lookup"><span data-stu-id="3d809-115">This is a restriction that the admin will need to remove to enable regular users to post.</span></span>
+- <span data-ttu-id="3d809-116">La pertenencia a la comunidad no se ha sincronizado correctamente.</span><span class="sxs-lookup"><span data-stu-id="3d809-116">Community membership has not synced properly.</span></span> <span data-ttu-id="3d809-117">Por ejemplo, un usuario es miembro de una comunidad en Yammer, pero no el grupo de Microsoft 365 conectado a SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="3d809-117">For example, a user is a member of a community in Yammer, but not the Microsoft 365 group connected to SharePoint Online.</span></span> <span data-ttu-id="3d809-118">Esperar a que se complete la sincronización de pertenencia para grupos muy grandes puede tardar hasta 24 horas.</span><span class="sxs-lookup"><span data-stu-id="3d809-118">Waiting for the membership sync to complete for very large groups can take up to 24 hours.</span></span>
+- <span data-ttu-id="3d809-119">No se pudo cargar correctamente una actualización de código de una red CDN.</span><span class="sxs-lookup"><span data-stu-id="3d809-119">A code update from a CDN has failed to load correctly.</span></span> <span data-ttu-id="3d809-120">Borrar la memoria caché del explorador y las cookies a menudo resolverá esto.</span><span class="sxs-lookup"><span data-stu-id="3d809-120">Clearing browser cache and cookies will often resolve this.</span></span>
