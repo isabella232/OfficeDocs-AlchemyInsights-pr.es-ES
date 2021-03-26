@@ -1,5 +1,5 @@
 ---
-title: Buscar y activar mi clave de producto
+title: Tarjeta de prepago comercial
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 49a612831c416ca6767eeb47800bca535a3fc010
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 1785cc69d00211cf025814e66ae317fc5b69e8bd
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51207608"
+ms.locfileid: "51217964"
 ---
-# <a name="find-and-activate-my-product-key"></a>Buscar y activar mi clave de producto
+# <a name="retail-prepaid-card"></a>Tarjeta de prepago comercial
 
 Si compró Microsoft 365 Business Standard en una tienda comercial, siga estos pasos para ampliar la fecha de expiración o agregar una licencia a una suscripción existente.
 
