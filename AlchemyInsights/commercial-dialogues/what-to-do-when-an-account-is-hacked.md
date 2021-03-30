@@ -3,7 +3,7 @@ title: Qué hacer cuando se piratea una cuenta
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 50451a32b4e798f3e2fd8ddebe573ef3435a4c71
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9c6bab9545136cf6bf26ae41c3776d6f7892a81f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464801"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402460"
 ---
 # <a name="what-to-do-when-an-account-is-hacked"></a>Qué hacer cuando se piratea una cuenta
 
