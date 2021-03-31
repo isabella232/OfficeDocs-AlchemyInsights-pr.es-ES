@@ -1,5 +1,5 @@
 ---
-title: 126 se ha encontrado un error al obtener un buzón en OWA?
+title: 126 ¿No se puede encontrar un error de obtención de un buzón en OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,17 +14,23 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
+ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706767"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51426679"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Error al obtener un buzón no encontrado en Outlook en la web
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>¿No se encontró un error de buzón en Outlook en la web?
 
-Si está usando Outlook en la web y no se ha **encontrado un buzón de correo** , la cuenta que usó para conectarse a Outlook en la web no tiene una licencia de Exchange Online y, por lo tanto, no hay ningún buzón asociado a la cuenta. El administrador puede asignar una licencia a su cuenta siguiendo estos pasos:
+Si usa Outlook en la web y obtiene un buzón no se pudo encontrar por **error,** la cuenta que usó para conectarse a Outlook en la web no tiene una licencia de Exchange Online y, por lo tanto, no hay ningún buzón asociado a la cuenta. El administrador puede asignar una licencia a su cuenta siguiendo estos pasos:
 
-1. Abra el [centro de administración de 365 de Microsoft](https://portal.office.com/adminportal/home#/homepage) y vaya a **usuarios activos** en la sección **usuarios** y seleccione el usuario que ve el error.
+1. Abra el [Centro de administración de Microsoft 365](https://portal.office.com/adminportal/home#/homepage) y vaya a **Usuarios** activos en la sección Usuarios y seleccione el usuario que ve el error. 
 
-2. En la página de usuario que se abre, vaya a la sección **licencias y aplicaciones** , seleccione el valor de **Ubicación** adecuado y asigne una licencia que contenga Exchange Online (expanda la licencia para ver los detalles). Cuando haya terminado, haga clic en **Guardar cambios**.
+2. En la página de usuario  que se abre, vaya  a la sección Licencias y aplicaciones, seleccione el valor de ubicación adecuado y asigne una licencia que contenga Exchange Online (expanda la licencia para ver sus detalles). Cuando haya terminado, haga clic en **Guardar cambios**.
+
+En algunos casos, si la licencia ya está asignada a una cuenta de usuario, quitar y reasignar la licencia ayuda a resolver el problema y a aprovisionar correctamente en el sistema: 
+
+- Compruebe si sus suscripciones de M365 Exchange Online (y otras, si tiene alguna) están actualizadas y no han expirado recientemente.
+
+Una vez que haya asegurado que la suscripción no ha expirado y que se ha asignado una licencia válida a la cuenta de usuario, la licencia puede tardar hasta 24 horas en aprovisionarse, por lo que es posible que tenga que esperar a que se resuelva el problema. Para obtener más información, consulta [Asignar y administrar licencias.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
