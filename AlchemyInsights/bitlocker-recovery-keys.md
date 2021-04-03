@@ -1,5 +1,5 @@
 ---
-title: Claves de recuperación de BitLocker
+title: Claves de recuperación de Bitlocker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685903"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505085"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="c63cd-102">Obtener acceso a las claves de recuperación de BitLocker</span><span class="sxs-lookup"><span data-stu-id="c63cd-102">Accessing Bitlocker recovery keys</span></span>
+# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="1d88a-102">Acceso a claves de recuperación de Bitlocker</span><span class="sxs-lookup"><span data-stu-id="1d88a-102">Accessing Bitlocker recovery keys</span></span>
 
-<span data-ttu-id="c63cd-103">Al configurar la Directiva de la protección de extremos de Intune de configuración de BitLocker, es posible definir si la información de recuperación de BitLocker debe almacenarse en Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="c63cd-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
+<span data-ttu-id="1d88a-103">Al configurar la configuración de Bitlocker Intune Endpoint Protection Policy, es posible definir si la información de recuperación de Bitlocker debe almacenarse en Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="1d88a-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
 
-<span data-ttu-id="c63cd-104">Si esta configuración está configurada, los datos de recuperación almacenados deben estar visibles para un administrador de Intune como parte de los datos de registro de dispositivo en la hoja dispositivos de Intune de dos maneras:</span><span class="sxs-lookup"><span data-stu-id="c63cd-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
+<span data-ttu-id="1d88a-104">Si esa configuración está configurada, los datos de recuperación almacenados deben ser visibles para un administrador de Intune como parte de los datos de registro de dispositivos en la hoja Dispositivos intunees de dos maneras:</span><span class="sxs-lookup"><span data-stu-id="1d88a-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
 
-<span data-ttu-id="c63cd-105">Dispositivos: dispositivos de Azure AD-> "dispositivo" o dispositivos-> todos los dispositivos-> "dispositivo"-> claves de recuperación</span><span class="sxs-lookup"><span data-stu-id="c63cd-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
+<span data-ttu-id="1d88a-105">Dispositivos: dispositivos de Azure AD -> "Dispositivo" O dispositivos -> Todos los dispositivos -> "Dispositivo" -> claves de recuperación</span><span class="sxs-lookup"><span data-stu-id="1d88a-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
 
-<span data-ttu-id="c63cd-106">Como alternativa, si hay acceso administrativo al propio dispositivo, se puede ver la clave de recuperación (contraseña) mediante la ejecución del siguiente comando desde un símbolo del sistema con privilegios elevados:</span><span class="sxs-lookup"><span data-stu-id="c63cd-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
+<span data-ttu-id="1d88a-106">Como alternativa, si hay acceso administrativo al propio dispositivo, la clave de recuperación (Contraseña) se puede ver ejecutando el siguiente comando desde un símbolo del sistema con privilegios elevados:</span><span class="sxs-lookup"><span data-stu-id="1d88a-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-<span data-ttu-id="c63cd-107">Si el dispositivo se cifró antes de la inscripción en Intune, es posible que la clave de recuperación se haya asociado con la "cuenta Microsoft" (MSA) que se usó para iniciar sesión en el dispositivo durante el proceso OOBE.</span><span class="sxs-lookup"><span data-stu-id="c63cd-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="c63cd-108">Si este es el caso, el acceso  https://onedrive.live.com/recoverykey e inicio de sesión con ese MSA debería mostrar los dispositivos para los que se almacenaron claves de recuperación.</span><span class="sxs-lookup"><span data-stu-id="c63cd-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
+<span data-ttu-id="1d88a-107">Si el dispositivo se cifraba antes de la inscripción en Intune, es posible que la clave de recuperación se haya asociado con la "cuenta de Microsoft" (MSA) usada para iniciar sesión en el dispositivo durante el proceso de OOBE.</span><span class="sxs-lookup"><span data-stu-id="1d88a-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="1d88a-108">En ese caso, el acceso y la sesión con esa MSA deben mostrar los dispositivos para los que se almacenaron  https://onedrive.live.com/recoverykey las claves de recuperación.</span><span class="sxs-lookup"><span data-stu-id="1d88a-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
  
-<span data-ttu-id="c63cd-109">Si el dispositivo se cifró como resultado de la configuración mediante una directiva de grupo basada en dominio, la información de recuperación puede almacenarse en Active Directory local.</span><span class="sxs-lookup"><span data-stu-id="c63cd-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
- 
+<span data-ttu-id="1d88a-109">Si el dispositivo se cifra como resultado de la configuración a través de una directiva de grupo basada en dominio, la información de recuperación puede almacenarse en Active Directory local.</span><span class="sxs-lookup"><span data-stu-id="1d88a-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
+
+<span data-ttu-id="1d88a-110">Si has configurado la directiva de protección de puntos de conexión para almacenar la clave de recuperación en Azure Active Directory pero no se ha cargado la clave de un dispositivo específico, puedes desencadenar la carga girando la clave de recuperación para ese dispositivo desde la consola de MEM.</span><span class="sxs-lookup"><span data-stu-id="1d88a-110">If you have configured Endpoint protection policy to store the recovery key in Azure Active Directory but the key for a specific device has not been uploaded, you can trigger the upload by rotating the recovery key for that device from the MEM console.</span></span> <span data-ttu-id="1d88a-111">Para obtener más información, [consulta Girar claves de recuperación de BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).</span><span class="sxs-lookup"><span data-stu-id="1d88a-111">For details, see [Rotate BitLocker recovery keys](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).</span></span>
 
