@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897944"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505337"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Compruebe el estado de garantía de un dispositivo Surface o Xbox
 
 Si tiene un dispositivo Surface o Xbox, puede usar su cuenta de Microsoft para comprobar la garantía. A continuación se muestra el procedimiento:
 
-1. Inicie sesión en su cuenta de Microsoft. 
+1. Inicie sesión en su [cuenta de Microsoft](https://account.microsoft.com/devices/). 
 
 1. Seleccione el dispositivo cuya garantía quiera comprobar.
 
