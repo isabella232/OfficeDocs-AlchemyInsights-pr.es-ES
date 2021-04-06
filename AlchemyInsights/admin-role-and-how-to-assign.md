@@ -14,21 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 1054297dd1f5ead61b150c967299ae54cf1bc6da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
+ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686695"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51585992"
 ---
 # <a name="admin-roles"></a>Roles de administrador
-
-- Para asignar u obtener más información sobre los roles de administrador, seleccione **Roles** en el [centro de administración](https://admin.microsoft.com/Adminportal/Home#/roles).
-
-- Para obtener más información, en el centro de administración seleccione el nombre de la función y, a continuación, seleccione **asignar función** o **comparar roles**.
 
 - Para asignar un rol, seleccione **Usuarios activos** en el [centro de administración](https://admin.microsoft.com/Adminportal/Home#/users), seleccione un nombre de usuario y, a continuación, seleccione **Administrar roles**.
 
 - Para obtener más información sobre un rol, haga clic en la **!** que hay junto al rol, o vea [Acerca de los roles de administrador](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
-
-- Si necesita ayuda con el acceso a una cuenta de administrador existente, consulte [Volver a la cuenta](https://passwordreset.microsoftonline.com/) o [Restablecer mi contraseña de administrador](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password).
