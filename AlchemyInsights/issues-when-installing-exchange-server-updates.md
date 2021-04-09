@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50586508"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645184"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Problemas al instalar Exchange Server actualizaciones
 
-Antes de instalar Exchange Server actualizaciones, consulte la sección "Procedimientos recomendados" del artículo [Actualizar Exchange a la actualización acumulativa más reciente.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Es especialmente importante instalar actualizaciones mediante el símbolo del sistema CMD con privilegios elevados (a menos que las actualizaciones se instalen a través de Microsoft Update). Esto se aplica a las actualizaciones acumulativas y de seguridad.
+Si necesita actualizar a la última actualización acumulativa (CU) para Exchange Server, puede usar para obtener un conjunto detallado de pasos para actualizar desde la CU actual a la [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) CU de destino.
 
-Si ve errores al instalar actualizaciones de seguridad o después de instalar la actualización, consulte este artículo sobre la solución de problemas [de instalaciones con errores](https://aka.ms/exupdatefaq).
+Si hay algún error durante o después de la instalación de actualizaciones Exchange Server, consulte la sección "Procedimientos recomendados" del artículo Actualizar Exchange a [la actualización acumulativa más reciente.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Es muy importante instalar las actualizaciones de seguridad mediante el símbolo del sistema CMD con privilegios elevados (si las actualizaciones no se instalan a través de Microsoft Update).
+
+Si ve errores al instalar actualizaciones de seguridad o después de instalar la actualización, vea Reparar instalaciones con errores de actualizaciones acumulativas [y de seguridad de Exchange](https://aka.ms/exupdatefaq).

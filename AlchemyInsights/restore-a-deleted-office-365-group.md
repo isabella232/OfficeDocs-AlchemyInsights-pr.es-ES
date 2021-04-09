@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
-ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
+ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51597460"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645148"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Restaurar un grupo de Microsoft 365 eliminado
 
 Puede restaurar un grupo eliminado de Microsoft 365 o Microsoft Teams en un plazo de 30 días desde la eliminación.
 
-1. Vaya al Centro [de administración de Microsoft 365](https://aka.ms/RestoreDeletedGroup) para iniciar sesión y enumerar los grupos y equipos eliminados.
+1. Vaya al [Centro de administración de Microsoft 365](https://aka.ms/RestoreDeletedGroup) para iniciar sesión en una lista de los grupos y equipos eliminados.
 
     **Nota:** Inicie sesión con la cuenta asignada al administrador de inquilinos o al rol de administrador de grupos.
 
