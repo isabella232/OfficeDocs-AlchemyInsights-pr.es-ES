@@ -1,5 +1,5 @@
 ---
-title: Cómo configurar el enrutamiento directo de Teams
+title: Cómo se configura el enrutamiento directo de Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704911"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692159"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Enrutamiento directo de sistema telefónico para Microsoft Teams
+# <a name="direct-routing-for-microsoft-teams"></a>Enrutamiento directo para Microsoft Teams
 
-Revise los artículos siguientes para obtener más información sobre el [enrutamiento directo de sistema telefónico para Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
+Revise los siguientes artículos para obtener más información sobre [el enrutamiento directo para Microsoft Teams:](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page) 
 
 - [Planear el enrutamiento directo](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
 - [Configurar el enrutamiento directo](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
 - [Supervisar y solucionar problemas de enrutamiento directo](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-**Nota:** También puede consultar el vídeo de YouTube de [Team Academy Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) .
+**Nota:** También puedes consultar el vídeo de [YouTube de Enrutamiento directo de Teams Academy.](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl)
