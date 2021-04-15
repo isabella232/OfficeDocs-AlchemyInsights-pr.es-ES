@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662522"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692483"
 ---
 # <a name="pstn-calling-plans"></a>Planes de llamadas RTC
 
@@ -28,4 +28,4 @@ Si desea que sus usuarios puedan llamar a teléfonos normales y todavía no disp
 
 - Configure [Créditos de comunicación](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) para evitar que los usuarios puedan **durante minutos**. Vea los índices [aquí](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Para obtener más información, vea [Phone System y los planes de llamada](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) o [¿Qué son los créditos de comunicación?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Para obtener más información, vea [Teléfono Microsoft Teams y los Planes de Llamada de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) o [¿Qué son los créditos de comunicación?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

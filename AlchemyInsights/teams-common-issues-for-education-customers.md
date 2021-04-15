@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737034"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692411"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemas comunes de Teams para los clientes de educación
 
@@ -46,7 +46,7 @@ Si necesita ayuda para que Teams admita la formación remota, visite el [Centro 
     6. En el Centro de administración de Skype Empresarial, haga clic en **Audioconferencia** y luego en **Usuarios**.
     7. Seleccione el usuario en cuestión y compruebe que tiene un número de teléfono de pago predeterminado.
 
-    Para obtener más información, consulte [Planes de llamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o llame al Equipo de facturación comercial de Microsoft Commerce para preguntas relacionadas con las licencias.
+    Para obtener más información, consulte [Planes de Llamada de Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o llame al Equipo de facturación comercial de Microsoft Commerce para preguntas relacionadas con las licencias.
 
     Recursos adicionales
 
