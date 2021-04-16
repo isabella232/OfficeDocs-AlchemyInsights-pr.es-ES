@@ -2,7 +2,7 @@
 title: Recibir una copia del extracto de facturación por correo electrónico
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4b6a5b7e1cff8f109af09009ba5887e8ab38a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693284"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789449"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>Recibir una copia del extracto de facturación por correo electrónico
 
@@ -26,10 +26,10 @@ Puede elegir recibir una copia del extracto de facturación como datos adjuntos 
   
 - Se enviará un correo electrónico tanto a la dirección de correo electrónico principal como a la alternativa de cada usuario que aparezca como destinatario de notificación.
 
-- Recibirá dos correos electrónicos separados: uno que le indica que su factura está lista, con instrucciones para iniciar sesión en el centro de administración y un segundo correo electrónico que contiene el extracto de facturación como datos adjuntos.
+- Recibirá dos correos electrónicos independientes: uno que le permite saber que su factura está lista, con instrucciones para iniciar sesión en el Centro de administración para verlo y un segundo correo electrónico que contiene la instrucción de facturación como datos adjuntos.
 
 Para recibir el extracto de facturación por correo electrónico:
   
 1. En el Centro de administración, vaya a la página **Facturación** \> [Notificaciones de facturación](https://go.microsoft.com/fwlink/p/?linkid=853212).
 
-2. En **recibir el extracto de facturación como datos adjuntos de correo electrónico**, cambie el botón de alternancia a **activado**. Puede dejar de recibir los correos electrónicos con el extracto de facturación en cualquier momento. Para ello, deberá cambiar el botón de alternancia a **Desactivado**.
+2. En **Recibir la instrucción de facturación como datos** adjuntos de correo electrónico? , cambie la alternancia a **On**. Puede dejar de recibir los correos electrónicos con el extracto de facturación en cualquier momento. Para ello, deberá cambiar el botón de alternancia a **Desactivado**.
