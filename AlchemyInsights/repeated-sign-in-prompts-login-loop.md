@@ -1,8 +1,8 @@
 ---
-title: Solicitudes de inicio de sesión repetidas/bucle de inicio de sesión
+title: Mensajes de inicio de sesión repetidos /bucle de inicio de sesión
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692780"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799070"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="d08a9-102">Solicitudes de inicio de sesión repetidas en aplicaciones de Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="d08a9-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="c2580-102">Mensajes de inicio de sesión repetidos en aplicaciones de Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="c2580-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
 
-<span data-ttu-id="d08a9-103">Para solucionar los problemas de inicio de sesión repetidos en las aplicaciones de Microsoft 365, consulte:</span><span class="sxs-lookup"><span data-stu-id="d08a9-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
+<span data-ttu-id="c2580-103">Para solucionar problemas de mensajes de inicio de sesión repetidos en aplicaciones de Microsoft 365, vea:</span><span class="sxs-lookup"><span data-stu-id="c2580-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
 
-- [<span data-ttu-id="d08a9-104">Cómo solucionar problemas de aplicaciones que no son de explorador que no pueden iniciar sesión en Microsoft 365, Azure o Intune</span><span class="sxs-lookup"><span data-stu-id="d08a9-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [<span data-ttu-id="d08a9-105">"Acceso denegado", o se pide repetidamente al usuario las credenciales al conectarse a Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="d08a9-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [<span data-ttu-id="d08a9-106">Un usuario federado se solicita repetidamente las credenciales durante el inicio de sesión en Microsoft 365, Azure o Intune</span><span class="sxs-lookup"><span data-stu-id="d08a9-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [<span data-ttu-id="c2580-104">Cómo solucionar problemas de aplicaciones que no son de explorador que no pueden iniciar sesión en Microsoft 365, Azure o Intune</span><span class="sxs-lookup"><span data-stu-id="c2580-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- [<span data-ttu-id="c2580-105">"Acceso denegado", o se pide al usuario repetidamente credenciales al conectarse a Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="c2580-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [<span data-ttu-id="c2580-106">Se solicita repetidamente credenciales a un usuario federado durante el inicio de sesión en Microsoft 365, Azure o Intune</span><span class="sxs-lookup"><span data-stu-id="c2580-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
