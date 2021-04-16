@@ -1,8 +1,8 @@
 ---
-title: ¿Cómo se borra la caché o se reinicia o actualiza localmente el cliente o la aplicación?
+title: ¿Cómo se borra la memoria caché o se restablece o se actualiza localmente el cliente o la aplicación?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780292"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795965"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>¿Cómo se borra la caché o se reinicia o actualiza localmente el cliente o la aplicación?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>¿Cómo se borra la memoria caché o se restablece o se actualiza localmente el cliente o la aplicación?
 
-Si está viendo datos incompletos o incorrectos, intente forzar el cierre y la apertura de la aplicación.  
+Si ves datos incompletos o incorrectos, intenta forzar el cierre y volver a abrir la aplicación.  
 
-Si esto no funciona, puedes intentar restablecer la cuenta en el dispositivo.
+Si eso no funciona, puedes intentar restablecer la cuenta en el dispositivo.
  
-Abra la aplicación, vaya a **configuración**, seleccione la cuenta de correo electrónico y elija **restablecer cuenta**.
+Abre la aplicación, ve a **Configuración,** selecciona la cuenta de correo electrónico y elige **Restablecer cuenta**.
