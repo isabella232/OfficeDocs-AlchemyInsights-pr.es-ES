@@ -2,7 +2,7 @@
 title: Almacenamiento de buzones de correo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4993"
-ms.openlocfilehash: b649be24594b87560a88c0e7f677c5690852a277
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cdde15f3c92e2728bc24182bcc3f3d5e33835d80
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794747"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795425"
 ---
 # <a name="mailbox-storage"></a>Almacenamiento de buzones de correo
 

@@ -2,7 +2,7 @@
 title: Estado del servicio de Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742760"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794489"
 ---
 # <a name="microsoft-365-service-health"></a>Estado del servicio de Microsoft 365
 
 
-Compruebe el estado del servicio de cualquier servicio del [Panel de estado del servicio](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Al seleccionar **el nuevo centro de administración** en la esquina superior derecha, verá nuevas opciones de estado del servicio.
+Compruebe el estado del servicio de cualquier servicio desde el [Panel de mantenimiento del servicio](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Al seleccionar **El nuevo centro de administración en** la esquina superior derecha, verá las nuevas opciones de estado del servicio.
 
-- Seleccione **preferencias** para recibir **notificaciones de correo electrónico**de estado del servicio.
+- Seleccione **Preferencias** para recibir notificaciones de **correo electrónico de estado del servicio**.
 
-- Seleccione **informar de un problema** si está experimentando un problema con el servicio.
+- Seleccione **Notificar un problema** si está experimentando un problema con el servicio.
 
-- Seleccione **historial** para revisar el historial de estado del servicio de su organización. 
+- Seleccione **Historial** para revisar el historial de mantenimiento del servicio de su organización. 
 
-Para obtener más información, consulta [Cómo comprobar el estado del servicio de Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Para obtener más información, consulta Cómo comprobar el estado del [servicio de Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 

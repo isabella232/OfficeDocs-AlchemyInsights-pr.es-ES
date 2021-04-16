@@ -1,8 +1,8 @@
 ---
-title: Hacer que otra cuenta sea administrador
+title: Convertir otra cuenta en administrador
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795029"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Cambiar una cuenta de usuario estándar por un administrador en Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Cambiar una cuenta de usuario estándar a un administrador en Windows 10
 
-Esta es la manera de cambiar una cuenta de usuario estándar a un administrador en Windows 10:
+Este es el procedimiento para cambiar una cuenta de usuario estándar a un administrador en Windows 10:
 
-1. Vaya a la familia de cuentas de configuración de **Inicio**  >  **Settings**  >  **Account**  >  **& otras personas** (u **otras personas**, si está usando Windows 10 Enterprise).
-2. Seleccione la cuenta que desea convertir en Administrador y seleccione **cambiar cuenta**.
-3. En **tipo de cuenta**, seleccione **Administrador**y haga clic en **Aceptar**.
+1. Ve a **Inicio**  >  **Configuración Familia**  >  **de** cuentas  >  **& otras personas** (u **Otras** personas, si usas Windows 10 Enterprise).
+2. Seleccione la cuenta que quiera hacer administrador y seleccione **Cambiar cuenta**.
+3. En **Tipo de cuenta**, seleccione **Administrador** y, a continuación, **Aceptar**.
 
 **Nota:** Solo puede cambiar cuentas a un administrador desde una cuenta de administrador existente.

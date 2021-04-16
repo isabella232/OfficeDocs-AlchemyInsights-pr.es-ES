@@ -1,8 +1,8 @@
 ---
-title: Información general sobre licencias de Microsoft Stream
+title: Introducción a licencias de Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675351"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794237"
 ---
-# <a name="microsoft-stream-licensing-overview"></a>Información general sobre licencias de Microsoft Stream
+# <a name="microsoft-stream-licensing-overview"></a>Introducción a licencias de Microsoft Stream
 
-Microsoft Stream es un servicio de nube con licencia para cada suscripción de usuario. Está disponible como parte de las suscripciones de Microsoft 365 válidas. Consulte los precios de Microsoft 365 para obtener información sobre cada tipo de suscripción.
+Microsoft Stream es un servicio en la nube con licencia por suscripción de usuario. Está disponible como parte de las suscripciones elegibles de Microsoft 365. Consulte Precios de Microsoft 365 para obtener información sobre cada tipo de suscripción.
 
-- [Información general sobre licencias de Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
+- [Introducción a licencias de Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
