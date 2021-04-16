@@ -1,8 +1,8 @@
 ---
-title: Todas las capturas de Power BI
+title: Captura de Power BI
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2716"
 - "9000775"
-ms.openlocfilehash: 1ad31a87c1646f8c76b7da6fe32433ef0ff393b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ffa088c6e4c3a777b7eae35bbd17c25b70a865a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741644"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800915"
 ---
-# <a name="power-bi-troubleshooting"></a><span data-ttu-id="95fda-102">Solución de problemas de Power BI</span><span class="sxs-lookup"><span data-stu-id="95fda-102">Power BI troubleshooting</span></span>
+# <a name="power-bi-troubleshooting"></a><span data-ttu-id="d0181-102">Solución de problemas de Power BI</span><span class="sxs-lookup"><span data-stu-id="d0181-102">Power BI troubleshooting</span></span>
 
-<span data-ttu-id="95fda-103">Para obtener más contenido sobre la solución de problemas de Power BI, visite https://powerbi.microsoft.com/support/ .</span><span class="sxs-lookup"><span data-stu-id="95fda-103">For Power BI troubleshooting content, visit https://powerbi.microsoft.com/support/.</span></span>
+<span data-ttu-id="d0181-103">Para ver el contenido de solución de problemas de Power BI, visite https://powerbi.microsoft.com/support/ .</span><span class="sxs-lookup"><span data-stu-id="d0181-103">For Power BI troubleshooting content, visit https://powerbi.microsoft.com/support/.</span></span>
