@@ -2,7 +2,7 @@
 title: 'Se produjo un error al crear los Grupos de O365: el campo de clasificación no puede estar vacío'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000181"
 - "4835"
-ms.openlocfilehash: cc0aa15f5fd63719f9b041dbf4724238935b2d19
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51facd7ab62b7902d7fdb3a8b480d8b07a4d40ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783928"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813813"
 ---
 # <a name="error-creating-o365-groups-the-classification-field-cant-be-empty"></a>Se produjo un error al crear los Grupos de O365: el campo de clasificación no puede estar vacío
 

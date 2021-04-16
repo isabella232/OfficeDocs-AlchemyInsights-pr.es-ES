@@ -1,8 +1,8 @@
 ---
-title: Abrir archivo en modo de solo lectura
+title: Archivo de solo lectura abierto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,40 +13,40 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745624"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813201"
 ---
-# <a name="file-open-read-only"></a>Abrir archivo en modo de solo lectura
+# <a name="file-open-read-only"></a>Archivo de solo lectura abierto
 
-Al abrir archivos, es posible que se abran como de solo lectura. En algunos casos, esto es para mayor seguridad, como cuando se abren archivos de Internet y otras horas, puede deberse a una configuración que se puede cambiar. A continuación, se muestran algunos escenarios en los que un archivo se abre en modo de solo lectura y algunos pasos que puede realizar para cambiarlo.
+Puede que encuentre que al abrir archivos, se abren como de solo lectura. En algunos casos, esto es para mayor seguridad, como cuando se abren archivos desde Internet y otras veces, puede deberse a una configuración que se puede cambiar. Estos son algunos escenarios en los que un archivo abre de solo lectura y algunos pasos que puede seguir para cambiarlo.
   
- **Mi antivirus está provocando que se abran en modo de solo lectura**
+ **Mi antivirus hace que abran solo lectura**
   
-Algunos programas antivirus pueden protegerse de archivos potencialmente no seguros al abrirlos como de solo lectura. Es posible que necesite consultar con su proveedor de antivirus para obtener información sobre cómo ajustar esta configuración. Por ejemplo, BitDefender tiene contenido sobre la adición de exclusiones de aplicaciones: [Cómo agregar aplicaciones o exclusiones de procesos en BitDefender centro de control](https://aka.ms/AA6098i).
+Algunos programas antivirus pueden protegerle de archivos potencialmente no seguros al abrirlos de solo lectura. Es posible que deba consultar con su proveedor de antivirus para obtener información sobre cómo ajustar esta configuración. BitDefender, por ejemplo, tiene contenido sobre cómo agregar exclusiones de aplicaciones aquí: Cómo agregar exclusiones de aplicaciones o procesos en el Centro de [control de Bitdefender](https://aka.ms/AA6098i).
   
- **¿Se establecen las propiedades del archivo como de solo lectura?**
+ **¿Las propiedades del archivo están establecidas en solo lectura?**
   
-Puede comprobar las propiedades del archivo haciendo clic con el botón derecho en el archivo y eligiendo propiedades. Si está activado el atributo de sólo lectura, puede desactivarlo y hacer clic en Aceptar.
+Para comprobar las propiedades del archivo, haga clic con el botón secundario en el archivo y elija Propiedades. Si el atributo de solo lectura está activado, puede desactivarlo y hacer clic en Aceptar.
   
- **El contenido está en vista protegida**
+ **El contenido está en la vista protegida**
   
-Los archivos de Internet y de otras ubicaciones potencialmente no seguras pueden contener virus, gusanos u otros tipos de malware que pueden dañar el equipo. Este también suele ser el caso de los archivos adjuntos de correo electrónico o los archivos que ha descargado. Para ayudar a proteger el equipo, los archivos de estas ubicaciones potencialmente no seguras se abren en la vista protegida. Mediante la vista protegida, puede leer un archivo y ver su contenido mientras reduce los riesgos. Para obtener más información sobre la vista protegida y cómo cambiar la configuración, vea este artículo: [¿Qué es la vista protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Los archivos de Internet y de otras ubicaciones potencialmente no seguras pueden contener virus, gusanos u otros tipos de malware que pueden dañar el equipo. Esto también es habitual con los datos adjuntos de correo electrónico o los archivos que has descargado. Para ayudar a proteger el equipo, los archivos de estas ubicaciones potencialmente no seguras se abren en la vista protegida. Al usar la vista protegida, puede leer un archivo y ver su contenido al mismo tiempo que reduce los riesgos. Para obtener más información sobre la vista protegida y cómo cambiar la configuración, vea este artículo: [¿Qué es la vista protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **¿Está lleno OneDrive?**
+ **¿OneDrive está lleno?**
   
-Si el archivo está almacenado en OneDrive y el espacio de almacenamiento de OneDrive está lleno, no podrá guardar el documento hasta que se encuentre en el espacio asignado. Puede comprobar el espacio libre en OneDrive haciendo clic en el icono de OneDrive en el centro de notificaciones y eligiendo administrar almacenamiento, o puede [https://onedrive.live.com](https://onedrive.live.com) iniciar sesión y tener en cuenta la cantidad de espacio usado en la parte inferior izquierda de la pantalla.
+Si el archivo se almacena en OneDrive y el espacio de almacenamiento de OneDrive está lleno, no podrá guardar el documento hasta que esté bajo el espacio asignado. Puede comprobar el espacio libre en OneDrive haciendo clic en el icono de OneDrive en el centro de notificaciones y eligiendo Administrar almacenamiento, o puede ir a , iniciar sesión y tener en cuenta la cantidad de espacio usado en la parte inferior izquierda de la [https://onedrive.live.com](https://onedrive.live.com) pantalla.
   
- **¿Está Office activado?**
+ **¿Office está activado?**
   
-Si Office no está activado o si la suscripción ha expirado, puede estar en modo de funcionalidad reducida de solo lectura. Para obtener información sobre cómo activar Office, vea: [errores de activación y de producto sin licencia en Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Si Office no está activado o si la suscripción ha expirado, podría estar en modo de funcionalidad reducida de solo lectura. Para obtener información sobre cómo activar Office, vea: Errores de activación y producto sin [licencia en Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Si nada da error...**
+ **Si todo lo demás falla...**
   
-- Pruebe a reiniciar el equipo
+- Intente reiniciar el equipo
     
 - Instalar actualizaciones de Office
     

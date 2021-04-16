@@ -2,7 +2,7 @@
 title: Cifrado con reglas de transporte
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: 4c43fc16db84832c4e2aa3b6483632de6861b877
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfd77bc83b4b278e3630858f54fdfb109ade2a14
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784360"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813885"
 ---
 # <a name="encryption-with-transport-rules"></a>Cifrado con reglas de transporte
 

@@ -2,7 +2,7 @@
 title: Los archivos de Word o Excel están bloqueados para la edición
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5635"
-ms.openlocfilehash: 1a73ca8b195cbbd93ba0f58e85a8d348ee6a4552
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9d66dc2f4ec4e23972289765abd54888f397cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783208"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813561"
 ---
 # <a name="excel-or-word-files-are-locked-for-editing"></a>Los archivos de Word o Excel están bloqueados para la edición
 

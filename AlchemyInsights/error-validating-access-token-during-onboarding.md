@@ -1,8 +1,8 @@
 ---
-title: Error al validar el error de token de acceso durante la incorporación de escritorio de análisis
+title: Se produjo un error al validar el error de token de acceso durante el abordaje de Desktop Analytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783568"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813705"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Error "error al validar el token de acceso" durante la incorporación de Desktop Analytics
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Error "Hubo un error al validar el token de acceso" durante la incorporación de Desktop Analytics
 
-Este error suele observarse cuando expira el token de autenticación. Normalmente, la actualización de la página actualiza el token. Sin embargo, este problema puede persistir si hay directivas de acceso condicional aplicadas a la cuenta que se usa para la analítica de escritorio integrada. Puede revisar los registros de inicio de sesión de Azure AD en Azure portal para ver si hay errores de inicio de sesión para la cuenta que se usa para la incorporación de Desktop Analytics.
+Normalmente, este error se observa cuando expira el token de autenticación. Normalmente, la actualización de la página actualiza el token. Sin embargo, este problema puede persistir si hay directivas de acceso condicional aplicadas a la cuenta que se usa para Desktop Analytics integrado. Puede revisar los registros de inicio de sesión de Azure AD en Azure Portal para ver si hay algún error de inicio de sesión para la cuenta que se usa para la incorporación de Desktop Analytics.
 
-Para obtener más información acerca del acceso condicional, visite [planear la implementación de acceso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Para obtener más información acerca del acceso condicional, visite [Plan your Conditional Access deployment](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).

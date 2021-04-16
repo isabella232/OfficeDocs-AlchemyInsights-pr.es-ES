@@ -1,8 +1,8 @@
 ---
-title: eDiscovery en redes de Yammer
+title: Exhibición de documentos electrónicos en redes de Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710933"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814497"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery en redes de Yammer
+# <a name="ediscovery-in-yammer-networks"></a>Exhibición de documentos electrónicos en redes de Yammer
 
-Ahora puede realizar búsquedas de exhibición de documentos electrónicos para contenido de Yammer.  Para realizar búsquedas en la exhibición de documentos electrónicos o exportar contenido de Yammer, es necesario lo siguiente:
+Ahora puede realizar búsquedas de exhibición de documentos electrónicos para el contenido de Yammer.  Realizar búsquedas de exhibición de documentos electrónicos o exportar contenido de Yammer requiere lo siguiente:
 
-1. Primero debe migrar su red de Yammer Enterprise a modo nativo para que los mensajes y archivos de Yammer se puedan detectar. **Nota: si es un cliente nuevo a partir del 9 de enero de 2020 y su red de Yammer ya se encuentra en modo nativo, los datos ahora se pueden detectar con la exhibición**de documentos electrónicos.
+1. Primero debe migrar la red empresarial de Yammer al modo nativo para que los mensajes y archivos de Yammer se detectablen. Nota: si es un nuevo cliente a partir del 9 de enero de **2020** y la red de Yammer ya está en modo nativo, los datos ahora se pueden detectar con eDiscovery .
 
-2. Para los clientes de salida, eDiscovery para Yammer estará disponible una vez que se haya lanzado la herramienta de alineación de modo nativo y la migración en modo nativo se complete para Yammer en el espacio empresarial.
+2. Para los clientes que salen, la exhibición de documentos electrónicos para Yammer estará disponible una vez que se haya publicado la herramienta alineación del modo nativo y se complete la migración del modo nativo para Yammer en el espacio empresarial.
 
 Para obtener más información sobre:
 
-- Modo nativo en Yammer, vea: [información general sobre el modo nativo](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery en redes de Yammer, vea: [información general sobre la exhibición de documentos electrónicos en redes de Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery en Microsoft 365, consulte [eDiscovery en microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Modo nativo en Yammer, vea: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- eDiscovery in Yammer Networks, vea: [Overview of eDiscovery in Yammer networks](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- eDiscovery en Microsoft 365, vea [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
