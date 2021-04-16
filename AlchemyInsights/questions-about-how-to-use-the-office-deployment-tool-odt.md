@@ -1,8 +1,8 @@
 ---
-title: Preguntas sobre el uso de la herramienta de implementación de Office (ODT)
+title: Preguntas sobre cómo usar la Herramienta de implementación de Office (ODT)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086173"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790349"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Preguntas sobre el uso de la herramienta de implementación de Office (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Preguntas sobre cómo usar la Herramienta de implementación de Office (ODT)
 
 Descargue la Herramienta de implementación de Office desde el [Centro de descarga de Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Después de descargar el archivo, ejecute el archivo ejecutable autoextraíble, que contiene el archivo ejecutable de la herramienta de implementación de Office (setupodt.exe) y un archivo de configuración de ejemplo (configuration.xml).
+Después de descargar el archivo autoextraíble, ejecútelo para extraer el archivo ejecutable de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml).
   
  **Para excluir o quitar aplicaciones de Microsoft 365 para productos empresariales de los equipos cliente:**
   
-Al instalar las aplicaciones de Microsoft 365 para empresas, puede excluir productos específicos. Para hacerlo, siga los pasos para instalar Office con la ODT, pero incluya el elemento ExcludeApp en el archivo de configuración. Por ejemplo, este archivo de configuración instala todas las aplicaciones de Microsoft 365 para productos empresariales excepto Publisher:
+Al instalar Aplicaciones de Microsoft 365 para empresas, puede excluir productos específicos. Para hacerlo, siga los pasos para instalar Office con la ODT, pero incluya el elemento ExcludeApp en el archivo de configuración. Por ejemplo, este archivo de configuración instala todas las aplicaciones de Microsoft 365 para productos empresariales excepto Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">

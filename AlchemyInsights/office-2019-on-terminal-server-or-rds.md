@@ -2,7 +2,7 @@
 title: Office 2019 en Terminal Server o RDS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754582"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790997"
 ---
 # <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementación de Office 2019 para uso compartido en RDS, Terminal Server o VDI
 
-Si Office ya está instalado en el servidor RDS con otros planes de Office, desinstálelo. Por ejemplo, vaya a **Panel de control**  >  **desinstalar un programa**. Si está experimentando problemas, desinstale con el [Asistente para soporte y recuperación de Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Si Office ya está instalado en el servidor RDS con otros planes de Office, desinstale. Por ejemplo, vaya a **Panel de control Desinstalar** un  >  **programa**. Si tiene problemas, desinstale con [el Asistente para soporte técnico y recuperación de Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
 
-Use la herramienta de implementación de Office (ODT) para instalar Office. Para conocer los pasos detallados, consulte [deploy Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
+Use la Herramienta de implementación de Office (ODT) para instalar Office. Para obtener instrucciones detalladas, vea [Deploy Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Para la activación, vea [información general sobre la activación por volumen de Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Para la activación, vea [Overview of volume activation of Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
