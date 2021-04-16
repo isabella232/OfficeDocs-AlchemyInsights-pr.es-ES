@@ -2,7 +2,7 @@
 title: Cómo comprar planes de Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703605"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810825"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Cómo comprar planes de Office 365 Education
 
-La calificación de Office 365 Education está en revisión. Puede esperar recibir una notificación para determinar su elegibilidad antes de que expire la versión de prueba.
+Su cualificación de Office 365 Education está en revisión. Puede esperar recibir una notificación sobre la determinación de su elegibilidad antes de que expire la prueba.

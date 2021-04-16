@@ -2,7 +2,7 @@
 title: Restaurar una carpeta pública eliminada
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774548"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809456"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Restaurar una carpeta pública eliminada
 
-**Para restaurar elementos eliminados de una carpeta pública**:
+**Para restaurar elementos eliminados de una carpeta pública:**
 
-- Vea [no puede recuperar los elementos eliminados de una carpeta pública que no es de correo en Outlook 2016](https://aka.ms/pfrec).
+- Vea [You can't recover deleted items from a non-mail public folder in Outlook 2016](https://aka.ms/pfrec).
  
-**Para restaurar una carpeta pública eliminada (de cualquier tipo)**: 
+**Para restaurar una carpeta pública eliminada (de cualquier tipo):** 
 
-- Use el siguiente comando de PowerShell EXO:
+- Use el siguiente comando exo de PowerShell:
 
     Sintaxis:
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    Ejemplo: en el siguiente comando se restaurará Subfolder1 y se colocará en \Parent1:
+    Ejemplo: el siguiente comando restaurará Subcarpeta1 y lo colocará en \Parent1:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Consulte [restaurar una carpeta pública eliminada](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) para obtener más información.
+Consulta [Restaurar una carpeta pública eliminada para](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) obtener más información.

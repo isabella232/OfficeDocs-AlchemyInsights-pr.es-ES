@@ -2,7 +2,7 @@
 title: Restablecer o recuperar el equipo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: afadd93fb9ccf6a76a7fa7e6b860212756050c6c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795729"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809564"
 ---
 # <a name="reset-or-recover-your-pc"></a>Restablecer o recuperar el equipo
 
@@ -31,7 +31,7 @@ Puede restablecer el PC en **Configuración > Actualización y seguridad > Recup
 
 Si no puede abrir Configuración, restablezca su PC desde la pantalla de inicio de sesión:
 
-1. Presione **la tecla del logotipo de Windows + L** para ir a la pantalla de inicio de sesión. Luego, reinicie el equipo y presione la tecla **Mayús** mientras selecciona el botón **** Encendido > **Reiniciar** en la esquina inferior derecha de la pantalla. El equipo se reiniciará en el entorno de recuperación de Windows (WinRE).
+1. Presione **la tecla del logotipo de Windows + L** para ir a la pantalla de inicio de sesión. Luego, reinicie el equipo y presione la tecla **Mayús** mientras selecciona el botón Encendido > **Reiniciar** en la esquina inferior derecha de la pantalla. El equipo se reiniciará en el entorno de recuperación de Windows (WinRE).
 2. En la pantalla **Elija una opción**, vaya a **Solucionar problemas > Restablecer este PC** y elija una de las opciones.
 
 **Más opciones de restauración o recuperación**

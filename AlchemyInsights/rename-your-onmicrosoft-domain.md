@@ -1,8 +1,8 @@
 ---
-title: Cambiar el nombre del dominio de Microsoft
+title: Cambiar el nombre del dominio de onmicrosoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701336"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810249"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Cambiar el nombre del dominio onmicrosoft.com
+# <a name="rename-your-onmicrosoftcom-domain"></a>Cambiar el nombre onmicrosoft.com dominio
 
- **No puede cambiar el nombre del dominio de mi Microsoft después de suscribirse.** Por ejemplo, si el dominio inicial elegido era  *fourthcoffee.onmicrosoft.com*, no puede cambiarlo a  *fabrikam.onmicrosoft.com*. Para usar un dominio de onmicrosoft.com diferente, debe iniciar una nueva suscripción con Microsoft 365.
+ **No puede cambiar el nombre del dominio de onmicrosoft después de registrarse.** Por ejemplo, si el dominio inicial que eligió  *fourthcoffee.onmicrosoft.com*, no puede cambiarlo para que sea  *fabrikam.onmicrosoft.com*. Para usar un dominio onmicrosoft.com, tendrías que iniciar una nueva suscripción con Microsoft 365.
   
-Si desea usar un dominio personalizado como  *contoso.com*  , puede [Agregar uno](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) de su propiedad o [comprar uno de Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
+Si desea usar un dominio personalizado como *contoso.com* [](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) , puede agregar uno que tenga o [comprar uno de Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
   
