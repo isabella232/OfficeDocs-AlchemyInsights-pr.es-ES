@@ -2,7 +2,7 @@
 title: Entienda su factura
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791603"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782708"
 ---
 # <a name="understand-billing-amount"></a>Entender el importe de facturación
 
@@ -70,7 +70,7 @@ No. Los clientes obtienen una cantidad fija de servicios de nivel Gratis y un cr
 
 **¿Cómo puedo comprobar que los servicios gratuitos están activos o cuándo expirarán?**
 
-En la página del portal Ibiza > Suscripción > Información general, desplácese hacia abajo hasta Servicios gratis por 12 meses y haga clic en el icono Información. Se mostrará la fecha en la que los servicios gratis expirarán **Nota** : no hay ningún servicio V1 que forme parte de los Servicios gratuitos incluidos en Azure. Para ver la lista actualizada de Servicios gratuitos, consulte [¿Qué productos son gratis durante 12 meses?](http://www.microsoftazuresponsorships.com/)
+En la página del portal Ibiza > Suscripción > Información general, desplácese hacia abajo hasta Servicios gratis por 12 meses y haga clic en el icono Información. Se mostrará la fecha en la que los servicios gratis expirarán **Nota**: no hay ningún servicio V1 que forme parte de los Servicios gratuitos incluidos en Azure. Para ver la lista actualizada de Servicios gratuitos, consulte [¿Qué productos son gratis durante 12 meses?](http://www.microsoftazuresponsorships.com/)
 
 Preguntas más frecuentes adicionales: [Preguntas más frecuentes sobre cuentas gratuitas](https://azure.microsoft.com/free/free-account-faq/)
 

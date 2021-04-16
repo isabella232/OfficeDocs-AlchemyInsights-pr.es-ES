@@ -2,7 +2,7 @@
 title: Usar Dictado en Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002888"
 - "5513"
-ms.openlocfilehash: f91a455322b7f885f4edd3308e6fbd5d46522324
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 665437de66b0875492201074146c8ed4ef454f91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798501"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51781727"
 ---
 # <a name="use-dictation-in-word"></a>Usar Dictado en Word
 
