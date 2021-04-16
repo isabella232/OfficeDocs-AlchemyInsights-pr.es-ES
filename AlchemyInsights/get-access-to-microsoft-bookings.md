@@ -2,7 +2,7 @@
 title: Obtener acceso a Microsoft Bookings
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: 73a2c9016d39d40fa4e46cc069dd0d3f45900c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 612fcc70848e1e57897b1de63cf66bde89911208
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707656"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812423"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>Obtener acceso a Microsoft Bookings
 

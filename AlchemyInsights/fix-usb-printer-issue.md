@@ -1,8 +1,8 @@
 ---
-title: Solucionar problemas de la impresora USB
+title: Corregir problemas de impresora USB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677512"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812733"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>Solucionar problemas de conexión de la impresora USB
+# <a name="fix-usb-printer-connection-issues"></a>Corregir problemas de conexión de impresora USB
 
 Pruebe estos **pasos de solución de problemas** para que la impresora USB vuelva a funcionar:
 
-1. Apaga la impresora y desconecta el cable USB de tu PC y de la impresora.
-2. Compruebe el cable para asegurarse de que no hay daños.
-3. Vuelva a enchufar el cable en su PC e impresora.
+1. Apague la impresora y desenchufe el cable USB del equipo y de la impresora.
+2. Inspeccione el cable para asegurarse de que no hay daños.
+3. Vuelva a conectar el cable al equipo y a la impresora.
 
-Si esto no funciona, intente **quitar y volver a instalar la impresora USB**:
+Si eso no funciona, intente quitar y **reinstalar la impresora USB:**
 
-1. Quite la impresora en configuración:
-    1. Desconecta el cable USB de la impresora desde tu PC.
-    2. Seleccione **iniciar**  >  **configuración**  >  **dispositivos**  >  **impresoras & escáneres**.
-    3. En **impresoras & escáneres**, seleccione la impresora para la que está solucionando problemas. Seleccione **quitar dispositivo**. Siga las instrucciones para quitar completamente la impresora.
-2. Quite cualquier software para fabricantes de impresoras de terceros:
-    1. Seleccione **iniciar**  >  **Settings**  >  **aplicaciones**de configuración.
-    2. En **aplicaciones & características**, desplácese para buscar cualquier software instalado desde el fabricante de la impresora (como HP, Canon o Epson).
-    3. Seleccione el software y seleccione **desinstalar**.
+1. Quite la impresora en Configuración:
+    1. Desenchufe el cable USB de la impresora del equipo.
+    2. Seleccione **Iniciar configuración**  >    >    >  **Dispositivos Impresoras & escáneres**.
+    3. En **Impresoras & escáneres,** seleccione la impresora que está solucionando problemas. Selecciona **Quitar dispositivo**. Siga las instrucciones para quitar completamente la impresora.
+2. Quite cualquier software de fabricante de impresoras de terceros:
+    1. Seleccione **Iniciar aplicaciones** de  >    >  **configuración**.
+    2. En **Aplicaciones & características,** desplácese para buscar cualquier software instalado desde el fabricante de la impresora (como HP, Canon o Epson).
+    3. Seleccione el software y seleccione **Desinstalar**.
 3. Apague y reinicie su impresora.<br>
-    1. Apague la impresora y desconecte el cable de alimentación. Espere 30 segundos. Vuelva a enchufar la impresora.
-    2. Vuelve a enchufar el cable USB de la impresora en el equipo. El equipo debe registrarse automáticamente para que el dispositivo esté enchufado.
+    1. Apague la impresora y desconecte el cable de alimentación. Espere 30 segundos. Vuelva a conectar la impresora.
+    2. Vuelva a conectar el cable USB de la impresora al equipo. El equipo debe registrar automáticamente que el dispositivo está conectado.
 4. Intente imprimir de nuevo.

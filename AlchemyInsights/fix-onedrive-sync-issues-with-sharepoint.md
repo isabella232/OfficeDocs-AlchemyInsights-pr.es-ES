@@ -2,7 +2,7 @@
 title: Solucionar problemas de sincronización de OneDrive con SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5800003"
 - "5724"
-ms.openlocfilehash: d24494f5fd778d16dea583b91b99148c606d8adc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b9b496534fbff77776c935d401d49208b0355b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768449"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812771"
 ---
 # <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Solucionar problemas de sincronización de OneDrive con SharePoint
 

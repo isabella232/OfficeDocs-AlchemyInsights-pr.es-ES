@@ -2,7 +2,7 @@
 title: Buscar el estado de su incidencia de Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002251"
 - "4362"
-ms.openlocfilehash: 74aa97173e2999d756e638bfedc180b17e3a8f1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ddf6b87ec40f9b91e47cc2938c9160a9158a8d3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708196"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813057"
 ---
 # <a name="find-the-status-of-your-microsoft-365-ticket"></a>Buscar el estado de su incidencia de Microsoft 365
 

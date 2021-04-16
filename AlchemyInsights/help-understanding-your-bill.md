@@ -1,8 +1,8 @@
 ---
-title: Ayuda para comprender su factura
+title: Ayuda para comprender tu factura
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +14,18 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705460"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811617"
 ---
-# <a name="help-understanding-your-bill"></a>Ayuda para comprender su factura
+# <a name="help-understanding-your-bill"></a>Ayuda para comprender tu factura
 
-El importe facturado para su suscripción refleja el precio de la licencia multiplicado por el número de licencias adquiridas y los impuestos/cuotas que se han solicitado.
+El importe facturado por su suscripción refleja el precio de licencia multiplicado por el número de licencias compradas y los impuestos o tarifas requeridos.
   
-Si el importe facturado es diferente y se espera, hay algunas razones por las que esto puede ocurrir:
+If the amount billed is different then expected, there are a few reasons this may happen:
   
 - Se agregaron o quitaron licencias de su suscripción. Cuando cambia licencias en mitad de un período, esta modificación se refleja en la siguiente factura. Es posible que vea que se ha generado crédito y una factura nueva del período de servicio anterior debido a este cambio.
 
@@ -33,4 +33,4 @@ Si el importe facturado es diferente y se espera, hay algunas razones por las qu
 
 - La suscripción se renovó para un nuevo período y el precio de la licencia ha cambiado.
 
-Para obtener más información sobre la factura, vea: [comprender la factura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Para obtener más información acerca de la factura, vea: [Comprender la factura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

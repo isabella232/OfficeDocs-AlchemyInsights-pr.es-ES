@@ -2,7 +2,7 @@
 title: Generar títulos automáticos y una transcripción en Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707800"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812441"
 ---
 # <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generar títulos automáticos y una transcripción en Microsoft Stream
 
-Stream puede generar títulos automáticamente mediante la tecnología de reconocimiento de voz automática y puede ver una ventana de transcripción de desplazamiento para navegar y seguir fácilmente junto con el contenido hablado de un vídeo.
+Stream puede generar automáticamente títulos con la tecnología de reconocimiento automático de voz y puede ver una ventana de transcripción de desplazamiento para navegar y seguir fácilmente el contenido hablado de un vídeo.
 
-- [Generar leyendas automáticas y una transcripción para los vídeos de Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Generar automáticamente subtítulos y una transcripción para los vídeos de Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Mostrar una ventana de transcripción desplazable para un vídeo en Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Mostrar una ventana de transcripción de desplazamiento para un vídeo en Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

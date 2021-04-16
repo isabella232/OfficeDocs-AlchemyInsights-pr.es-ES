@@ -2,7 +2,7 @@
 title: Cumplimiento de la HIPPA y Office 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: ea0d01150f7dbf4d9788deb3430bc27862a54c45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f98c725e2624ddb584dc62321ce48de41e4a127
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782200"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811437"
 ---
 # <a name="hippa-compliance-and-office-365"></a>Cumplimiento de la HIPPA y Office 365
 
@@ -29,7 +29,7 @@ Vea los siguientes recursos para obtener información adicional:
 
 - **Usar la [Puntuación de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** para evaluar los riesgos.
 
-- **Documento Office 365 Compliance Offerings**, consulte[Office 365, Office 365 U.S. Government y Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751).
+- **Documento Office 365 Compliance Offerings**, consulte [Office 365, Office 365 U.S. Government y Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751).
 
 - ¿Necesita formalizar un BAA con Microsoft para obtener Servicios en la nube de Microsoft?. El [Contrato de asociación comercial según las normas de la HIPPA](https://aka.ms/BAA) está disponible a través de los Términos Online Services de forma predeterminada para todos los clientes que sean entidades o socios comerciales cubiertos por la HIPAA. Consulte "Servicios de la nube en el ámbito de Microsoft" en esta página web para ver la lista de servicios en la nube cubiertos por este BAA.
 

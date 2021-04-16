@@ -1,8 +1,8 @@
 ---
-title: Cómo permitir que los usuarios de Skype empresarial se comuniquen con usuarios de Skype
+title: Cómo permitir que los usuarios de Skype Empresarial se comuniquen con usuarios de Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: 6702f64f70f752667167b41e79c510367f95bfb7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781948"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811329"
 ---
 # <a name="let-skype-for-business-users-add-skype-contacts"></a>Permitir que los usuarios de Skype Empresarial agreguen contactos de Skype
 
-Con Skype empresarial, los usuarios pueden buscar y enviar mensajes instantáneos a todos los usuarios que usen Skype, la aplicación gratuita. En este artículo se explica lo que debe hacer para poder agregar contactos de Skype.
+Con Skype Empresarial, los usuarios pueden buscar e mensajería instantánea con todos los usuarios que usan Skype, la aplicación gratuita. En este artículo se explica lo que debe hacer para que puedan agregar contactos de Skype.
 
 [Permitir que los usuarios de Skype Empresarial agreguen contactos de Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

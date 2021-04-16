@@ -2,7 +2,7 @@
 title: Obtener planes de Microsoft 365 Educación
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: 0f88a44e92a1bf773ee900b1ad6ba2d349f08af0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52fa2cce9a47574ad4c44f512616c213c70fe378
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706972"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812085"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>Obtener planes de Microsoft 365 Educación
 

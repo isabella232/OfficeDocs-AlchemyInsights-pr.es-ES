@@ -1,8 +1,8 @@
 ---
-title: Solucionar problemas de Bluetooth en Windows 10
+title: Corregir Bluetooth problemas en Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730176"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812949"
 ---
-# <a name="fix-bluetooth-problems-in-windows-10"></a>Solucionar problemas de Bluetooth en Windows 10
+# <a name="fix-bluetooth-problems-in-windows-10"></a>Corregir Bluetooth problemas en Windows 10
 
-Si falta el icono de Bluetooth o si no se puede activar o desactivar el Bluetooth, es posible que quiera ejecutar el solucionador de problemas de Bluetooth. [Abra la configuración de solución de problemas](ms-settings:troubleshoot), haga clic en **Bluetooth** , en **Buscar y solucionar otros problemas**, haga clic en **ejecutar el solucionador de problemas**.
+Si falta Bluetooth icono de Bluetooth no se puede desactivar o desactivar, es posible que desee ejecutar el solucionador Bluetooth de problemas. [Abra la configuración de solución de](ms-settings:troubleshoot)problemas, haga clic **Bluetooth** en Buscar y corregir otros **problemas,** haga clic **en Ejecutar el solucionador de problemas**.
 
-Si no ve el icono de Bluetooth, pero Bluetooth aparece en el administrador de dispositivos:
+Si no ves el icono Bluetooth, pero Bluetooth aparece en el Administrador de dispositivos:
 
-1. En el administrador de dispositivos, haga clic en **Bluetooth**. Mantén presionado (o haz clic con el botón derecho) en el nombre del adaptador Bluetooth y haz clic en **desinstalar dispositivo**.
+1. En el Administrador de dispositivos, **haz clic Bluetooth**. Mantenga presionado (o haga clic con el botón secundario) en el nombre Bluetooth adaptador y haga clic en **Desinstalar dispositivo**.
 
-2. Apaga el dispositivo Windows, espera unos segundos y, a continuación, vuelve a encenderlo. Windows intentará reinstalar el controlador.
+2. Apaga el dispositivo Windows, espera unos segundos y vuelve a activarlo. Windows intentará reinstalar el controlador.
 
-Si has instalado recientemente actualizaciones de Windows 10 o actualizado a Windows 10, es posible que quieras comprobar las actualizaciones de los controladores:
+Si has instalado actualizaciones de Windows 10 recientemente o actualizadas a Windows 10, es posible que quieras comprobar si hay actualizaciones de controladores:
 
-1. En el administrador de dispositivos, haga clic en **Bluetooth**y, a continuación, haga clic en el nombre del adaptador Bluetooth (que puede incluir la palabra "radio").
+1. En el Administrador de dispositivos, **haga clic Bluetooth** y, a continuación, haga clic en el nombre Bluetooth adaptador (que puede incluir la palabra "radio").
 
-2. Mantén presionado (o haz clic con el botón derecho) en el adaptador Bluetooth y, a continuación, haz clic en **Actualizar**  >  **búsqueda de controlador automáticamente para el software de controlador actualizado**. Siga los pasos y, a continuación, haga clic en **cerrar**.
+2. Mantenga presionado (o haga clic con el botón secundario) en el adaptador Bluetooth y, a continuación, haga clic en Actualizar búsqueda de controladores automáticamente para el  >  **software de controlador actualizado.** Siga los pasos y, a continuación, haga clic **en Cerrar**.
 
-      - Si Windows no encuentra un nuevo controlador Bluetooth, visita el sitio web del fabricante del equipo y descarga el controlador Bluetooth más reciente desde allí.
+      - Si Windows no encuentra un controlador de Bluetooth nuevo, visita el sitio web del fabricante del equipo y descarga el controlador de Bluetooth más reciente desde allí.
 
-    - Una vez descargado, haga clic en **Actualizar controlador**buscar en el  >  **equipo para el software de controlador**  >  **Busque** la ubicación en la que se almacenan los archivos del controlador > **Aceptar**  >  **Next**y siga los pasos para instalar.
+    - Después de descargarlo, haga clic en Actualizar controlador Examinar mi equipo en busca de software de controlador Busque la ubicación donde se almacenan los archivos de controlador > Aceptar siguiente y siga los pasos para  >    >     >  instalar.
 
-3. Después de instalar el controlador actualizado, reinicie el equipo y, a continuación, compruebe si se ha corregido el problema de conexión.
+3. Después de instalar el controlador actualizado, reinicie el equipo y compruebe si se soluciona el problema de conexión.
 
-Para obtener más información sobre cómo solucionar problemas de Bluetooth, vea el artículo completo, [solucionar problemas de Bluetooth en Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems).
+Para obtener más información sobre cómo solucionar Bluetooth problemas, consulta el artículo completo, [Fix Bluetooth problems in Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems).

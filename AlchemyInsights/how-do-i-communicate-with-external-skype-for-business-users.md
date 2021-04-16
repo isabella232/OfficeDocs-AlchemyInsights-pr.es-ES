@@ -1,8 +1,8 @@
 ---
-title: Procedimiento para comunicarse con usuarios externos de Skype empresarial
+title: Cómo me comunico con usuarios externos de Skype Empresarial
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: f5e1e597067efff58872a5f0080bb18c42af648e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9580a1e9f850726210f403a5dc6c84cd9a7df196
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781876"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811293"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>Permitir comunicaciones externas con Skype empresarial 
+# <a name="allow-external-communications-with-skype-for-business"></a>Permitir comunicaciones externas con Skype Empresarial 
 
-¿Desea permitir que los usuarios de Skype empresarial se pongan en contacto con usuarios ajenos a la organización? Consulte [permitir que los usuarios se pongan en contacto con usuarios externos de Skype empresarial](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+¿Desea permitir a los usuarios de Skype Empresarial ponerse en contacto con usuarios externos a su organización? Vea [Permitir a los usuarios ponerse en contacto con usuarios externos de Skype Empresarial](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Los registros DNS deben configurarse correctamente para que las comunicaciones externas funcionen correctamente. Compruebe [aquí](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) para ver si tenemos instrucciones específicas sobre cómo establecer registros DNS con su proveedor. 
+Los registros DNS DEBEN estar configurados correctamente para que las comunicaciones externas funcionen correctamente. Consulte [aquí](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) para ver si tenemos instrucciones específicas sobre cómo establecer registros DNS con su proveedor. 
 
-¿Desea permitir que los usuarios de Skype empresarial se pongan en contacto con usuarios consumidores de Skype? Vea:
+¿Solo desea permitir a los usuarios de Skype Empresarial ponerse en contacto con los usuarios consumidores de Skype? Vea:
 
-- [Permita que los usuarios de Skype empresarial agreguen contactos de Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+- [Permitir que los usuarios de Skype Empresarial agreguen contactos de Skype.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
 
-- [Agregar un contacto en Skype empresarial](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+- [Agregar un contacto en Skype Empresarial](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Si desea que los usuarios de Microsoft Teams puedan ponerse en contacto con usuarios ajenos a la organización (incluidos los usuarios de Skype empresarial), revise [Manage external Access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+Si desea que los usuarios de Teams puedan ponerse en contacto con usuarios externos a su organización (incluidos los usuarios de Skype Empresarial), revise Administrar el acceso externo [en Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
