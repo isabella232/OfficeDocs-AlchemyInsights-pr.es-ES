@@ -1,8 +1,8 @@
 ---
-title: Ver la contraseña de red Wi-Fi en Windows 10
+title: Ver Wi-Fi de red en Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689107"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807395"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Ver la contraseña de red Wi-Fi en Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Ver Wi-Fi de red en Windows 10
 
-1. Asegúrate de que tu PC con Windows 10 esté conectado a la red Wi-Fi.
+1. Asegúrate de que el equipo con Windows 10 esté conectado a la Wi-Fi red.
 
-2. Vaya a **configuración > red & el estado de > de Internet**o haga clic o pulse [aquí](ms-settings:network?activationSource=GetHelp) para dejar que se le lleve ahora.
+2. Ve a **Configuración > red & Estado** de internet > , [](ms-settings:network?activationSource=GetHelp) o haz clic o pulsa aquí para permitirnos llevarte allí ahora).
 
 3. Haga clic en **Centro de redes y recursos compartidos**.
 
-    ![Centro de redes y recursos compartidos.](media/network-sharing-center.png)
+    ![Centro de red y uso compartido.](media/network-sharing-center.png)
 
-4. En **centro de redes y recursos compartidos**, junto a **conexiones**, verá el nombre de su red inalámbrica. Por ejemplo, si la red se denomina "ABC123", es posible que vea:
+4. En **el Centro de red y uso compartido**, junto a **Conexiones,** verá el nombre de la red inalámbrica. Por ejemplo, si la red se denomina "ABC123", es posible que vea:
 
     ![Conexiones de red.](media/network-connections.png)
 
-    Haga clic en el nombre de la red inalámbrica para abrir la ventana Estado de Wi-Fi. 
+    Haga clic en el nombre de red inalámbrica para abrir la ventana Wi-Fi Estado. 
 
-5. En la ventana Estado de Wi-Fi, haga clic en **propiedades inalámbricas**, haga clic en la pestaña **seguridad** y seleccione **Mostrar caracteres**.
+5. En la ventana Wi-Fi, haga clic en **Propiedades** inalámbricas, haga clic en la **pestaña** Seguridad y compruebe **Mostrar caracteres**.
 
-    ![Mostrar caracteres de contraseña Wi-Fi.](media/show-password-characters.png)
+    ![Mostrar Wi-Fi de contraseña.](media/show-password-characters.png)
 
