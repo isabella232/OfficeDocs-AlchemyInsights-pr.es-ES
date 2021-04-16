@@ -1,8 +1,8 @@
 ---
-title: OneDrive para la empresa web OneDrive redirige a Delve
+title: OneDrive para la Empresa Web OneDrive redirige a Delve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776397"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800006"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Se redirige a Delve después de hacer clic en OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Redirigido a Delve después de hacer clic en OneDrive
 
-Consulte nuestra guía detallada de [solución de problemas](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
+Consulte nuestra guía de [solución de problemas detallada.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Para resolver este problema, el administrador debe conceder a los usuarios el derecho a crear su sitio de mis sitios. Esto se debe a que la página de OneDrive para la empresa se crea en mis sitios.
+Para resolver este problema, el administrador debe conceder a los usuarios el derecho de crear su sitio de Mis sitios. Esto se debe a que la página de OneDrive para la Empresa se crea en Mis sitios.
 
 Para conceder este derecho, siga estos pasos:
 
-1. En el centro de administración de SharePoint, haga clic en **perfiles de usuario**.
+1. En el Centro de administración de SharePoint, haga clic **en Perfiles de usuario**.
 
-2. En la sección **personas** , haga clic en **administrar permisos de usuario**.
+2. En la **sección Personas,** haga clic **en Administrar permisos de usuario**.
 
-3. Agregar usuarios que requieren permisos para crear su sitio mis sitios. De forma predeterminada, esta opción está establecida en **todos excepto los usuarios externos**.
+3. Agregue usuarios que necesiten permisos para crear su sitio de Mis sitios. De forma predeterminada, esta configuración se establece en **Todos excepto los usuarios externos.**
 
-4. Una vez que haya agregado el usuario, los usuarios o el grupo, asegúrese de que se haya seleccionado el usuario, los usuarios o el grupo agregado, desplácese a la sección **permisos** y, a continuación, active la casilla junto a **crear sitio personal (necesario para el almacenamiento personal, el suministro de noticias y el contenido seguido)**.
+4. Después de agregar el usuario, los usuarios o el grupo, asegúrese de que el usuario, los usuarios o el grupo agregados están **seleccionados,** desplácese a la sección de permisos y, a continuación, active la casilla junto a Crear sitio **personal (necesario** para el almacenamiento personal, el servicio de noticias y el contenido seguido).
 
-5. Haga clic en **Aceptar**y, a continuación, haga que el usuario vaya a la página de OneDrive para crear el sitio.
+5. Haga **clic en** Aceptar y, a continuación, haga que el usuario vaya a la página de OneDrive para crear el sitio.
