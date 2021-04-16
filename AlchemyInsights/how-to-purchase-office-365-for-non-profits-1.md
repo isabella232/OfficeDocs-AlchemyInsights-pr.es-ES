@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 para ONG aprobadas '
+title: 'Microsoft 365 para organizaciones sin ánimo de lucro: aprobado '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779831"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810681"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a><span data-ttu-id="18e41-102">Microsoft 365 para ONG aprobadas</span><span class="sxs-lookup"><span data-stu-id="18e41-102">Microsoft 365 for nonprofits - approved</span></span>
+# <a name="microsoft-365-for-nonprofits---approved"></a><span data-ttu-id="9a4d8-102">Microsoft 365 para organizaciones sin ánimo de lucro: aprobado</span><span class="sxs-lookup"><span data-stu-id="9a4d8-102">Microsoft 365 for nonprofits - approved</span></span>
 
-<span data-ttu-id="18e41-103">Su estado como una organización de ONG cualificada de Microsoft ha sido aprobada.</span><span class="sxs-lookup"><span data-stu-id="18e41-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="18e41-104">Puede completar la compra desde el centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="18e41-104">You can complete the purchase from the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="9a4d8-103">Se ha aprobado su estado como organización sin ánimo de lucro calificada de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="9a4d8-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="9a4d8-104">Puede completar la compra desde el Centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9a4d8-104">You can complete the purchase from the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="18e41-105">En el centro de administración, vaya a **Billing** la \> Página servicios de [compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.</span><span class="sxs-lookup"><span data-stu-id="18e41-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+1. <span data-ttu-id="9a4d8-105">En el Centro de administración, vaya a la página **Servicios de compra** de \> [facturación.](https://go.microsoft.com/fwlink/p/?linkid=868433)</span><span class="sxs-lookup"><span data-stu-id="9a4d8-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="18e41-106">Elija de la lista en **planes para ONG**.</span><span class="sxs-lookup"><span data-stu-id="18e41-106">Choose from the list under **NonProfits Plans**.</span></span>
+2. <span data-ttu-id="9a4d8-106">Elija de la lista en **Planes no aptos**.</span><span class="sxs-lookup"><span data-stu-id="9a4d8-106">Choose from the list under **NonProfits Plans**.</span></span>
 
-3. <span data-ttu-id="18e41-107">Mantenga el mouse sobre la suscripción que desea comprar y elija **comprar ahora**.</span><span class="sxs-lookup"><span data-stu-id="18e41-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
+3. <span data-ttu-id="9a4d8-107">Mantenga el mouse sobre la suscripción que desea comprar y elija **Comprar ahora**.</span><span class="sxs-lookup"><span data-stu-id="9a4d8-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
 
-<span data-ttu-id="18e41-108">Para obtener más información, vea [Microsoft 365 recursos para ONG](https://www.microsoft.com/nonprofits/microsoft-365) o [póngase en contacto con ventas](https://www.microsoft.com/nonprofits/contact-us).</span><span class="sxs-lookup"><span data-stu-id="18e41-108">For more info, see [Microsoft 365 resources for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales](https://www.microsoft.com/nonprofits/contact-us).</span></span>
+<span data-ttu-id="9a4d8-108">Para obtener más información, consulta [Recursos de Microsoft 365 para organizaciones sin ánimo de lucro](https://www.microsoft.com/nonprofits/microsoft-365) o ponte en contacto con [ventas.](https://www.microsoft.com/nonprofits/contact-us)</span><span class="sxs-lookup"><span data-stu-id="9a4d8-108">For more info, see [Microsoft 365 resources for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales](https://www.microsoft.com/nonprofits/contact-us).</span></span>
