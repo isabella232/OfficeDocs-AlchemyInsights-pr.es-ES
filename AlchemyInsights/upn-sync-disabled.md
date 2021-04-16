@@ -1,8 +1,8 @@
 ---
-title: Sincronización UPN deshabilitada
+title: Sincronización upn deshabilitada
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 31947d7c491e4116ffdb9baadf286cd4fbb50f2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749531"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782168"
 ---
-# <a name="upn-sync-disabled"></a><span data-ttu-id="7a584-102">Sincronización UPN deshabilitada</span><span class="sxs-lookup"><span data-stu-id="7a584-102">UPN sync disabled</span></span>
+# <a name="upn-sync-disabled"></a><span data-ttu-id="844e8-102">Sincronización upn deshabilitada</span><span class="sxs-lookup"><span data-stu-id="844e8-102">UPN sync disabled</span></span>
 
-<span data-ttu-id="7a584-103">Si empezó a sincronizar con Azure AD antes del 30 de marzo de 2016, ejecute el siguiente cmdlet de Azure AD PowerShell para habilitar la coincidencia simplificada de UPN para su organización solo:</span><span class="sxs-lookup"><span data-stu-id="7a584-103">If you started syncing to Azure AD before March 30, 2016, run the following Azure AD PowerShell cmdlet to enable UPN soft match for your organization only:</span></span>
+<span data-ttu-id="844e8-103">Si empezó a sincronizar con Azure AD antes del 30 de marzo de 2016, ejecute el siguiente cmdlet de PowerShell de Azure AD para habilitar solo la coincidencia de UPN para su organización:</span><span class="sxs-lookup"><span data-stu-id="844e8-103">If you started syncing to Azure AD before March 30, 2016, run the following Azure AD PowerShell cmdlet to enable UPN soft match for your organization only:</span></span>
   
- <span data-ttu-id="7a584-104">**Set-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-enable $True**</span><span class="sxs-lookup"><span data-stu-id="7a584-104">**Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**</span></span>
+ <span data-ttu-id="844e8-104">**Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**</span><span class="sxs-lookup"><span data-stu-id="844e8-104">**Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**</span></span>
   
-<span data-ttu-id="7a584-105">La coincidencia Soft de UPN se activa automáticamente para las organizaciones que comenzaron a sincronizarse con Azure AD a partir del 30 de marzo de 2016.</span><span class="sxs-lookup"><span data-stu-id="7a584-105">UPN soft match is automatically turned on for organizations that started syncing to Azure AD on or after March 30, 2016.</span></span>
+<span data-ttu-id="844e8-105">La coincidencia suave de UPN se activa automáticamente para las organizaciones que empezaron a sincronizarse con Azure AD en o después del 30 de marzo de 2016.</span><span class="sxs-lookup"><span data-stu-id="844e8-105">UPN soft match is automatically turned on for organizations that started syncing to Azure AD on or after March 30, 2016.</span></span>
   
-<span data-ttu-id="7a584-106">Para obtener más información acerca de cómo habilitar la coincidencia flexible en UPN y otras características de sincronización, consulte [características del servicio de sincronización de Azure ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).</span><span class="sxs-lookup"><span data-stu-id="7a584-106">To learn more about enabling soft match on UPN and other sync features, please see [Azure AD Connect sync service features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).</span></span>
+<span data-ttu-id="844e8-106">Para obtener más información sobre cómo habilitar la coincidencia suave en UPN y otras características de sincronización, consulte Características del servicio de sincronización de [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).</span><span class="sxs-lookup"><span data-stu-id="844e8-106">To learn more about enabling soft match on UPN and other sync features, please see [Azure AD Connect sync service features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).</span></span>
   
 
