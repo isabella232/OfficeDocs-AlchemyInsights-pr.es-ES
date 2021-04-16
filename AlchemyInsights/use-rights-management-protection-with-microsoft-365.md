@@ -2,7 +2,7 @@
 title: Usar Rights Management Protection con Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: ebaff37a0f56cc6fb997c9a22df905bd9c8d00f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b3eec34c3c5be2ffbf5cec73adf0637600b13ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799905"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770936"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Usar Rights Management Protection con Microsoft 365
 

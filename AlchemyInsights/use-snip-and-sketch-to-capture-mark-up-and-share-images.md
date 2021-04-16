@@ -1,8 +1,8 @@
 ---
-title: Usar el recorte & boceto para capturar, marcar y compartir imágenes
+title: Usar Snip & Sketch para capturar, marcar y compartir imágenes
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773216"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770828"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Usar el recorte & boceto para capturar, marcar y compartir imágenes
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Usar Snip & Sketch para capturar, marcar y compartir imágenes
 
-El boceto de la pantalla ahora se llama **recorte & esbozo**. **Para realizar rápidamente un recorte**:
+El boceto de pantalla ahora se denomina **Snip & Sketch**. **Para tomar rápidamente un snip**:
 
-1. Presione la **tecla del logotipo de Windows + Mayús + S**. Verá que la pantalla es más oscura y que el cursor se muestra como una cruz. 
+1. Presione la **tecla del logotipo de Windows + Mayús + S**. Verás que la pantalla se oscurece y el cursor se muestra como una cruz. 
 
-2. Elija un punto en el borde del área que desee copiar y haga clic con el botón primario en el cursor. 
+2. Elija un punto en el borde del área que desea copiar y haga clic con el botón izquierdo en el cursor. 
 
 3. Mueva el cursor para resaltar el área que desea capturar. El área que capture aparecerá en la pantalla.
 
-   ![imagen de la selección resaltada](media/snipone.png)
+   ![imagen de selección resaltada](media/snipone.png)
 
-La imagen que recortadas se guarda en el portapapeles, lista para pegarla en un correo electrónico o documento. 
+La imagen que ha recortado se guarda en el portapapeles, lista para pegarla en un correo electrónico o documento. 
 
-**Si desea editar o ver la imagen**: 
+**Si desea editar o ver la imagen:** 
 
-- Haga clic en el icono de notificaciones en el extremo derecho de la barra de tareas; a continuación, haga clic en la imagen que acaba de capturar. El recorte se abrirá en la aplicación de boceto & de recorte.
+- Haga clic en el icono de notificaciones en el lado derecho de la barra de tareas; a continuación, haga clic en la imagen que acaba de capturar. El snip se abre en la aplicación Snip & Sketch.
 
-   ![imagen de imagen que se muestra en recortes de aplicación](media/sniptwo.png)
+   ![imagen de la imagen que se muestra en la aplicación de captura](media/sniptwo.png)
