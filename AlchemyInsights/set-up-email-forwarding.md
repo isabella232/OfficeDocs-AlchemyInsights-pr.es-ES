@@ -2,7 +2,7 @@
 title: Configurar el reenvío de correo electrónico
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: a7fba259375c667ff2e0f14a03972e102468cd27
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037202"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787154"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Comprobar la configuración de reenvío de correo electrónico de un buzón
 
-En primer lugar, el reenvío de correo electrónico debe estar habilitado en el nivel de inquilino. Si ha configurado el reenvío de correo electrónico en un buzón, pero no funciona (recibe un error **"550 5.7.520 Acceso denegado,** Su organización no permite el reenvío externo" ) consulte Control del reenvío automático de correo electrónico externo en [Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
+En primer lugar, el reenvío de correo electrónico debe habilitarse en el nivel de inquilino. Si ha configurado el reenvío de correo electrónico en un buzón, pero no funciona (recibe un error **"550 5.7.520 Access denegado,** Su organización no permite el reenvío externo" ) consulte [Control automatic external email forwarding in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
-Es fácil comprobar la configuración de reenvío de correo electrónico en un buzón. Solo tiene que seguir estos pasos.
+Es fácil comprobar la configuración de reenvío de correo electrónico en un buzón. Solo tienes que seguir estos pasos.
   
-> Si se trata de un buzón de usuario, vaya a **Usuarios** activos y seleccione el usuario \>  cuyo buzón está reenviando. En la **pestaña Correo,** seleccione **Administrar reenvío de correo electrónico.**
+> Si se trata de un buzón de usuario, vaya a **Usuarios** usuarios activos y seleccione el usuario cuyo \>  buzón de correo está reenviando. En la pestaña **Correo**, seleccione **Administrar el reenvío de correos**.
 
-> Si se trata de un  buzón compartido, vaya a Grupos compartidos y seleccione el buzón compartido que \>  está reenviando. Seleccione **Editar para** el reenvío de correo electrónico.
+> Si se trata de un buzón compartido, vaya a **Grupos** Buzones compartidos y seleccione el buzón compartido que \>  está reenviando. Seleccione **Editar para** el reenvío de correo electrónico.
 
-Para obtener más información, vea [Configurar el reenvío de correo electrónico en Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
+Para obtener más información, vea [Configure email forwarding in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
   
-Para enviar instrucciones a los usuarios para que puedan configurar el reenvío de correo electrónico en sus propios buzones, indándeles que reenvía correo electrónico de [Microsoft 365 a otra cuenta de correo electrónico.](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e) Tenga en cuenta que solo puede reenviar a una dirección de correo electrónico. Si necesita configurar el reenvío a un grupo de personas, cree una lista de distribución (en **Grupos),** agregue los usuarios a ella y, a continuación, configure el reenvío a ese grupo.
+Para enviar instrucciones a los usuarios para que puedan configurar el reenvío de correo electrónico en sus propios buzones de correo, desvía el correo electrónico de [Microsoft 365 a](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)otra cuenta de correo electrónico . Tenga en cuenta que solo puede reenviar una dirección de correo electrónico. Si necesita configurar el reenvío a un grupo de personas, cree una lista de distribución (en **Grupos),** agregue los usuarios y, a continuación, configure el reenvío a ese grupo.
   
-¿Tiene un empleado que se va? Consulte Los pasos recomendados para quitar a un antiguo empleado de [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
+¿Tiene un empleado saliendo? Consulta [Quitar un antiguo empleado de Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) para obtener los pasos recomendados.

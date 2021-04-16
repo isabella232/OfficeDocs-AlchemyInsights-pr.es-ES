@@ -1,8 +1,8 @@
 ---
-title: Error de 4c7 de Teams
+title: Error de Teams 4c7
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 08494b461a24eba8999a5edb99c89af7b17db9b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700220"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786686"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>error de 4c7 en Microsoft Teams
+# <a name="4c7-error-in-microsoft-teams"></a>Error 4c7 en Microsoft Teams
 
-Este error se produce porque Microsoft Teams requiere la autenticación mediante formularios. Al implementar los servicios de Federación de Active Directory (AD FS), la autenticación de formularios no está habilitada para la intranet de forma predeterminada. Si se produce un error en la autenticación integrada de Windows, se le pedirá que inicie sesión con la autenticación de formularios.
+Este error se produce porque Microsoft Teams requiere autenticación de formularios. Al implementar servicios de federación de Active Directory (AD FS), la autenticación de formularios no está habilitada para la intranet de forma predeterminada. Si se produce un error en la autenticación integrada de Windows, se te pedirá que inicies sesión con la autenticación de formularios.
 
-Para resolver este problema, habilite la autenticación mediante formularios con el complemento Microsoft Management Console (MMC) de AD FS en el equipo que tiene la copia local de Active Directory. Para ello, siga estos pasos: 
+Para resolver este problema, habilite la autenticación de formularios mediante el complemento AD FS Microsoft Management Console (MMC) en el equipo que tiene la copia local de Active Directory. Para ello, siga estos pasos: 
 
-1. En el panel de navegación, vaya a **directivas de autenticación**.
-2. En **acciones** en el panel de detalles, seleccione **Editar autenticación principal global**.
-3. En la pestaña **intranet** , seleccione **autenticación de formularios**.
-4. Seleccione **Aceptar** (o **aplicar**).
+1. En el panel de navegación, vaya a **Directivas de autenticación**.
+2. En **Acciones** en el panel de detalles, seleccione **Editar autenticación principal global**.
+3. En la **pestaña Intranet,** seleccione **Autenticación de formularios**.
+4. Seleccione **Aceptar** (o **Aplicar**).
