@@ -2,7 +2,8 @@
 title: Habilitación de un buzón de archivo
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811723"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857897"
 ---
-# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="a4d00-102">Habilitación de un buzón de archivo</span><span class="sxs-lookup"><span data-stu-id="a4d00-102">Enable an archive mailbox</span></span>
+# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="037d6-102">Habilitación de un buzón de archivo</span><span class="sxs-lookup"><span data-stu-id="037d6-102">Enable an archive mailbox</span></span>
 
-<span data-ttu-id="a4d00-103">Si desea que se ejecuten comprobaciones automatizadas para asegurarse de que se puede configurar un buzón de archivo, seleccione el botón atrás <--en la parte superior de esta página y, a continuación, escriba la dirección de correo electrónico de la cuenta.</span><span class="sxs-lookup"><span data-stu-id="a4d00-103">If you want us to run automated checks to ensure an archive mailbox can be configured, select the back button <-- at the top of this page, and then enter the email address of the account.</span></span>
+<span data-ttu-id="037d6-103">Para habilitar un archivo en el Centro de cumplimiento de M365:</span><span class="sxs-lookup"><span data-stu-id="037d6-103">To enable an Archive in the M365 Compliance Center:</span></span>
 
-<span data-ttu-id="a4d00-104">Los buzones de archivo de Microsoft 365 (también denominados *archivos en línea* o *archivos locales*) proporcionan a los usuarios un almacenamiento de correo electrónico adicional.</span><span class="sxs-lookup"><span data-stu-id="a4d00-104">Archive mailboxes in Microsoft 365 (also called *Online Archives* or *In-Place Archives*) provide users with additional email storage.</span></span> <span data-ttu-id="a4d00-105">Los usuarios pueden mover o copiar elementos a su buzón de archivo y los administradores pueden crear una directiva de archivo que mueva automáticamente los elementos a buzones de archivo.</span><span class="sxs-lookup"><span data-stu-id="a4d00-105">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
-  
-<span data-ttu-id="a4d00-106">Esta es la manera de crear un buzón de archivo:</span><span class="sxs-lookup"><span data-stu-id="a4d00-106">Here's how to create an archive mailbox:</span></span>
-  
-1. <span data-ttu-id="a4d00-107">Vaya a [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="a4d00-107">Go to [https://protection.office.com](https://protection.office.com).</span></span>
+1. <span data-ttu-id="037d6-104">Vaya a [https://compliance.microsoft.com](https://compliance.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="037d6-104">Go to [https://compliance.microsoft.com](https://compliance.microsoft.com).</span></span>
+2. <span data-ttu-id="037d6-105">Seleccione **Gobierno de la información**.</span><span class="sxs-lookup"><span data-stu-id="037d6-105">Select **Information Governance**.</span></span>
+3. <span data-ttu-id="037d6-106">A continuación, haga clic **en la opción** Archivo.</span><span class="sxs-lookup"><span data-stu-id="037d6-106">Then click the **Archive** option.</span></span>
 
-2. <span data-ttu-id="a4d00-108">Inicie sesión en Microsoft 365 con su cuenta de administrador.</span><span class="sxs-lookup"><span data-stu-id="a4d00-108">Sign in to Microsoft 365 using your admin account.</span></span>
+<span data-ttu-id="037d6-107">O siga [este vínculo](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive).</span><span class="sxs-lookup"><span data-stu-id="037d6-107">Or follow [this link](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive).</span></span>  
 
-3. <span data-ttu-id="a4d00-109">En el panel izquierdo del centro de seguridad &amp; y cumplimiento, seleccione Archivo de **gobierno de información** \> **Archive**.</span><span class="sxs-lookup"><span data-stu-id="a4d00-109">In the left pane of the Security &amp; Compliance Center, select **Information governance** \> **Archive**.</span></span>
+<span data-ttu-id="037d6-108">Para buzones compartidos:</span><span class="sxs-lookup"><span data-stu-id="037d6-108">For shared mailboxes:</span></span>
 
-4. <span data-ttu-id="a4d00-110">Seleccione el usuario cuyo buzón de archivo desee habilitar.</span><span class="sxs-lookup"><span data-stu-id="a4d00-110">Select the user whose archive mailbox you want to enable.</span></span>
+1. <span data-ttu-id="037d6-109">Vaya al Centro [de administración de Exchange](https://outlook.office365.com/ecp) e inicie sesión con su cuenta de administrador.</span><span class="sxs-lookup"><span data-stu-id="037d6-109">Go to the [Exchange admin center](https://outlook.office365.com/ecp) and sign in using your admin account.</span></span>
+2. <span data-ttu-id="037d6-110">Vaya a **Destinatarios**  >  **compartidos**.</span><span class="sxs-lookup"><span data-stu-id="037d6-110">Go to **Recipients** > **Shared**.</span></span>
+3. <span data-ttu-id="037d6-111">Seleccione el buzón compartido.</span><span class="sxs-lookup"><span data-stu-id="037d6-111">Select the shared mailbox.</span></span>
+4. <span data-ttu-id="037d6-112">En el panel de detalles de la derecha, en **Archivo** local , haga clic en Habilitar **y,** a continuación, haga clic en **Sí** para habilitar el buzón de archivo.</span><span class="sxs-lookup"><span data-stu-id="037d6-112">In the details pane on the right, under **In-Place Archive**, click **Enable**, and then click **Yes** to enable the archive mailbox.</span></span>
 
-5. <span data-ttu-id="a4d00-111">En el panel de detalles de la derecha, haga clic en **Habilitar** y, a continuación, haga clic en **sí** en el mensaje de advertencia para habilitar el buzón de archivo.</span><span class="sxs-lookup"><span data-stu-id="a4d00-111">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
-
-<span data-ttu-id="a4d00-112">También puede habilitar de forma masiva buzones de archivo seleccionando varios usuarios (con las teclas **MAYÚS** o **Ctrl** ) y, a continuación, haciendo clic en **Habilitar** en el panel de detalles.</span><span class="sxs-lookup"><span data-stu-id="a4d00-112">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
-  
-### <a name="shared-mailboxes"></a><span data-ttu-id="a4d00-113">Buzones compartidos</span><span class="sxs-lookup"><span data-stu-id="a4d00-113">Shared mailboxes</span></span>
-
-<span data-ttu-id="a4d00-114">Para habilitar el archivo para un buzón compartido, se necesita una licencia de Exchange Online (plan 2) o una licencia de Exchange Online (plan 1) con una licencia de archivado de Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="a4d00-114">To enable the archive for a shared mailbox, an Exchange Online Plan 2 license or an Exchange Online Plan 1 license with an Exchange Online Archiving license is required.</span></span>  
-
-<span data-ttu-id="a4d00-115">Para habilitar el archivo para un buzón compartido:</span><span class="sxs-lookup"><span data-stu-id="a4d00-115">To enable the archive for a shared mailbox:</span></span>
-
-1. <span data-ttu-id="a4d00-116">Vaya al [centro de administración de Exchange](https://outlook.office365.com/ecp) e inicie sesión con su cuenta de administrador.</span><span class="sxs-lookup"><span data-stu-id="a4d00-116">Go to the [Exchange admin center](https://outlook.office365.com/ecp) and sign in using your admin account.</span></span>
-
-2. <span data-ttu-id="a4d00-117">Vaya a **destinatarios**  >  **compartidos**.</span><span class="sxs-lookup"><span data-stu-id="a4d00-117">Go to **Recipients** > **Shared**.</span></span>
-
-3. <span data-ttu-id="a4d00-118">Seleccione el buzón compartido.</span><span class="sxs-lookup"><span data-stu-id="a4d00-118">Select the shared mailbox.</span></span>
-
-4. <span data-ttu-id="a4d00-119">En el panel de detalles de la derecha, en **archivo local**, haga clic en **Habilitar**y, a continuación, haga clic en **sí** para habilitar el buzón de archivo.</span><span class="sxs-lookup"><span data-stu-id="a4d00-119">In the details pane on the right, under **In-Place Archive**, click **Enable**, and then click **Yes** to enable the archive mailbox.</span></span>
-
-<span data-ttu-id="a4d00-120">Para obtener más información, vea:</span><span class="sxs-lookup"><span data-stu-id="a4d00-120">For more information, see:</span></span>
-  
-- [<span data-ttu-id="a4d00-121">Habilitar buzones de archivo</span><span class="sxs-lookup"><span data-stu-id="a4d00-121">Enable archive mailboxes</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [<span data-ttu-id="a4d00-122">Configurar una directiva de archivo y eliminación</span><span class="sxs-lookup"><span data-stu-id="a4d00-122">Set up an archive and deletion policy</span></span>](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+<span data-ttu-id="037d6-113">Para obtener más información sobre cómo mover un mensaje al buzón de archivo, vea [Configurar una directiva de archivo y eliminación.](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)</span><span class="sxs-lookup"><span data-stu-id="037d6-113">For more information on moving message to the Archive mailbox, see [Set up an archive and deletion policy](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).</span></span>
