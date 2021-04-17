@@ -2,7 +2,8 @@
 title: Habilitación de un buzón de archivo
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811723"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857897"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitación de un buzón de archivo
 
-Si desea que se ejecuten comprobaciones automatizadas para asegurarse de que se puede configurar un buzón de archivo, seleccione el botón atrás <--en la parte superior de esta página y, a continuación, escriba la dirección de correo electrónico de la cuenta.
+Para habilitar un archivo en el Centro de cumplimiento de M365:
 
-Los buzones de archivo de Microsoft 365 (también denominados *archivos en línea* o *archivos locales*) proporcionan a los usuarios un almacenamiento de correo electrónico adicional. Los usuarios pueden mover o copiar elementos a su buzón de archivo y los administradores pueden crear una directiva de archivo que mueva automáticamente los elementos a buzones de archivo.
-  
-Esta es la manera de crear un buzón de archivo:
-  
-1. Vaya a [https://protection.office.com](https://protection.office.com).
+1. Vaya a [https://compliance.microsoft.com](https://compliance.microsoft.com).
+2. Seleccione **Gobierno de la información**.
+3. A continuación, haga clic **en la opción** Archivo.
 
-2. Inicie sesión en Microsoft 365 con su cuenta de administrador.
+O siga [este vínculo](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive).  
 
-3. En el panel izquierdo del centro de seguridad &amp; y cumplimiento, seleccione Archivo de **gobierno de información** \> **Archive**.
+Para buzones compartidos:
 
-4. Seleccione el usuario cuyo buzón de archivo desee habilitar.
-
-5. En el panel de detalles de la derecha, haga clic en **Habilitar** y, a continuación, haga clic en **sí** en el mensaje de advertencia para habilitar el buzón de archivo.
-
-También puede habilitar de forma masiva buzones de archivo seleccionando varios usuarios (con las teclas **MAYÚS** o **Ctrl** ) y, a continuación, haciendo clic en **Habilitar** en el panel de detalles.
-  
-### <a name="shared-mailboxes"></a>Buzones compartidos
-
-Para habilitar el archivo para un buzón compartido, se necesita una licencia de Exchange Online (plan 2) o una licencia de Exchange Online (plan 1) con una licencia de archivado de Exchange Online.  
-
-Para habilitar el archivo para un buzón compartido:
-
-1. Vaya al [centro de administración de Exchange](https://outlook.office365.com/ecp) e inicie sesión con su cuenta de administrador.
-
-2. Vaya a **destinatarios**  >  **compartidos**.
-
+1. Vaya al Centro [de administración de Exchange](https://outlook.office365.com/ecp) e inicie sesión con su cuenta de administrador.
+2. Vaya a **Destinatarios**  >  **compartidos**.
 3. Seleccione el buzón compartido.
+4. En el panel de detalles de la derecha, en **Archivo** local , haga clic en Habilitar **y,** a continuación, haga clic en **Sí** para habilitar el buzón de archivo.
 
-4. En el panel de detalles de la derecha, en **archivo local**, haga clic en **Habilitar**y, a continuación, haga clic en **sí** para habilitar el buzón de archivo.
-
-Para obtener más información, vea:
-  
-- [Habilitar buzones de archivo](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [Configurar una directiva de archivo y eliminación](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+Para obtener más información sobre cómo mover un mensaje al buzón de archivo, vea [Configurar una directiva de archivo y eliminación.](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

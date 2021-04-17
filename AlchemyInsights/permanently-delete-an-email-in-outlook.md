@@ -2,7 +2,7 @@
 title: Eliminar permanentemente un correo electrónico en Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771702"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836116"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Eliminar permanentemente un correo electrónico en Outlook
 
-- Desde la vista bandeja de entrada, presione un mensaje de larga duración y verá el icono de papelera. Puntee en este icono para eliminar el mensaje.
+- En la vista bandeja de entrada, presione durante mucho tiempo un mensaje y verá el icono de papelera. Pulse este icono para eliminar el mensaje.
 
-- También puede establecer "eliminar" como opción de deslizamiento (**configuración-> deslizar rápidamente las opciones**); a continuación, usa el dedo para deslizar el correo que deseas eliminar. 
+- También puedes establecer "eliminar" como una opción de deslizar el dedo (**Configuración -> opciones de deslizar el dedo**); a continuación, usa el dedo para deslizar el dedo en el correo que quieres eliminar. 
 
-- Para eliminar un mensaje de una vista de correo electrónico abierta, pulsa el icono de la papelera en la parte superior de la pantalla. Los mensajes eliminados se moverán a la carpeta de la papelera. 
+- Para eliminar un mensaje de una vista de correo electrónico abierta, pulsa el icono de papelera en la parte superior de la pantalla. Los mensajes eliminados se moverán a la carpeta Papelera. 
 
-**Para eliminar un correo electrónico de forma permanente**
+**Para eliminar permanentemente un correo electrónico**
 
-- Obtenga acceso a la carpeta papelera desde la vista correo, pulse el icono de cuenta (3 líneas) y puntee en la carpeta papelera.
+- Accede a la carpeta papelera desde la vista de correo, pulsa el icono de cuenta (3 líneas) y pulsa en la carpeta de la papelera.
 
-- Eliminar mensajes de correo electrónico individuales o marcar varios mensajes de correo electrónico y eliminarlos de aquí; se eliminarán de forma permanente.
+- Eliminar correos electrónicos individuales o marcar varios correos electrónicos y eliminarlos desde aquí; se eliminarán permanentemente.

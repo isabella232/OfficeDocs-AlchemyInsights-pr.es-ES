@@ -2,7 +2,7 @@
 title: ¿Necesita ayuda con los límites de envío de correo electrónico?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002938"
 - "5630"
-ms.openlocfilehash: 66ff82afd7b44ef5fd4943bfc794c2fa35bbfa9e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5bdfbf818328c97ec93b3468aeedcbe88e03913
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702380"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836296"
 ---
 # <a name="need-help-with-email-sending-limits"></a>¿Necesita ayuda con los límites de envío de correo electrónico?
 

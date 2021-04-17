@@ -2,7 +2,7 @@
 title: Poner aplicaciones en el escritorio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768264"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835864"
 ---
 # <a name="put-apps-on-the-desktop"></a>Poner aplicaciones en el escritorio
 
-Busque la aplicación en el menú **Inicio** y arrastre el icono de la aplicación manteniendo presionado el botón primario del mouse (ratón) y moviendo el icono al escritorio.
+Busca la aplicación  en el menú Inicio y toma el icono de la aplicación manteniendo presionado el botón izquierdo del mouse y moviendo el icono al escritorio.
 
-También puede presionar la **tecla Windows + R** y, a continuación, escribir este comando:
+También puedes presionar la tecla **Windows + R** y, a continuación, escribir este comando:
 
 `shell:appsfolder`
 
-Se abrirá la carpeta **aplicaciones** en el **Explorador de archivos**. Ahora puede arrastrar y colocar el icono de la aplicación en el escritorio.
+Se abrirá la carpeta **Aplicaciones** en el **Explorador de archivos**. Ahora puedes arrastrar y colocar el icono de la aplicación en el escritorio.

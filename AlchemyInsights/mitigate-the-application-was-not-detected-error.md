@@ -2,7 +2,7 @@
 title: Solucionar el error No se detectó la aplicación
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: 498c2ec78bc9f4a7bc7d77d12b488be2cf0bf79a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e0599f9bdf2c7d16d009627f44b3691c2c250b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666995"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836368"
 ---
 # <a name="mitigate-the-application-was-not-detected-error"></a>Solucionar el error "No se detectó la aplicación"
 
@@ -30,7 +30,7 @@ Entre los escenarios más comunes que generan este error se incluyen:
 
 Para mitigar este problema, primero realice una revisión de los dispositivos afectados para determinar el escenario en el que se produce el error.
 
-- Si la aplicación se ha actualizado fuera de Intune, la implementación de la aplicación puede configurarse para ignorar la versión de la aplicación. Para ello, en **Configuración de la aplicación > Información de la aplicación, **establezca **Ignorar versión de la aplicación** en **Sí**.
+- Si la aplicación se ha actualizado fuera de Intune, la implementación de la aplicación puede configurarse para ignorar la versión de la aplicación. Para ello, en **Configuración de la aplicación > Información de la aplicación,** establezca **Ignorar versión de la aplicación** en **Sí**.
 - Al dirigirse al cliente, puede ser apropiado implementar la aplicación como "necesaria" y asegurarse de que se implemente la versión más reciente.
 - Por otra parte, en la plataforma de iOS, es posible usar la función **autoupdate** asociada al programa de compras por volumen de Apple, que se puede configurar para que actualice automáticamente a nuevas versiones de las aplicaciones cuando estén disponibles.
 
