@@ -2,7 +2,7 @@
 title: Comprobar el dominio con GoDaddy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 35ba58e3a28d57d490aee8eb91a8e77f20b14da4
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 248890e78f432015dbaa6eae712f42c96481afaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816198"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824344"
 ---
 # <a name="verify-your-domain-with-godaddy"></a>Comprobar el dominio con GoDaddy
 
-Para comprobar su dominio, tendrá que agregar un registro TXT a su registrador de dominios para comprobar que es el propietario del dominio. 
+Para comprobar el dominio, deberá agregar un registro TXT al registrador de dominios para comprobar que es el propietario de su dominio. 
 
-En primer lugar, siga el [Asistente para agregar dominios](https://admin.microsoft.com/Adminportal#/Domains) seleccionando la **opción** \> **dominios**de configuración y, a continuación, **Agregar dominio**.
+En primer lugar, siga [el Asistente para](https://admin.microsoft.com/Adminportal#/Domains) agregar dominio **seleccionando Dominios** \> **de** configuración y, a **continuación, Agregar dominio**.
   
-Vea [Create DNS Records in GoDaddy for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) para obtener instrucciones paso a paso.
+Consulta [Crear registros DNS en GoDaddy para Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) para obtener instrucciones paso a paso.

@@ -2,7 +2,7 @@
 title: Clases de Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: 68e78abcedecbf2f0e81426fa584fe70a7e04ce6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 23ed3bc86ef1f81aed11eb3083554750c4ea425e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691232"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824812"
 ---
 # <a name="teams-classes"></a>Clases de Teams
 
-Si tiene un espacio empresarial educativo, debe habilitar Microsoft Teams manualmente. Vaya al **Configuración del Centro de administración de Microsoft 365 > Configuración > Microsoft Teams**. Si no ve Microsoft Teams en la lista de Servicios, desactive **Pruebe el nuevo centro de administración ** para buscar **Configuración > Servicios y complementos > Microsoft Teams**. Para obtener más información, vea [Activar Microsoft Teams para su escuela](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
+Si tiene un espacio empresarial educativo, debe habilitar Microsoft Teams manualmente. Vaya al **Configuración del Centro de administración de Microsoft 365 > Configuración > Microsoft Teams**. Si no ve Microsoft Teams en la lista de Servicios, desactive **Pruebe el nuevo centro de administración** para buscar **Configuración > Servicios y complementos > Microsoft Teams**. Para obtener más información, vea [Activar Microsoft Teams para su escuela](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
 
 **Importante**: es posible que tenga que esperar 24 horas para que los cambios surtan efecto. 
 

@@ -2,7 +2,7 @@
 title: Solución de problemas del monitor existente
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690728"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824596"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>Solucionar problemas de un monitor existente
 
 Pruebe estas soluciones para solucionar problemas de un monitor. 
 
-**Actualizar la pantalla del monitor:**
+**Actualice la pantalla del monitor:**
 
-Presione las siguientes teclas al mismo tiempo: tecla Windows + Ctrl + Mayús + B. Esto actualizará la comunicación con el controlador de gráficos. Los monitores parpadearán momentáneamente y regresarán después de unos segundos.
+Presione las siguientes teclas al mismo tiempo: Tecla Windows + Ctrl + Mayús + B. Esto actualizará la comunicación con el controlador de gráficos. Los monitores parpadearán momentáneamente y volverán después de unos segundos.
 
-**Solución de problemas de hardware de monitor:**
+**Solucionar problemas de hardware de monitor:**
 
-1. Desconecta el cable que conecta el equipo con el monitor y vuelve a conectarlo.
-2. Desconecte los dispositivos que no sean esenciales de su PC (como adaptadores o muelles).
+1. Desconecte el cable que conecta el PC al monitor y vuelva a conectarlo.
+2. Desconecte los dispositivos no esenciales del PC (como adaptadores o docks).
 
-**Si ha instalado recientemente una actualización en su PC, puede revertir el controlador de pantalla:**
+**Si has instalado recientemente una actualización en el equipo, puedes revertir el controlador de pantalla:**
 
-1. Seleccione **Inicio**, escriba **Administrador de dispositivos**y seleccione el **Administrador de dispositivos** en los resultados.
-2. Expanda la sección **adaptadores de pantalla** , haga clic con el botón secundario en el adaptador de pantalla mezclar seleccione **propiedades**.
-3. Vaya a la ficha **controlador** y seleccione **volver al controlador posterior**. <br>
-Nota: Si esta opción no está disponible o está atenuada, seleccione **no** en las siguientes opciones para ir al paso siguiente.
-4. Es posible que tengas que reiniciar el equipo para que estos cambios surtan efecto.
+1. Selecciona **Inicio**, escribe **Administrador de** dispositivos y selecciona Administrador de **dispositivos** en los resultados.
+2. Expanda la **sección Adaptadores de** pantalla, haga clic con el botón secundario en el adaptador de pantalla y seleccione **Propiedades**.
+3. Vaya a la **pestaña Controlador** y seleccione **Revertir controlador**. <br>
+Nota: Si no está disponible o está atenuado, seleccione **No** en las opciones siguientes para pasar al siguiente paso.
+4. Es posible que deba reiniciar el equipo antes de que estos cambios sumen efecto.
 
 **Desinstale y vuelva a instalar el controlador de pantalla:**
 
-1. Seleccione **Inicio**, escriba **Administrador de dispositivos**y seleccione el **Administrador de dispositivos** en los resultados.
-2. Expanda la sección **adaptadores de pantalla** , haga clic con el botón secundario en el adaptador de pantalla, mezclar seleccione **desinstalar dispositivo**. 
-3. Seleccione el cuadro situado junto a **eliminar el software de controlador para este dispositivo** y seleccione **desinstalar**.<br>
-Nota: es posible que se le pida que reinicie el equipo en esta fase. Asegúrese de anotar las demás instrucciones antes de reiniciar.
-4. Vuelva a abrir el administrador de dispositivos.
-5. Expanda la sección **adaptadores de pantalla** , haga clic con el botón secundario en el adaptador de pantalla y seleccione **Actualizar controlador**.
-6. Seleccione **Buscar software de controlador de actualización automáticamente** y siga las instrucciones de instalación.
+1. Selecciona **Inicio**, escribe **Administrador de** dispositivos y selecciona Administrador de **dispositivos** en los resultados.
+2. Expanda la **sección Adaptadores de** pantalla, haga clic con el botón secundario en el adaptador de pantalla y seleccione **Desinstalar dispositivo**. 
+3. Seleccione el cuadro situado junto **a Eliminar el software del controlador para este dispositivo** y seleccione **Desinstalar**.<br>
+Nota: Es posible que se te pida que reinicies el equipo en esta fase. Asegúrese de escribir las instrucciones restantes antes de reiniciar.
+4. Abre el Administrador de dispositivos de nuevo.
+5. Expanda la **sección Adaptadores de** pantalla, haga clic con el botón secundario en el adaptador de pantalla y seleccione **Actualizar controlador**.
+6. Seleccione **Buscar automáticamente el software del controlador de actualización** y siga las instrucciones de instalación.

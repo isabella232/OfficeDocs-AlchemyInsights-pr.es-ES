@@ -2,7 +2,7 @@
 title: No tiene la opción de instalar Office, Visio o Project
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 894a6ae8d097391f04d91e2303f23a85ae450cc6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708511"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825172"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>No tiene la opción de instalar Office, Visio o Project
 
@@ -38,7 +38,7 @@ Haga que cada usuario:
 
 4. Haga clic en **Instalar**.
 
-Para conocer los pasos detallados y soluciones de problemas al instalar Office, vea [Descargar e instalar o reinstalar Office en un ordenador o Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA). Para obtener instrucciones específicas sobre la instalación de Visio o Project, vea [Instalar Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) o [Instalar Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).
+Para conocer los pasos detallados y soluciones de problemas al instalar Office, vea [Descargar e instalar o reinstalar Office en un PC o Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA). Para obtener instrucciones específicas sobre la instalación de Visio o Project, vea [Instalar Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) o [Instalar Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).
 
 Para ver las soluciones de problemas de instalación de Office específicos, vea:
 

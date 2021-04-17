@@ -2,7 +2,7 @@
 title: Problemas comunes y soluciones de Sway
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002626"
 - "5044"
-ms.openlocfilehash: 80189dc84f3d2dd826c3cbfe69c6b556cf6cfcf5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa77462394fb029646547c4daf2336385fa6a965
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700544"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824956"
 ---
 # <a name="sway-common-issues-and-solutions"></a>Problemas comunes y soluciones de Sway
 

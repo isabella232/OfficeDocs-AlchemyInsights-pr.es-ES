@@ -2,7 +2,7 @@
 title: ¿Qué versión de Android admite la aplicación?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824200"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>¿Qué versión de Android admite la aplicación?
 
-Para obtener el mejor rendimiento, nuestra aplicación funciona en cualquier dispositivo con la versión 5,0 y posteriores de Android.
+Para obtener el mejor rendimiento, nuestra aplicación funciona en cualquier dispositivo con Android versión 5.0 y versiones posteriores.
 
-Si está actualizado en su sistema operativo Android, pero sigue recibiendo notificaciones sobre el sistema operativo que no es compatible con el dispositivo, intente borrar la memoria caché y los datos de la aplicación de reproducción de la tienda.
+Si estás actualizado en el sistema operativo Android pero sigues recibiendo notificaciones sobre que el sistema operativo es incompatible con el dispositivo, intenta borrar la memoria caché y los datos de la aplicación Play Store.
 
 Para ello: 
 
-1. En su teléfono o tableta Android, Abra **configuración** y, a continuación, **aplicaciones** o **aplicaciones**.
+1. En tu teléfono o tableta Android, abre **Configuración y,** a continuación, **Aplicaciones** **o Aplicaciones**.
 
-2. En la parte superior de la pantalla, pulse **más** (también puede tratarse de puntos suspensivos o tres puntos verticales) y, a continuación, **Mostrar sistema**. 
+2. En la parte superior de la pantalla, pulsa **Más** (esto también podría ser puntos suspensivos o tres puntos verticales) y, a continuación, **Mostrar sistema**. 
 
-3. Desplácese hacia abajo y Puntee **Google Play Services**. 
+3. Desplázate hacia abajo y pulsa **Servicios de Google Play**. 
 
-4. Pulse **almacenamiento** y, a continuación, **borre caché**. 
+4. Pulsa **Almacenamiento** y, a **continuación, Borrar caché**. 
 
-5. Pulse **administrar espacio** y **borre todos los datos**. 
+5. Pulsa **Administrar espacio** y, a **continuación, Borrar todos los datos**. 
 
-6. Abra **Google Play Store**. 
+6. Abre **Google Play Store**. 
 
 7. Espere 5 minutos y vuelva a intentarlo. 
