@@ -2,7 +2,7 @@
 title: Actualizar la información de la tarjeta de crédito
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 514bd6a448333c72776b387869c08915b637a3f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830338"
 ---
 # <a name="update-credit-card-information"></a>Actualizar la información de la tarjeta de crédito
 

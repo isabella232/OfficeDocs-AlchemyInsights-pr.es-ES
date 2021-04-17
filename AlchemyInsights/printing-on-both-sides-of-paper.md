@@ -2,7 +2,7 @@
 title: Impresión en ambas caras del papel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801894"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831499"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Impresión en ambas caras del papel (impresión doble cara)
 
@@ -29,11 +29,11 @@ El resumen de características de su impresora o el manual debería decirle si e
 
 ![Configuración de impresora](media/print-settings.png)
 
-** Impresión doble cara en Microsoft Office **
+**Impresión doble cara en Microsoft Office**
 
-Si la impresora admite la impresión a doble cara, al ir al ** archivo > Imprimir**en la aplicación de Office, verá una opción para "Imprimir en ambas caras", como se muestra en el ejemplo anterior.  Seleccione el tipo de impresión de doble cara que quiera (voltee en bordes largos, o voltee sobre el borde corto) y haga clic en **Imprimir** para iniciar la copia impresa.
+Si la impresora admite la impresión a doble cara, al ir al **archivo > Imprimir** en la aplicación de Office, verá una opción para "Imprimir en ambas caras", como se muestra en el ejemplo anterior.  Seleccione el tipo de impresión de doble cara que quiera (voltee en bordes largos, o voltee sobre el borde corto) y haga clic en **Imprimir** para iniciar la copia impresa.
 
-** Impresión a doble cara desde cualquier aplicación **
+**Impresión a doble cara desde cualquier aplicación**
 
 En muchas aplicaciones, cuando imprime, verá un diálogo de impresión general que se ve así: 
 

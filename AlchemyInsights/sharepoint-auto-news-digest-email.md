@@ -1,8 +1,8 @@
 ---
-title: Correo electrónico de Resumen de SharePoint auto
+title: Correo electrónico de síntesis automática de SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751188"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831211"
 ---
-# <a name="sharepoint-auto-digest-email"></a>Correo electrónico de Resumen de SharePoint auto
+# <a name="sharepoint-auto-digest-email"></a>Correo electrónico de síntesis automática de SharePoint
 
-El Resumen de noticias automáticas de SharePoint envía correo electrónico automatizado a los usuarios de su empresa sobre los mensajes de noticias más recientes que aún no han leído y que son relevantes para ellos.
+SharePoint Auto-News Digest envía correo electrónico automatizado a los usuarios de su empresa sobre las últimas publicaciones de noticias que aún no han leído y que son relevantes para ellos.
 
 Para obtener más información, visite [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- IDENTIFICADOR de plan de desarrollo de Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Intervalos: clientes de la versión dirigidas a  **mediados de julio (anteriormente junio**  y completada para todos los clientes a  **mediados de agosto (anteriormente**, antes de agosto).
-- Implementación: implementación en el nivel de usuario
-- Tipo de control: control de usuario, * * control de administración a través de PowerShell (próximamente)
+- Id. de plan de Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Timing: Targeted release customers in  **mid-July (previously June**  and complete for all customers by  **mid-August (previously early August)**.
+- Implementación: implementación de nivel de usuario
+- Tipo de control: Control de usuario, **Control de administración a través de PowerShell (próximamente)
