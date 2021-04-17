@@ -1,8 +1,8 @@
 ---
-title: Borrar la memoria caché o restablecer la aplicación de forma local
+title: Borrar la memoria caché o restablecer localmente la aplicación
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922f43e90b0479762ccfc20d4130a6a8883f8c41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681241"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817765"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a><span data-ttu-id="0a0ab-102">Borrar la memoria caché o restablecer la aplicación de forma local</span><span class="sxs-lookup"><span data-stu-id="0a0ab-102">Clear the cache or locally reset the app</span></span>
+# <a name="clear-the-cache-or-locally-reset-the-app"></a><span data-ttu-id="87ed3-102">Borrar la memoria caché o restablecer localmente la aplicación</span><span class="sxs-lookup"><span data-stu-id="87ed3-102">Clear the cache or locally reset the app</span></span>
 
-<span data-ttu-id="0a0ab-103">Si está viendo datos incompletos o incorrectos, cierre y vuelva a abrir la aplicación.</span><span class="sxs-lookup"><span data-stu-id="0a0ab-103">If you are seeing incomplete or incorrect data, please close and reopen the app.</span></span>  <span data-ttu-id="0a0ab-104">Si esto no resuelve el problema, restablezca la cuenta en el dispositivo:</span><span class="sxs-lookup"><span data-stu-id="0a0ab-104">If that doesn't resolve the issue, reset the account on the device:</span></span> 
+<span data-ttu-id="87ed3-103">Si ve datos incompletos o incorrectos, cierre y vuelva a abrir la aplicación.</span><span class="sxs-lookup"><span data-stu-id="87ed3-103">If you are seeing incomplete or incorrect data, please close and reopen the app.</span></span>  <span data-ttu-id="87ed3-104">Si eso no resuelve el problema, restablezca la cuenta en el dispositivo:</span><span class="sxs-lookup"><span data-stu-id="87ed3-104">If that doesn't resolve the issue, reset the account on the device:</span></span> 
 
-<span data-ttu-id="0a0ab-105">**Abre la configuración de > de la aplicación > selecciona la cuenta de correo electrónico > restablecer cuenta**</span><span class="sxs-lookup"><span data-stu-id="0a0ab-105">**Open our app > Settings > Select the email account > Reset Account**</span></span>
+<span data-ttu-id="87ed3-105">**Abre nuestra aplicación > configuración > Seleccionar la cuenta de correo electrónico > Restablecer cuenta**</span><span class="sxs-lookup"><span data-stu-id="87ed3-105">**Open our app > Settings > Select the email account > Reset Account**</span></span>

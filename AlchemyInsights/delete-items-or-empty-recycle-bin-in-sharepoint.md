@@ -2,7 +2,7 @@
 title: Eliminar elementos o vaciar la papelera de reciclaje de un sitio de SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 0e6ed0ed5697772318db48c59c7fca02d87e11c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3968f389675644cf5c0bd81eafcdb03b74a6dce5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745920"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815524"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a><span data-ttu-id="d6497-102">Eliminar elementos o vaciar la papelera de reciclaje de un sitio de SharePoint</span><span class="sxs-lookup"><span data-stu-id="d6497-102">Delete items or empty the Recycle Bin of a SharePoint site</span></span> 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a><span data-ttu-id="bf83f-102">Eliminar elementos o vaciar la papelera de reciclaje de un sitio de SharePoint</span><span class="sxs-lookup"><span data-stu-id="bf83f-102">Delete items or empty the Recycle Bin of a SharePoint site</span></span> 
 
-<span data-ttu-id="d6497-103">Cuando se elimina un elemento de una biblioteca de documentos o lista de SharePoint, no se quita inmediatamente de SharePoint.</span><span class="sxs-lookup"><span data-stu-id="d6497-103">When you delete an item from a SharePoint document library or list, it isn’t immediately removed from SharePoint.</span></span> <span data-ttu-id="d6497-104">Los elementos eliminados entran en la papelera de reciclaje del sitio durante un período de tiempo.</span><span class="sxs-lookup"><span data-stu-id="d6497-104">Deleted items go into the site Recycle Bin for a period of time.</span></span> <span data-ttu-id="d6497-105">Durante este tiempo, puede restaurar los elementos que eliminó en su ubicación original o quitarlos para liberar espacio de almacenamiento.</span><span class="sxs-lookup"><span data-stu-id="d6497-105">During that time, you can restore the items you deleted to their original location, or remove them to free up storage space.</span></span>
+<span data-ttu-id="bf83f-103">Al eliminar un elemento de una lista o biblioteca de documentos de SharePoint, no se quita inmediatamente de SharePoint.</span><span class="sxs-lookup"><span data-stu-id="bf83f-103">When you delete an item from a SharePoint document library or list, it isn’t immediately removed from SharePoint.</span></span> <span data-ttu-id="bf83f-104">Los elementos eliminados van a la Papelera de reciclaje del sitio durante un período de tiempo.</span><span class="sxs-lookup"><span data-stu-id="bf83f-104">Deleted items go into the site Recycle Bin for a period of time.</span></span> <span data-ttu-id="bf83f-105">Durante ese tiempo, puede restaurar los elementos que eliminó en su ubicación original o quitarlos para liberar espacio de almacenamiento.</span><span class="sxs-lookup"><span data-stu-id="bf83f-105">During that time, you can restore the items you deleted to their original location, or remove them to free up storage space.</span></span>
 
-[<span data-ttu-id="d6497-106">Eliminar elementos o vaciar la papelera de reciclaje de un sitio de SharePoint</span><span class="sxs-lookup"><span data-stu-id="d6497-106">Delete items or empty the Recycle Bin of a SharePoint site</span></span>](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)
+[<span data-ttu-id="bf83f-106">Eliminar elementos o vaciar la papelera de reciclaje de un sitio de SharePoint</span><span class="sxs-lookup"><span data-stu-id="bf83f-106">Delete items or empty the Recycle Bin of a SharePoint site</span></span>](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

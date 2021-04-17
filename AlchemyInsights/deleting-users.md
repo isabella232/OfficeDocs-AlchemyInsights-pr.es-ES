@@ -1,8 +1,8 @@
 ---
-title: Eliminación de usuarios
+title: Eliminar usuarios
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: b14c1f32ccfb5eda2345b302edeef1ff817cfe42
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b1de72c37e53ed91000b2c7fc95fc27c5b9a8942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679899"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815452"
 ---
-# <a name="deleting-users"></a><span data-ttu-id="91f3d-102">Eliminación de usuarios</span><span class="sxs-lookup"><span data-stu-id="91f3d-102">Deleting users</span></span>
+# <a name="deleting-users"></a><span data-ttu-id="2a750-102">Eliminar usuarios</span><span class="sxs-lookup"><span data-stu-id="2a750-102">Deleting users</span></span>
 
-<span data-ttu-id="91f3d-103">Si desea bloquear inmediatamente el acceso de los usuarios y necesita mantener su información, vea [bloquear a un antiguo empleado el acceso a los datos de Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).</span><span class="sxs-lookup"><span data-stu-id="91f3d-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Microsoft 365 data](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).</span></span>
+<span data-ttu-id="2a750-103">Si desea bloquear inmediatamente el acceso de los usuarios y necesita conservar su información, consulte Bloquear el acceso de un antiguo empleado a los datos [de Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).</span><span class="sxs-lookup"><span data-stu-id="2a750-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Microsoft 365 data](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).</span></span>
   
-<span data-ttu-id="91f3d-104">Si simplemente desea eliminar el usuario y no le preocupa ninguno de sus datos, consulte [eliminar un usuario de su organización](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).</span><span class="sxs-lookup"><span data-stu-id="91f3d-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).</span></span> <span data-ttu-id="91f3d-105">De esta forma, se liberará inmediatamente su licencia.</span><span class="sxs-lookup"><span data-stu-id="91f3d-105">This will immediately free up their license.</span></span>
+<span data-ttu-id="2a750-104">Si simplemente desea eliminar el usuario y no le preocupa ninguno de sus datos, consulte Eliminar un usuario [de su organización](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).</span><span class="sxs-lookup"><span data-stu-id="2a750-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).</span></span> <span data-ttu-id="2a750-105">Esto liberará inmediatamente su licencia.</span><span class="sxs-lookup"><span data-stu-id="2a750-105">This will immediately free up their license.</span></span>
   
