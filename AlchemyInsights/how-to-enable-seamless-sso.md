@@ -1,8 +1,8 @@
 ---
-title: Cómo habilitar el SSO sin problemas
+title: Cómo habilitar SSO de conexión directa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780544"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825748"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Cómo habilitar el SSO sin problemas
+# <a name="how-to-enable-seamless-sso"></a>Cómo habilitar SSO de conexión directa
 
-Habilite SSO sin problemas a través de [Azure ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Habilitar SSO sin problemas a [través de Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Si va a realizar una instalación nueva de Azure AD Connect, elija la [ruta de instalación personalizada](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). En la página **Inicio de sesión de usuario** , seleccione la opción Habilitar el inicio de **sesión único** .
+Si está realizando una instalación nueva de Azure AD Connect, elija la [ruta de instalación personalizada](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). En la **página Inicio de sesión de usuario,** elija la opción Habilitar inicio de **sesión** único.
   
-Para comprobar que ha habilitado el SSO sin problemas correctamente:
+Para comprobar que ha habilitado sso sin interrupciones correctamente:
   
-1. Inicie sesión en el [centro de administración de Azure Active Directory](https://aad.portal.azure.com) como administrador global.
+1. Inicie sesión en el Centro administrativo [de Azure Active Directory](https://aad.portal.azure.com) como administrador global.
 
 2. Seleccione **Azure Active Directory** en el panel izquierdo.
 
-3. Compruebe que el inicio de sesión único sin problemas está **habilitado**.
+3. Compruebe que el inicio de sesión único sin problemas está **habilitado.**
 
-Para obtener más información, vea [Inicio de sesión único de inicio sencillo de Azure Active Directory: Inicio rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Para obtener más información, vea Inicio de sesión único sin problemas de [Azure Active Directory: Inicio rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

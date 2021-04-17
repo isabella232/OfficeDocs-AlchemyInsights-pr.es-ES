@@ -2,7 +2,7 @@
 title: Desbloquear una cuenta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657914"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827773"
 ---
 # <a name="unlocking-an-account"></a>Desbloquear una cuenta
 
@@ -37,7 +37,7 @@ Como administrador, si uno de los usuarios tiene restringido el envío de correo
 
 1. En el Centro de administración, vaya a **Usuarios > [Usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
 
-2. Seleccione el usuario y haga clic en**Más acciones (...)**; luego haga clic en**Editar estado de inicio de sesión**.
+2. Seleccione el usuario y haga clic en **Más acciones (...)**; luego haga clic en **Editar estado de inicio de sesión**.
 
 Para más escenarios de restablecimiento de contraseñas, incluido el restablecimiento de contraseñas de autoservicio, consulte [Restablecimiento de Microsoft 365 para los múltiples intentos de cargar las contraseñas de los instrumentos de pago en línea.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 

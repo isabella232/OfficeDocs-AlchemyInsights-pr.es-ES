@@ -2,7 +2,7 @@
 title: Desconectar y volver a conectar la cámara
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334270"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827737"
 ---
 # <a name="unplug-and-reconnect-camera"></a>Desconectar y volver a conectar la cámara
 
-Lamentamos que no haya funcionado. Si la cámara es una cámara externa, desenchufar el dispositivo y volver a conectarse puede ayudarle.
+Sentimos que no haya funcionado. Si la cámara es una cámara externa, desconectar el dispositivo y volver a conectarlo puede ser de ayuda.
 
-Si se trata de una cámara integrada, es posible que reinicie el equipo para que le resulte más fácil.
+Si se trata de una cámara integrada, reiniciar el equipo puede ser de ayuda.

@@ -1,8 +1,8 @@
 ---
-title: Enviar solicitudes de compatibilidad con Microsoft Flow o PowerApps
+title: Enviar solicitudes de soporte técnico de PowerApps o Microsoft Flow
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 8e2b04a32af02679ce9a9ade92895011391b2ae7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653458"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827989"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Enviar solicitudes de compatibilidad con Microsoft Flow o PowerApps
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Enviar solicitudes de soporte técnico de PowerApps o Microsoft Flow
 
-Si es un cliente de **PowerApps** o **Microsoft Flow** , envíe su vale a través del nuevo [centro de administración de plataformas de energía](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). El nuevo portal proporciona una ruta de acceso más directa a un soporte asistido optimizado para PowerApps y otros productos de la plataforma de energía.
+Si es cliente de **PowerApps** o **Microsoft Flow,** envíe su vale a través del nuevo Centro de [administración de la plataforma Power.](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) El nuevo portal proporciona una ruta de acceso más directa a la compatibilidad asistida optimizada para PowerApps y otros productos de la plataforma Power.
 
 [Enviar solicitud de soporte técnico de Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

@@ -2,7 +2,7 @@
 title: Ejecutar el Diagnóstico de memoria de Windows en Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: f2b8306d0cd604b144b82275243c5a84580bc609
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720807"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826684"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>Ejecutar el Diagnóstico de memoria de Windows en Windows 10
 

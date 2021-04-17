@@ -2,7 +2,7 @@
 title: Centro de administración de Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826396"
 ---
 # <a name="teams-admin-center"></a>Centro de administración de Teams
 
@@ -32,5 +32,5 @@ Si los usuarios no aparecen en el Centro de administración de Teams, consulte l
 
 - ¿Ha creado usuarios o asignado licencias en las últimas 24 horas? Asegúrese de que espera al menos 24 horas antes de abrir un vale de soporte técnico.
 - Compruebe que ha asignado las licencias adecuadas.
-- Si tiene un directorio local de Active Directory, compruebe que [el valor de msRTCSIP-PrimaryUserAddress o la dirección SIP en el campo ProxyAddresses de su Active Directory local es único y el formato coincide con ](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) la sip:**nombre de usuario** del usuario del [Centro de administración de Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Si tiene un directorio local de Active Directory, compruebe que [el valor de msRTCSIP-PrimaryUserAddress o la dirección SIP en el campo ProxyAddresses de su Active Directory local es único y el formato coincide con](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) la sip:**nombre de usuario** del usuario del [Centro de administración de Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 - Si tiene previsto mantener una implementación de Skype Empresarial Server y hacer que los usuarios estén alojados de manera local y en línea, siga la **"Configuración híbrida con Teams y Skype Empresarial Online"** en el panel de control de Skype Empresarial Server y mueva a los usuarios en línea.

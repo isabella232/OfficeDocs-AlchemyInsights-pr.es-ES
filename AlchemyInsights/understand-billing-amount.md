@@ -2,7 +2,7 @@
 title: Entender el importe de facturación
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791606"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827881"
 ---
 # <a name="understand-billing-amount"></a>Entender el importe de facturación
 
@@ -28,7 +28,7 @@ ms.locfileid: "48791606"
 - Entender los términos sobre los cargos por uso de Azure: [Explicación de los términos de uso](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Para obtener un PDF de su factura y una copia del archivo de uso diario detallado (. CSV), consulte: [Obtener datos de factura y uso](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nota** : Si cancela su suscripción o recurso en la mitad de su ciclo de facturación, es posible que todavía vea algún cargo por cualquier uso correspondiente al mes anterior. Por ejemplo, si el ciclo de facturación era desde el 26 de cada mes al 25 del mes siguiente y suspendió la suscripción el día 23, que es el período de facturación de veintiocho días para junio, es posible que vea un cargo por los 28 días de uso. Si ve un cargo a pesar de cancelar una suscripción, asegúrese de que no tiene otros planes de soporte técnico que estén causando el cargo. Si es así, proceda a cancelar el plan.
+**Nota**: Si cancela su suscripción o recurso en la mitad de su ciclo de facturación, es posible que todavía vea algún cargo por cualquier uso correspondiente al mes anterior. Por ejemplo, si el ciclo de facturación era desde el 26 de cada mes al 25 del mes siguiente y suspendió la suscripción el día 23, que es el período de facturación de veintiocho días para junio, es posible que vea un cargo por los 28 días de uso. Si ve un cargo a pesar de cancelar una suscripción, asegúrese de que no tiene otros planes de soporte técnico que estén causando el cargo. Si es así, proceda a cancelar el plan.
 
 **Contrato de cliente de Microsoft (MCA):**
 
@@ -51,10 +51,10 @@ ms.locfileid: "48791606"
 
 Revisar la factura de servicio por encima del límite:
 
-- Inicie sesión en **Enterprise portal** . Seleccione **Informes**
+- Inicie sesión en **Enterprise portal**. Seleccione **Informes**
 - En la esquina superior derecha de la pestaña, cambie la vista de **M** a **C** y haga que coincida el período de la factura.
 - El importe total del **Uso** debe coincidir con el importe total **Ampliado** en su factura de servicio por encima del límite.
-- Vaya a **Descargar Uso > Descarga de informe avanzado** para obtener más información sobre sus cargos **Nota** : este informe no incluye impuestos, cargos por reservas o cargos de Marketplace.
+- Vaya a **Descargar Uso > Descarga de informe avanzado** para obtener más información sobre sus cargos **Nota**: este informe no incluye impuestos, cargos por reservas o cargos de Marketplace.
 
 **Azure Marketplace**
 
@@ -64,10 +64,10 @@ Revisar la factura de Marketplace:
 
 Compare su total de Azure Marketplace en Informes > Resumen de uso, en el portal de Enterprise con su factura de Marketplace. La factura de Marketplace es solo para las compras y el uso de Azure Marketplace. Los importes en el Resumen de uso no incluyen impuestos.
 
-- Inicie sesión en **Enterprise portal** . Seleccione **Informes**
+- Inicie sesión en **Enterprise portal**. Seleccione **Informes**
 - En la esquina superior derecha de la pestaña, cambie la vista de **M** a **C** y haga que coincida el período de la factura.
 - El total de **Azure Marketplace** debe coincidir con la **Venta total** de su factura de Marketplace.
-- Vaya a **Descargar uso** para obtener más información sobre sus cargos basados en el uso. En **Cargos de Marketplace** , seleccione **Descargar** **Nota** : este informe no incluye los impuestos ni muestra compras de pago único.
+- Vaya a **Descargar uso** para obtener más información sobre sus cargos basados en el uso. En **Cargos de Marketplace**, seleccione **Descargar** **Nota**: este informe no incluye los impuestos ni muestra compras de pago único.
 
 **Proveedor de soluciones en la nube (CSP)**
 

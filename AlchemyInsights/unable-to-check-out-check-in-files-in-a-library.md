@@ -2,7 +2,7 @@
 title: No se puede desproteger o proteger archivos en una biblioteca
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 4fbec85abdb2e43dd779a8411706fa3e6bbf8fcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c92abece3696cde81a3268bd5cbd122fb518667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768433"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827845"
 ---
 # <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>No se puede desproteger o proteger archivos en una biblioteca
 
