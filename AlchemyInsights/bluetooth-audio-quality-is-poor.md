@@ -1,8 +1,8 @@
 ---
-title: La calidad de audio Bluetooth es deficiente
+title: Bluetooth calidad de audio es mala
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685399"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820123"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a><span data-ttu-id="997d1-102">Corrección de problemas de calidad de audio de Bluetooth</span><span class="sxs-lookup"><span data-stu-id="997d1-102">Fix Bluetooth audio quality issue</span></span>
+# <a name="fix-bluetooth-audio-quality-issue"></a><span data-ttu-id="d5dfd-102">Corregir Bluetooth de calidad de audio</span><span class="sxs-lookup"><span data-stu-id="d5dfd-102">Fix Bluetooth audio quality issue</span></span>
 
-<span data-ttu-id="997d1-103">Si el dispositivo Bluetooth está conectado pero la calidad de audio es deficiente, prueba lo siguiente:</span><span class="sxs-lookup"><span data-stu-id="997d1-103">If your Bluetooth device is connected but the audio quality is poor, try the following:</span></span>
+<span data-ttu-id="d5dfd-103">Si el Bluetooth está conectado pero la calidad de audio es mala, prueba lo siguiente:</span><span class="sxs-lookup"><span data-stu-id="d5dfd-103">If your Bluetooth device is connected but the audio quality is poor, try the following:</span></span>
 
-- <span data-ttu-id="997d1-104">Asegúrese de que el audio se reproduce a través del dispositivo Bluetooth.</span><span class="sxs-lookup"><span data-stu-id="997d1-104">Make sure the audio is playing through the Bluetooth device.</span></span> <span data-ttu-id="997d1-105">Seleccione **Inicio**  >  **configuración**  >  **sonido del sistema**  >  **Sound**.</span><span class="sxs-lookup"><span data-stu-id="997d1-105">Select **Start** > **Settings** > **System** > **Sound**.</span></span> <span data-ttu-id="997d1-106">En **Elija el dispositivo de salida**, seleccione el dispositivo de audio Bluetooth.</span><span class="sxs-lookup"><span data-stu-id="997d1-106">Under **Choose your output device**, select the Bluetooth audio device.</span></span>
-- <span data-ttu-id="997d1-107">PAUSE otras cosas que puedan estar usando Bluetooth, como el uso compartido de archivos a través de Bluetooth.</span><span class="sxs-lookup"><span data-stu-id="997d1-107">Pause other things that might be using Bluetooth, such as file-sharing over Bluetooth.</span></span> <span data-ttu-id="997d1-108">Para obtener más información, vea [solucionar problemas de sonido en Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).</span><span class="sxs-lookup"><span data-stu-id="997d1-108">For more information, see [Fix sound problems in Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).</span></span>
-- <span data-ttu-id="997d1-109">Compruebe que está seleccionada la opción estéreo para que el dispositivo Bluetooth garantice la mejor calidad de audio.</span><span class="sxs-lookup"><span data-stu-id="997d1-109">Verify that stereo is selected for the Bluetooth device to ensure the best quality audio.</span></span> <span data-ttu-id="997d1-110">Para ello:</span><span class="sxs-lookup"><span data-stu-id="997d1-110">To do this:</span></span> 
-    1. <span data-ttu-id="997d1-111">En la parte derecha de la barra de tareas, selecciona **volumen**y, a continuación, selecciona el icono de cheurón para elegir un dispositivo de reproducción.</span><span class="sxs-lookup"><span data-stu-id="997d1-111">On the right side of the taskbar, select **Volume**, and then select the chevron icon to choose a playback device.</span></span>
-    2. <span data-ttu-id="997d1-112">Seleccione el dispositivo Bluetooth y asegúrese de que la opción **estéreo** esté seleccionada.</span><span class="sxs-lookup"><span data-stu-id="997d1-112">Select the Bluetooth device, and make sure the **Stereo** option is selected.</span></span> <span data-ttu-id="997d1-113">(La opción calidad de audio inferior es **manos libres**).</span><span class="sxs-lookup"><span data-stu-id="997d1-113">(The lower-audio quality option is **Hands-Free**.)</span></span>
-    3. <span data-ttu-id="997d1-114">Si estéreo no está disponible como opción, quite el dispositivo en **configuración**de  >  **dispositivos**  >  **Bluetooth & otros dispositivos**y, a continuación, vuelva a agregar el dispositivo.</span><span class="sxs-lookup"><span data-stu-id="997d1-114">If stereo is not available as an option, remove the device in **Settings** > **Devices** > **Bluetooth & other devices**, and then re-add the device.</span></span> <span data-ttu-id="997d1-115">A continuación, vuelva a comprobar el panel **volumen** para asegurarse de que está seleccionado estéreo.</span><span class="sxs-lookup"><span data-stu-id="997d1-115">Then, check the **Volume** panel again to make sure that stereo is selected.</span></span>
+- <span data-ttu-id="d5dfd-104">Asegúrate de que el audio se esté reproduciendo a través del Bluetooth dispositivo.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-104">Make sure the audio is playing through the Bluetooth device.</span></span> <span data-ttu-id="d5dfd-105">Seleccione **Iniciar configuración**  >  **Sonido**  >  **del**  >  **sistema**.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-105">Select **Start** > **Settings** > **System** > **Sound**.</span></span> <span data-ttu-id="d5dfd-106">En **Elegir el dispositivo de salida,** selecciona el Bluetooth de audio.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-106">Under **Choose your output device**, select the Bluetooth audio device.</span></span>
+- <span data-ttu-id="d5dfd-107">Pause otras cosas que podrían usar Bluetooth, como el uso compartido de archivos en Bluetooth.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-107">Pause other things that might be using Bluetooth, such as file-sharing over Bluetooth.</span></span> <span data-ttu-id="d5dfd-108">Para obtener más información, consulta [Corregir problemas de sonido en Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).</span><span class="sxs-lookup"><span data-stu-id="d5dfd-108">For more information, see [Fix sound problems in Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).</span></span>
+- <span data-ttu-id="d5dfd-109">Compruebe que el estéreo está seleccionado para el Bluetooth dispositivo para garantizar la mejor calidad de audio.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-109">Verify that stereo is selected for the Bluetooth device to ensure the best quality audio.</span></span> <span data-ttu-id="d5dfd-110">Para ello:</span><span class="sxs-lookup"><span data-stu-id="d5dfd-110">To do this:</span></span> 
+    1. <span data-ttu-id="d5dfd-111">En el lado derecho de la barra de tareas, selecciona **Volumen** y, a continuación, selecciona el icono de chevron para elegir un dispositivo de reproducción.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-111">On the right side of the taskbar, select **Volume**, and then select the chevron icon to choose a playback device.</span></span>
+    2. <span data-ttu-id="d5dfd-112">Selecciona el Bluetooth dispositivo y asegúrate de que la **opción Estéreo** esté seleccionada.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-112">Select the Bluetooth device, and make sure the **Stereo** option is selected.</span></span> <span data-ttu-id="d5dfd-113">(La opción de calidad de audio inferior es **Manos libres**.)</span><span class="sxs-lookup"><span data-stu-id="d5dfd-113">(The lower-audio quality option is **Hands-Free**.)</span></span>
+    3. <span data-ttu-id="d5dfd-114">Si stereo no está disponible como opción, quita el dispositivo en Configuración   >  **Dispositivos** Bluetooth & otros dispositivos y, a continuación,  >  vuelve a agregar el dispositivo.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-114">If stereo is not available as an option, remove the device in **Settings** > **Devices** > **Bluetooth & other devices**, and then re-add the device.</span></span> <span data-ttu-id="d5dfd-115">A continuación, compruebe **de** nuevo el panel Volumen para asegurarse de que el estéreo está seleccionado.</span><span class="sxs-lookup"><span data-stu-id="d5dfd-115">Then, check the **Volume** panel again to make sure that stereo is selected.</span></span>
 
