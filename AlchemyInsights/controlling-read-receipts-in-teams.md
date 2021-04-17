@@ -2,7 +2,7 @@
 title: Controlar las confirmaciones de lectura en Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: c028e7937d0ce5030d877eb219924fa47070f986
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34fdfc7df6bde1ef93b52cb20983762c8d79ca94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733128"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816649"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Controlar las confirmaciones de lectura en Teams
 

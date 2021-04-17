@@ -2,7 +2,7 @@
 title: Problemas comunes y soluciones con las aplicaciones de Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002483"
 - "4824"
-ms.openlocfilehash: 5d6dadbaf86d20467b262106996333e81a12786a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fef0cc942b7227a065cb00a14c6293dbc3d0ed5f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713940"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817585"
 ---
 # <a name="common-issues-and-resolutions-with-microsoft-365-apps"></a>Problemas comunes y soluciones con las aplicaciones de Microsoft 365
 

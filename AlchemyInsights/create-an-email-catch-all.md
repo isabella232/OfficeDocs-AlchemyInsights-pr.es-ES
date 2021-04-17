@@ -1,8 +1,8 @@
 ---
-title: Crear un correo electrónico atrapar todo
+title: Crear un correo electrónico capturar todo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713003"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816217"
 ---
-# <a name="create-an-email-catch-all"></a>Crear un correo electrónico atrapar todo
+# <a name="create-an-email-catch-all"></a>Crear un correo electrónico capturar todo
 
-No se recomienda el uso de una instrucción Catch. Es mejor proporcionar un rebote al remitente que permita que los remitentes sepan que no se pudo entregar el mensaje como dirigido para que puedan actuar. También puede limitar el buzón supervisado para que solo detecte direcciones de correo electrónico válidas anteriormente. 
+El uso de una captura de todo está muy desaconsejado. Es mejor proporcionar un rebote al remitente que le permite a los remitentes saber que su mensaje no se pudo entregar como se ha dirigido para que puedan tomar medidas. También puede limitar el buzón supervisado para que solo pueda capturar direcciones de correo electrónico que antes eran válidas. 
 
-Cualquier buzón de correo de tipo catch recibirá una buena cantidad de correo no deseado y puede, eventualmente, completarse si no está bien supervisado. (Hay límites de recepción). 
+Cualquier buzón de correo catch recibirá una gran cantidad de correo no deseado y, finalmente, puede rellenarse si no se supervisa de cerca. (Hay límites de recepción). 
 
 Si decide continuar, siga estos pasos:
 
-1. Cree un grupo de distribución dinámico & incluya "todos los tipos de destinatarios".
+1. Crear un grupo de distribución dinámico & incluir "Todos los tipos de destinatarios".
 
-2. Cree un buzón dedicado para capturar los mensajes de correo electrónico, por ejemplo, catchall@domain.com.
+2. Cree un buzón dedicado para capturar correos electrónicos, por ejemplo, catchall@domain.com.
 
-3. Para el dominio específico, establezca DomainType en "InternalRelay". Si más tarde quita la instrucción Catch, asegúrese de volver a establecer el dominio en autoritativo.
+3. Para el dominio específico, establezca DomainType en "InternalRelay". Si más adelante quita la captura de todo, asegúrese de volver a establecer el dominio en Autoritativo.
 
-4. Cree una regla de transporte de flujo de flujo como sigue:
+4. Cree una regla de transporte de flujo de correo de la siguiente manera:
 
-    - Si el remitente es "fuera de la organización"
+    - Si el remitente es "Fuera de la organización"
     - Redirigir el mensaje a Catchall@domain.com
     - Excepto si el destinatario es miembro de allusers@domain.com (el grupo de distribución contiene todos los miembros)
-    - Asegurarse de que valida que los nuevos buzones se agregan al grupo de distribución dinámico
+    - Asegúrese de validar que los nuevos buzones se agregan al grupo de distribución dinámica

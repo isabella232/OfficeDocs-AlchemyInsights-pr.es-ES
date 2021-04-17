@@ -1,8 +1,8 @@
 ---
-title: Convertir un buzón de usuario en un buzón compartido
+title: Convertir un buzón de usuarios en un buzón compartido
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 7c64e9db982ffb5e8a8e90d812ed09de45ef9fb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e359b3eeb4522ca18108a4dca6efc5aae17e594
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732912"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816613"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Convertir un buzón de usuario en un buzón compartido
 
-Cuando se convierte el buzón de un usuario individual en un buzón compartido, todos los elementos de correo electrónico y de calendario existentes se conservan en un buzón compartido al que pueden tener acceso varias personas. También puede volver a convertir un buzón compartido en un buzón de usuario (privado).
+Al convertir el buzón de un usuario individual en un buzón compartido, todos los elementos de calendario y correo electrónico existentes se conservan en un buzón compartido al que pueden acceder varias personas. También puede volver a convertir un buzón compartido en un buzón de usuario (privado).
   
-Para obtener más información, consulte [convertir un buzón de usuario en un buzón compartido](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).
+Para obtener más información, vea [Convertir un buzón de usuario en un buzón compartido.](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox)
   

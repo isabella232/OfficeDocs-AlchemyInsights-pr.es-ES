@@ -1,8 +1,8 @@
 ---
-title: Borrar la memoria caché o restablecer la aplicación de forma local
+title: Borrar la memoria caché o restablecer localmente la aplicación
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922f43e90b0479762ccfc20d4130a6a8883f8c41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681241"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817765"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>Borrar la memoria caché o restablecer la aplicación de forma local
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>Borrar la memoria caché o restablecer localmente la aplicación
 
-Si está viendo datos incompletos o incorrectos, cierre y vuelva a abrir la aplicación.  Si esto no resuelve el problema, restablezca la cuenta en el dispositivo: 
+Si ve datos incompletos o incorrectos, cierre y vuelva a abrir la aplicación.  Si eso no resuelve el problema, restablezca la cuenta en el dispositivo: 
 
-**Abre la configuración de > de la aplicación > selecciona la cuenta de correo electrónico > restablecer cuenta**
+**Abre nuestra aplicación > configuración > Seleccionar la cuenta de correo electrónico > Restablecer cuenta**

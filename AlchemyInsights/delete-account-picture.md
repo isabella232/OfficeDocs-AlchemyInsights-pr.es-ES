@@ -2,7 +2,7 @@
 title: Eliminar imagen de cuenta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730968"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815560"
 ---
 # <a name="delete-an-account-picture-in-windows-10"></a>Eliminar una imagen de cuenta en Windows 10
 
-Windows está diseñado para permitirle alternar entre las tres imágenes más recientes. Si necesita eliminar una de las imágenes de la cuenta:
+Windows está diseñado para permitirte cambiar entre las tres imágenes más recientes. Si necesita eliminar una de las imágenes de su cuenta:
 
-1. Abra el explorador de archivos desde la barra de tareas. Si no ve el explorador de archivos (el icono de carpeta) en la barra de tareas, seleccione **iniciar** y escriba **Explorador de archivos**.
+1. Abra el Explorador de archivos desde la barra de tareas. Si no ve el Explorador de archivos (el icono de carpeta) en la barra de tareas, seleccione **Inicio** y escriba **Explorador de archivos**.
 
 2. Vaya a C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
     - Reemplace *yourname* por el nombre de la cuenta.
-    - Si no puede encontrar la carpeta AppData en el explorador de archivos, es posible que esté oculta. Seleccione la opción **Ver** y active la casilla **elementos ocultos** para mostrar todos los elementos de una carpeta.
+    - Si no puedes encontrar la carpeta AppData en el Explorador de archivos, es posible que esté oculta. Seleccione la **opción Ver** y active la casilla **Elementos** ocultos para mostrar todos los elementos de una carpeta.
 
 3. Elimine la imagen de cuenta que ya no desea usar.
  

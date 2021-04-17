@@ -2,7 +2,7 @@
 title: Crear y administrar listas de distribución dinámicas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3"
 - "5029"
-ms.openlocfilehash: d5d5450a9c6e000b5bc8b15dbd2520290613c148
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2187bc993d03c3c61c0d86d5c9d0194b643b4c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732298"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815920"
 ---
 # <a name="creating-and-managing-dynamic-distribution-lists"></a>Crear y administrar listas de distribución dinámicas
 
