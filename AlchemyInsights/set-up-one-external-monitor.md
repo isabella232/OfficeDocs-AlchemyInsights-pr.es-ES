@@ -2,7 +2,7 @@
 title: Configurar un monitor externo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773936"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835540"
 ---
 # <a name="set-up-one-monitor"></a>Configurar un monitor
 
 **Comprobar la configuración del proyecto del equipo**
 
-1. Abra la configuración del proyecto; para ello, presione las teclas siguientes al mismo tiempo: tecla Windows (botón Inicio del logotipo de Windows) + P.
-2. Elija **duplicar**, **extender**o **segunda pantalla sólo**en función de sus preferencias.
+1. Abre la configuración del proyecto presionando las siguientes teclas al mismo tiempo: tecla Windows (botón Inicio del logotipo de Windows) + P.
+2. Elija **Duplicate**, **Extend** o Second **screen only**, según sus preferencias.
 
-**Nota:** Si el equipo solo tiene un puerto de visualización (como HDMI o VGA), necesitará una estación de acoplamiento o un adaptador USB para configurar varios monitores.
+**Nota:** Si el equipo solo tiene un puerto de pantalla (como HDMI o VGA), necesitarás una estación de acoplamiento o un adaptador USB para configurar varios monitores.
 
-Además, si puede configurar un monitor pero no varios, es posible que su PC no sea compatible con varios monitores. Para obtener más información, consulta los documentos originales de tu equipo.
+Además, si puedes configurar un monitor pero no varios, es posible que el equipo no sea compatible con varios monitores. Consulta los documentos originales de tu equipo para obtener más información.

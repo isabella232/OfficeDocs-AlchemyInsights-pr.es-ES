@@ -1,8 +1,8 @@
 ---
-title: Configurar conferencias de audio de acceso telefónico PSTN en Skype empresarial online
+title: Configurar la audioconferencia de acceso telefónico local RTC en Skype Empresarial Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739554"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835504"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Configurar conferencias de audio de acceso telefónico PSTN en Skype empresarial online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Configurar la audioconferencia de acceso telefónico local RTC en Skype Empresarial Online
 
-Si quiere configurar audioconferencia para Skype empresarial online, tendrá que realizar algunas tareas más en el mismo. 
+Si desea configurar audioconferencias para Skype Empresarial Online, tendrá que hacer algunas cosas. 
 
-- Averigüe si audioconferencia está disponible en su país o región.
+- Descubra si la audioconferencia está disponible en su país o región.
 
 - Obtener y asignar licencias a los usuarios.
 
 - Obtener y asignar números de servicio.
 
-- Complete la lista de comprobación en [set up audio audioconferencia for Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Complete la lista de comprobación [en Configurar audioconferencia para Skype Empresarial](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
