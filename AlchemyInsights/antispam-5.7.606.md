@@ -1,8 +1,8 @@
 ---
-title: Contra correo electrónico no deseado-5.7.23
+title: Correo no deseado - 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 7b3a322c8241f24d30d36cfd1a4440737466b58f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717306"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821392"
 ---
-# <a name="banned-sending-ip"></a>IP de envío prohibido
+# <a name="banned-sending-ip"></a>IP de envío prohibida
 
-Cuando se envía a un destinatario de 365 de Office, un remitente puede experimentar este error. El remitente debe visitar el portal de eliminación [de la lista de direcciones IP contra el correo no deseado de Office 365](https://sender.office.com/) y proporcionar su dirección de correo electrónico y dirección IP que deben deponerse en la lista. Si no reciben un correo electrónico de verificación del portal, pídale que Compruebe la carpeta de correo no deseado o pruebe con otra dirección de correo electrónico. 
+Al enviar a un destinatario de Office 365, es posible que un remitente experimente este error. El remitente debe visitar [office 365 Anti-Spam IP Delist Portal](https://sender.office.com/) y proporcionar su dirección de correo electrónico y dirección IP que necesita ser deslistada. Si no reciben un correo electrónico de verificación del portal, haz que comprueben la carpeta de correo no deseado o prueben con una dirección de correo electrónico diferente. 
 
-- Para obtener instrucciones detalladas, consulte [usar el portal de eliminación de la lista para quitarse de la lista de remitentes bloqueados](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
+- Para obtener instrucciones detalladas, vea [Use the delist portal to remove yourself from the blocked senders list](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).

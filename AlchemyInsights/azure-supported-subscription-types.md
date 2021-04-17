@@ -2,7 +2,7 @@
 title: Tipos de suscripciones admitidas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791579"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820699"
 ---
 # <a name="supported-subscription-types"></a>Tipos de suscripciones admitidas
 
@@ -29,10 +29,10 @@ Revise los tipos de suscripción admitidos para seguir adelante.
 
 Azure Portal como el [Administrador de la cuenta](https://ms.portal.azure.com/) de la facturación de la cuenta que tiene la suscripción que desea transferir
 
-- Buscar en **Administración de costos + facturación** . Seleccione **suscripciones** en el panel izquierdo. Según el acceso, es posible que tenga que seleccionar un ámbito de facturación y, a continuación, las **suscripciones** o las **suscripciones de Azure** .
+- Buscar en **Administración de costos + facturación**. Seleccione **suscripciones** en el panel izquierdo. Según el acceso, es posible que tenga que seleccionar un ámbito de facturación y, a continuación, las **suscripciones** o las **suscripciones de Azure**.
 - Seleccione transferir propiedad de facturación para la suscripción que desea transferir
 - Escriba la dirección de correo electrónico de un usuario que sea administrador de facturación de la cuenta que será el nuevo propietario de la suscripción y, a continuación, seleccione **enviar solicitud de transferencia**
-- El usuario recibe un correo electrónico con instrucciones para revisar su solicitud de transferencia. Para aprobar la solicitud de transferencia, el usuario debe seleccionar el vínculo en el mensaje de correo electrónico y siga las instrucciones.
+- El usuario recibe un correo electrónico con instrucciones para revisar su solicitud de transferencia. Para aprobar la solicitud de transferencia, el usuario debe seleccionar el vínculo en el mensaje de correo electrónico y seguir las instrucciones.
 
 Nota: si se transfiere la propiedad de facturación de su suscripción a una cuenta de usuario en otro espacio empresarial de Azure AD, todas las asignaciones del [control de acceso basado en roles (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) para administrar los recursos de la suscripción se eliminan de forma permanente. Solo el nuevo propietario tendrá acceso para administrar los recursos de la suscripción. Para obtener más información, vea [Transferir la suscripción a un usuario en otro espacio empresarial de Azure AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 

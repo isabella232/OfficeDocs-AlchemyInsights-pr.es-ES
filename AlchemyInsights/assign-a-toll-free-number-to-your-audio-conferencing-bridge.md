@@ -2,7 +2,7 @@
 title: Asignar un número gratuito a su puente de audioconferencia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 59b82920a0c96b71aa75c8eed57699687ecc681f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716298"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821131"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Asignar un número gratuito a su puente de audioconferencia
 

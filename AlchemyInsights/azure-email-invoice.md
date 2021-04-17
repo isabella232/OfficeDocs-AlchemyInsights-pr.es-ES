@@ -2,7 +2,7 @@
 title: Facturación de correo electrónico de Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840626"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820807"
 ---
 # <a name="azure-email-invoicing"></a>Facturación de correo electrónico de Azure
 
 Debes tener un rol de administrador de cuenta en una suscripción o un plan de soporte técnico para optar a recibir su factura por correo electrónico. Las facturas de correo electrónico solo están disponibles para suscripciones y planes de soporte técnico, no para reservas o compras de Azure Marketplace. Una vez que haya optado por esta opción, puede agregar otros destinatarios, que también recibirán la factura por correo electrónico. Siga estos pasos.
 
-1. Inicie sesión en el [portal de Azure](https://portal.azure.com/).
+1. Inicie sesión en el [Azure Portal](https://portal.azure.com/).
 2. Buscar la **administración de costos + facturación**.
 3. Seleccione **Facturas** en la parte izquierda.
 4. Seleccione su suscripción de Azure o la suscripción al plan de soporte técnico y luego seleccione **Recibir factura por correo electrónico**.

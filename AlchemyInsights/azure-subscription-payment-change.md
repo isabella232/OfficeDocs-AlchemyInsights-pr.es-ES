@@ -2,7 +2,7 @@
 title: Cambiar la información de pago en Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791595"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820735"
 ---
 # <a name="change-payment-information-in-azure"></a>Cambiar la información de pago en Azure
 
@@ -27,16 +27,16 @@ En el portal de Azure, como Administrador de la cuenta, puede agregar una tarjet
 
 1. Inicie sesión en el [portal de Azure](https://portal.azure.com/) como el [Administrador de la cuenta](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Busque en **Administración de costos + Facturación**
 2. Seleccione la suscripción a la que le gustaría agregar la tarjeta de crédito o débito. Seleccione **Métodos de pago**
-3. En la esquina superior izquierda, seleccione + para agregar una tarjeta. Se mostrará un formulario de tarjeta de crédito a la derecha. Escriba los detalles de la tarjeta de crédito o débito 4. Para establecer esta tarjeta como su método de pago activo, marque la casilla junto a Hacer de este mi método de pago activo, encima del formulario. Esta tarjeta pasará a ser el instrumento de pago activo para todas las suscripciones que utilicen la misma tarjeta que la suscripción seleccionada. Seleccione **Siguiente** 5. Para **usar una tarjeta de crédito diferente** , active la casilla junto a la tarjeta que quiere convertir en el método de pago activo.
+3. En la esquina superior izquierda, seleccione + para agregar una tarjeta. Se mostrará un formulario de tarjeta de crédito a la derecha. Escriba los detalles de la tarjeta de crédito o débito 4. Para establecer esta tarjeta como su método de pago activo, marque la casilla junto a Hacer de este mi método de pago activo, encima del formulario. Esta tarjeta pasará a ser el instrumento de pago activo para todas las suscripciones que utilicen la misma tarjeta que la suscripción seleccionada. Seleccione **Siguiente** 5. Para **usar una tarjeta de crédito diferente**, active la casilla junto a la tarjeta que quiere convertir en el método de pago activo.
 6. Haga clic en **Establecer como activo**
 
 **Actualizar, cambiar o quitar una tarjeta de crédito o débito existente**
 
-1. Inicie sesión en el [portal de Azure](https://portal.azure.com/) como el [Administrador de la cuenta](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Busque en **Administración de costos + Facturación** .
-2. Seleccione **Métodos de pago** . Haga clic en la tarjeta de crédito o débito que quiera editar. Se mostrará un formulario de tarjeta de crédito a la derecha 3. Actualice los datos de la tarjeta de crédito o débito. Seleccione **Guardar** .
-4. Para **quitar** , active la casilla que se encuentra junto a la tarjeta que quiere quitar 5. Haga clic en **Eliminar**
+1. Inicie sesión en el [portal de Azure](https://portal.azure.com/) como el [Administrador de la cuenta](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Busque en **Administración de costos + Facturación**.
+2. Seleccione **Métodos de pago**. Haga clic en la tarjeta de crédito o débito que quiera editar. Se mostrará un formulario de tarjeta de crédito a la derecha 3. Actualice los datos de la tarjeta de crédito o débito. Seleccione **Guardar**.
+4. Para **quitar**, active la casilla que se encuentra junto a la tarjeta que quiere quitar 5. Haga clic en **Eliminar**
 
-_Nota_ : no se puede quitar una tarjeta de crédito si está asociada a otras suscripciones de Microsoft activas. Tendrá que quitar la tarjeta de crédito de todas las suscripciones activas que tenga con Microsoft y volver a intentarlo.
+_Nota_: no se puede quitar una tarjeta de crédito si está asociada a otras suscripciones de Microsoft activas. Tendrá que quitar la tarjeta de crédito de todas las suscripciones activas que tenga con Microsoft y volver a intentarlo.
 
 Más información: [Actualizar, cambiar o quitar métodos de pago](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 

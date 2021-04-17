@@ -1,8 +1,8 @@
 ---
-title: ¿Ya ha pagado?
+title: ¿Ya se ha pagado?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 1e3915f2120b5ba017741dbb9bac42528db9cee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9192eaeeb35a1adc00658f9248bc3bb5d26ae022
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718026"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821536"
 ---
-# <a name="already-paid"></a>¿Ya ha pagado?
+# <a name="already-paid"></a>¿Ya se ha pagado?
 
-Si ya ha enviado el pago, puede dejarnos saber lo siguiente:
+Si ya ha enviado el pago, puede hacernos saber lo siguiente:
   
 1. En el centro de administración, vaya a la página **Facturación** \> [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Elija una suscripción y, en la sección **mi factura** , elija **Ver factura**.
+2. Elija una suscripción y, en la **sección Mi factura,** elija **Ver factura**.
 
-3. En la página Detalles de la **factura** , elija **¿ya ha pagado?** Se le pedirá que escriba la información relacionada con el pago que se ha enviado.
+3. En la **página Detalles de** la factura, elija **¿Ya pagado?** Se le pedirá que escriba información relacionada con el pago que se envió.
 
-4. Cuando se haya escrito toda la información necesaria, elija **Enviar**.
+4. Cuando se haya especificado toda la información necesaria, elija **Enviar**.

@@ -2,7 +2,7 @@
 title: La batería no se carga
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: b15939c264a39687b4d93874553e5af7b3f7fe8d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686335"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820483"
 ---
 # <a name="battery-wont-charge"></a>La batería no se carga
 
@@ -30,15 +30,15 @@ En segundo lugar, intente apagar su Surface y cargue durante al menos 30 minutos
 Si el icono de la batería en la barra de tareas muestra **Conectado, pero no cargando**, significa que su Surface detecta la fuente de alimentación pero no está cargando la batería. Su Surface puede apagarse cuando la desenchufe. Pruebe esto:
 
 1. Conecte su Surface.
-2. Seleccione el cuadro de búsqueda en la barra de tareas, escriba**administrador de dispositivos** y luego seleccione **Administrador de dispositivos** de la lista de resultados.
+2. Seleccione el cuadro de búsqueda en la barra de tareas, escriba **administrador de dispositivos** y luego seleccione **Administrador de dispositivos** de la lista de resultados.
 3. Haga clic en la flecha junto a la categoría **Baterías**.
-4. Pulse dos veces o haga doble clic en **Microsoft Surface ACPI-Compliant Control Method Battery**, seleccione la pestaña **Controlador** y haga clic en** Desinstalar > OK**.
+4. Pulse dos veces o haga doble clic en **Microsoft Surface ACPI-Compliant Control Method Battery**, seleccione la pestaña **Controlador** y haga clic en **Desinstalar > OK**.
 5. Seleccione el equipo en la parte superior de todas las categorías, seleccione el menú **Acción**, y luego haga clic **en Buscar cambios en el hardware**.
 6. Deje Surface conectado.
 
 Después de quitar el controlador de la batería, instale las actualizaciones de Surface y de Windows. Consulte [Actualización del firmware de Surface y Windows 10 ](https://support.microsoft.com/help/4023505)para más detalles. Comprobar la batería. Si aún tiene problemas, consulte[Forzar un apagado y reiniciar Surface](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface).
 
-** Más información sobre la solución de problemas **
+**Más información sobre la solución de problemas**
 
 La luz LED debería estar encendida cuando el conector de alimentación esté conectado a Surface. Si está apagado, parpadeando, o parpadeando en blanco, por favor consulte[Qué hacer si la fuente de alimentación o el cargador de Surface no funciona](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply). 
 
