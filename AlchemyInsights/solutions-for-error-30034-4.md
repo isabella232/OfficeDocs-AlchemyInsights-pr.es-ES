@@ -2,7 +2,7 @@
 title: Soluciones para el error 30034-4
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -14,25 +14,25 @@ ms.custom:
 - "836"
 - "2000020"
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 02f74a04c1f18e176b7044be1de9323109d12aac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2350a49528380683c58a69638040a41d670e1cfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738870"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832507"
 ---
 # <a name="solutions-for-error-30034-4"></a>Soluciones para el error 30034-4
 
 Pruebe estas soluciones para corregir el error [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
   
-- Reinicie el equipo y pruebe a [instalar Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Reinicie el equipo e intente [instalar Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Descargue e instale el [Asistente para soporte y recuperación](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Cuando se abre, desde **desinstalar productos de Office** seleccione la versión que quiere desinstalar y seleccione **siguiente**.
+1. Cuando se abra, en **Desinstalar productos de Office,** seleccione la versión que desea desinstalar y seleccione **Siguiente**.
 
 2. Siga por el resto de las pantallas y cuando se le pida, reinicie el equipo.
 
-    Después de reiniciar, el Asistente para soporte y recuperación se vuelve a abrir automáticamente para completar el proceso de desinstalación.
+    Después de reiniciar, el Asistente para soporte técnico y recuperación se vuelve a abrir automáticamente para completar el proceso de desinstalación.
 
-3. Siga los mensajes restantes y [vuelva a instalar Office](https://portal.office.com/OLS/MySoftware.aspx) o cierre el asistente.
+3. Siga las indicaciones restantes y [vuelva a instalar Office](https://portal.office.com/OLS/MySoftware.aspx) o cierre el asistente.

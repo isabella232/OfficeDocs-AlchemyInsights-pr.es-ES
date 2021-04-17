@@ -2,7 +2,7 @@
 title: No podemos obtener los archivos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5748"
 - "9003042"
-ms.openlocfilehash: bc7370b4b6f47c9bbf532e23b0439b8204c24b70
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 833f794d079eeed7042362ac440ca85659c30625
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653427"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833344"
 ---
 # <a name="we-cant-get-your-files"></a>No podemos obtener los archivos
 
-Es posible que los usuarios vean este error si no son miembros del equipo. Agregue el usuario al grupo para darles acceso al sitio de grupo.
+Los usuarios pueden ver este error si no son miembros del equipo. Agregue el usuario al grupo para darle acceso al sitio del grupo.
 
-- Para obtener más información sobre cómo agregar un usuario a un equipo, vea [Agregar miembros a un equipo en](https://support.office.com/article/add-people-to-a-team-aff2249d-b456-4bc3-81e7-52327b6b38e9)Microsoft Teams.
-- Para obtener más información sobre cómo compartir un sitio directamente, consulte [compartir un sitio](https://support.office.com/article/Share-a-site-958771A8-D041-4EB8-B51C-AFEA2EAE3658).
+- Para obtener más información sobre cómo agregar un usuario a un equipo, consulte [Agregar miembros a un equipo en Teams](https://support.office.com/article/add-people-to-a-team-aff2249d-b456-4bc3-81e7-52327b6b38e9).
+- Para obtener más información sobre cómo compartir un sitio directamente, vea [Compartir un sitio](https://support.office.com/article/Share-a-site-958771A8-D041-4EB8-B51C-AFEA2EAE3658).
 
-Este error también puede producirse si el grupo no está conectado al equipo de SharePoint. Para obtener más información acerca de cómo conectar un grupo a un sitio de SharePoint, consulte [conectarse a un grupo de Microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) .
+Este error también puede producirse si el grupo no está conectado al equipo de SharePoint. Para obtener más información sobre cómo conectar un grupo a un sitio de SharePoint, vea [Conectarse a un grupo de Microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

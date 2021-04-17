@@ -2,7 +2,7 @@
 title: Los vínculos para compartir aparecen atenuados
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: ba13b6d734f1db7ef240480b9d1d752a2fa3ae11
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c76dc0572a282ea6b70e67feb8a690116cc14f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758442"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832579"
 ---
 # <a name="sharing-links-are-grayed-out"></a>Los vínculos para compartir aparecen atenuados
 

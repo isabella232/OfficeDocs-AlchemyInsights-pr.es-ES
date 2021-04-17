@@ -2,7 +2,7 @@
 title: Instalar las aplicaciones del cliente de Office en un equipo PC o MAC
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708367"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831967"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Instalar las aplicaciones del cliente de Office en un equipo PC o MAC
 
@@ -36,7 +36,7 @@ Después, haga que cada usuario:
 3. En la sección de Office, seleccione el idioma. Seleccione la versión de 32 bits o 64 bits de Office
 4. Haga clic en **Instalar**.
 
-Para conocer los pasos detallados y soluciones de problemas al instalar Office, vea [Descargar e instalar o reinstalar Office en un ordenador o Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA). Para obtener instrucciones específicas sobre la instalación de Visio o Project, vea [Instalar Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) o [Instalar Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281). Para implementar Office en varios usuarios, consulte [Usar la Herramienta de implementación de Office (ODT)](https://docs.microsoft.com/alchemyinsights/using-the-office-deployment-tool).
+Para conocer los pasos detallados y soluciones de problemas al instalar Office, vea [Descargar e instalar o reinstalar Office en un PC o Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA). Para obtener instrucciones específicas sobre la instalación de Visio o Project, vea [Instalar Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) o [Instalar Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281). Para implementar Office en varios usuarios, consulte [Usar la Herramienta de implementación de Office (ODT)](https://docs.microsoft.com/alchemyinsights/using-the-office-deployment-tool).
 
 Para ver las soluciones de problemas de instalación de Office específicos, vea:
 - [Solucionar problemas en la instalación de Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)

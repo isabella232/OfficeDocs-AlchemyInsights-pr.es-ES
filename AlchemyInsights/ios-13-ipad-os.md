@@ -1,8 +1,8 @@
 ---
-title: iOS 13-iPados
+title: 'iOS 13 : iPadOS'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695954"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833164"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPad actualizaciones para la Directiva de acceso condicional
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>Actualizaciones de iOS 13+ / iPadOS para la directiva de acceso condicional
 
-Si tiene problemas relacionados con el acceso condicional en iPad que se han actualizado a iPad (iOS 13 o superior), revise el siguiente artículo del equipo de AAD en relación con los cambios que tenga que hacer para asegurarse de que el acceso condicional sigue funcionando como desea:
+Si está experimentando problemas relacionados con el acceso condicional en Ipads que se han actualizado a iPadOS (iOS 13 o posterior), revise el siguiente artículo del equipo de AAD con respecto a los cambios que debe realizar para asegurarse de que el acceso condicional siga funcionando como se desee:
 
-[Acción necesaria: evaluar y actualizar las directivas de acceso condicional para preparar la versión para iPados](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Acción necesaria: evaluar y actualizar directivas de acceso condicional como preparación para la versión de iPadOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
