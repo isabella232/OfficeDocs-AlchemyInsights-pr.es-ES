@@ -2,7 +2,7 @@
 title: El icono de calendario no se muestra en el cliente de Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001219"
 - "4375"
-ms.openlocfilehash: f30cd5bda62756cf6b912ed150b4e59e7ca4d85d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a3f02b69d160c7dce68ed03df59c0d7d1f32f0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684715"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819970"
 ---
 # <a name="calendar-icon-not-showing-in-teams-client"></a>El icono de calendario no se muestra en el cliente de Teams
 

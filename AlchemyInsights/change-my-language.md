@@ -2,7 +2,7 @@
 title: Cambiar mi idioma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682987"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818989"
 ---
 # <a name="change-my-language"></a>Cambiar mi idioma
 
-La aplicación de Outlook se convierte automáticamente en el idioma en el que el dispositivo está configurado. 
+La aplicación de Outlook se traduce automáticamente al idioma en el que está configurado el dispositivo. 
 
-(Vea una [lista de idiomas admitidos en Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated)). 
+(Vea una [lista de idiomas admitidos en Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
-**Para cambiar el idioma en el dispositivo**: 
+**Para cambiar el idioma del dispositivo:** 
 
 **En Android**: 
 
-- Configuración de dispositivo > idioma y entrada 
+- Configuración del dispositivo > idioma y entrada 
 
 **En iOS**: 
 
-- Configuración de dispositivo > región de & general > idioma 
+- Configuración del dispositivo > región > idioma & idioma 

@@ -2,7 +2,7 @@
 title: Cancelar suscripción en Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791576"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819601"
 ---
 # <a name="cancel-subscription"></a>Cancelar suscripción
 
@@ -25,7 +25,7 @@ Solo el administrador de la cuenta o el propietario de la suscripción puede can
 
 1. Seleccione su suscripción en la página [Suscripciones del Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Seleccione la suscripción que quiere cancelar.
-3. Seleccione **información general** y, después, seleccione **cancelar suscripción** .
+3. Seleccione **Información general** y, después, seleccione **Cancelar suscripción**.
 
 **¿Qué ocurre después de cancelar la suscripción?**
 
@@ -33,7 +33,7 @@ Después de cancelar, la facturación se detiene inmediatamente. Sin embargo, la
 
 Una vez haya cancelado, se deshabilitan los servicios. Esto significa que las máquinas virtuales se desasignan, las direcciones IP temporales se liberan y el almacenamiento de información es de solo lectura.
 
-Después de que se cancele la suscripción, Microsoft espera 30-90 días antes de eliminar de forma permanente los datos en caso de que necesite tener acceso a ellos o que cambie de opinión. No se le cobra por retener datos. Para obtener más información, vea [Centro de confianza de Microsoft: cómo administramos sus datos](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
+Después de que se cancele la suscripción, Microsoft espera 30-90 días antes de eliminar de forma permanente los datos en caso de que necesite tener acceso a ellos o que cambie de opinión. No se le cobra por retener datos. Para más información, vea [Centro de confianza de Microsoft: cómo administramos sus datos](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
 
 **Cancelar suscripción a Azure**
 

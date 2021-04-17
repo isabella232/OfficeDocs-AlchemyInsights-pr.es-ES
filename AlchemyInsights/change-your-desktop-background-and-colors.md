@@ -1,8 +1,8 @@
 ---
-title: Cambiar el fondo de escritorio y los colores
+title: Cambiar el fondo y los colores del escritorio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793739"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818161"
 ---
-# <a name="change-your-desktop-background-and-colors"></a>Cambiar el fondo de escritorio y los colores
+# <a name="change-your-desktop-background-and-colors"></a>Cambiar el fondo y los colores del escritorio
 
-Para cambiar la configuración de colores, vaya a **Inicio**de los  >  colores de personalización de la**configuración**  >  **Personalization**  >  **Colors**y elija su propio color o deje que Windows extraiga un color de énfasis del fondo.
+Para cambiar la configuración de colores, ve a Inicio Configuración Colores de  >    >  **personalización** y, a continuación, elige tu propio color o deja que Windows extraiga un color de acento  >  de tu fondo.
 
-![Personalice sus colores en Windows.](media/windows-personalization-colors.png)
+![Personaliza los colores en Windows.](media/windows-personalization-colors.png)
 
-Para cambiar el fondo de escritorio, vaya a **Inicio**de  >  **Settings**  >  **Personalización**  >  de configuración y, a continuación **,** elija una imagen, un color sólido o cree una presentación de imágenes. 
+Para cambiar el fondo del escritorio, ve a Inicio Configuración Fondo de  >    >  **personalización**  >  y, a continuación, elige una imagen, un color sólido o crea una presentación de imágenes. 
 
-![Cambiar el fondo del escritorio de Windows.](media/windows-desktop-background.png)
+![Cambiar el fondo de escritorio de Windows.](media/windows-desktop-background.png)
 
-¿Desea más fondos y colores de escritorio? Visita [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) para elegir entre docenas de temas gratuitos.
+¿Desea más fondos de escritorio y colores? Visita [Microsoft Store para](https://www.microsoft.com/store/collections/windowsthemes) elegir entre decenas de temas gratuitos.

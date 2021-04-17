@@ -1,8 +1,8 @@
 ---
-title: La calidad de audio Bluetooth es deficiente
+title: Bluetooth calidad de audio es mala
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685399"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820123"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>Corrección de problemas de calidad de audio de Bluetooth
+# <a name="fix-bluetooth-audio-quality-issue"></a>Corregir Bluetooth de calidad de audio
 
-Si el dispositivo Bluetooth está conectado pero la calidad de audio es deficiente, prueba lo siguiente:
+Si el Bluetooth está conectado pero la calidad de audio es mala, prueba lo siguiente:
 
-- Asegúrese de que el audio se reproduce a través del dispositivo Bluetooth. Seleccione **Inicio**  >  **configuración**  >  **sonido del sistema**  >  **Sound**. En **Elija el dispositivo de salida**, seleccione el dispositivo de audio Bluetooth.
-- PAUSE otras cosas que puedan estar usando Bluetooth, como el uso compartido de archivos a través de Bluetooth. Para obtener más información, vea [solucionar problemas de sonido en Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- Compruebe que está seleccionada la opción estéreo para que el dispositivo Bluetooth garantice la mejor calidad de audio. Para ello: 
-    1. En la parte derecha de la barra de tareas, selecciona **volumen**y, a continuación, selecciona el icono de cheurón para elegir un dispositivo de reproducción.
-    2. Seleccione el dispositivo Bluetooth y asegúrese de que la opción **estéreo** esté seleccionada. (La opción calidad de audio inferior es **manos libres**).
-    3. Si estéreo no está disponible como opción, quite el dispositivo en **configuración**de  >  **dispositivos**  >  **Bluetooth & otros dispositivos**y, a continuación, vuelva a agregar el dispositivo. A continuación, vuelva a comprobar el panel **volumen** para asegurarse de que está seleccionado estéreo.
+- Asegúrate de que el audio se esté reproduciendo a través del Bluetooth dispositivo. Seleccione **Iniciar configuración**  >  **Sonido**  >  **del**  >  **sistema**. En **Elegir el dispositivo de salida,** selecciona el Bluetooth de audio.
+- Pause otras cosas que podrían usar Bluetooth, como el uso compartido de archivos en Bluetooth. Para obtener más información, consulta [Corregir problemas de sonido en Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
+- Compruebe que el estéreo está seleccionado para el Bluetooth dispositivo para garantizar la mejor calidad de audio. Para ello: 
+    1. En el lado derecho de la barra de tareas, selecciona **Volumen** y, a continuación, selecciona el icono de chevron para elegir un dispositivo de reproducción.
+    2. Selecciona el Bluetooth dispositivo y asegúrate de que la **opción Estéreo** esté seleccionada. (La opción de calidad de audio inferior es **Manos libres**.)
+    3. Si stereo no está disponible como opción, quita el dispositivo en Configuración   >  **Dispositivos** Bluetooth & otros dispositivos y, a continuación,  >  vuelve a agregar el dispositivo. A continuación, compruebe **de** nuevo el panel Volumen para asegurarse de que el estéreo está seleccionado.
 

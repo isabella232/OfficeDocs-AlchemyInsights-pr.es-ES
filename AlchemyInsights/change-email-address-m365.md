@@ -2,7 +2,7 @@
 title: Cambiar la dirección de correo electrónico de un grupo de Microsoft 365 o Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
-ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
+ms.openlocfilehash: 7800a447c5dfcc8397121e1149921916ff7944ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756574"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819097"
 ---
 # <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Cambiar la dirección de correo electrónico de un grupo de Microsoft 365 o Microsoft Teams
 

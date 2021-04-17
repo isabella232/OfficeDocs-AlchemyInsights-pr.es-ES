@@ -2,7 +2,7 @@
 title: Colas de llamadas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734352"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819853"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Colas de llamadas en Microsoft Teams y Skype empresarial 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Colas de llamadas en Microsoft Teams y Skype Empresarial 
 
 Para empezar a usar colas de llamadas, consulte los siguientes vínculos.
 

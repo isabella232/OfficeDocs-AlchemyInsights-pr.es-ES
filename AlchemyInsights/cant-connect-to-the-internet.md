@@ -2,7 +2,7 @@
 title: No se puede conectar a Internet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794279"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819457"
 ---
 # <a name="fix-network-connection"></a>Corregir conexión de red
 
-Para solucionar los problemas de conexión de red, pruebe primero a ejecutar el solucionador de problemas de red. 
+Para solucionar problemas de conexión de red, primero intente ejecutar el solucionador de problemas de red. 
 
-1. [Abra la configuración para solucionar problemas](ms-settings:troubleshoot).
+1. [Abra la configuración de solución de problemas](ms-settings:troubleshoot).
 
-2. En **conexiones de Internet**, seleccione **ejecutar el solucionador de problemas**.
+2. En **Conexiones a Internet,** **seleccione Ejecutar el solucionador de problemas**.
 
-Si estás usando una conexión Wi-Fi, asegúrate de que Wi-Fi esté activado para el dispositivo (incluido cualquier conmutador Wi-Fi físico) y de que el modo avión no esté activado.
+Si usas una conexión Wi-Fi, asegúrate de que Wi-Fi esté activado para el dispositivo (incluido cualquier conmutador Wi-Fi físico) y de que el modo de avión no esté activado.
 
-Si usa una conexión Ethernet, asegúrese de que el cable esté enchufado firmemente en el PC y en el enrutador o módem.
+Si estás usando una conexión Ethernet, asegúrate de que el cable esté conectado de forma segura al equipo y al enrutador o módem.
 
-Si esto no funciona, prueba a reiniciar el equipo, el módem y el enrutador (si tienes uno):
+Si eso no funciona, intente reiniciar el equipo, el módem y el enrutador (si tiene uno):
 
-1. Desconecte la alimentación del módem y del enrutador. Si el módem tiene una copia de seguridad de la batería, tendrá que quitar la batería para apagar la alimentación por completo.
+1. Desenchufe la energía del módem y el enrutador. Si el módem tiene una copia de seguridad de la batería, tendrás que quitar la batería para desactivar completamente la energía.
 
-2. Espere unos 30 segundos. Si ha quitado la batería del módem, vuelva a colocarla.
+2. Espere unos 30 segundos. Si quitaste la batería del módem, vuelve a colocarla.
 
-3. Conecte el cable de alimentación del módem y el enrutador.
+3. Conecte el cable de alimentación para el módem y el enrutador.
 
-4. Mientras esperas que el módem y el enrutador se enciendan completamente, reinicia tu PC: **iniciar**el  >  **Power**  >  **reinicio**de la alimentación.
+4. Mientras espera a que el módem y el enrutador se enciendan completamente, reinicie el equipo: **Inicie**  >  **Power**  >  **Restart**.
 
 **Solución de problemas avanzada**
 
-Para obtener más información sobre los pasos para la solución de problemas más avanzados, vea [corregir problemas de conexión Wi-Fi en Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Para obtener pasos de solución de problemas más avanzados, [consulta Solucionar Wi-Fi problemas de conexión en Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-Si no está familiarizado con los pasos más técnicos para la solución de problemas, [póngase en contacto con nosotros](https://support.microsoft.com/contactus).
+Si no se siente cómodo con los pasos de solución de problemas más técnicos, [póngase en contacto con nosotros.](https://support.microsoft.com/contactus)
