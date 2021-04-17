@@ -1,8 +1,8 @@
 ---
-title: Cómo habilitar el SSO sin problemas
+title: Cómo habilitar SSO de conexión directa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780544"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825748"
 ---
-# <a name="how-to-enable-seamless-sso"></a><span data-ttu-id="55624-102">Cómo habilitar el SSO sin problemas</span><span class="sxs-lookup"><span data-stu-id="55624-102">How to enable Seamless SSO</span></span>
+# <a name="how-to-enable-seamless-sso"></a><span data-ttu-id="723ba-102">Cómo habilitar SSO de conexión directa</span><span class="sxs-lookup"><span data-stu-id="723ba-102">How to enable Seamless SSO</span></span>
 
-<span data-ttu-id="55624-103">Habilite SSO sin problemas a través de [Azure ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span><span class="sxs-lookup"><span data-stu-id="55624-103">Enable Seamless SSO through [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span></span>
+<span data-ttu-id="723ba-103">Habilitar SSO sin problemas a [través de Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span><span class="sxs-lookup"><span data-stu-id="723ba-103">Enable Seamless SSO through [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span></span>
   
-<span data-ttu-id="55624-104">Si va a realizar una instalación nueva de Azure AD Connect, elija la [ruta de instalación personalizada](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span><span class="sxs-lookup"><span data-stu-id="55624-104">If you're doing a fresh installation of Azure AD Connect, choose the [custom installation path](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span></span> <span data-ttu-id="55624-105">En la página **Inicio de sesión de usuario** , seleccione la opción Habilitar el inicio de **sesión único** .</span><span class="sxs-lookup"><span data-stu-id="55624-105">At the **User sign-in** page, choose the **Enable single sign-on** option.</span></span>
+<span data-ttu-id="723ba-104">Si está realizando una instalación nueva de Azure AD Connect, elija la [ruta de instalación personalizada](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span><span class="sxs-lookup"><span data-stu-id="723ba-104">If you're doing a fresh installation of Azure AD Connect, choose the [custom installation path](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span></span> <span data-ttu-id="723ba-105">En la **página Inicio de sesión de usuario,** elija la opción Habilitar inicio de **sesión** único.</span><span class="sxs-lookup"><span data-stu-id="723ba-105">At the **User sign-in** page, choose the **Enable single sign-on** option.</span></span>
   
-<span data-ttu-id="55624-106">Para comprobar que ha habilitado el SSO sin problemas correctamente:</span><span class="sxs-lookup"><span data-stu-id="55624-106">To verify that you have enabled Seamless SSO correctly:</span></span>
+<span data-ttu-id="723ba-106">Para comprobar que ha habilitado sso sin interrupciones correctamente:</span><span class="sxs-lookup"><span data-stu-id="723ba-106">To verify that you have enabled Seamless SSO correctly:</span></span>
   
-1. <span data-ttu-id="55624-107">Inicie sesión en el [centro de administración de Azure Active Directory](https://aad.portal.azure.com) como administrador global.</span><span class="sxs-lookup"><span data-stu-id="55624-107">Sign in to the [Azure Active Directory administrative center](https://aad.portal.azure.com) as a global admin.</span></span>
+1. <span data-ttu-id="723ba-107">Inicie sesión en el Centro administrativo [de Azure Active Directory](https://aad.portal.azure.com) como administrador global.</span><span class="sxs-lookup"><span data-stu-id="723ba-107">Sign in to the [Azure Active Directory administrative center](https://aad.portal.azure.com) as a global admin.</span></span>
 
-2. <span data-ttu-id="55624-108">Seleccione **Azure Active Directory** en el panel izquierdo.</span><span class="sxs-lookup"><span data-stu-id="55624-108">Select **Azure Active Directory** in the left pane.</span></span>
+2. <span data-ttu-id="723ba-108">Seleccione **Azure Active Directory** en el panel izquierdo.</span><span class="sxs-lookup"><span data-stu-id="723ba-108">Select **Azure Active Directory** in the left pane.</span></span>
 
-3. <span data-ttu-id="55624-109">Compruebe que el inicio de sesión único sin problemas está **habilitado**.</span><span class="sxs-lookup"><span data-stu-id="55624-109">Verify that Seamless single sign-on is **Enabled**.</span></span>
+3. <span data-ttu-id="723ba-109">Compruebe que el inicio de sesión único sin problemas está **habilitado.**</span><span class="sxs-lookup"><span data-stu-id="723ba-109">Verify that Seamless single sign-on is **Enabled**.</span></span>
 
-<span data-ttu-id="55624-110">Para obtener más información, vea [Inicio de sesión único de inicio sencillo de Azure Active Directory: Inicio rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span><span class="sxs-lookup"><span data-stu-id="55624-110">To learn more, see [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span></span>
+<span data-ttu-id="723ba-110">Para obtener más información, vea Inicio de sesión único sin problemas de [Azure Active Directory: Inicio rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span><span class="sxs-lookup"><span data-stu-id="723ba-110">To learn more, see [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span></span>
   
