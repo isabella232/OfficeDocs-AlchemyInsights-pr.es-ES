@@ -14,15 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: d184db0a82e4f10108ddad80611fc9a47483cfe7
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: bf67bb6cde723ceb878488a0bfbe08315a945949
+ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692339"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51897330"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="6335b-102">Convertir un grupo de distribución en un grupo de Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="6335b-102">Convert a distribution group to a Microsoft 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="d6941-102">Convertir un grupo de distribución en un grupo de Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="d6941-102">Convert a distribution group to a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="6335b-103">Puede convertir grupos de distribución a Grupos de Microsoft 365 si cumplen ciertos criterios.</span><span class="sxs-lookup"><span data-stu-id="6335b-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="6335b-104">Para convertir un grupo o solucionar problemas de conversión, vea [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="6335b-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="d6941-103">Puede convertir grupos de distribución a Grupos de Microsoft 365 si cumplen ciertos criterios.</span><span class="sxs-lookup"><span data-stu-id="d6941-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="d6941-104">Para convertir un grupo o solucionar problemas de conversión, vea [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="d6941-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
 
-<span data-ttu-id="6335b-105">W también tiene un script que puede ejecutar para ayudarle con validar la elegibilidad del grupo de distribución para la actualización a [Grupo de Microsoft 365](https://aka.ms/DLToM365Group).</span><span class="sxs-lookup"><span data-stu-id="6335b-105">W alsoe have a script you can run to help you with [Validating Distribution Group eligibility for upgrade to Microsoft 365 Group](https://aka.ms/DLToM365Group).</span></span>
+<span data-ttu-id="d6941-105">También tenemos un script que puede ejecutar para ayudarle a validar la elegibilidad del grupo de distribución para la actualización a [Grupo de Microsoft 365.](https://aka.ms/DLToM365Group)</span><span class="sxs-lookup"><span data-stu-id="d6941-105">We also have a script you can run to help you with [Validating Distribution Group eligibility for upgrade to Microsoft 365 Group](https://aka.ms/DLToM365Group).</span></span>
