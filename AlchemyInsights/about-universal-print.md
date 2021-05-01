@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: cd72d9e3b783d4a2e17fe5ac971e785824bc1798
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
+ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379907"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079998"
 ---
 # <a name="about-universal-print"></a>Acerca de la impresión universal
 
 La impresión universal se incluye con suscripciones comerciales y educativas de Microsoft 365 y Windows 10, pero también se puede comprar como una suscripción independiente.
 
-Obtenga información sobre cómo configurar impresoras, dar acceso a los usuarios y completar el primer trabajo de impresión en la página Incorporación a impresión universal.
-
 Para obtener más información, vea [Licencia de impresión universal | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).
+
+**Para soporte técnico de impresión universal**
+
+Los suscriptores de Azure pueden crear y administrar solicitudes de soporte técnico para impresión universal en Azure Portal. La compatibilidad está disponible para los suscriptores de Azure con un Plan de soporte técnico de Azure asociado a su suscripción.  [Inicie sesión en Azure Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) para enviar un incidente.
