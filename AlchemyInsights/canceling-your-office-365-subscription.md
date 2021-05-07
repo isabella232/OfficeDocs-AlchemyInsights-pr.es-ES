@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896884"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261609"
 ---
 # <a name="canceling-your-subscription"></a>¿Cancelar la suscripción?
 
 Sentimos que te vayas, pero si quieres cancelar la suscripción, estas son tus opciones:
   
 - Si tiene menos de 25 licencias asignadas, puede cancelar la suscripción en línea. Vaya a la **página** \> **[Facturación de sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** y busque la suscripción que desea cancelar. Seleccione **Más acciones** (tres puntos) y luego seleccione **Cancelar suscripción**.
-- Si tiene más de 25 licencias asignadas a los usuarios, llame al soporte [técnico para cancelar la suscripción.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
+- Si tiene más de 25 licencias asignadas a los usuarios, llame al soporte [técnico para cancelar la suscripción.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
 **Reembolso: cualquier crédito prorrateado se le devolverá en el siguiente ciclo de facturación.**
 
