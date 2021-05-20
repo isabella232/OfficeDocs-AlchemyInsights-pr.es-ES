@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683883"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569632"
 ---
 # <a name="how-to-verify-your-domain"></a>Cómo comprobar el dominio
 
-Para comprobar un dominio, siga el [Asistente para agregar dominio](https://admin.microsoft.com/Adminportal#/Domains/Wizard)o visite manualmente   >    >  **Agregar dominio** a los dominios de configuración.
+Para comprobar un dominio, siga el Asistente [para](https://admin.microsoft.com/Adminportal#/Domains/Wizard)agregar dominio o vaya manualmente a **Configuración**  >  **de dominios** Agregar  >  **dominio**.
 
-Para obtener más información acerca de los cambios de DNS necesarios para comprobar su dominio, consulte las instrucciones de [agregar registros DNS para conectar su dominio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Para obtener más información acerca de los cambios DNS necesarios para comprobar el dominio, vea las instrucciones de [Agregar registros DNS para conectar el dominio](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-Para obtener más preguntas sobre dominios, consulte las preguntas [más frecuentes de dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Para otras preguntas sobre dominios, consulta [preguntas más frecuentes sobre dominios](/microsoft-365/admin/setup/domains-faq).
