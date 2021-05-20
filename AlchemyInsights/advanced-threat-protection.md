@@ -1,5 +1,5 @@
 ---
-title: Microsoft defender para Office 365
+title: Microsoft Defender para Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801244"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542910"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft defender para Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
-- Los datos adjuntos seguros, vínculos seguros y contra phishing forman parte de Microsoft defender para Office 365 (ATP). Enterprise E5, educación A5 y Microsoft 365 Business Premium incluyen ATP. Todos los demás planes requieren una suscripción a ATP del complemento.
+- Caja fuerte Los datos adjuntos, Caja fuerte vínculos y la suplantación de identidad son parte de Microsoft Defender para Office 365. Enterprise E5, Education A5 y Microsoft 365 Empresa Premium Microsoft Defender para Office 365. Todos los demás planes requieren un complemento de Microsoft Defender para Office 365 suscripción.
 
-- Debe asignar las licencias adecuadas para proteger a los usuarios mediante ATP de Office 365. Vea [este tema](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) para obtener instrucciones sobre cómo aplicar licencias en masa a los usuarios.
+- Debe asignar las licencias adecuadas para proteger a los usuarios mediante Microsoft Defender para Office 365. Consulte [Agregar usuarios y asignar licencias al mismo](/microsoft-365/admin/add-users/add-users) tiempo para obtener instrucciones sobre cómo aplicar licencias masivas a los usuarios.
 
-- Los administradores globales o los administradores de seguridad pueden tener acceso a las características de ATP de Office 365 en el centro de seguridad & cumplimiento en la directiva **Threat Managmeent** \> **Policy** .
+- Los administradores globales o los administradores de seguridad pueden tener acceso a Microsoft Defender para obtener Office 365 características en el Centro de seguridad & cumplimiento en la directiva **de managmeent** \> **de amenazas.**
 
-- Los datos adjuntos seguros y las directivas de vínculo seguro pueden tener un ámbito para toda la organización, dominios específicos o grupos de usuarios más pequeños.
+- Caja fuerte Los datos adjuntos Caja fuerte las directivas de vínculos se pueden establecer en el ámbito de toda la organización, dominios específicos o grupos de usuarios más pequeños.
 
-- No hay ninguna directiva de datos adjuntos seguros de ATP predeterminada. Debe [crear una directiva](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) y aplicarla a sus usuarios.
+- No hay ninguna directiva Caja fuerte datos adjuntos predeterminada. Debe crear [una directiva y](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) aplicarla a los usuarios.
 
-- Hay una directiva de vínculos seguros de ATP predeterminada que se aplica a todos los usuarios de la organización. Para editar esta Directiva o crear directivas personalizadas, vea [este tema](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Hay una directiva de vínculos Caja fuerte que se aplica a todos los usuarios de la organización. Para editar esta directiva o crear directivas personalizadas, vea Configurar Caja fuerte de vínculos en [Microsoft Defender para Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

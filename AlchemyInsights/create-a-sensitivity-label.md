@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233407"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543666"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Cómo crear una etiqueta de confidencialidad
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233407"
 
     Para más información sobre el etiquetado automático, consulte [Aplicar una etiqueta de confidencialidad automáticamente al contenido](https://go.microsoft.com/fwlink/?linkid=2105837).
 
-1. Repita estos pasos para crear más etiquetas. Sin embargo, si quiere crear una subetiqueta, seleccione la etiqueta principal primero y luego **...** para **Más acciones** y, después, seleccione **Agregar subetiqueta**.
+1. Repita estos pasos para crear más etiquetas. Sin embargo, si quiere crear una subetiqueta, seleccione la etiqueta principal primero y luego los tres puntos (más acciones) y, después, seleccione **Agregar subetiqueta**.
 
-1. Cuando haya creado todas las etiquetas que necesite, revise el pedido y, si es necesario, muévalas hacia arriba o hacia abajo. 
+1. Cuando haya creado todas las etiquetas que necesite, revise el criterio de ordenación y, si es necesario, muévalas hacia arriba o hacia abajo. 
     
-    Para cambiar el orden de una etiqueta, seleccione **...** para **Más acciones** y, después, seleccione **Subir** o **Bajar**.
+    Para cambiar el criterio de ordenación de una etiqueta, seleccione los tres puntos (más acciones) y, después, seleccione **Subir** o **Bajar**.

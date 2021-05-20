@@ -1,5 +1,5 @@
 ---
-title: Complemento de Outlook de Teams
+title: Teams Outlook complemento (Share to Teams , Meet Now, New Teams meeting, Join Teams meeting)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835036"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542766"
 ---
-# <a name="teams-outlook-add-in"></a>Complemento de Outlook de Teams
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook complemento (Compartir a Teams, Reunirse ahora, Nueva reunión Teams, Unirse Teams reunión)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Para solucionar problemas de un complemento de Teams Outlook que falta
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Para solucionar una falta Teams Outlook complemento
 
-1. Ejecute el diagnóstico de servicio en el Portal de administración. 
-2. Si el diagnóstico de servicio no indica ningún problema, diagnostique y corrija los problemas de cliente en los equipos de usuario afectados descargando y ejecutando el escenario de complemento de [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario)Teams  >  **Outlook**.
+1. Ejecute el diagnóstico "Falta un complemento de equipo en Outlook", que valida que un usuario tenga las directivas correctas para habilitar el complemento Teams Outlook equipo. Para obtener acceso al diagnóstico, escriba **Diag: Teams Complemento faltan en Outlook** en el cuadro de búsqueda.
 
-Para solucionar manualmente un complemento de Teams Outlook que falta, revise la lista de posibles factores que podrían hacer que el complemento de Teams no aparezca en la lista. Para obtener más información, consulta Complemento de reunión de [Teams en Outlook para Windows no muestra](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Si el diagnóstico de servicio no indica ningún problema, diagnostique y corrija los problemas de cliente en los equipos de usuario afectados descargando y ejecutando el escenario de complemento de [Microsoft Asistente de soporte y recuperación](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook .**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Para solucionar problemas de programación de una reunión de Teams en nombre de otra persona (delegado)
+Para solucionar manualmente un Teams Outlook complemento que falta, revise la lista de posibles factores que podrían hacer que el complemento Teams no aparezca en la lista. Para obtener más información, consulta Teams Complemento de reunión [en Outlook para Windows no se muestra](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
-Para programar una reunión de Teams en nombre de otra persona, vea Solucionar problemas de [Microsoft Teams y Exchange Server de interacción.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Para solucionar problemas de programación de Teams reunión en nombre de otra persona (Delegado)
+
+Para programar una reunión Teams en nombre de otra persona, vea Solucionar problemas Microsoft Teams y [Exchange Server de interacción](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).

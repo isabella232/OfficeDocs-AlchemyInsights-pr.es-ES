@@ -1,5 +1,5 @@
 ---
-title: Cancelar suscripción de proyecto
+title: Cancelar Project suscripción
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416478"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543414"
 ---
-# <a name="cancel-project-subscription"></a>Cancelar suscripción de proyecto
+# <a name="cancel-project-subscription"></a>Cancelar Project suscripción
 
-Los administradores pueden cancelar la suscripción de proyecto de su organización en el centro de administración de Microsoft 365.
+Los administradores pueden cancelar la Project de su organización en el centro Microsoft 365 administración.
 
-1. Vaya a la página **facturación** \> [de productos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. En la pestaña **productos** , busque la suscripción de proyecto que desea cancelar. Seleccione **más acciones** (tres puntos) y, a continuación, seleccione **Cancelar suscripción**.
-3. En el panel **Cancelar suscripción** , elija un motivo por el que va a cancelar. Si lo desea, puede proporcionar comentarios.
+1. Vaya a la página **Facturación** \> [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. En la **pestaña Productos,** busque la Project suscripción que desea cancelar. Seleccione los tres puntos (más acciones) y, a continuación, **seleccione Cancelar suscripción**.
+3. En el panel **Cancelar suscripción**, seleccione una razón por la que cancela. Opcionalmente, proporcione algún comentario.
 4. Seleccione **Guardar**.
 
-**Reembolso:** Se le devolverá cualquier crédito prorrateado dentro del siguiente ciclo de facturación.
+**Reembolso:** cualquier crédito prorrateado se le devolverá en el próximo ciclo de facturación.
 
-Para obtener más información, consulte [cancelar la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Para obtener más información, consulta [Cancelar la suscripción](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

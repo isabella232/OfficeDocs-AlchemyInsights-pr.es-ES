@@ -1,5 +1,5 @@
 ---
-title: ¿Cancelar la suscripción a Microsoft 365?
+title: ¿Cancelar la Microsoft 365 suscripción?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232024"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543234"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>¿Cancelar la suscripción a Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>¿Cancelar la Microsoft 365 suscripción?
 
-¡Sentimos que te vayas!
+Sentimos que te vayas.
   
-En función de los datos de su organización, creemos que todas las suscripciones actuales tienen más de 25 licencias asignadas. Antes de cancelar:
+En función de los datos de la organización, creemos que todas las suscripciones actuales tienen más de 25 licencias asignadas. Antes de poder cancelar:
 
 1. Quite las licencias de los usuarios hasta que tenga menos de 25 usuarios con licencia.
-2. Vaya a  la página \> **[Facturación de sus productos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-3. En la **pestaña** Productos, busque la suscripción que desea cancelar, seleccione Más acciones **(tres** puntos) y, a continuación, seleccione **Cancelar suscripción.**
+2. Vaya a la **página** \> **[Facturación de sus productos.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. En la **pestaña Productos,** busque la suscripción que desea **cancelar,** seleccione los tres puntos (más acciones) y, a continuación, seleccione Cancelar suscripción .
 
 **Reembolso:** cualquier crédito prorrateado se le devolverá en el próximo ciclo de facturación.
 
-Para obtener más información, vea [Cancelar la suscripción.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Para obtener más información, consulta [Cancelar la suscripción](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
