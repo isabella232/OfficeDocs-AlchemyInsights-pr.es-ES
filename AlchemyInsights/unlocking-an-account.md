@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cf2431cb49902b3f7625ab96bc6d4e2121e51fdd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827773"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544161"
 ---
 # <a name="unlocking-an-account"></a>Desbloquear una cuenta
 
@@ -25,7 +25,7 @@ Es posible que los usuarios estén bloqueados en Microsoft 365 debido a demasiad
 
 **Correo electrónico restringido**
 
-Como administrador, si uno de los usuarios tiene restringido el envío de correo electrónico, puede [desbloquear la cuenta](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). El usuario podrá enviar correo electrónico en una hora después de quitar la restricción.
+Como administrador, si uno de los usuarios tiene restringido el envío de correo electrónico, puede [desbloquear la cuenta](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). El usuario podrá enviar correo electrónico en una hora después de quitar la restricción.
 
 **Restablecer la contraseña del usuario**
 
@@ -37,8 +37,8 @@ Como administrador, si uno de los usuarios tiene restringido el envío de correo
 
 1. En el Centro de administración, vaya a **Usuarios > [Usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
 
-2. Seleccione el usuario y haga clic en **Más acciones (...)**; luego haga clic en **Editar estado de inicio de sesión**.
+2. Seleccione el usuario, haga clic en los tres puntos (más acciones) y, después, haga clic en **Editar estado de inicio de sesión**.
 
-Para más escenarios de restablecimiento de contraseñas, incluido el restablecimiento de contraseñas de autoservicio, consulte [Restablecimiento de Microsoft 365 para los múltiples intentos de cargar las contraseñas de los instrumentos de pago en línea.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+Para más escenarios de restablecimiento de contraseñas, incluido el restablecimiento de contraseñas de autoservicio, consulte [Restablecimiento de Microsoft 365 para los múltiples intentos de cargar las contraseñas de los instrumentos de pago en línea.](/microsoft-365/admin/add-users/reset-passwords).
 
-El servicio evita que un usuario envíe correo electrónico después de detectar evidencia de una cuenta comprometida y/o spam saliente. Como precaución, siga los pasos descritos en [Responder a una cuenta de correo electrónico en peligro en Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) para el usuario.
+El servicio evita que un usuario envíe correo electrónico después de detectar evidencia de una cuenta comprometida y/o spam saliente. Como precaución, siga los pasos descritos en [Responder a una cuenta de correo electrónico en peligro en Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) para el usuario.

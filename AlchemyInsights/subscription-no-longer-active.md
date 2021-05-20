@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489330"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544271"
 ---
 # <a name="subscription-no-longer-active"></a>La suscripción ya no está activa
 
@@ -26,9 +26,9 @@ Si al abrir una aplicación de Microsoft [aparece un aviso de suscripción](http
 **Reactivar una suscripción**
 
 1. En el centro de administración, vaya a la página de **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. En la pestaña **Productos**, busque la suscripción que quiere reactivar. Seleccione **Más acciones** (tres puntos) y, a continuación, seleccione **Reactivar esta suscripción**.
+2. En la pestaña **Productos**, busque la suscripción que quiera reactivar. Seleccione los tres puntos (más acciones) y después **Reactivar esta suscripción**.
 3. En el panel **Reactivar esta suscripción**, seleccione un método de pago de la lista desplegable o seleccione **Agregar método de pago**.
 4. Seleccione **Guardar**.
 
 Para obtener más información, vea [Reactivar 
-la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+la suscripción](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -1,5 +1,5 @@
 ---
-title: Solución de problemas con Microsoft defender para Office 365 (ATP)
+title: Solucionar problemas con Microsoft Defender para Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801424"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544775"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Solucionar problemas con Office 365 ATP
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Solucionar problemas con Microsoft Defender para Office 365
 
-- ¿Hay **retrasos en la entrega de mensajes de correo electrónico** ? Pruebe a usar la opción de entrega dinámica para las directivas de datos adjuntos seguros de ATP. Esto evitará los retrasos en la entrega de mensajes de correo electrónico al proteger a los destinatarios de archivos malintencionados.
-- **¿Desea informar de falsos positivos o falsos negativos** ? Use este vínculo para enviar el archivo para su análisis: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **¿Sabía que puede habilitar la protección de vínculos seguros de ATP para el correo electrónico que se envía entre las personas de su organización** ? Siga estos pasos:
-    1. Vaya a https://protection.office.com e inicie sesión.
-    2. Vaya a **Threat management**  >  **Policy**  >  **vínculos seguros** de la Directiva de administración de amenazas.
-    3. En **directivas que se aplican a destinatarios específicos** , edite (o agregue) una directiva.
-    4. Seleccione **aplicar vínculos seguros a los mensajes enviados dentro de la organización** .
-    5. Guarde la Directiva y espere unos 30 minutos para que los cambios funcionen en el centro de proceso de información.
-- Para obtener más ayuda con ATP, consulte [Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- **¿Nota retrasos con la entrega de mensajes de correo electrónico?** Pruebe a usar la opción Entrega dinámica para las directivas de datos adjuntos Office 365 Caja fuerte Microsoft Defender. Esto evitará retrasos en la entrega de mensajes de correo electrónico mientras protege a los destinatarios de archivos malintencionados.
+- **¿Desea notificar falsos positivos o falsos negativos?** Use [el Explorador de envíos](https://protection.office.com/reportsubmission).
+- **¿Sabía que puede habilitar Microsoft Defender para Microsoft Defender** para la protección de vínculos Office 365 Caja fuerte para correo electrónico enviado entre personas de su organización? Siga estos pasos:
+    1. Vaya a https://protection.office.com y inicie sesión.
+    2. Vaya a **Directiva de administración**  >    >  **de amenazas Caja fuerte vínculos**.
+    3. En **Directivas que se aplican a destinatarios específicos,** edite (o agregue) una directiva.
+    4. Seleccione **Aplicar vínculos seguros a los mensajes enviados dentro de la organización**.
+    5. Guarde la directiva y permita hasta 30 minutos para que se apliquen los cambios.
+
+- Para obtener más ayuda con Microsoft Defender para Office 365, consulte [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp).

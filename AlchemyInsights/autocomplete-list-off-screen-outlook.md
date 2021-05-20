@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261901"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543788"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>La lista autocompletar se desplaza fuera de la pantalla en Outlook escritorio
 
-Después de actualizar a Outlook Desktop versión 2104 (compilación 13929.20296), la lista autocompletar sube inesperadamente y puede desplazarse fuera de la pantalla. Es posible que no vea todas las entradas de Autocompletar en la lista y no pueda desplazarse hacia arriba para obtener acceso a ellas.
+Este problema se soluciona en la versión 2104 compilación 13929.20386. Se espera que la actualización con la compilación fija vaya a Producción del canal actual la semana del 17 de mayo. 
 
-**ESTADO: INVESTIGAR**  El Outlook está investigando el problema y actualizará este artículo cuando haya más información disponible.
-
-Para obtener el estado más reciente, vea [Autocompletar la](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US)lista se desplaza fuera de la pantalla en Outlook .
+Para confirmar cuándo está disponible la compilación fija, vea Historial de actualizaciones [para Aplicaciones Microsoft 365 (listada por fecha).](/officeupdates/update-history-microsoft365-apps-by-date)
