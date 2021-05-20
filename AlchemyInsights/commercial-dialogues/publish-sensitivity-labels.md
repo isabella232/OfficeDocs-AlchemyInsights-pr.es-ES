@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737428"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539733"
 ---
 # <a name="publish-sensitivity-labels"></a>Publicar etiquetas de confidencialidad
 
@@ -34,7 +34,7 @@ Para publicar etiquetas de confidencialidad, realice los pasos siguientes:
 6. Revise las etiquetas seleccionadas. Para realizar cambios, haga clic en **Editar**; en caso contrario, haga clic en **Siguiente**.
 7. Siga las indicaciones para configurar la configuración de la directiva.
 8. Repita estos pasos si necesita distintas configuraciones de directiva para diferentes usuarios o ubicaciones. Por ejemplo, puede que desee usar etiquetas adicionales para un grupo de usuarios, u otra etiqueta predeterminada para un subconjunto de usuarios.
-9. Si crea más de una directiva de etiqueta que pueda resultar en conflicto para un usuario o una ubicación, revise el orden de las directivas y, si es necesario, muévalos hacia arriba o hacia abajo. Para cambiar el orden de una directiva de etiquetas, seleccione **...** para **Más acciones** y, a continuación, seleccione **Subir** o **Bajar**.
+9. Si crea más de una directiva de etiqueta que pueda resultar en conflicto para un usuario o una ubicación, revise el orden de las directivas y, si es necesario, muévalos hacia arriba o hacia abajo. Para cambiar el orden de una directiva de etiquetas, seleccione los tres puntos (más acciones) y, después, elija **Subir** o **Bajar**.
 
 Al completar el asistente, se publica automáticamente la directiva de etiqueta.
 

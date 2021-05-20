@@ -1,5 +1,5 @@
 ---
-title: Información sobre ATP
+title: Obtenga información sobre Microsoft Defender para Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403580"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539805"
 ---
-# <a name="learn-about-atp"></a>Información sobre ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Obtenga información sobre Microsoft Defender para Office 365
 
-Esta es una información sobre la Protección contra amenazas avanzada (ATP) de Office 365:
+Aquí tienes información sobre Microsoft Defender para Office 365:
 
-**¿Qué es ATP?**
+**¿Qué es Microsoft Defender para Office 365?**
 
-ATP es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a las organizaciones contra malware y virus desconocidos proporcionando una protección sólida de día cero. Incluye características para proteger a las organizaciones de vínculos dañinos en tiempo real.
+Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a las organizaciones contra malware y virus desconocidos proporcionando una protección sólida de día cero. Incluye características para proteger a las organizaciones de vínculos dañinos en tiempo real.
 
-**¿Cómo activo ATP?**
+**¿Cómo activo Microsoft Defender para Office 365?**
 
-Datos adjuntos seguros, vínculos seguros y anti phishing forman parte de la característica ATP. Enterprise E5, Education A5 y Microsoft 365 Empresa incluyen características integradas de ATP. Todos los demás planes requieren una suscripción de ATP de complemento. Debe asignar las licencias adecuadas a los usuarios para que estén protegidos por ATP de Office 365. Debe tener permisos de administrador global o administrador de seguridad para tener acceso a esta característica. Para obtener más información sobre cómo aplicar licencias en masa a los usuarios finales, vea Asignar licencias a usuarios en [Office 365 para empresas.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Caja fuerte Los datos adjuntos, Caja fuerte vínculos y la protección contra la suplantación de identidad forman parte de la característica de Microsoft Defender para Office 365 web. Enterprise E5, Education A5 y Microsoft 365 Empresa incluyen Microsoft Defender integrado para Office 365 características. Todos los demás planes requieren un complemento de Microsoft Defender para Office 365 suscripción. Debe asignar las licencias adecuadas a los usuarios para que estén protegidos por Microsoft Defender para Office 365. Debe tener permisos de administrador global o administrador de seguridad para tener acceso a esta característica. Para obtener más información sobre cómo aplicar licencias en masa a los usuarios finales, vea Asignar licencias a usuarios de [Office 365 para empresas.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**¿Cómo puedo administrar ATP o obtener más información sobre ella?**
+**¿Cómo puedo administrar Microsoft Defender para Office 365 o obtener más información sobre él?**
 
 a. Vaya a [Instalación](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 b. En **Inicio de sesión y seguridad,** busque Aumentar la protección contra amenazas **avanzadas** y, a continuación, [seleccione Ver](https://go.microsoft.com/fwlink/?linkid=2109302).
