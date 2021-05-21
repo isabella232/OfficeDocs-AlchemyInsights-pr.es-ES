@@ -12,19 +12,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670345"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582087"
 ---
 # <a name="teams-add-in-for-mac"></a>Complemento de Teams para Mac
 
 Para solucionar la falta de un complemento de Teams para los usuarios del sistema operativo Mac, siga estos pasos:
 
-**Paso 1:** si tiene una implementación local de Exchange híbrida (2016 CU3 o posterior requerido), use la herramienta Test-HMA.ps1 para confirmar que la autenticación moderna híbrida está configurada correctamente. Para más información, consulte [Validar la configuración de la autenticación moderna híbrida para Outlook para iOS y Android](https://aka.ms/AA980zq).  
+**Paso 1:** si tiene una implementación local de Exchange híbrida (2016 CU3 o posterior requerido), use la herramienta Test-HMA.ps1 para confirmar que la autenticación moderna híbrida está configurada correctamente. Para más información, consulte [Validar la configuración de la autenticación moderna híbrida para Outlook para iOS y Android](https://aka.ms/TestHMAEAS).  
 
 **Nota:** utilice el formato de dirección UPN (por ejemplo, [username@contoso.com](mailto:username@contoso.com)), no el formato dominio\nombre de usuario. Haga esto incluso para los usuarios con buzones de Exchange Online.
 
