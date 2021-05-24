@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 8d0071360330248b93dbd5bbf42a2b595d287364
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f20d0ff5e724ceab17a6d3d965534d63b00bbee7
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804650"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569596"
 ---
 # <a name="trying-to-remove-your-domain"></a>¿Está intentando quitar el dominio?
 
-Siga los pasos en [Quitar un dominio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain).
+Siga los pasos en [Quitar un dominio](/microsoft-365/admin/get-help-with-domains/remove-a-domain).
   
-Deberá actualizar los usuarios o grupos que estén asignados a dicho dominio para poder quitarlo. Consulte las [Preguntas frecuentes sobre los dominios](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq) para conocer las soluciones más habituales.
+Deberá actualizar los usuarios o grupos que estén asignados a ese dominio antes de quitarlo. Vea [Preguntas más frecuentes sobre dominios](/microsoft-365/admin/setup/domains-faq) para conocer las soluciones más habituales.
   
