@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: a3ad6d9769dab948cb83c04232bb3d8e937a5dc2
-ms.sourcegitcommit: 6900c2b7208ca51a9873dfc2e00be6f66cb25e3c
+ms.openlocfilehash: 2c9a390f38ecbba94698a352348e2e533a50ee17
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50243929"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626130"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Solucionar problemas al iniciar sesión en OneDrive
 
@@ -29,6 +29,7 @@ En este artículo se describen las siguientes situaciones:
 
 **Solución de problemas al iniciar sesión en el cliente de sincronización de OneDrive**
 
+- Para ver los pasos para el error 0x004de40, consulte [Código de error 0x8004de40 al iniciar sesión en OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
 - Inicie sesión en el sitio de OneDrive o SharePoint. Para ello, visite el sitio y haga clic en el botón **Sincronizar** de la parte superior de la barra de menús del sitio.
 - Asegúrese de iniciar sesión en OneDrive para la Empresa y no en OneDrive.com. Si la dirección URL que visita empieza por onedrive.live.com, entonces no es la ubicación de su OneDrive para la Empresa. Una forma sencilla de asegurarse de que inicia sesión en OneDrive para la Empresa es seguir este vínculo https://portal.office.com/onedrive y usar su cuenta profesional o educativa para iniciar sesión.
 - Si todavía tiene problemas, considere la posibilidad de [restablecer OneDrive](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c).
@@ -47,5 +48,5 @@ Si recibe alguno de los siguientes mensajes de error: **Carga bloqueada**, **Ini
 
 **Otras recomendaciones para la solución de problemas**
 
-Si es administrador global, de licencia o de usuario, [asigne la licencia correcta a los usuarios afectados](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Si es administrador global, de licencia o de usuario, [asigne la licencia correcta a los usuarios afectados](/microsoft-365/admin/manage/assign-licenses-to-users).
 
