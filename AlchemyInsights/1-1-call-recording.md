@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733866"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696975"
 ---
 # <a name="11-call-recording"></a>Grabación de llamadas 1:1
 
-Los administradores deben tomar medidas ahora para seguir permitiendo a los usuarios registrar llamadas 1:1.
- 
-A partir del 12 de abril de 2021, empezaremos a aplicar una nueva opción de directiva de llamadas de Teams *AllowCloudRecordingForCalls*. 
+Si el **botón Iniciar grabación** está atenuado en una llamada 1:1, debe cambiar la configuración de directiva para el usuario afectado.   
 
-Actualmente, las capacidades de grabación de llamadas 1:1 están controladas por *la opción AllowCloudRecording* en Directivas de reunión de Teams. Si los usuarios pueden grabar reuniones de Teams, también pueden registrar llamadas 1:1.
+A partir del 31 de mayo de 2021, empezaremos a aplicar una nueva directiva de Teams de llamadas *AllowCloudRecordingForCalls*. Antes de este cambio, la grabación de llamadas 1:1 está controlada por la Directiva de reuniones *allowCloudRecording* Teams de reuniones. Este cambio se documenta en la entrada del Centro de mensajes: [(Actualizado) 1:1 Introducción](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)a la directiva de registro de llamadas .  
 
-Si prefiere impedir que todos los usuarios graben llamadas 1:1, no es necesario realizar ninguna acción. La opción de directiva de llamada *AllowCloudRecordingForCalls* se $False de forma predeterminada.
+*AllowCloudRecordingForCalls*   la opción de directiva de llamada **se establece $False** de forma predeterminada. Si prefieres impedir que todos los usuarios graben llamadas 1:1, no necesitas realizar ninguna acción.  
 
-Este cambio se documenta en la siguiente publicación del Centro de mensajes: [(actualizada) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Introducción a la directiva de registro de llamadas Para establecer la opción directiva de llamadas de Teams, debe usar [PowerShell de Teams](https://docs.microsoft.com/microsoftteams/teams-powershell-install).
+Para habilitar el registro de llamadas para todos los usuarios en llamadas 1:1, use Teams PowerShell para ejecutar el siguiente cmdlet: 
 
-**Para habilitar la grabación de llamadas en llamadas 1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-Para deshabilitar la grabación de llamadas en llamadas **1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+Como alternativa, puedes crear una nueva directiva y establecer **-AllowCloudRecordingForCalls** para $true y asignar esa directiva a los usuarios.  
 
+Para obtener más información, [vea 1:1 Call Recording Policy Controls Are (Almost!) Aquí](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).
