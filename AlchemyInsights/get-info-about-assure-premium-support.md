@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426896"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702071"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a><span data-ttu-id="59207-102">Obtener información sobre el soporte de software asistido de Assure y Premium</span><span class="sxs-lookup"><span data-stu-id="59207-102">Get info about Assure and Premium assisted software support</span></span>
+# <a name="get-info-about-premium-assisted-software-support"></a><span data-ttu-id="c7384-102">Obtener información sobre el soporte de software asistido Premium</span><span class="sxs-lookup"><span data-stu-id="c7384-102">Get info about Premium assisted software support</span></span>
 
-<span data-ttu-id="59207-103">Microsoft ofrece varias opciones de uno a uno para soporte técnico asistido con software de Windows y Office:</span><span class="sxs-lookup"><span data-stu-id="59207-103">Microsoft offers several one-on-one options for assisted support with Windows and Office software:</span></span>
+<span data-ttu-id="c7384-103">Microsoft ofrece opciones individuales de asistencia para el software de Windows y Office:</span><span class="sxs-lookup"><span data-stu-id="c7384-103">Microsoft offers one-on-one options for assisted support with Windows and Office software:</span></span>
 
-- <span data-ttu-id="59207-104">**Soporte técnico de software de Assure**: un año de soporte técnico para el software de Office y Windows</span><span class="sxs-lookup"><span data-stu-id="59207-104">**Assure software support**: One year of Office and Windows software support</span></span>
-- <span data-ttu-id="59207-105">**Soporte técnico de Windows Premium**: soporte técnico para el software de Windows una vez</span><span class="sxs-lookup"><span data-stu-id="59207-105">**Windows Premium Technical Support**: One-time Windows software support</span></span>
-- <span data-ttu-id="59207-106">**Soporte técnico de Office Premium**: soporte técnico para el software de Office una vez</span><span class="sxs-lookup"><span data-stu-id="59207-106">**Office Premium Technical Support**: One-time Office software support</span></span>
+- <span data-ttu-id="c7384-104">**Servicio de asistencia de Windows Premium:** servicio de asistencia para el software de Windows una vez</span><span class="sxs-lookup"><span data-stu-id="c7384-104">**Windows Premium Technical Support:** one-time Windows software support</span></span>
 
-<span data-ttu-id="59207-107">Para obtener más información, consulte [Opciones de soporte técnico de software asistido: Assure y Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).</span><span class="sxs-lookup"><span data-stu-id="59207-107">For more info, see [Assisted Software support options: Assure and Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).</span></span>
+- <span data-ttu-id="c7384-105">**Servicio de asistencia de Office Premium:** servicio de asistencia para el software de Office una vez</span><span class="sxs-lookup"><span data-stu-id="c7384-105">**Office Premium Technical Support:** one-time Office software support</span></span>
 
-<span data-ttu-id="59207-108">Si ya ha comprado una suscripción a Assure y necesita ayuda, escriba **hablar con un agente** en el cuadro de chat que hay a continuación e informe al representante de que es suscriptor de Assure.</span><span class="sxs-lookup"><span data-stu-id="59207-108">If you've already purchased an Assure subscription and need help, type **talk to an agent** in the chat box below and tell the representative that you're an Assure subscriber.</span></span>
+<span data-ttu-id="c7384-106">**Nota:** si tiene una suscripción a Assure, tenga en cuenta que Assure ya no se ofrece como opción de asistencia.</span><span class="sxs-lookup"><span data-stu-id="c7384-106">**Note:** If you have an existing Assure subscription, be aware that Assure is no longer offered as a support option.</span></span> <span data-ttu-id="c7384-107">Su suscripción actual seguirá siendo válida durante el tiempo que haya comprado, pero no se podrá renovar.</span><span class="sxs-lookup"><span data-stu-id="c7384-107">Your current subscription remains valid for the duration of time you've purchase but can't be renewed.</span></span>
 
