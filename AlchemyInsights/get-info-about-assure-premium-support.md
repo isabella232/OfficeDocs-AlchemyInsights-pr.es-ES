@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426896"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702071"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>Obtener información sobre el soporte de software asistido de Assure y Premium
+# <a name="get-info-about-premium-assisted-software-support"></a>Obtener información sobre el soporte de software asistido Premium
 
-Microsoft ofrece varias opciones de uno a uno para soporte técnico asistido con software de Windows y Office:
+Microsoft ofrece opciones individuales de asistencia para el software de Windows y Office:
 
-- **Soporte técnico de software de Assure**: un año de soporte técnico para el software de Office y Windows
-- **Soporte técnico de Windows Premium**: soporte técnico para el software de Windows una vez
-- **Soporte técnico de Office Premium**: soporte técnico para el software de Office una vez
+- **Servicio de asistencia de Windows Premium:** servicio de asistencia para el software de Windows una vez
 
-Para obtener más información, consulte [Opciones de soporte técnico de software asistido: Assure y Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).
+- **Servicio de asistencia de Office Premium:** servicio de asistencia para el software de Office una vez
 
-Si ya ha comprado una suscripción a Assure y necesita ayuda, escriba **hablar con un agente** en el cuadro de chat que hay a continuación e informe al representante de que es suscriptor de Assure.
+**Nota:** si tiene una suscripción a Assure, tenga en cuenta que Assure ya no se ofrece como opción de asistencia. Su suscripción actual seguirá siendo válida durante el tiempo que haya comprado, pero no se podrá renovar.
 
