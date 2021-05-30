@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 05/28/2021
-ms.locfileid: "52696975"
+ms.locfileid: "52702107"
 ---
 # <a name="11-call-recording"></a>Grabación de llamadas 1:1
 
-Si el **botón Iniciar grabación** está atenuado en una llamada 1:1, debe cambiar la configuración de directiva para el usuario afectado.   
+Si el **botón Iniciar grabación** está atenuado en una llamada 1:1, debe cambiar la configuración de directiva para el usuario afectado. Para comprobar la configuración de directiva, ejecute el diagnóstico para el usuario afectado escribiendo Diag: Teams registro de llamadas **1:1** anterior.     
 
 A partir del 31 de mayo de 2021, empezaremos a aplicar una nueva directiva de Teams de llamadas *AllowCloudRecordingForCalls*. Antes de este cambio, la grabación de llamadas 1:1 está controlada por la Directiva de reuniones *allowCloudRecording* Teams de reuniones. Este cambio se documenta en la entrada del Centro de mensajes: [(Actualizado) 1:1 Introducción](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)a la directiva de registro de llamadas .  
 
 *AllowCloudRecordingForCalls*   la opción de directiva de llamada **se establece $False** de forma predeterminada. Si prefieres impedir que todos los usuarios graben llamadas 1:1, no necesitas realizar ninguna acción.  
 
-Para habilitar el registro de llamadas para todos los usuarios en llamadas 1:1, use Teams PowerShell para ejecutar el siguiente cmdlet: 
+Para habilitar la grabación de llamadas para todos los usuarios en llamadas 1:1, [use Teams PowerShell](/microsoftteams/teams-powershell-install) para ejecutar el siguiente cmdlet: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
