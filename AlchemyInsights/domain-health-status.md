@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "11443"
 - "100001"
-ms.openlocfilehash: 22777049f38eec4e71fb531b8616c505037f085d
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 1373c134e226031fe6fd7d229faf040d39604b59
+ms.sourcegitcommit: deb9a7ab71ee7a4f3b4219c3488068b48d48d630
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 05/28/2021
-ms.locfileid: "52697092"
+ms.locfileid: "52699193"
 ---
 # <a name="domain-health-status"></a>Estado de mantenimiento del dominio
 
-Puede comprobar el estado de mantenimiento de todos los dominios en el portal de administración yendo a **Configuración** > **Dominios**.
-Active la casilla junto a un único dominio y seleccione **Comprobar estado** para comprobar la configuración DNS.
+Puede comprobar el estado de mantenimiento de todos los dominios en el portal de administración:
+
+1. Vaya a **Configuración** > [**Dominios**](https://portal.microsoft.com/Adminportal/Home?ref=/Domains).
+1. Active la casilla junto a un único dominio y seleccione **Comprobar estado** para comprobar la configuración DNS.
 
 Para más ayuda para corregir los problemas de DNS, vea:
 
