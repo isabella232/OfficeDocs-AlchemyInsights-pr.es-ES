@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8002"
 - "5300030"
-ms.openlocfilehash: 1596df1f15a032663194ac897fc7dc63ceaa60d5
-ms.sourcegitcommit: 4e2d640a618c786700e8b276533554d51956f080
+ms.openlocfilehash: a9ca35432a152b33be46a7c42f47b924473d6897
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50716188"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774340"
 ---
-# <a name="migrate-files-from-dropbox"></a><span data-ttu-id="bd05e-102">Migrar archivos desde Dropbox</span><span class="sxs-lookup"><span data-stu-id="bd05e-102">Migrate files from Dropbox</span></span>
+# <a name="migrate-files-from-dropbox"></a><span data-ttu-id="4813d-102">Migrar archivos desde Dropbox</span><span class="sxs-lookup"><span data-stu-id="4813d-102">Migrate files from Dropbox</span></span>
 
-<span data-ttu-id="bd05e-103">Si está migrando desde Dropbox a SharePoint Online, recomendamos usar **Mover**.</span><span class="sxs-lookup"><span data-stu-id="bd05e-103">If you are migrating from Dropbox to SharePoint Online, you may consider using **Mover**.</span></span>
+<span data-ttu-id="4813d-103">Colaboren todos en un solo lugar gracias a la migración de los documentos, datos y usuarios de Dropbox a OneDrive, SharePoint y Teams en Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="4813d-103">Collaborate all in one place by migrating your Dropbox documents, data, and users to OneDrive, SharePoint, and Teams in Microsoft 365.</span></span>
 
-<span data-ttu-id="bd05e-104">Para más información, consulte [Autorizar el conector de Dropbox](https://docs.microsoft.com/sharepointmigration/mover-dropbox).</span><span class="sxs-lookup"><span data-stu-id="bd05e-104">For more information, see [Authorizing Dropbox Connector](https://docs.microsoft.com/sharepointmigration/mover-dropbox).</span></span>
+<span data-ttu-id="4813d-104">Para más información, consulte [Migrar Dropbox a Microsoft 365 con el Administrador de migración](/sharepointmigration/mm-dropbox-overview).</span><span class="sxs-lookup"><span data-stu-id="4813d-104">For more information, see [Migrate Dropbox to Microsoft 365 with Migration Manager](/sharepointmigration/mm-dropbox-overview).</span></span>
 
