@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823048"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798625"
 ---
 # <a name="activating-microsoft-365-apps"></a>Activar aplicaciones de Microsoft 365
+
+**Nota**: Si usa una versión anterior de Windows (por ejemplo, Windows 7), asegúrese de que TLS 1.2 esté habilitado como predeterminado. Para obtener más información, consulte [Actualizar para habilitar TLS 1.1 y TLS 1.2 como protocolos seguros predeterminados en WinHTTP en Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
 Para activar Office, consulte:
 
@@ -27,7 +29,7 @@ Para activar Office, consulte:
 
 - [Activar Office en un equipo Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Nota:** Asegúrese de que tiene una suscripción a Office 365 o Microsoft 365 que [incluya las aplicaciones cliente de Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como Microsoft 365 Empresa Estándar, Aplicaciones de Microsoft 365 para negocios o Aplicaciones de Microsoft 365 para empresas. Además, asegúrese de que la cuenta de usuario que usa para iniciar sesión en las aplicaciones de Office tenga [una licencia asignada](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Nota:** Asegúrese de que tiene una suscripción a Office 365 o Microsoft 365 que [incluya las aplicaciones cliente de Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), como Microsoft 365 Empresa Estándar, Aplicaciones de Microsoft 365 para negocios o Aplicaciones de Microsoft 365 para empresas. Además, asegúrese de que la cuenta de usuario que usa para iniciar sesión en las aplicaciones de Office tenga [una licencia asignada](/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Para solucionar problemas de activación de Office, consulte:
 
@@ -46,6 +48,6 @@ Si no puede iniciar sesión en las aplicaciones de Microsoft 365, siga los pasos
 
 3. Vaya a **Configuración de Windows > Cuentas > Obtener acceso a trabajo o escuela** y elimine las cuentas de trabajo antiguas o que no se hayan usado
 
-4. [Restablezca el estado de activación de Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) e [inicie sesión en aplicaciones de Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) con la nueva cuenta.
+4. [Restablezca el estado de activación de Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) e [inicie sesión en aplicaciones de Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) con la nueva cuenta.
 
 Para conocer más acciones de solución de problemas, vea [Un aviso de suscripción aparece cuando abro una aplicación de Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

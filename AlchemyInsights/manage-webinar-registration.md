@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783144"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798661"
 ---
 # <a name="manage-webinar-registration"></a>Administrar el registro del seminario web
 
 Puede administrar quién puede registrarse en los seminarios web de Teams mediante los comandos de PowerShell de Teams. Para instalar PowerShell para Teams, consulte [PowerShell para Teams](/microsoftteams/teams-powershell-install). 
 
-De forma predeterminada, *WhoCanRegister* está habilitado y establecido en **EveryoneInCompany**. Para permitir a cualquier usuario, incluidos usuarios anónimos, registrarse, debe establecer la directiva de reunión en **Todos** mediante el comando de PowerShell:
+De forma predeterminada, *WhoCanRegister* está habilitado y establecido en **Todos**. 
+
+Si no ve la opción para permitir el registro para todos los usuarios en la invitación de reunión, vuelva a ejecutar la configuración *WhoCanRegister* para todos y espere 24 horas. Para volver a ejecutar *WhoCanRegister*, use el comando de PowerShell:
 
 `Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
 
