@@ -2,6 +2,7 @@
 title: Configurar eDiscovery avanzado
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795549"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882706"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Configurar eDiscovery avanzado
 
-eDiscovery avanzado le permite analizar los datos no estructurados para ayudar a reducir el coste de eDiscovery. Puede aplicar análisis de texto, aprendizaje automático y codificación de relevancia/predictiva.  La característica eDiscovery avanzado requiere cualquiera de las siguientes opciones:
+Con eDiscovery avanzado, puede aplicar análisis de texto, aprendizaje automático y codificación de relevancia/predictiva. La característica eDiscovery avanzado requiere una de las siguientes opciones:
 
 - Suscripciones a Microsoft 365 E5 u Office 365 E5.
 
@@ -39,4 +40,6 @@ A continuación se incluye información general importante sobre los pasos para 
 
 **4. Crear un caso de eDiscovery avanzado**
 
-Para obtener más información sobre los pasos necesarios para configurar eDiscovery avanzado, consulte [Introducción a eDiscovery avanzado](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).
+Para más información sobre los pasos necesarios para configurar eDiscovery avanzado, consulte [Introducción a eDiscovery avanzado](/microsoft-365/compliance/get-started-with-advanced-ediscovery).
+
+Para obtener información sobre cómo crear y administrar casos, vea [Crear y administrar casos de eDiscovery avanzado en Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
