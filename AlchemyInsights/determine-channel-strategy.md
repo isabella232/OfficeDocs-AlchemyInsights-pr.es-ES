@@ -13,16 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9144"
 - "9005291"
-ms.openlocfilehash: d3288bc4da83bcd8ddc82b0ce40482453a822aad
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+- "11089"
+- "9006490"
+ms.openlocfilehash: c47218035155a8138caeac01e03fbe9d9e1aca4d
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530121"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989694"
 ---
 # <a name="determine-channel-strategy"></a>Determinar la estrategia de canal
 
-Microsoft Edge se lanza en cuatro canales que controlan la frecuencia con la que se actualiza el explorador. Para obtener información general en mayor profundidad sobre cada canal, consulte [Información general sobre el canal](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview).
+Microsoft Edge se lanza en cuatro canales que controlan la frecuencia con la que se actualiza el explorador. Para obtener información general en mayor profundidad sobre cada canal, consulte [Información general sobre el canal](/DeployEdge/microsoft-edge-channels#channel-overview).
 
 El Canal estable es el canal que querrá implementar en la mayoría de los dispositivos, pero debería considerar implementar varios canales y dispositivos.
 

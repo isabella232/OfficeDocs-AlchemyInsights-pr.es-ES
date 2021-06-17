@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617341"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989720"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Usar Microsoft Intune para administrar el acceso web en Microsoft Edge para iOS y Android
 
-Microsoft Edge para iOS y Android permite a un usuario explorar la web desde varios perfiles completamente separados.
+Microsoft Edge para iOS y Android permite a un usuario examinar la web desde varios perfiles completamente independientes.
 
-Las capacidades de protección más amplias de los datos de Microsoft 365 se encuentran disponibles al suscribirse a Enterprise Mobility + Security Suite, que incluye las características de Microsoft Intune y Azure Active Directory Premium, como el acceso condicional. Como mínimo, querrá implementar una directiva de acceso condicional que (1) permita a los usuarios conectarse desde dispositivos móviles a Microsoft Edge para iOS y Android, y que (2) implemente una directiva de protección de aplicaciones de Microsoft Intune que ofrezca una experiencia de exploración protegida.
+Las capacidades de protección más amplias para Microsoft 365 datos están disponibles al suscribirse al conjunto de Enterprise Mobility + Security, que incluye características Microsoft Intune y Azure Active Directory Premium, como el acceso condicional. Como mínimo, querrá implementar una directiva de acceso condicional que (1) permita a los usuarios conectarse desde dispositivos móviles a Microsoft Edge para iOS y Android y que (2) implemente una directiva de protección de aplicaciones de Microsoft Intune que proporciona una experiencia de exploración protegida.
 
-Para comprender cómo se pueden usar las directivas y el acceso condicional, vea:
+Para comprender cómo puede usar el acceso condicional y las directivas, vea:
 
-[Aplicar directivas de acceso condicional de Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Aplicar Azure Active Directory de acceso condicional](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Crear directivas de protección de aplicaciones de Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Crear Microsoft Intune de protección de aplicaciones](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Usar el inicio de sesión único para aplicaciones web conectadas con Azure Active Directory en exploradores protegidos por directiva](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Usar el inicio de sesión único para Azure Active Directory web conectadas en exploradores protegidos por directivas](https://go.microsoft.com/fwlink/?linkid=2132482)
 
-[Usar la configuración de la aplicación para administrar la experiencia de navegación](https://go.microsoft.com/fwlink/?linkid=2132483)
+[Usar la configuración de la aplicación para administrar la experiencia de exploración](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Permitir el uso de solo cuentas de trabajo y centro educativo](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Permitir el uso de solo cuentas laborales y educativas](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Implementación de directivas de configuración generales de la aplicación](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Implementar directivas de configuración de aplicaciones generales](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[Implementación de directivas de configuración de aplicaciones para la protección de datos](https://go.microsoft.com/fwlink/?linkid=2132654)
+[Implementar directivas de configuración de aplicaciones para la protección de datos](https://go.microsoft.com/fwlink/?linkid=2132654)
 
 [Usar Microsoft Endpoint Manager para implementar directivas de configuración de aplicaciones](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Para obtener información sobre cómo acceder a los registros de aplicaciones administradas, vea [usar Microsoft Edge para iOS y Android para acceder a los registros de aplicaciones administradas](https://go.microsoft.com/fwlink/?linkid=2132578).
+Para obtener información sobre cómo obtener acceso a los registros de aplicaciones administradas, consulta Usar Microsoft Edge para iOS y Android para obtener acceso a los [registros de aplicaciones administradas.](https://go.microsoft.com/fwlink/?linkid=2132578)

@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898098"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989950"
 ---
 # <a name="plan-your-deployment-of-microsoft-edge"></a>Planear la implementación de Microsoft Edge
 
-La implementación de un nuevo explorador en un grupo de usuarios puede ser desalentador. Podemos ayudarle a dividirlo en pasos y ayudarle a través de cada uno de ellos. Si sigue estos siete pasos, tendrá una implementación correcta de Microsoft Edge con mínima frustración del usuario:
+La implementación de un nuevo explorador en un grupo de usuarios puede ser desalentador. Podemos ayudarle a dividirlo en pasos y ayudarle a través de cada uno de ellos. Si sigue estos siete pasos, tendrá una implementación correcta Microsoft Edge con la mínima frustración del usuario:
 
 1. Evalúe el entorno y las necesidades del explorador existente.
 2. Determine la metodología de implementación.
@@ -29,6 +31,6 @@ La implementación de un nuevo explorador en un grupo de usuarios puede ser desa
 4. Determine la estrategia del canal.
 5. Definir y configurar directivas.
 6. Realizar pruebas de compatibilidad de aplicaciones.
-7. Implementar Microsoft Edge en un grupo piloto y validarlo.
+7. Implemente Microsoft Edge en un grupo piloto y valide.
 
 Para seguir estos pasos por su cuenta, vea [Plan your deployment of Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).
