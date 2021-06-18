@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9139"
+- "11088"
 - "9005291"
-ms.openlocfilehash: ad2c42ad77cd4a4606365bc616547846ae3c2c65
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+- "9006490"
+ms.openlocfilehash: 9a51b0cbf6ccb0254ea2ef162530067bbfb5f215
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529358"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989770"
 ---
 # <a name="deploy-microsoft-edge"></a>Implementar Microsoft Edge
 
@@ -26,13 +28,13 @@ Una vez que hayas definido las directivas y hayas finalizado la prueba de compat
 
 Las siguientes herramientas están disponibles para implementar Microsoft Edge:
 
-- [Microsoft Intune para Windows](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) o [Microsoft Intune para macOS](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
-- [Configuration Manager](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
+- [Microsoft Intune para Windows](/mem/intune/apps/apps-windows-edge) o [Microsoft Intune para macOS](/mem/intune/apps/apps-edge-macos)
+- [Configuration Manager](/DeployEdge/deploy-edge-with-configuration-manager)
 - Otra herramienta que utiliza el [archivo MSI para Microsoft Edge](https://www.microsoft.com/edge/business/download) 
 
 **Validar la implementación**
 
-Tras implementar el piloto, capture comentarios de los usuarios. Tenga en cuenta lo siguiente:
+Tras implementar el piloto, obtenga comentarios de sus usuarios. Considere lo siguiente:
 - **Compatibilidad**: Identifique los sitios que pertenecen a la lista de sitios de empresa que no se identificaron durante la detección de sitios.
 - **Configuración de directivas**: Asegúrese de que los usuarios puedan usar características clave y que realicen su trabajo mientras siguen las directrices de seguridad.
 - **Facilidad de uso y nuevas características**: Identifique las áreas en las que se debe desarrollar y ofrecer la formación en función de las preguntas del usuario.

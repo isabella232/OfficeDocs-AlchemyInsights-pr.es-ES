@@ -12,20 +12,22 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "8328"
+- "10979"
 - "9004625"
-ms.openlocfilehash: 09e9a7303063328cd7bd0a0fcbf9629a3b38ebb5
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+- "9006450"
+ms.openlocfilehash: beaa5dcc7f2e07ca3b2339fe43a759acf3a342b0
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408790"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989878"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Usar la prevención de seguimiento en Microsoft Edge (Chromium)
 
-La prevención de seguimiento en Microsoft Edge limita la capacidad de un rastreador para obtener acceso al almacenamiento basado en explorador y a la red. La característica se creó para cumplir nuestro compromiso de ayudar a los usuarios a mantenerse seguros en la Web con Microsoft Edge. Para más información, consulte [Prevención de seguimiento en Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135435) y [La promesa de privacidad de nuestro navegador](https://go.microsoft.com/fwlink/?linkid=2135350).
+Algunos sitios web usan el seguimiento para recopilar la información de su explorador. Hemos integrado protecciones para limitar el acceso a la información de seguimiento basada en el explorador y ofrecemos opciones adicionales para que usted pueda personalizar su nivel de seguridad.
 
-Microsoft Edge ofrece tres niveles de prevención de seguimiento (se pueden seleccionar en edge://settings/privacy):
+- **Básico**. Menos restrictivo y diseñado para los usuarios que disfrutan de los anuncios personalizados y que no les importa tener un seguimiento en la web. El nivel básico protege a los usuarios contra el seguimiento malintencionado, como de huella digitales y criptografías.
+- **Equilibrado**. El equilibrado es el nivel predeterminado y está diseñado para los usuarios que quieren ver menos anuncios que les sigan por la web. El nivel equilibrado no solo bloquea el seguimiento de los sitios con los que los usuarios nunca interactúan, sino que también minimiza el riesgo de problemas de compatibilidad.
+- **Estricto**. Es el más restrictivo y está diseñado para usuarios a los que no les importa sacrificar la compatibilidad con el sitio web a cambio de la máxima privacidad.
 
-- La **básica** es la menos restrictiva y diseñada para usuarios que disfruten de anuncios personalizados y que no les importe tener un seguimiento en la Web. La versión básica protege a los usuarios solo contra rastreadores malintencionados, como de huella digitales y criptografías.
-- La **equilibrada** es el nivel predeterminado y está diseñado para los usuarios que quieren ver menos anuncios que les sigan por la Web. El nivel equilibrado trata no solo para bloquear rastreadores de sitios con los que los usuarios nunca interactúan, sino también minimizar el riesgo de problemas de compatibilidad.
-- La **estricta** es la más restrictiva y diseñada para usuarios a los que no les importa sacrificar la compatibilidad con sitios web para obtener una máxima privacidad.
+Si desea actualizar su configuración de privacidad, en su explorador Microsoft Edge, vaya a **Configuración** > **Privacidad, búsqueda y servicios**. Puede actualizar la configuración de prevención de seguimiento, bloquear el seguimiento, borrar los datos de navegación y explorar otras opciones de privacidad y seguridad para mantener sus datos seguros. Para obtener más información, vea [Prevención de seguimiento en Microsoft Edge](/microsoft-edge/web-platform/tracking-prevention). 
