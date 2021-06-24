@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas de autenticación SMTP
+title: Habilitar autenticación SMTP y solución de problemas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826432"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077668"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Solucionar problemas de autenticación SMTP
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>Habilitar autenticación SMTP y solución de problemas
 
-Si recibe los errores 5.7.57 o 5.7.3 al intentar enviar correo electrónico SMTP y autenticarse mediante un cliente o aplicación, puede comprobar algunas cosas:
+Si desea habilitar la autenticación SMTP para un buzón o recibe un error "Cliente no autenticado", "Autenticación incorrecta" o "SmtpClientAuthentication" con el código 5.7.57, 5.7.3 o 5.7.139 al intentar retransmitir correo electrónico mediante la autenticación de un dispositivo o aplicación con Microsoft 365, realice estas tres acciones para resolver el problema:
 
-- Es posible que el envío SMTP autenticado esté deshabilitado en su espacio empresarial o en el buzón que está intentando usar (compruebe ambas configuraciones). Para obtener más información, consulte [Habilitar o deshabilitar el envío SMTP de cliente autenticado](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).
+1. Deshabilite los [Valores predeterminados de seguridad de Azure](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). Para ello, establezca **Habilitar los valores predeterminados de seguridad** en **No**.
 
-- Compruebe si los [valores predeterminados de seguridad de Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) están habilitados para su espacio empresarial. Si están habilitados, se producirá un error de autenticación SMTP con autenticación básica (también conocido como heredado; este usará el nombre de usuario y la contraseña).
+    a. Inicie sesión en el Azure Portal como administrador de seguridad, administrador de acceso condicional o administrador global.<BR/>
+    b. Vaya a Azure Active Directory >  **Propiedades**.<BR/>
+    c. Seleccione **Administrar los valores predeterminados de seguridad**.<BR/>
+    d. Establezca **Habilitar los valores predeterminados de seguridad** en **No**.<BR/>
+    e. Seleccione **Guardar**.
+
+2. Marque [Habilitar el envío de SMTP de cliente](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) en el buzón con licencia.
+
+    a. En el Centro de administración de Microsoft 365, vaya a **Usuarios activos** y seleccione el usuario.<BR/>
+    b. Vaya a la pestaña Correo y, en **Aplicaciones de correo electrónico**, seleccione **Administrar aplicaciones de correo electrónico**.<BR/>
+    d. Asegúrese de que **SMTP autenticado** esté activado (habilitado).<BR/>
+    e. Seleccione **Guardar cambios**.<BR/>
+
+3. Marque [Deshabilitar la autenticación multifactor (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) en el buzón con licencia.
+
+    a. Vaya al Centro de administración de Microsoft 365 y, en el menú de navegación izquierdo, seleccione **Usuarios** > **Usuarios activos**.<BR/>
+    b. Seleccione **Autenticación multifactor**.<BR/>
+    c. Seleccione el usuario y deshabilite **Autenticación multifactor**.<BR/>
