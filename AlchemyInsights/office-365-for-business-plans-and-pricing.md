@@ -1,5 +1,5 @@
 ---
-title: Precios y planes de Microsoft 365 para empresas
+title: Comparar Microsoft 365 para empresas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d2ca7d82257034cf4e7e0bf3520da2762233c6
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790817"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104583"
 ---
 # <a name="compare-microsoft-365-for-business"></a>Comparar Microsoft 365 para empresas
 
-Hay tres planes diferentes disponibles con Microsoft 365 para empresas. [Comparar los planes y precios de Microsoft 365 para empresas.](https://products.office.com/compare-all-microsoft-office-products?tab=2)  
+Hay diferentes planes disponibles con Microsoft 365 para empresas. Para obtener información sobre las características y los precios, [vea Comparar Microsoft 365 planes para empresas](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products).  
