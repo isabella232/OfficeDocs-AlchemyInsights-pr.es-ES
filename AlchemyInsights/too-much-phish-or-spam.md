@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544847"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195537"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>¿Está recibiendo demasiada suplantación de identidad o correo no deseado en su buzón?
 
@@ -27,3 +27,7 @@ Como administrador Microsoft 365, la mejor manera de determinar por qué se entr
 Para que sea más fácil, puede permitir que los usuarios informen directamente a Microsoft a través del [complemento Mensaje de informe](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
 **¿Lo sabía?**: Ahora puede [](https://security.microsoft.com/messagetrace) enviar ejemplos directamente desde seguimiento de mensajes y E5/Microsoft Defender para Office 365 Los clientes del Plan 2 pueden enviar muestras desde [el Explorador de amenazas](/microsoft-365/security/office-365-security/threat-explorer).
+
+Para obtener más información sobre cómo enviar mensajes para su análisis en el portal de Microsoft 365 Defender, vea el vídeo [Submitting samples for analysis](https://go.microsoft.com/fwlink/?linkid=2166435).
+
+Para obtener más información sobre cómo investigar falsos negativos en Microsoft Defender Office 365, vea el vídeo [False negative strategy](https://go.microsoft.com/fwlink/?linkid=2166434).
