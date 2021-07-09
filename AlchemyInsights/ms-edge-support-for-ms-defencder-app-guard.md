@@ -1,5 +1,5 @@
 ---
-title: Soporte de Microsoft Edge para la protección de aplicaciones de Microsoft defender
+title: Microsoft Edge compatibilidad con Protección de aplicaciones de Microsoft Defender
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576635"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346079"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Soporte de Microsoft Edge para la protección de aplicaciones de Microsoft defender
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge compatibilidad con Protección de aplicaciones de Microsoft Defender
 
-Diseñada para Windows 10 y Microsoft Edge, la protección de aplicaciones usa un enfoque de aislamiento de hardware que permite a un usuario navegar por un sitio que no es de confianza desde dentro de un contenedor aislado, compatible con Hyper-V, separado del sistema operativo host.
+Microsoft Defender for Identity proporciona una ubicación central donde los administradores pueden identificar, detectar e investigar amenazas de identidad locales. 
 
-Un administrador de la empresa define una lista de sitios web de confianza, recursos de la nube y redes internas. Cuando un usuario visita un sitio que no se encuentra en la lista, Microsoft Edge abrirá el sitio en el contenedor. Esto significa que si el sitio resulta ser malintencionado, el equipo host seguirá protegido y el atacante no recibirá los datos de la empresa.
+Use la [guía de configuración de Microsoft Defender para identidades](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) para comprobar que ha cumplido todos los requisitos previos del entorno; crear una instancia, conectarse a Active Directory e instalar el sensor. 
 
-La instalación de extensiones en el contenedor es compatible con la versión 81 de Microsoft Edge y puede controlarse a través de una directiva. La dirección updateURL que se usa en la Directiva ExtensionInstallForcelist debe agregarse como un recurso neutro en las directivas de aislamiento de red que usa la protección de aplicaciones.
-
-Para obtener más información, vea [compatibilidad de Microsoft Edge con protección de aplicaciones de Microsoft defender](https://go.microsoft.com/fwlink/?linkid=2134229).
+Cuando haya terminado, se supervisan las identidades de los usuarios y se pueden realizar acciones inmediatas contra cualquier actividad malintencionada que comprometa a su organización.
