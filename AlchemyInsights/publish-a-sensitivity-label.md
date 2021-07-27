@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539661"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532272"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Cómo publicar una etiqueta de confidencialidad
 
-1. Vaya al Centro de seguridad y cumplimiento de Office 365 > **Clasificación** >  > **Etiquetas de confidencialidad**.
+1. Vaya al Centro de cumplimiento de Microsoft 365 > **Information Protection** > **Directivas de etiquetas**.
 
-1. En la página Etiquetas de confidencialidad, seleccione la pestaña **Directivas de etiquetas** y seleccione **Publicar etiquetas**.
+1. Seleccione **+ Publicar etiqueta** para iniciar el asistente de Nueva etiqueta de confidencialidad.
 
 1. Seleccione **Elegir etiquetas de confidencialidad para publicar**. Seleccione las etiquetas que quiera que estén disponibles en aplicaciones y para servicios, a continuación, seleccione **Agregar**.
 

@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745840"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532128"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Eliminar un sitio de SharePoint que pertenece a un grupo de 365 de Microsoft
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Eliminar un SharePoint que pertenece a un grupo de Microsoft 365 datos
 
-Al eliminar un sitio conectado a un grupo, se eliminará el grupo y todos sus recursos, incluidos el buzón y el calendario de Outlook, y los canales de Teams.
+Al eliminar un sitio conectado a un grupo, se eliminará el grupo y todos sus recursos, incluidos el buzón y el calendario de Outlook, y los canales Teams grupo.
   
 Importante:
 
-- Puede recuperar sitios eliminados durante 93 días. Los grupos eliminados deben restaurarse en un plazo de 30 días. [Ver y restaurar sitios eliminados](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) directamente desde el centro de administración de SharePoint. Para [ver y restaurar **grupos eliminados**](https://outlook.office.com/people/group/deleted), seleccione **administrar grupos**y, a continuación, elija **eliminado**.
-- Si el sitio forma parte de una directiva de retención, es posible que no pueda eliminarlo hasta que se elimine el sitio del [centro de administración de cumplimiento de & de seguridad](https://protection.office.com/?rfr=AdminCenter#/retention). Para obtener más información, vea [información general sobre las directivas de retención](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Puede recuperar sitios eliminados durante 93 días. Los grupos eliminados deben restaurarse en un plazo de 30 días. [Ver y restaurar sitios eliminados](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) directamente desde el Centro SharePoint administración. Para [ver y restaurar grupos **eliminados,**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)seleccione **Administrar grupos** y, a continuación, elija **Eliminado**.
+- Si el sitio forma parte de una directiva de retención, es posible que no pueda eliminarlo hasta que el sitio se quite del Centro de administración de [seguridad & cumplimiento](https://protection.office.com/?rfr=AdminCenter#/retention). Para obtener más información, consulta [Overview of Retention Policies](/microsoft-365/compliance/retention-policies).
   
-Para obtener más información, vea [administrar sitios en el nuevo centro de administración de SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Para obtener más información, consulta [Manage sites in the new SharePoint admin center](/sharepoint/manage-sites-in-new-admin-center).
