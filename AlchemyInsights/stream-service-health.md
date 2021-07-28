@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "12457"
 - "9001509"
-ms.openlocfilehash: 7dc4841909d3ff37207cd6dc8a284311b9384762
-ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
+ms.openlocfilehash: 8a856eb79451f4a5f10efd7ac26ca41c2a8ea037
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53586884"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53533027"
 ---
 # <a name="microsoft-stream-service-health"></a>Estado del servicio de Microsoft Stream
 
-En caso de que se produjese un incidente [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) de servicio o un aviso, se publica un mensaje en el panel de mantenimiento del servicio Microsoft 365 para Microsoft Stream con actualizaciones de problemas, estado y información de resolución.
+En caso de un incidente de servicio o un aviso, se publica un mensaje en el panel de mantenimiento del servicio Microsoft 365 para Microsoft Stream con actualizaciones de problemas, estado e información de resolución.
 
 Para obtener actualizaciones de Microsoft Stream, nuevas características y correcciones significativas, consulte [Novedades de Microsoft Stream](https://aka.ms/StreamNew).
 
