@@ -15,16 +15,14 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
-ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
+ms.openlocfilehash: 14680a039068688e0740ba2a7dee5c168d03d9d2
+ms.sourcegitcommit: 380ee556007d2be389b1a99795bca04bc1f9f60f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53586951"
+ms.lasthandoff: 07/27/2021
+ms.locfileid: "53604902"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Solucionar problemas de flujos de trabajo en SharePoint
-
-**Solucionar problemas y depurar flujos de trabajo en SharePoint**
 
 Para más información, consulte:
 
