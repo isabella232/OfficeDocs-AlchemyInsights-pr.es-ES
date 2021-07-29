@@ -1,5 +1,5 @@
 ---
-title: Identificar la actividad de las reglas de entrada en los registros de auditoría
+title: Identificar la actividad de regla de bandeja de entrada en registros de auditoría
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779068"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630194"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar la actividad de las reglas de entrada en los registros de auditoría
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar la actividad de regla de bandeja de entrada en registros de auditoría
 
-Puede usar la búsqueda de registros de auditoría en el centro de cumplimiento de & de seguridad de Microsoft 365 para ver eventos de reglas de la bandeja de entrada (crear, modificar y eliminar reglas de la bandeja de entrada).
+Puede usar la búsqueda de registro de auditoría en el Centro de cumplimiento de Microsoft 365 Seguridad & para ver eventos de regla de bandeja de entrada (crear, modificar y eliminar reglas de la bandeja de entrada).
 
-1. Inicie sesión en el [centro de cumplimiento de & de seguridad de Microsoft 365](https://protection.office.com/).
+1. Inicie sesión en el Centro [Microsoft 365 cumplimiento](https://protection.office.com/).
 
-2. Vaya a la **Search**  >  Página de**búsqueda del registro de auditoría** de búsqueda.
+2. Vaya a la **página Búsqueda de** registro de auditoría  >  **de** búsqueda.
 
-3. Seleccione el intervalo de fechas en los campos **fecha de inicio** y **fecha de finalización** .
+3. Seleccione el intervalo de fechas en **los campos Fecha de** inicio y Fecha **de** finalización.
 
-4. En **actividades de buzón de Exchange**, compruebe que el campo **actividades** está establecido en **nueva-InboxRule crear/modificar/habilitar/deshabilitar la regla de bandeja de entrada**.
+4. En **Exchange de buzones** de  correo , compruebe que el campo Actividades está establecido en **New-InboxRule Create/modify/enable/disable inbox rule**.
 
 5. Haga clic en **Buscar**.
 
-En los resultados, seleccione un registro de auditoría. En el control flotante de detalles, haga clic en **más información**. La información sobre la configuración de las reglas de la bandeja de entrada se muestra en el campo **parámetros** .
+En los resultados, seleccione un registro de auditoría. En el menú desplegable de detalles, haga clic **en Más información**. La información sobre la configuración de la regla de bandeja de entrada se muestra en el **campo Parámetros.**
 
-Para obtener más información, vea [determinar si un usuario creó una regla de bandeja de entrada](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule) .
+Para obtener más información, vea [Determining if a user created an inbox rule](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669228"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630158"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Directivas de retención unificadas en el Centro de seguridad y cumplimiento
 
@@ -31,6 +31,6 @@ Las directivas de retención le permiten administrar el contenido de su organiza
       
 Para más información sobre las directivas de retención de contenido, como el correo electrónico de Exchange, OneDrive, SharePoint y el contenido de los equipos, consulte [Información general sobre las directivas de retención](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Si utiliza las directivas de retención en el centro de administración de Exchange y en el Centro de seguridad y cumplimiento de manera conjunta, consulte esta recomendación para [Usar una directiva de retención en lugar de características anteriores](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Si utiliza las directivas de retención en el centro de administración de Exchange y en el Centro de seguridad y cumplimiento de manera conjunta, consulte esta recomendación para [Usar una directiva de retención en lugar de características anteriores](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Para obtener información específica sobre la retención de los Equipos, consulte [Directivas de retención en Equipos](https://docs.microsoft.com/microsoftteams/retention-policies).
+Para obtener información específica sobre la retención de los Equipos, consulte [Directivas de retención en Equipos](/microsoftteams/retention-policies).

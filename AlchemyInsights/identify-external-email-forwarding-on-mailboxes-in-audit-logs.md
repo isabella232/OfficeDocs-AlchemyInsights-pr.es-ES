@@ -1,5 +1,5 @@
 ---
-title: Identificar el reenvío externo de correo electrónico en los buzones de registros de auditoría
+title: Identificar el reenvío de correo electrónico externo en buzones de correo en registros de auditoría
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696314"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630266"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificar cuándo se configura el reenvío externo de correo electrónico en los buzones
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificar cuándo se configura el reenvío de correo electrónico externo en buzones de correo
 
-Cuando un usuario de Microsoft 365 configura el reenvío externo de correo electrónico en un buzón, la actividad se audita como parte del cmdlet **set-Mailbox** . Puede ver la actividad mediante la búsqueda de registros de auditoría en el centro de seguridad & cumplimiento.
+Cuando un Microsoft 365 configura el reenvío de correo electrónico externo en un buzón, la actividad se audita como parte del cmdlet **Set-Mailbox.** Puede ver la actividad mediante la búsqueda del registro de auditoría en el Centro de seguridad & cumplimiento.
 
-1. Inicie sesión en el [centro de cumplimiento de & de seguridad de Microsoft 365](https://protection.office.com/).
+1. Inicie sesión en el Centro [Microsoft 365 cumplimiento](https://protection.office.com/).
 
-2. Vaya a la **Search**  >  Página de**búsqueda del registro de auditoría** de búsqueda.
+2. Vaya a la **página Búsqueda de** registro de auditoría  >  **de** búsqueda.
 
-3. Seleccione el intervalo de fechas en los campos **fecha de inicio** y **fecha de finalización** . No es necesario especificar un nombre de usuario. Compruebe que el campo **actividades** está configurado para **Mostrar resultados para todas las actividades**.
+3. Seleccione el intervalo de fechas en **los campos Fecha de** inicio y Fecha **de** finalización. No es necesario especificar un nombre de usuario. Compruebe que **el campo** Actividades está establecido en **Mostrar resultados para todas las actividades**.
 
 4. Haga clic en **Buscar**.
 
-En los resultados, haga clic en **filtrar resultados** y escriba **set-Mailbox** en el cuadro filtro de actividad. Seleccione un registro de auditoría en los resultados. En el control flotante de **detalles** , haga clic en **más información**. Tiene que mirar los detalles de cada registro de auditoría para determinar si la actividad está relacionada con el reenvío de correo electrónico.
+En los resultados, haga clic **en Filtrar resultados** y escriba **Set-Mailbox** en el cuadro de filtro de actividad. Seleccione un registro de auditoría en los resultados. En **el** menú desplegable Detalles, haga clic **en Más información**. Debe ver los detalles de cada registro de auditoría para determinar si la actividad está relacionada con el reenvío de correo electrónico.
 
-- **ObjectId**: el valor de alias del buzón que se modificó.
+- **ObjectId:** el valor de alias del buzón que se modificó.
 
-- **Parameters**: _ForwardingSmtpAddress_ indica la dirección de correo electrónico de destino.
+- **Parámetros**: _ForwardingSmtpAddress_ indica la dirección de correo electrónico de destino.
 
-- **Userid**: usuario que configuró el reenvío de correo electrónico en el buzón del campo **objectId** .
+- **UserId:** el usuario que configuró el reenvío de correo electrónico en el buzón en el **campo ObjectId.**
 
-Para obtener más información, vea [determinar quién ha configurado el reenvío de correo para un buzón](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Para obtener más información, vea [Determine who set up email forwarding for a mailbox](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
