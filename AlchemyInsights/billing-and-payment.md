@@ -3,6 +3,8 @@ title: Facturación y pago
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820411"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686903"
 ---
 # <a name="billing-and-payment"></a>Facturación y pago
 
@@ -52,10 +55,10 @@ Si has agregado una nueva tarjeta y sigues recibiendo un aviso de declinación e
 
 7. El nuevo método de pago ya está seleccionado en la lista desplegable. Seleccione **Reemplazar**.
 
-Para más información, consulte [Administrar métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para más información, consulte [Administrar métodos de pago](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frecuencia de facturación**
 
 Las facturas se generan mensual o anualmente en función de la frecuencia de facturación elegida al realizar el pago.  
 
-**Nota:** Los pedidos con facturación anual pueden recibir una factura a medio plazo si se han realizado cambios como agregar o quitar licencias. [Cambiar la frecuencia de facturación](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Nota:** Los pedidos con facturación anual pueden recibir una factura a medio plazo si se han realizado cambios como agregar o quitar licencias. [Cambiar la frecuencia de facturación](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

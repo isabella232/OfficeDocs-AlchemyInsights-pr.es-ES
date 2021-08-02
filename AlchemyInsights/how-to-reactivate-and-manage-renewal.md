@@ -3,6 +3,7 @@ title: Cómo reactivar y administrar la renovación
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 88e152e1e06ae8035c635117fbfa63b50c6c9d92
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544343"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689063"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Cómo reactivar una suscripción y administrar la facturación periódica
 
 Parece que tiene una suscripción que ha expirado. If you would like to reactivate it, here's how.
   
 1. En el centro de administración, vaya a la página de **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. En la pestaña **Productos**, busque la suscripción que quiere reactivar. Seleccione los tres puntos (más acciones) y, a continuación, **seleccione Reactivar esta suscripción.**
+2. En la pestaña **Productos**, busque la suscripción que quiera reactivar. Seleccione los tres puntos (más acciones) y después elija **Reactivar esta suscripción**.
 3. En el panel **Reactivar esta suscripción**, seleccione un método de pago de la lista desplegable o seleccione **Agregar método de pago**.
 4. Seleccione **Guardar**.
 

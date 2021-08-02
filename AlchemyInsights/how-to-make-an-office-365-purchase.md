@@ -1,8 +1,10 @@
 ---
-title: Cómo realizar una compra de Microsoft 365
+title: Cómo realizar una Microsoft 365 compra
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232384"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689099"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Cómo realizar una compra de Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Cómo realizar una Microsoft 365 compra
 
-Puede comprar una suscripción a Microsoft 365 en el centro de administración.
+Puedes comprar una suscripción Microsoft 365 en el Centro de administración.
   
 - Para comprar un plan, vaya a la página **Servicios de compra** de \> **[facturación.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
-- Para comprar licencias adicionales,  vaya a la página \> **[Facturación de sus productos.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Seleccione la suscripción que desea cambiar y, a continuación, **seleccione Comprar licencias.\**
-**VEA un vídeo** que muestra cómo hacerlo: [Comprar nuevas licencias](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- Para comprar licencias adicionales,  vaya a la página \> **[Facturación de sus](https://go.microsoft.com/fwlink/p/?linkid=842054)** productos. Seleccione la suscripción que desea cambiar y, a continuación, **seleccione Comprar licencias**.\
+**Ver un vídeo** muestra cómo hacer esto: [Comprar nuevas licencias](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Para obtener más información, [vea Comprar o quitar licencias.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Para obtener más información, [vea Comprar o quitar licencias.](/microsoft-365/commerce/licenses/buy-licenses)
 
 **Solución de problemas**
 
@@ -35,5 +38,5 @@ Si tiene problemas con la carga de la página, intente abrir la página web en u
 
 **Recursos adicionales**
   
-- [Asignar licencias a usuarios en Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Cancelar Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Asignar licencias a usuarios de Microsoft 365 para empresas](/microsoft-365/admin/add-users/add-users)
+- [Cancelar Microsoft 365 para empresas](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

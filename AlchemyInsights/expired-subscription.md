@@ -3,6 +3,7 @@ title: Suscripción expirada
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544199"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686795"
 ---
 # <a name="expired-subscription"></a>Suscripción expirada
 
@@ -27,7 +29,7 @@ Parece que tiene una o más suscripciones expiradas. Si desea continuar con el s
 **Reactivar**
   
 1. En el centro de administración, vaya a la página **Facturación** \> [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. En la pestaña **Productos**, busque la suscripción que quiere reactivar. Seleccione los tres puntos (más acciones) y, a continuación, **seleccione Reactivar esta suscripción.**
+2. En la pestaña **Productos**, busque la suscripción que quiera reactivar. Seleccione los tres puntos (más acciones) y después elija **Reactivar esta suscripción**.
     > [!NOTE]
     > Si no ve **Reactivar** esta suscripción, llame al soporte técnico.
 3. En el panel **Reactivar esta suscripción**, seleccione un método de pago de la lista desplegable o seleccione **Agregar método de pago**.

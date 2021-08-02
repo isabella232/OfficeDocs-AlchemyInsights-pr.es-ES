@@ -3,6 +3,7 @@ title: ¿Cancelar la Microsoft 365 suscripción?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 audience: Admin
 ms.topic: article
@@ -11,21 +12,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 33c0aaca36aab200c98aedf1bae7785520166e65
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543270"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688091"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>¿Cancelar la Microsoft 365 suscripción?
 
 Sentimos que te vayas, estos son los pasos para cancelar la suscripción:
 
 1. En el Centro de administración, vaya a la página  >  **[Facturación de sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** y, a continuación, seleccione la **pestaña** Productos.
-2. Busque la suscripción que desea cancelar. Seleccione los tres puntos (más acciones) y, a continuación, **seleccione Cancelar suscripción**.
+2. Busque la suscripción que desea cancelar. Seleccione los tres puntos (más acciones) y, después, seleccione **Cancelar suscripción**.
 3. En el panel **Cancelar suscripción**, seleccione una razón por la que cancela. Opcionalmente, proporcione algún comentario.
 4. Seleccione **Guardar**.
 
