@@ -3,6 +3,7 @@ title: Cambiar los planes de Exchange Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: 94a6b02439f1e4884ed1a30d6969ec87b6001564
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: d6e44d4ee5afeb57c023663b39175a95c75f5b59
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416305"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685463"
 ---
 # <a name="change-exchange-online-plans"></a>Cambiar los planes de Exchange Online
 
