@@ -13,25 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
-ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
+ms.openlocfilehash: e164efdd5b1dec329179496f89f95867be7666d1
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798661"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687515"
 ---
 # <a name="manage-webinar-registration"></a>Administrar el registro del seminario web
 
-Puede administrar quién puede registrarse en los seminarios web de Teams mediante los comandos de PowerShell de Teams. Para instalar PowerShell para Teams, consulte [PowerShell para Teams](/microsoftteams/teams-powershell-install). 
+El registro del seminario web está habilitado de forma predeterminada. Si desea desactivar el registro de reuniones, puede usar el Centro de administración de Teams: 
 
-De forma predeterminada, *WhoCanRegister* está habilitado y establecido en **Todos**. 
+1. Vaya a [Centro de administración de Teams](https://admin.teams.microsoft.com/policies/meetings). 
 
-Si no ve la opción para permitir el registro para todos los usuarios en la invitación de reunión, vuelva a ejecutar la configuración *WhoCanRegister* para todos y espere 24 horas. Para volver a ejecutar *WhoCanRegister*, use el comando de PowerShell:
+2. Seleccione la directiva **Global (predeterminada para toda la organización)** u otra directiva específica. 
 
-`Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
+3. En **General**, establezca **Permitir registro de reuniones** en **Desactivado**. 
 
-**Nota**: si la participación anónima está desactivada en la configuración de la reunión, los usuarios anónimos no podrán unirse a los seminarios web. Para más información y para habilitar esta configuración, consulte [Administrar la configuración de la reunión en Microsoft Teams](/microsoftteams/meeting-settings-in-teams).
+Cuando el registro de la reunión se establece en **Activado**, también puede administrar quién se registra en los seminarios web de Teams mediante el Centro de administración de Teams: 
 
-Si desea desactivar el registro de la reunión, establezca *AllowMeetingRegistration* en **False**.
+1. Vaya a [Centro de administración de Teams](https://admin.teams.microsoft.com/policies/meetings). 
 
-Para obtener más información sobre cómo configurar quién puede registrarse en los seminarios web, vea [Configurar quién puede registrarse en los seminarios web](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Para obtener más información sobre la configuración de las Listas Microsoft, consulte [Configuración de control para las Listas Microsoft](/sharepoint/control-lists).
+2. Seleccione la directiva **Global (predeterminada para toda la organización)** u otra directiva específica. 
+
+3. En **General**, vaya a la configuración **Quién puede registrarse** y seleccione **Todos** o **Todos los usuarios de la empresa**. 
+
+**Nota**: si la participación anónima está desactivada en la configuración de reuniones, los usuarios anónimos no podrán unirse a los seminarios web. Para obtener más información sobre cómo habilitar esta opción, consulte [Administrar la configuración de reuniones en Microsoft Teams](/microsoftteams/meeting-settings-in-teams). 
+
+Para obtener más información sobre cómo configurar quién puede registrarse en seminarios web y cómo administrar estas directivas con PowerShell de Teams, consulte [Configurar quién puede registrarse en seminarios web](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Para obtener más información sobre la configuración de Listas Microsoft, consulte [Configuración del control para Listas Microsoft](/sharepoint/control-lists). 
+
+ 

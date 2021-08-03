@@ -3,6 +3,8 @@ title: Actualizar la información de la tarjeta de crédito
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8aa177ed01fbd6c3b5c3e99ce5300111b19c76d5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830338"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685535"
 ---
 # <a name="update-credit-card-information"></a>Actualizar la información de la tarjeta de crédito
 
@@ -29,7 +32,7 @@ ms.locfileid: "51830338"
 2. Seleccione la tarjeta de crédito que desea actualizar.
 
     > [!NOTE]
-    > Si el método de pago lo agregó otro administrador, no podrá actualizar la información de la tarjeta de crédito o de la cuenta bancaria que usó para ello. Si la tarjeta de crédito está a punto de expirar y el otro administrador no puede actualizar la información, puede evitar que se interrumpa el servicio agregando otra tarjeta de crédito o una cuenta bancaria nueva a la suscripción seleccionando **Agregar método de pago**.
+    > Si la suscripción la compró otro administrador, no podrá actualizar la información de la tarjeta de crédito o de la cuenta bancaria que usó para ello. Si la tarjeta de crédito está a punto de expirar y el otro administrador no puede actualizar la información, puede evitar que se interrumpa el servicio agregando otra tarjeta de crédito o una cuenta bancaria nueva a la suscripción mediante **Agregar método de pago**.
   
 3. En el panel de **Detalles del método de pago**, seleccione **Editar**.
 
@@ -41,4 +44,4 @@ ms.locfileid: "51830338"
 
 Si tiene problemas con la carga de la página, intente abrir la página web en un explorador diferente o desde una ventana privada del explorador, como una ventana de InPrivate en Microsoft Edge o una ventana de incógnito en Google Chrome. 
 
-Para más información, vea [Gestionar métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para más información, vea [Gestionar métodos de pago](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
