@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10116"
 - "9005600"
-ms.openlocfilehash: 473cea5752dcbfcd7687b17c8e026d53bfe2022e
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: e1afdf755e6b8cd8a65ba753a6a9d2f2bf064d8fb7fbb1543848f29ac499d17a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426892"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908403"
 ---
 # <a name="use-a-product-key-to-upgrade-windows-10-home-to-windows-10-pro"></a>Usar una clave de producto para actualizar Windows 10 Home a Windows 10 Pro
 

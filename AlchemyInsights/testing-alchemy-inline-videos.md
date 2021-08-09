@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d00e9a23-6443-4f4d-8ea7-bb75fb590b74
-ms.openlocfilehash: c2085c61e74beb594003df7afa7af0a232cb4c7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1397d3ed189f6ad13ff8e00dc642cadd8b879962a092c45fa54b975888c03397
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060744"
 ---
 # <a name="set-up-domain-and-users"></a>Configurar el dominio y los usuarios
 
-Cuando esté listo para configurar el dominio y los usuarios, vea este vídeo rápido:
+Cuando estés listo para configurar el dominio y los usuarios, mira este vídeo rápido:
   
 ![Su explorador no admite vídeo. Instale Microsoft Silverlight, Adobe Flash Player o Internet Explorer 9.](media/MSN_Video_Widget.gif)
   
-Para obtener más información, consulte las [preguntas más frecuentes de los dominios.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+Para obtener más información, consulta las [preguntas más frecuentes sobre dominios.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

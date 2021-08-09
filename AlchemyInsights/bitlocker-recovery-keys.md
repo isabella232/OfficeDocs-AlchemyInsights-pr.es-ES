@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060081"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Acceso a claves de recuperación de Bitlocker
 
-Al configurar la configuración de Bitlocker Intune Endpoint Protection Policy, es posible definir si la información de recuperación de Bitlocker debe almacenarse en Azure Active Directory.
+Al configurar la directiva de configuración de Bitlocker Endpoint Protection Intune, es posible definir si la información de recuperación de Bitlocker debe almacenarse en Azure Active Directory.
 
 Si esa configuración está configurada, los datos de recuperación almacenados deben ser visibles para un administrador de Intune como parte de los datos de registro de dispositivos en la hoja Dispositivos intunees de dos maneras:
 
@@ -47,5 +47,5 @@ Si el dispositivo se cifraba antes de la inscripción en Intune, es posible que 
  
 Si el dispositivo se cifra como resultado de la configuración a través de una directiva de grupo basada en dominio, la información de recuperación puede almacenarse en Active Directory local.
 
-Si has configurado la directiva de protección de puntos de conexión para almacenar la clave de recuperación en Azure Active Directory pero no se ha cargado la clave de un dispositivo específico, puedes desencadenar la carga girando la clave de recuperación para ese dispositivo desde la consola de MEM. Para obtener más información, [consulta Girar claves de recuperación de BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
+Si has configurado la directiva de protección de puntos de conexión para almacenar la clave de recuperación en Azure Active Directory pero no se ha cargado la clave de un dispositivo específico, puedes desencadenar la carga girando la clave de recuperación de ese dispositivo desde la consola de MEM. Para obtener más información, [consulta Girar claves de recuperación de BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 

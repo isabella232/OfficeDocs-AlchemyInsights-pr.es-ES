@@ -13,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: 6ac235dd78f942dac4e9ec52af202d97439e61a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb2891002959cb125488802c53e2f7fd1ed2792b6f46b2055c0ec046c0bd4e52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934814"
 ---
 # <a name="adding-external-users"></a>Agregar usuarios externos
 
 Los pasos para agregar usuarios externos o invitados pueden ser diferentes en función de lo que necesites para poder acceder a ellos. Elija una de las siguientes opciones:
   
-- [Introducción al uso compartido externo de SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [SharePoint Introducción al uso compartido externo en línea](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Acceso de invitado en grupos de Microsoft 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Acceso de invitado en Microsoft 365 grupos](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
 - [Acceso de invitado en Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

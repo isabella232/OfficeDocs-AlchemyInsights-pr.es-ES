@@ -1,5 +1,5 @@
 ---
-title: Proteger varios archivos a la vez
+title: Comprobar varios archivos a la vez
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,16 +13,16 @@ ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 6172168af77a72a362318bb9d411646a718f2477
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9fcb8b39e2debf8e312a24242c47bfe4b4c5d53488d09cd5ad33d54ae109b10b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006439"
 ---
-# <a name="check-in-several-files-at-once"></a>Proteger varios archivos a la vez
+# <a name="check-in-several-files-at-once"></a>Comprobar varios archivos a la vez
 
-Proteger y desproteger los archivos de una biblioteca de SharePoint es una buena forma de realizar un seguimiento y controlar la forma en que se actualiza el contenido. Si desea realizar cambios en un archivo de un sitio y desea asegurarse de que nadie más pueda editarlo, Desproteja el archivo. Si el archivo se ha desprotegido, puede editarlo en línea o sin conexión y guardarlo varias veces, si es necesario.
+La entrada y salida de archivos de una biblioteca SharePoint es una excelente manera de realizar un seguimiento y controlar cómo se actualiza el contenido. Si desea realizar cambios en un archivo de un sitio y desea asegurarse de que nadie más pueda editarlo, consulte el archivo. Cuando tenga el archivo desprotegiendo, puede editarlo en línea o sin conexión y guardarlo varias veces, si es necesario.
 
 A continuación se muestran algunos vínculos útiles relacionados con esta característica.
 
@@ -30,8 +30,8 @@ A continuación se muestran algunos vínculos útiles relacionados con esta cara
 
 - [Las principales preguntas sobre desprotección, protección y versiones](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
-- [Proteger varios archivos a la vez](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Proteger varios archivos de manera simultánea](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [Habilitar o deshabilitar el control de versiones y desprotección en una biblioteca](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
+- [Habilitar o deshabilitar las versiones o la desprotección en una biblioteca](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 
   

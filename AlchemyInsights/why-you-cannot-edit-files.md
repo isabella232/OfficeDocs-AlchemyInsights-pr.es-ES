@@ -14,24 +14,24 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907827"
 ---
 # <a name="why-cant-i-edit-files"></a>¿Por qué no puedo editar archivos?
 
 Eche un vistazo a algunas de las razones [por las que es posible que no pueda editar el archivo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Si tiene bibliotecas con las columnas o los metadatos de **desprotección, requisitos** o **validación** , o cuando la **seguridad de borrador de elementos** está definida como **solo usuarios que pueden editar** o **solo usuarios que pueden aprobar elementos** en la configuración de versión de la biblioteca:
+Si tiene bibliotecas con columnas o metadatos **checkout, Required** o **Validation,** o cuando **Draft Item Security** se establece en Only users who can edit or Only users **who** **can approve items** in Version Configuración of the library:
 
-- Para las bibliotecas de documentos de SharePoint, estos elementos se sincronizarán como de solo lectura.
+- Para SharePoint de documentos, estos elementos se sincronizarán como de solo lectura.
 
-- Para las bibliotecas de OneDrive, OneDrive mostrará un icono de candado (icono de archivo de OneDrive bloqueado) junto al estado de sincronización y el usuario no podrá sincronizar la biblioteca hasta que se quite la configuración mencionada. 
+- Para OneDrive bibliotecas, OneDrive mostrará un icono de bloqueo OneDrive ( icono bloqueado de archivo ) junto al estado de sincronización y el usuario no podrá sincronizar la biblioteca hasta que se haya quitado la configuración mencionada. 
 
-Para obtener más información acerca de los archivos bloqueados para Word o Excel, consulte los artículos siguientes.
+Para obtener más información acerca de los archivos bloqueados para Word o Excel, haga referencia a los artículos siguientes.
 
 - [Aparece el error "No se pudo cargar" o "No se pudo guardar automáticamente" al editar un archivo de Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
