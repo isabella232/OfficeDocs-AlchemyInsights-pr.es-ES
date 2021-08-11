@@ -1,5 +1,5 @@
 ---
-title: 'Alchemy: diagnosticar y resolver problemas de conectividad de Outlook'
+title: 'Alchemy: diagnosticar y resolver problemas Outlook conectividad'
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933734"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnosticar y resolver problemas de conectividad de Outlook
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnosticar y resolver problemas Outlook conectividad
 
-Para diagnosticar y solucionar los problemas de conectividad de Outlook, puede ejecutar la [herramienta de conectividad de Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) en el equipo afectado.
+Para diagnosticar y solucionar los Outlook de conectividad, puede ejecutar la [herramienta de](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) conectividad Outlook en la máquina afectada.
   
-Esta herramienta realizará comprobaciones de diagnóstico y sugerirá posibles soluciones para solucionar el problema de conectividad de Outlook.
+Esta herramienta realizará comprobaciones de diagnóstico y sugerirá posibles soluciones para solucionar el problema Outlook conectividad.
   

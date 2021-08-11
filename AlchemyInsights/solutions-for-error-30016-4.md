@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909951"
 ---
 # <a name="solutions-for-error-30016-4"></a>Soluciones para el error 30016-4
 
-Cuando intenta desinstalar Microsoft 365 apps for Enterprise de un equipo y recibe el mensaje de error, se ha **producido un problema 30016-4**, significa que la unidad **% temp%** está asignada a una unidad distinta de **% ProgramFiles%**.
+Cuando intenta desinstalar Aplicaciones Microsoft 365 para empresas desde un equipo y recibe el mensaje de error, Algo salió mal **30016-4**, significa que la unidad **%temp%** se asigna a una unidad que no sea **%ProgramFiles%**.
   
-Para solucionarlo, descargue e instale el [Asistente para soporte y recuperación](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Para corregir, descargue e instale el [Asistente de soporte y recuperación](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Cuando se abre, desde **desinstalar productos de Office** seleccione la versión que quiere desinstalar y seleccione **siguiente**.
+1. Cuando se abra, en **Desinstalar Office productos** seleccione la versión que desea desinstalar y seleccione **Siguiente**.
 
 2. Siga por el resto de las pantallas y cuando se le pida, reinicie el equipo.
 
-    Después de reiniciar, el Asistente para soporte y recuperación se vuelve a abrir automáticamente para completar el proceso de desinstalación.
+    Después de reiniciar, el Asistente de soporte y recuperación se vuelve a abrir automáticamente para completar el proceso de desinstalación.
 
-3. Siga los mensajes restantes y [vuelva a instalar Office](https://portal.office.com/OLS/MySoftware.aspx) o cierre el asistente.
+3. Siga las indicaciones restantes y [vuelva a instalar Office](https://portal.office.com/OLS/MySoftware.aspx) o cierre el asistente.
