@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49681509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970672"
 ---
 # <a name="whats-new-in-windows-10-version-1903"></a>Novedades de Windows 10, versión 1903
 
-Estas son las características y el contenido nuevos y actualizados de la versión 1903 de Windows 10, también conocida como actualización de Windows 10 May 2019. Esta actualización también contiene todas las características y revisiones incluidas en las actualizaciones acumulativas anteriores a Windows 10, versión 1809:
+Estas son las características nuevas y actualizadas y el contenido de Windows 10 versión 1903, también conocida como Actualización de mayo de 2019 de Windows 10. Esta actualización también contiene todas las características y correcciones incluidas en las actualizaciones acumulativas anteriores para Windows 10, versión 1809:
 
 1. [Implementación](https://go.microsoft.com/fwlink/?linkid=2114296)
-1. [Servicio](https://go.microsoft.com/fwlink/?linkid=2114493)
+1. [Mantenimiento](https://go.microsoft.com/fwlink/?linkid=2114493)
 1. [Seguridad](https://go.microsoft.com/fwlink/?linkid=2114297)
 1. [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2114298)

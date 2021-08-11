@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7813"
 - "9004358"
-ms.openlocfilehash: d9964e50bdea0c41ac14ab3783b579034b5f2c8c
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 0c4ee54a6f1d00e7fd3794539ba185afa4327af1124d8057550806f7fa87de7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092967"
 ---
 # <a name="announcements"></a>Anuncios
 
@@ -47,11 +47,11 @@ Para solucionar el problema de no poder crear un usuario en Azure AD, siga estos
 Para solucionar problemas relacionados con el registro de autoservicio, realice los pasos siguientes:
 
 1. Para usar el registro de autoservicio con sus aplicaciones, primero habilite el inicio de sesión de autoservicio para su espacio empresarial. 
-2. Para habilitar una aplicación para que admita el registro de autoservicio, agréguela al flujo de usuario. La próxima vez que vaya a la página de inicio de sesión de esa aplicación, verá una opción **_¿No tiene cuenta? Cree una._* _. Esto inicia el proceso de registro de autoservicio.
+2. Para habilitar una aplicación para que admita el registro de autoservicio, agréguela al flujo de usuario. La próxima vez que vaya a la página de inicio de sesión de esa aplicación, verá una opción ***¿No tiene cuenta? Cree una***. Esto inicia el proceso de registro de autoservicio.
 3. Para obtener información sobre cómo usar el registro de autoservicio para rellenar una organización en Azure AD, consulte [Registro de autoservicio en Azure AD](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-self-service-signup).
 4. Una vez que asocie el flujo de usuario con una o más aplicaciones, los usuarios que la visiten podrán registrarse y obtener una cuenta de invitado con las opciones configuradas en el flujo de usuario. Para más información sobre cómo suscribirse y obtener una cuenta de invitado, los usuarios pueden ver [Registro de autoservicio para usuarios invitados](https://docs.microsoft.com/azure/active-directory/external-identities/self-service-sign-up-user-flow).
 
-_ *Problema al invitar a usuarios externos**
+**Problema al invitar a usuarios externos**
 
 Para solucionar problemas relacionados con la invitación a un usuario externo, realice el siguiente paso:
 

@@ -1,5 +1,5 @@
 ---
-title: Administración de sitios de SharePoint Online
+title: SharePoint Administración de sitios en línea
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5808"
-ms.openlocfilehash: 3226579bcd505699ff595bffb70548e0767229b1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2cac667b7d662c50834c1e726fdec2cb73342fac11a16289b9ef928925fd173e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093183"
 ---
-# <a name="sharepoint-online-site-management"></a>Administración de sitios de SharePoint Online
+# <a name="sharepoint-online-site-management"></a>SharePoint Administración de sitios en línea
 
-Estos son algunos temas solicitados con frecuencia para la administración de sitios de SharePoint Online:
+Estos son algunos temas solicitados con frecuencia para la SharePoint de sitios en línea:
 
 - [Administrar sitios](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
 - [Administrar los límites de almacenamiento de sitios](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)

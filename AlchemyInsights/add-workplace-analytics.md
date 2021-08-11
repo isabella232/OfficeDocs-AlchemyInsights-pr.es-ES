@@ -1,5 +1,5 @@
 ---
-title: Adición de Workplace Analytics
+title: Agregar análisis de lugar de trabajo
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: 37748293e62e490ad6322d9095cd7b08904f50c6
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d3abd1110b78092563ce26b279cd955d31ef5063425db78567c3cfd906007c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935138"
 ---
-# <a name="add-workplace-analytics"></a>Adición de Workplace Analytics
+# <a name="add-workplace-analytics"></a>Agregar análisis de lugar de trabajo
 
-Con las licencias adecuadas, su empresa puede adquirir el análisis del lugar de trabajo como un complemento para su contrato de licencia. Para poder adquirir licencias de trabajo analítico, su empresa necesita lo siguiente: 
+Con las licencias adecuadas, su empresa puede adquirir Workplace Analytics como complemento de su contrato de licencia. Para poder comprar licencias de Workplace Analytic, su empresa necesita lo siguiente: 
 
-- Un [contrato Enterprise (AE)](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) con Microsoft
-- Un producto de Office 365 o Microsoft 365 que contiene el [plan 1 de Exchange online o el plan 2 de Exchange](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans) online
+- Un [Enterprise Agreement (EA)](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) con Microsoft
+- Un Office 365 o Microsoft 365 que contiene Exchange Online plan 1 o [Exchange Online plan 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)
 
-Para obtener más información, consulte [Requirements for Workplace Analytics](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements). 
+Para obtener más información, vea [Requirements for Workplace Analytics](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements). 

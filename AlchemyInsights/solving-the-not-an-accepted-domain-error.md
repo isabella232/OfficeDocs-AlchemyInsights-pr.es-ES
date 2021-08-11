@@ -1,5 +1,5 @@
 ---
-title: Resolución del error "no es un dominio aceptado"
+title: Solución del error "No es un dominio aceptado"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "839"
 - "1"
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: 6cf72dda355949e6d5f83214b26f2c8d435fd9b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7ea5ebefb0c9a68af5883d7d2f9bed0f4100a53200e30e859d6f90ee519779f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093075"
 ---
-# <a name="got-a-parameter-cannot-be-found-error"></a>¿Se ha encontrado un error "no se encuentra el parámetro"?
+# <a name="got-a-parameter-cannot-be-found-error"></a>¿Tiene un error "No se puede encontrar el parámetro"?
 
-Si recibe el mensaje de error **"no se encuentra un parámetro que coincida con el nombre de parámetro" EmailAddresses "**, significa que está tardando un poco más para que Microsoft 365 finalice la configuración de su espacio empresarial o su dominio personalizado si agregó uno recientemente.
+Si recibe el mensaje de error "No se puede encontrar un parámetro que coincida con el nombre del parámetro **'EmailAddresses",** significa que Microsoft 365 tarda un poco más en terminar de configurar el espacio empresarial o el dominio personalizado si agregó uno recientemente.
   
 El proceso de configuración puede tardar hasta 4 horas en completarse. Espere un poco para que el proceso de configuración tenga el tiempo suficiente para finalizarse y, a continuación, inténtelo de nuevo.
   
