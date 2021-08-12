@@ -1,5 +1,5 @@
 ---
-title: No se pueden eliminar archivos o fotos de archivos en Outlook en la web
+title: No se pueden eliminar archivos o fotos de Archivos en Outlook en la Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 10864e19efeee0e65845de8fff4e021813cde3d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d73662feb79496e8a0901588d35359ef6d878067d93adf2172504e4d96af1cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961465"
 ---
-# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>No se pueden eliminar archivos o fotos de archivos en Outlook en la web
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>No se pueden eliminar archivos o fotos de archivos en Outlook en la Web
 
-**Archivos** muestra los archivos y las fotos adjuntas a los mensajes de su buzón de correo. Para quitar archivos y fotos de archivos, debe eliminar los mensajes de correo electrónico a los que están adjuntos. Después de eliminar los mensajes, también tiene que eliminarlos de la carpeta elementos eliminados.
+**Los** archivos muestran los archivos y fotos adjuntos a los mensajes del buzón. Para quitar archivos y fotos de Archivos, debe eliminar los mensajes de correo electrónico a los que están adjuntos. Después de eliminar los mensajes, también debe eliminarlos de la carpeta Elementos eliminados.
