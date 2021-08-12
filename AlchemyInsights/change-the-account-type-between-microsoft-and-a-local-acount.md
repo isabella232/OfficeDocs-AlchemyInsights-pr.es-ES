@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a26f93f89d6aba5ed889cdfb862bfdc7ae520faffbdc7efc6778a38c8ba12af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968610"
 ---
 # <a name="change-the-account-type-that-you-sign-in-with"></a>Cambiar el tipo de cuenta con el que inicia sesión
 
-Este es el modo de cambiar el tipo de cuenta que usas para iniciar sesión en Windows 10:
+Aquí te explicamos cómo cambiar el tipo de cuenta que usas para iniciar sesión a Windows 10:
 
-1. Selecciona **Iniciar cuentas** de  >    >  **configuración**  >  **Tu información**.
+1. Selecciona **Iniciar**  >  **Configuración**  >  **Cuentas Su**  >  **información**.
 2. Si usa una cuenta local que no está vinculada a una dirección de correo electrónico pero que quiere usar una cuenta de Microsoft, seleccione Iniciar sesión con una **cuenta de Microsoft** en su lugar .
 3. Si usa una cuenta de Microsoft vinculada a una dirección de correo electrónico pero que desea usar una cuenta local, seleccione Iniciar sesión con una cuenta local en **su lugar.**
 4. Si es necesario, escriba la contraseña y luego seleccione **Siguiente**.

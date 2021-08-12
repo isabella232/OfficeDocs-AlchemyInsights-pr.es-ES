@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps y extensión de plan de flujo de Microsoft
+title: 1575-PowerApps y Microsoft Flow plan
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960456"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps y extensión de plan de flujo de Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps y Microsoft Flow plan de extensión
 
-Si tiene previsto solicitar una extensión de plan para **Microsoft Flow** o **PowerApps** y su inquilino ya tiene usuarios activos de una de las siguientes características, no es necesario que presente una solicitud de soporte técnico.
+Si tiene previsto solicitar una extensión de plan para **Microsoft Flow** o **PowerApps** y el inquilino ya tiene usuarios activos de una de las siguientes características, no es necesario presentar una solicitud de soporte técnico.
 
 - Creación y publicación de conectores personalizados en PowerApps y Microsoft Flow
-- Acciones personalizadas HTTP integradas en flujo fuera de SharePoint y OneDrive
+- Acciones personalizadas HTTP integradas Flow fuera SharePoint y OneDrive
 - Integración de datos locales a través de la puerta de enlace de datos local
 
-Los clientes con usuarios activos de estas características obtendrán una extensión automática hasta el 31 de enero de 2020, o la fecha de expiración del plazo de suscripción de Microsoft 365 existente, lo que sea más largo.
+Los clientes con usuarios activos de estas características recibirán una extensión automática hasta el 31 de enero de 2020 o la expiración de su período de suscripción Microsoft 365, lo que sea más largo.
