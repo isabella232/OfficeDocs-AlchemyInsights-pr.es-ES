@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6143"
 - "9003097"
-ms.openlocfilehash: 983fc15c3a43ebbf0643e5268baa783be64cca5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa5e62d0419df20b1c2b09add0b16670767fb24f5b50fcc0f5246fa48299f07b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929142"
 ---
 # <a name="disable-chat-for-students"></a>Deshabilitar el chat para alumnos
 

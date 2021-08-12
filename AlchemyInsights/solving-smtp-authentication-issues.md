@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
-ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
+ms.openlocfilehash: f6f0228f6cdf7e07c9f439c54a7a2bd5364381c0e47dc80117bd964c5eafea61
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957225"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Habilitar autenticación SMTP y solución de problemas
 
@@ -25,7 +25,7 @@ Si desea habilitar la autenticación SMTP para un buzón o recibe un error "Clie
 
 1. Deshabilite los [Valores predeterminados de seguridad de Azure](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). Para ello, establezca **Habilitar los valores predeterminados de seguridad** en **No**.
 
-    a. Inicie sesión en el Azure Portal como administrador de seguridad, administrador de acceso condicional o administrador global.<BR/>
+    a. Inicie sesión en Azure Portal como administrador de seguridad, administrador de acceso condicional o administrador global.<BR/>
     b. Vaya a Azure Active Directory >  **Propiedades**.<BR/>
     c. Seleccione **Administrar los valores predeterminados de seguridad**.<BR/>
     d. Establezca **Habilitar los valores predeterminados de seguridad** en **No**.<BR/>
