@@ -1,5 +1,5 @@
 ---
-title: Deploy Office to your users Guide
+title: Implementar Office en la Guía de usuarios
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948108"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Deploy Office to your users Guide
+# <a name="deploy-office-to-your-users-guide"></a>Implementar Office en la Guía de usuarios
 
-Implemente aplicaciones de Office desde la nube con la capacidad de personalizar la instalación mediante la Herramienta de implementación de Office.
+Implemente Office desde la nube con la capacidad de personalizar la instalación mediante la herramienta Office implementación.
 
-La [guía Implementar Office para los](https://go.microsoft.com/fwlink/?linkid=2146451) usuarios le ayuda a crear una configuración personalizada de Office con una configuración avanzada o puede usar una configuración recomendada predefinida. Tanto si los usuarios realizan una instalación automática como si están implementando para los usuarios de forma individual o masiva, este asistente avanzado le proporciona instrucciones paso a paso para proporcionar a los usuarios una instalación de Office adaptada a su organización.
+La [guía Implementar Office](https://go.microsoft.com/fwlink/?linkid=2146451) a los usuarios le ayuda a crear una configuración de Office personalizada con una configuración avanzada o puede usar una configuración recomendada predefinida. Tanto si los usuarios realizan una instalación automática como si están implementando en los usuarios de forma individual o masiva, este asistente avanzado le proporciona instrucciones paso a paso para proporcionar a los usuarios una instalación de Office adaptada a su organización.

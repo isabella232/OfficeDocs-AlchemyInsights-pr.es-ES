@@ -13,16 +13,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: a74b6f938f3059c307f35e94e4abfbb590282a3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 153d908298e5fcfe8417f45ac89c911993f98d16ffe5c27abda4b6f3959002c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963768"
 ---
 # <a name="how-to-change-your-layout"></a>Cómo cambiar el diseño
 
-Es fácil cambiar la configuración de Outlook.com para que tenga el aspecto y el comportamiento deseado. Seleccione **configuración** en la barra de herramientas para las opciones más populares.
+Es fácil cambiar la configuración en Outlook.com para que se vea y se comporte de la manera que quiera. Seleccione **Configuración** en la barra de herramientas a las opciones más populares.
 
-Para ver todas las opciones de diseño, seleccione **configuración**del diseño de  >  **correo**  >  [**Layout**](https://outlook.live.com/mail/options/mail/layout).
+Para ver todas las opciones de diseño, **seleccione Configuración**  >  **diseño de**  >  [**correo**](https://outlook.live.com/mail/options/mail/layout).
   
