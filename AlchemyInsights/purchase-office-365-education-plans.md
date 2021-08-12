@@ -13,16 +13,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: e0efffdf37118aec0abeaf47107d3cf120082cc9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 440d6c2266e5cfa0ea3bf0c8fe02c057640c8f8036512bb650f870aef3b65b27
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943536"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 Educación: aprobado
 
-Ha recibido la aprobación para Office 365 Educación.  Para comprar:
+Ha recibido la aprobación para Office 365 Educación. Para comprar:
 
 1. Vaya a **Facturación** > [ Servicios de compra](https://portal.office.com/AdminPortal/Home#/catalog).
 

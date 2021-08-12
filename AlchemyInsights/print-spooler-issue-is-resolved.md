@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73ff86928c043dd41f49d456d30c2fcf7947bd4cb304d0456c634d4fa5808239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911355"
 ---
 # <a name="print-spooler-issue-is-resolved"></a>Se ha resuelto el problema con el administrador de trabajos de impresión
 

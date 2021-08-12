@@ -1,5 +1,5 @@
 ---
-title: Introducción a Microsoft Search con la guía de configuración
+title: Introducción a la Búsqueda de Microsoft la guía de configuración
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003287"
 - "11208"
-ms.openlocfilehash: 3f90f2d2f20756643d72a5a3086fe9e94d9eaf19
-ms.sourcegitcommit: e7b6827015e05fb3280b153605498bfae7d09c7c
+ms.openlocfilehash: 3c401cd3c0bb7b5838b416513c0d0ee6d3846eb9a2e5a18fca8f8b782fda6098
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52325529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943176"
 ---
-# <a name="get-started-with-microsoft-search-using-the-set-up-guide"></a>Introducción a Microsoft Search con la guía de configuración
+# <a name="get-started-with-microsoft-search-using-the-set-up-guide"></a>Introducción a la Búsqueda de Microsoft la guía de configuración
 
-Microsoft Search proporciona una interfaz fácil de usar para buscar y encontrar resultados en los servicios y aplicaciones de Microsoft 365 de su organización. Microsoft Search se incluye con la suscripción a Microsoft 365 elegible sin costo adicional. 
+Búsqueda de Microsoft una interfaz fácil de usar para buscar y encontrar resultados en Microsoft 365 servicios y aplicaciones de la organización. Búsqueda de Microsoft se incluye con la suscripción Microsoft 365 elegible sin costo adicional. 
 
-Use la [guía de configuración de Microsoft Search](https://go.microsoft.com/fwlink/?linkid=2156919) para configurar si desea realizar una prueba piloto de búsqueda para un grupo de usuarios o si la va a realizar para todos los usuarios de su organización. Asignarás administradores de búsqueda y editores de búsqueda y personalizarás la experiencia de búsqueda de los usuarios con respuestas y opciones adicionales, como agregar la extensión de Bing a Chrome o establecer Bing como tu motor de búsqueda predeterminado.
+Use la [Búsqueda de Microsoft de](https://go.microsoft.com/fwlink/?linkid=2156919) configuración para configurar si desea realizar una búsqueda piloto para un grupo de usuarios o si la va a realizar para todos los usuarios de la organización. Asignarás administradores de búsqueda y editores de búsqueda y personalizarás la experiencia de búsqueda de los usuarios con respuestas y opciones adicionales, como agregar la extensión Bing a Chrome o configurar Bing como motor de búsqueda predeterminado.
