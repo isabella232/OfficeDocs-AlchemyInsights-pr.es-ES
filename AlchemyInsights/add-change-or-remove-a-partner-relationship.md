@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b07c01337694f7acdab594dd46fdf2ff0cfeb70bf6298fb66a7e6736f8a98e96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936290"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Agregar, cambiar o quitar una relación de partner
 
-Como administrador, puedes trabajar con un partner para comprar, activar y renovar suscripciones de Microsoft 365. 
+Como administrador, puedes trabajar con un partner para comprar, activar y renovar Microsoft 365 suscripciones. 
 
 - Si desea editar la relación de socio existente, vea Agregar, cambiar o eliminar un partner asesor [de suscripción.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)
 

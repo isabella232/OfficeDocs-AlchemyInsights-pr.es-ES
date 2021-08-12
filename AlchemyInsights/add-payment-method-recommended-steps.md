@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: 51045d4b35833ed72097d75ff1720a9d2604d196
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 7595b5676e3253600536d226774d20e5c5750d7c88f3b76d82d82c320fb295a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935796"
 ---
 # <a name="add-payment-method---recommended-steps"></a>Agregar método de pago: pasos recomendados
 
-Debe tener los privilegios del administrador de la cuenta y del propietario de la suscripción para cancelar una suscripción en Azure portal. 
+Debe tener los privilegios de un administrador de cuenta y del propietario de la suscripción para cancelar una suscripción en Azure Portal. 
 
-Para cancelar una suscripción en Azure portal, haga clic en [Cancelar suscripción de Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) y que le redirigirá a la página de **suscripción** de Azure portal para seleccionar y cancelar la suscripción. 
+Para cancelar una suscripción en Azure Portal, haga clic  en Cancelar suscripción a [Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) y eso le redirigirá a la página de suscripción de Azure Portal para seleccionar y cancelar la suscripción. 
 
 **¿Qué sucede después de cancelar la suscripción?** 
 
-Tras la cancelación de la suscripción, la facturación se detiene inmediatamente. Sin embargo, el estado de cancelación puede tardar hasta 10 minutos en mostrarse en Azure portal. Microsoft enviará la factura final en la factura del próximo mes para cualquier consumo o compra parcial. Los servicios que se ejecutan en la suscripción se deshabilitan tras la cancelación de la suscripción. Esto significa que las máquinas virtuales se desasignan, se liberan las direcciones IP temporales y el almacenamiento se convierte en **solo lectura**. 
+Tras la cancelación de la suscripción, la facturación se detiene inmediatamente. Sin embargo, el estado de cancelación puede tardar hasta 10 minutos en mostrarse en Azure Portal. Microsoft enviará la factura final en la factura del mes siguiente para cualquier compra o consumo parcial. Los servicios que se ejecutan en la suscripción se deshabilitan tras la cancelación de la suscripción. Esto significa que las máquinas virtuales están desasignadas, las direcciones IP temporales se liberan y el almacenamiento pasa a ser **de solo lectura.** 
 
-Una vez cancelada la suscripción, Microsoft espera los 30-90 días antes de eliminar de forma permanente los datos en caso de que necesite obtener acceso a ellos o si cambia de opinión. Microsoft no cobra por retener los datos. Para obtener más información, vea [centro de confianza de Microsoft: cómo se administran los datos](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Después de cancelar la suscripción, Microsoft espera entre 30 y 90 días antes de eliminar permanentemente los datos en caso de que necesite acceder a ella o cambie de opinión. Microsoft no cobra por conservar los datos. Para obtener más información, vea [Microsoft Trust Center - How we manage your data](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 
 
 
