@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931970"
 ---
 # <a name="app-passwords"></a>Contraseñas de aplicación
 
-Una contraseña de aplicación es un código que da a una aplicación o a un dispositivo permiso para obtener acceso a su cuenta profesional o educativa de Microsoft. Si su cuenta requiere multi-factor Authentication (MFA) y la aplicación se conecta a su cuenta, debe generar una contraseña de aplicación para que la aplicación pueda conectarse a Microsoft. Por ejemplo, Outlook 2016 y versiones anteriores de Outlook de requieren una contraseña de aplicación.
+Una contraseña de aplicación es un código que proporciona a una aplicación o dispositivo permiso para acceder a su cuenta de trabajo o escuela de Microsoft. Si tu cuenta requiere autenticación multifactor (MFA) y la aplicación se conecta a tu cuenta, debes generar una contraseña de aplicación para que la aplicación pueda conectarse a Microsoft. Por ejemplo, Outlook 2016 versiones anteriores Outlook requieren una contraseña de aplicación.
 
- **Nota**: antes de realizar los pasos siguientes, compruebe con su administrador de Microsoft 365 que MFA es necesario para su cuenta. Si no es así, las opciones descritas en los pasos no estarán disponibles.
+ **Nota:** Antes de probar los siguientes pasos, compruebe con el administrador de Microsoft 365 que mfa es necesario para su cuenta. Si no es así, las opciones descritas en los pasos no estarán disponibles.
 
-1. Inicie sesión con su cuenta profesional o educativa y su contraseña.
+1. Inicie sesión con su cuenta laboral o educativa y su contraseña.
 
-2. Elija **configurar ahora**.
+2. Elija **Configurar ahora**.
 
-3. Seleccione el método de autenticación y siga las instrucciones.
+3. Seleccione el método de autenticación y siga las indicaciones.
 
-4. Una vez que haya comprobado el método de contacto alternativo, elija **siguiente**.
+4. Después de comprobar el método de contacto alternativo, elija **Siguiente**.
 
-5. Obtendrá una contraseña de aplicación que puede usar con Outlook, el correo de Apple y otras aplicaciones que la necesiten. Elija **copiar** para copiar la contraseña para poder pegarla en otro lugar (no es necesario memorizarla).
+5. Tendrás una contraseña de aplicación que puedes usar con Outlook, Apple Mail y otras aplicaciones que lo requieran. Elija **Copiar** para copiar la contraseña para poder pegarla en otro lugar (no es necesario memorizar).

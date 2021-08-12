@@ -1,5 +1,5 @@
 ---
-title: Volver a la versión clásica de Outlook en la web
+title: Revierte a la versión Outlook en la Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c083efef3e77dc175737e0412fd958c448f4f118955dc7a95427dab831ccbe4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924030"
 ---
-# <a name="the-new-outlook-on-the-web"></a>El nuevo Outlook en la web
+# <a name="the-new-outlook-on-the-web"></a>El nuevo Outlook en la Web
 
-Ya no es posible volver a la experiencia clásica de Outlook en la Web. Si le gustaría enviar comentarios sobre la nueva experiencia, vaya al [Foro de UserVoice](https://go.microsoft.com/fwlink/?linkid=2103182). Puede votar sobre las ideas o los problemas a los que le gustaría dirigirse y responderemos directamente a los principales comentarios y sugerencias.
+Ya no es posible volver a la experiencia Outlook en la Web clásica. Si desea enviar comentarios sobre la nueva experiencia, vaya al foro [UserVoice](https://go.microsoft.com/fwlink/?linkid=2103182). Puedes votar sobre las ideas o los problemas que quieras ver resueltos y responderemos directamente a los comentarios y sugerencias principales.
 
-[Obtener ayuda con el nuevo Outlook en la web](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[Obtenga ayuda con la nueva Outlook en la Web](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)

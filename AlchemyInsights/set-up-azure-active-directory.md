@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958206"
 ---
 # <a name="set-up-azure-active-directory"></a>Configurar Azure Active Directory
 
-La [Guía de configuración de Azure ad](https://go.microsoft.com/fwlink/?linkid=2134390) proporciona información para garantizar que su organización tenga una base de seguridad sólida. En esta guía, se configuran las características iniciales, como el control de acceso basado en roles de Azure (Azure RBAC) para los administradores, Azure AD Connect para el directorio local y Azure AD Connect Health, de modo que pueda supervisar el estado de la identidad híbrida durante las sincronizaciones automatizadas.
+La [guía de configuración de Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) proporciona información para garantizar que su organización tenga una base de seguridad sólida. En esta guía, configurará características iniciales, como el control de acceso basado en roles de Azure (RBAC de Azure) para administradores, Azure AD Conectar para el directorio local y Azure AD Conectar Health, para que pueda supervisar el estado de su identidad híbrida durante las sincronizaciones automatizadas.
 
-También se incluye información esencial sobre cómo habilitar el restablecimiento de contraseñas de autoservicio, el acceso condicional y el inicio de sesión de terceros integrado, incluida la protección de identidad avanzada opcional y la automatización del aprovisionamiento de usuarios.
+También incluye información esencial sobre cómo habilitar los restablecimientos de contraseñas sin intervención del administrador, el acceso condicional y el inicio de sesión integrado de terceros, incluida la protección de identidad avanzada opcional y la automatización del aprovisionamiento de usuarios.
