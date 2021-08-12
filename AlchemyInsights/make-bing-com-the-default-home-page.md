@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9263"
-ms.openlocfilehash: 23229bc6d01a84684d7074e498058e9674221d36
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: afe8c68d1d5d0c9ad898d4ca90931b02449a90c4564f9fdc9abfaf6ce53aeba1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912435"
 ---
 # <a name="make-bingcom-the-default-home-page"></a>Convertir Bing.com en la Página principal predeterminada
 
-Para convertir Bing en la página principal predeterminada en Microsoft Edge, Google Chrome e Internet Explorer, siga las instrucciones de [Make Bing.com the default home page](https://go.microsoft.com/fwlink/?linkid=2149816).
+Para convertir Bing página principal predeterminada en Microsoft Edge, Google Chrome e Internet Explorer, siga las instrucciones de Hacer de [Bing.com](https://go.microsoft.com/fwlink/?linkid=2149816)la página principal predeterminada .

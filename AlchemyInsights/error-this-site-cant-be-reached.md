@@ -1,5 +1,5 @@
 ---
-title: 'No se puede acceder a este sitio: error al intentar obtener acceso al sitio de SharePoint desde el explorador o Teams'
+title: 'No se puede acceder a este sitio: error al intentar obtener acceso SharePoint sitio desde el explorador o Teams'
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 5f8861e85df21082329273237679e26a1b31ce694e11ad6407d4690d7caf2fc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50718200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946668"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Error de "No se puede llegar a este sitio" al intentar obtener acceso al sitio de SharePoint desde el explorador o Teams
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Error de "No se puede llegar a este sitio" al intentar obtener acceso a SharePoint desde el explorador o Teams
 
-Es posible que los usuarios reciban el error "No se puede llegar a este sitio" al intentar obtener acceso al sitio de SharePoint desde el explorador o Teams. 
+Es posible que los usuarios reciban el error "No se puede llegar a este sitio" al intentar obtener acceso SharePoint sitio desde el explorador o Teams. 
 
 Para solucionar este problema: 
 
