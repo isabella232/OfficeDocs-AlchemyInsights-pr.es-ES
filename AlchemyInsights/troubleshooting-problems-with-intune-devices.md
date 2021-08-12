@@ -1,5 +1,5 @@
 ---
-title: Solución de problemas con dispositivos de Intune
+title: Solución de problemas con dispositivos Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48785624"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920916"
 ---
-# <a name="troubleshooting-problems-with-intune-devices"></a>Solución de problemas con dispositivos de Intune
+# <a name="troubleshooting-problems-with-intune-devices"></a>Solución de problemas con dispositivos Intune
 
-Si un dispositivo administrado de Intune tiene problemas, primero revise la documentación de [Administración de dispositivos con Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) para confirmar la configuración básica y comprobar el estado del dispositivo.
+Si un dispositivo administrado de Intune tiene problemas, revise primero la documentación sobre administración de dispositivos con [Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) para confirmar la configuración básica y comprobar el estado del dispositivo.
 
-Los problemas como las directivas que faltan o retrasadas, las directivas incorrectas, el acceso inesperado o la falta de acceso pueden deberse a que el dispositivo no esté sincronizado con Intune. Para obtener más información, consulte la documentación de [sincronización de dispositivos](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) .
+Problemas como directivas ausentes o retrasadas, directivas incorrectas, acceso inesperado o falta de acceso pueden deberse a que el dispositivo no esté sincronizado con Intune. Revisa la [documentación de sincronización de](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) dispositivos para obtener más información.
 
-Se pueden encontrar problemas comunes relacionados con la protección de dispositivos, la sincronización de directivas y la configuración de dispositivos en la documentación de [preguntas y respuestas comunes](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) o [solución de problemas](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) .
+Los problemas comunes relacionados con la implementación de dispositivos, [](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) la sincronización de directivas y la configuración de dispositivos se pueden encontrar en la documentación sobre preguntas y respuestas comunes o la documentación sobre la [directiva de](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) solución de problemas.

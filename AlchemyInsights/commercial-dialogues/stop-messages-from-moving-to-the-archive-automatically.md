@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929970"
 ---
 # <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Impedir que los mensajes se muevan al archivo automáticamente
 
-Si usa una directiva de retención, puede cambiar la antigüedad de retención en esa directiva para impedir que los mensajes se archiven automáticamente. A continuación se describe cómo:
+Si usa una directiva de retención, puede cambiar la antigüedad de retención en esa directiva para impedir que los mensajes se archiven automáticamente. A continuación se muestra cómo hacerlo:
 
-1. En el [Centro de administración de Exchange,](https://go.microsoft.com/fwlink/?linkid=2059104)elija **etiquetas de retención de administración** de  >  **cumplimiento.** Busque la etiqueta de retención Mover a archivo.
+1. En el [Centro Exchange administración,](https://go.microsoft.com/fwlink/?linkid=2059104)elija **etiquetas de** retención de  >  **administración de cumplimiento.** Busque la etiqueta de retención Mover a archivo.
 2. En la etiqueta de retención, cambie el período de retención (período de archivo) a **Nunca** para impedir que los elementos se archiven automáticamente mediante una directiva de retención.
 
 > [!NOTE]
