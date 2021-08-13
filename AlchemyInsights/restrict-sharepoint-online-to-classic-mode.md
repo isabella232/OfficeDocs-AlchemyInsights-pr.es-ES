@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958818"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Restringir SharePoint Online al modo clásico
 
-Algunas organizaciones todavía necesitan la experiencia de modo clásico. Aunque no hay planes para quitar el modo clásico en un nivel granular, ya no es posible restringir una organización completa (inquilino) al modo clásico para listas y bibliotecas.
+Algunas organizaciones aún requieren la experiencia del modo clásico. Aunque no hay planes para quitar el modo clásico en un nivel granular, ya no es posible restringir toda una organización (inquilino) al modo clásico para listas y bibliotecas.
 
-El administrador tendrá las siguientes opciones para administrar listas y bibliotecas individuales en modo clásico mediante modificadores de exclusión granulares que proporcionamos en los siguientes niveles:
+El administrador tendrá las siguientes opciones para administrar listas y bibliotecas individuales en modo clásico mediante modificadores de exclusión pormenorizados que proporcionamos en los siguientes niveles:
 
 - colección de sitios
 - sitio
 - lista
-- Biblioteca
+- biblioteca
 
-Además, las listas que usan determinadas características y personalizaciones que no son compatibles con Modern seguirán cambiando automáticamente al modo clásico.
+Además, las listas que usan determinadas características y personalizaciones que no son compatibles con modern seguirán cambiando automáticamente al modo clásico.
 
-A partir del 1 de abril de 2019, el proceso para deshabilitar el nivel de inquilino no participar en la lista y las bibliotecas modernas se iniciará y continuará hasta el 31 de mayo de 2019.  Las listas y bibliotecas que se encuentran en modo clásico como resultado de la cancelación de inquilino se desplazarán automáticamente a moderna.
+A partir del 1 de abril de 2019, el proceso para deshabilitar el nivel de inquilino optar por no participar en listas modernas y bibliotecas se iniciará y continuará hasta el 31 de mayo de 2019.  Las listas y bibliotecas que están en modo clásico como resultado de la exclusión del inquilino se cambiarán automáticamente a modernas.
 
-Si necesita el modo clásico, vea [aquí](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) más información [aquí](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) y instrucciones de PowerShell PNP que describe las opciones y las herramientas que puede usar hoy para usar la experiencia de modo clásico.
+Si necesita el modo clásico, vea más información [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) aquí y instrucciones de Powershell pnP aquí que describen las opciones y las herramientas que puede usar hoy para usar la experiencia del modo clásico. [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023)
