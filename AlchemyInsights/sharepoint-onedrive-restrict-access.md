@@ -1,5 +1,5 @@
 ---
-title: Restringir el acceso a SharePoint o OneDrive
+title: Restringir el acceso en SharePoint o OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,22 +9,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e9eb1822a7770bc206992cc5fb7e54a5c972b7e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc6731d5a7747bb4fc8d6cef1b6ac0045d11917d7f97abbb21eea9613b1b1aa2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093903"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir el acceso a SharePoint o OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir el acceso en SharePoint o OneDrive
 
-Hay muchas formas de restringir el acceso a los servicios de SharePoint Online/OneDrive. Estos varios métodos de restricción de acceso se describen a continuación. 
+Hay muchas maneras de restringir el acceso a SharePoint servicios online/OneDrive web. Estos distintos métodos de restricción de acceso se describen a continuación. 
 
 **Restricción de permisos**
 
-En SharePoint Online y OneDrive para la empresa, se restringe el acceso a elementos como sitios, archivos y carpetas mediante la concesión solo de acceso a los grupos o usuarios que deben tener acceso.
+En SharePoint Online y OneDrive para la Empresa, se restringe el acceso a elementos como sitios, archivos y carpetas al conceder acceso únicamente a los grupos o personas que deben tener acceso.
 
-- [Personalización de permisos para una lista o biblioteca de SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Personalizar permisos para una SharePoint o biblioteca](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
 - [Personalizar permisos del sitio de SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
@@ -32,17 +32,17 @@ En SharePoint Online y OneDrive para la empresa, se restringe el acceso a elemen
 
 - [Control de acceso desde dispositivos no administrados](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Como administrador global o de SharePoint, puede bloquear o limitar el acceso a contenido de SharePoint y OneDrive desde dispositivos no administrados (no compatibles con AD híbrido o compatibles con Intune).
+Como administrador SharePoint o global, puede bloquear o limitar el acceso a contenido de SharePoint y OneDrive desde dispositivos no administrados (aquellos que no son compatibles o unidos a AD híbridos en Intune).
 
 **Restricción de ubicación de red**
 
-Como administrador de ti, puede controlar el acceso a los recursos de SharePoint y OneDrive en función de las ubicaciones de red definidas en las que confíe. Esto también se conoce como directiva basada en la ubicación. Para obtener más información, vea [controlar el acceso a los datos de SharePoint Online y OneDrive en función de la ubicación de la red](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location) .
+Como administrador de TI, puede controlar el acceso a SharePoint y OneDrive en función de las ubicaciones de red definidas en las que confíe. Esto también se conoce como directiva basada en la ubicación. Para obtener más información, consulte [Control access to SharePoint Online and OneDrive data based on network location](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Restricción de bloqueo del sitio** 
+**Restricción de bloqueo de sitio** 
 
-En SharePoint Online tiene la posibilidad de bloquear una colección de sitios, por lo que nadie tiene acceso. Esto se establece a través de PowerShell y el [Shell de administración de SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) con la propiedad [set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState.
+En SharePoint Online tiene la capacidad de bloquear una colección de sitios, por lo que nadie tiene acceso. Esto se establece a través de PowerShell y [SharePoint Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) de administración en línea mediante la [propiedad Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState.
 
 **Restringir a los usuarios la creación de sitios o subsitios**
 
-Como administrador de SharePoint o administrador global, puede permitir a los usuarios crear y administrar sus propios sitios de SharePoint, determinar el tipo de sitios que pueden crear y especificar la ubicación de los sitios. Para obtener más información, vea [administrar la creación de sitios en SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation) .
+Como administrador SharePoint o administrador global, puede permitir que los usuarios creen y administren sus propios sitios de SharePoint, determinar qué tipo de sitios pueden crear y especificar la ubicación de los sitios. Para obtener más información, consulte [Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

@@ -1,5 +1,5 @@
 ---
-title: Configurar las opciones de auditoría
+title: Configuración de la auditoría
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 464c0e8a37b5f572db319ee6f304bb2c6858f748ce8e6d58d155e458ce8517a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915496"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Configurar las opciones de auditoría de SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>Configurar SharePoint de auditoría
 
-Los administradores de la colección de sitios de SharePoint pueden realizar un seguimiento de las acciones del usuario en el contenido mediante la configuración de auditoría.
+SharePoint administradores de la colección de sitios pueden realizar un seguimiento de las acciones del usuario en el contenido mediante la configuración de la auditoría.
   
-1. Abra el sitio de SharePoint.
+1. Abra el SharePoint web.
     
-2. Haga clic en el icono configuración y, a continuación, en **configuración del sitio**. Si no ve "configuración del sitio", haga clic en **información del sitio**y, a continuación, haga clic en **ver toda la configuración del sitio**.
+2. Haga clic en el Configuración y, a continuación, haga clic en **Configuración del sitio**. Si no ve "Configuración del sitio", haga clic en Información del sitio **y,** a continuación, haga clic **en Ver toda la configuración del sitio.**
     
-3. En **Administración**de la colección de sitios, seleccione Configuración de auditoría de la **colección de sitios**. (Si no la ve, haga clic en **ir a la configuración del sitio** de primer nivel). 
+3. En **Administración de colecciones de sitios,** seleccione **Configuración de auditoría de la colección de sitios**. (Si no lo ve, haga clic en **Ir primero a la configuración del** sitio de nivel superior). 
     
-Para obtener información sobre lo que se incluye en los informes de registro de auditoría de SharePoint y cómo verlos, vea [Configure Audit Settings for a site Collection](https://go.microsoft.com/fwlink/?linkid=404050).
+Para obtener información sobre lo que se incluye en SharePoint de registro de auditoría y cómo verlos, consulte [Configure audit settings for a site collection](https://go.microsoft.com/fwlink/?linkid=404050).
   
 

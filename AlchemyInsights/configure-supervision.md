@@ -1,5 +1,5 @@
 ---
-title: Configuración de la supervisión
+title: Configurar supervisión
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807532"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915460"
 ---
 # <a name="configure-supervision-policies"></a>Configurar directivas de supervisión
 
-Las directivas de supervisión de Microsoft 365 permiten supervisar el correo electrónico de Exchange, Skype empresarial online, Microsoft Teams y comunicaciones de terceros enviadas dentro y fuera de la organización. Los revisores designados pueden examinar mensajes supervisados para asegurarse de que cumplen con las directivas de la organización, la administración de riesgos y los estándares de cumplimiento normativo, y los resuelven con un tipo de clasificación.
+Las directivas de supervisión de Microsoft 365 permiten supervisar las comunicaciones de Exchange, Skype Empresarial Online, Microsoft Teams y 3rd party enviadas dentro y fuera de la organización. Los revisores designados pueden examinar los mensajes supervisados para asegurarse de que cumplen con las directivas de su organización, la administración de riesgos y los estándares de cumplimiento normativo y resolverlos con un tipo de clasificación.
 
 Para usar directivas de supervisión en su organización, debe:
 
-- Determinar las comunicaciones que se deben supervisar.
-- Decida quién va a realizar la revisión de las comunicaciones.
+- Determine las comunicaciones que se supervisarán.
+- Decidir quién realizará la revisión de comunicaciones.
 - Directivas de supervisión de configuración
 
 Más información:
