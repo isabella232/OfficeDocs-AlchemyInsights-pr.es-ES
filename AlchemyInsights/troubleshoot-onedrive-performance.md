@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas de rendimiento de OneDrive
+title: Solucionar problemas OneDrive rendimiento
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 4699f6113acd70b4778f9feeaeec012ff8fdd63f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15d9067e6b55b91af312671db9209f93ffc58859aaf69d63c84dbc354aff3dd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939144"
 ---
-# <a name="troubleshoot-onedrive-performance"></a>Solucionar problemas de rendimiento de OneDrive
+# <a name="troubleshoot-onedrive-performance"></a>Solucionar problemas OneDrive rendimiento
 
-Si está experimentando una sincronización más lenta que la esperada o problemas de rendimiento similares con OneDrive:
+Si está experimentando una sincronización más lenta de lo esperado o problemas de rendimiento similares con OneDrive:
 
-- Confirme que no hay problemas conocidos al usar el [Panel de estado del servicio](https://portal.office.com/adminportal/home?ref=/servicehealth).
+- Confirme que no hay problemas conocidos con el [Panel de mantenimiento del servicio](https://portal.office.com/adminportal/home?ref=/servicehealth).
 
-- [Habilite los archivos a petición](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) para poder acceder a todos los archivos en OneDrive sin tener que descargarlos todos y usar espacio de almacenamiento en el dispositivo.
+- [Habilita Archivos a petición](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) para que puedas acceder a todos los archivos de OneDrive sin tener que descargarlos todos y usar espacio de almacenamiento en el dispositivo.
 
 - [Revise los procedimientos recomendados](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) para la planeación y el rendimiento de la red.
 
-- [Maximice la velocidad de carga y descarga](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43), especialmente si está sincronizando un dispositivo por primera vez.
+- [Maximiza la velocidad de carga y](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)descarga, especialmente si estás sincronizando un dispositivo por primera vez.
 
-- Si está sincronizando una biblioteca con más de 100.000 elementos, puede parecer que la sincronización de OneDrive se ha bloqueado durante mucho tiempo, o el estado muestra el procesamiento de 0KB de xMB ". [Obtenga más información sobre cómo sincronizar más de 100.000 archivos](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , así como el [límite admitido por OneDrive de 300.000 archivos](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- Si está sincronizando una biblioteca con más de 100 000 elementos, Sincronización de OneDrive puede parecer atascado durante mucho tiempo, o el estado muestra Procesamiento de 0 KB de xMB." Obtenga más información sobre la sincronización de más de [100 000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) archivos, así como el límite compatible de OneDrive de [300 000 archivos.](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 - Cuando un usuario supera los límites de uso, SharePoint Online las limitaciones de las solicitudes sucesivas de esa cuenta de usuario durante un breve período. Se limita a todas las acciones de usuario mientras el acelerador está activada.

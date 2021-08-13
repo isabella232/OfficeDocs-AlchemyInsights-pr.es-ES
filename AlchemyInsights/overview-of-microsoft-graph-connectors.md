@@ -1,5 +1,5 @@
 ---
-title: Información general sobre los conectores de Microsoft Graph
+title: Conectores de información general de Microsoft Graph
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47941518"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924564"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>Información general sobre los conectores de Microsoft Graph
+# <a name="overview-of-microsoft-graph-connectors"></a>Conectores de información general de Microsoft Graph
 
-Para planear los conectores de Microsoft Graph, vea la introducción a los  [conectores](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Para planear Microsoft Graph Connectors, consulte [Connectors Overview](https://docs.microsoft.com/microsoftsearch/connectors-overview).
 
-- Vea los [conectores de Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) o de los  [conectores de asociados](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
-- [Administre el conector para Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Vea [Connectors by Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) o  [Connectors by Partners](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
+- [Administrar el conector para Búsqueda de Microsoft](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-Para planear Microsoft Search, vea la  [información general de Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Para planear la Búsqueda de Microsoft, vea [overview of Búsqueda de Microsoft](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).

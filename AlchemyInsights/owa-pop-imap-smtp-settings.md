@@ -1,5 +1,5 @@
 ---
-title: Configuración de POP, IMAP y SMTP en Outlook en la web
+title: Configuración de POP, IMAP y SMTP en Outlook en la Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,23 +10,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a3f717754a5ebe5c73624553521241d57b38a7da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2932a7cf3c6681e00455f8292716b46d911010a4d2c84d519f90b2ffa971b35f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960996"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Configuración de POP, IMAP & SMTP para Outlook en la web
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Pop, IMAP & smtp para Outlook en la Web
 
-Si desea agregar la cuenta de Microsoft 365 a otra aplicación de correo que admita POP, IMAP o SMTP, esta es la configuración manual del servidor que necesitará:
+Si quieres agregar tu cuenta de Microsoft 365 a otra aplicación de correo que admita POP, IMAP o SMTP, esta es la configuración manual del servidor que necesitarás:
   
-- **Nombre del servidor IMAP:** Outlook.Office365.com
+- **Nombre del servidor IMAP:** outlook.office365.com
 - **Puerto IMAP:** 993
 - **Método de cifrado IMAP:** SSL/TLS
-- **Nombre del servidor POP:** Outlook.Office365.com  
-- **Puerto pop:** 995  
-- **Método de cifrado pop:** SSL/TLS  
-- **Nombre del servidor SMTP:** SMTP.Office365.com
+- **Nombre del servidor POP:** outlook.office365.com  
+- **Puerto POP:** 995  
+- **Método de cifrado POP:** SSL/TLS  
+- **Nombre del servidor SMTP:** smtp.office365.com
 - **Puerto SMTP:** 587
 - **Método de cifrado SMTP:** STARTTLS

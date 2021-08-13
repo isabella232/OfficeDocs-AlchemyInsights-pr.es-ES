@@ -1,5 +1,5 @@
 ---
-title: Cómo comprobar el estado de la sincronización de contraseña
+title: Cómo comprobar el estado de sincronización de contraseñas
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960888"
 ---
-# <a name="enable-password-sync"></a>Habilitar la sincronización de contraseña
+# <a name="enable-password-sync"></a>Habilitar sincronización de contraseñas
 
-1.  Elija **Estado de sincronización de directorios** en la Página principal del centro de administración de Microsoft 365. 
+1.  Elija **Estado de DirSync** en la Centro de administración de Microsoft 365 principal. 
     
-     *Como alternativa, puede **ir a usuarios** \> **activos**y, en la página usuarios activos, elija **más** \> **sincronización de directorios.*** 
+     *Como alternativa, puede ir a **Usuarios** usuarios activos y, en la \> página Usuarios activos, elija **Más sincronización** \> **de directorios.*** 
     
-2. En el panel sincronización de directorios, elija **ir a administración de sincronización**de directorios. 
+2. En el panel Sincronización de directorios, elija **Ir a Administración de DirSync**. 
     
-3. Ahora verá su estado y realizar cambios:
+3. Ahora verá su estado y hará cambios:
     
-    **Sincronización de contraseñas habilitada:** (true o false). Especifica si tiene habilitada la sincronización de contraseñas entre el entorno local y el inquilino. 
+    **Sincronización de contraseña habilitada:** (True o False). Especifica si tiene habilitada la sincronización de contraseñas entre el espacio empresarial y el local. 
     
-    **Última sincronización de contraseña:** (última vez que se ejecutó la sincronización de contraseña). Se mostrará una advertencia y un vínculo a una herramienta de solución de problemas si la última sincronización es de hace más de tres días. 
+    **Last Password Sync:** (Last time password sync ran). Esto mostrará una advertencia y un vínculo a una herramienta de solución de problemas si la última sincronización fue hace más de tres días. 
     
 

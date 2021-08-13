@@ -1,5 +1,5 @@
 ---
-title: LinkedIn Outlook.com
+title: Outlook.com LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c61eac61c8cb516e61f5d0c71713bd48b2c943a8a6b4cbcfddafb81016b4780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918909"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas con la notificación de correo no deseado desde LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas con el correo no deseado que dicen ser de LinkedIn
 
-Si recibe correo electrónico no deseado que afirma ser de LinkedIn, puede crear una regla para filtrar esos correos electrónicos.
-Vea [usar reglas de la bandeja de entrada en Outlook.com](https://aka.ms/OutlookComInboxRules) para obtener más información.
+Si recibe correo no deseado que dice ser de LinkedIn, puede crear una regla para filtrar esos correos electrónicos.
+Consulta [Usar reglas de bandeja de entrada en Outlook.com para](https://aka.ms/OutlookComInboxRules) obtener más información.
 
 
