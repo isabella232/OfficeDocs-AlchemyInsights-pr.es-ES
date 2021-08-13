@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d87d45af15ff2e08c585f952994fbc60c3b840f92587170c45ab3c9b53c6e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948180"
 ---
 # <a name="delete-a-site"></a>Eliminar un sitio
 
-Cuando se elimina un sitio, se mueve a los sitios eliminados y se conserva durante 93 días. Para eliminar un sitio, vaya a [sitios activos](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Al eliminar un sitio, se mueve a los sitios eliminados y se conserva durante 93 días. Para eliminar un sitio, vaya a [Sitios activos](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Al eliminar un sitio, todo lo que hay en él se elimina, incluidos los siguientes:
+Al eliminar un sitio, se elimina todo lo que hay en él, incluidos:
 
-- Archivos y bibliotecas de documentos.
+- Bibliotecas de documentos y archivos.
 - Listas y datos de lista.
 - Configuración del sitio e historial.
-- Los subsitios y su contenido.
+- Cualquier subs sitios y su contenido.
 
-Debe notificar a los administradores del sitio y a los propietarios de los subsitios antes de eliminar un sitio para que puedan mover sus datos a otra ubicación y también para indicar a los usuarios Cuándo se eliminarán los sitios.
+Debe notificar a los administradores del sitio y a los propietarios de los subs sitios antes de eliminar un sitio para que puedan mover sus datos a otra ubicación y también indicar a los usuarios cuándo se eliminarán los sitios.
 
-Para obtener más información, vea [eliminar un sitio](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Para obtener más información, vea [Eliminar un sitio](https://docs.microsoft.com/sharepoint/delete-site-collection).

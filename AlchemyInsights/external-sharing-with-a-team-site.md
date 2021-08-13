@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977710"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Uso compartido externo con un sitio de grupo
 
 Para activar el uso compartido de usuarios externos para sitios de grupo, siga estos pasos: 
   
-1. En el nuevo centro de administración de SharePoint, haga clic en **sitios activos**.
+1. En el nuevo centro SharePoint administración, haga clic en **Sitios activos**.
   
-2. Seleccione un sitio que tenga una plantilla de **sitio de grupo** . 
+2. Seleccione un sitio que tenga una **plantilla sitio de** grupo. 
   
-3. Seleccione el botón **compartir** del menú superior. 
+3. Seleccione el **botón** Compartir en el menú superior. 
   
- **Nota**: de forma predeterminada, cuando se crea un sitio de grupo moderno, la opción de uso compartido externo se establecerá en los usuarios externos nuevos y existentes. 
+ **Nota:** De forma predeterminada, cuando se crea un sitio de grupo moderno, la opción Uso compartido externo se establecerá en Usuarios externos nuevos y existentes. 
   
- **Nota:** Si tiene más de un sitio seleccionado, el botón **compartir** aparecerá deshabilitado. Seleccione un solo sitio. 
+ **Nota:** Si tiene más de un sitio seleccionado, **el** botón Compartir aparecerá deshabilitado. Seleccione solo un sitio. 
   
 
