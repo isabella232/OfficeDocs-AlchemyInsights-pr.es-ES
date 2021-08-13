@@ -1,5 +1,5 @@
 ---
-title: Pruebas de Outlook.com de MSA
+title: Outlook.com pruebas de MSA
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f8cdef6068e0adef44f8b4172d2429c86947cb39e7a0eeb168ca6b4400e8b585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983974"
 ---
 # <a name="security-info-and-security-codes"></a>Información de seguridad y códigos de seguridad
 
-Para agregar información de seguridad a tu cuenta de Microsoft:
+Para agregar información de seguridad a tu cuenta Microsoft:
 
-1. Inicia sesión en [conceptos básicos de seguridad](https://account.microsoft.com/security) con tu cuenta de Microsoft.
-1. Seleccione **información de contacto de seguridad**.
-1. Seleccione **Agregar información de seguridad** y siga las instrucciones para escribir un número de teléfono o una dirección de correo electrónico.
-1. Recibirá un código de seguridad en ese número de teléfono o dirección de correo electrónico. Escriba el código de seguridad que recibió en la ventana **Agregar información de seguridad** y seleccione **siguiente**.
+1. Inicie sesión en [Conceptos básicos de seguridad](https://account.microsoft.com/security) con su cuenta microsoft.
+1. Selecciona **Información de contacto de seguridad**.
+1. Selecciona **Agregar información de seguridad** y sigue las instrucciones para escribir un número de teléfono o una dirección de correo electrónico.
+1. Recibirá un código de seguridad en ese número de teléfono o dirección de correo electrónico. Escribe el código de seguridad que has recibido en la **ventana Agregar información de seguridad** y selecciona **Siguiente**.
 
-Si desea quitar una dirección de correo electrónico o un número de teléfono, seleccione **quitar** junto a él.
+Si desea quitar un número de teléfono o una dirección de correo electrónico, seleccione **Quitar** junto a él.
 
-Si desea cambiar el número de teléfono o la dirección de correo electrónico que recibe las alertas de seguridad, seleccione **cambiar opciones de alerta**.
+Si desea cambiar qué número de teléfono o dirección de correo electrónico recibe alertas de seguridad, seleccione **Cambiar opciones de alerta**.
 
-Para obtener más información, lea [información de seguridad de la cuenta Microsoft y códigos de verificación](https://support.microsoft.com/help/12428/).
+Para obtener más información, lee la información de seguridad de la cuenta [Microsoft y los códigos de verificación](https://support.microsoft.com/help/12428/).

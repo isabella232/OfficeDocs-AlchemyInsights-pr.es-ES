@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e333394d3cb3f91ad48f3b443987fba23c7c2a5245b31555ef07ccf09e46be4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926442"
 ---
 # <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementar QoS y supervisar la calidad de llamadas en Teams
 
-Análisis de llamadas y el Panel de calidad de llamadas se pueden usar para ayudar a solucionar problemas de calidad de llamadas en Microsoft Teams. Para obtener más información sobre la calidad del servicio (QoS), análisis de llamadas y el Panel de calidad de llamadas (CQD), vea [Implementar QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)y supervisar la calidad de las llamadas en Microsoft Teams . 
+Análisis de llamadas y el Panel de calidad de llamadas se pueden usar para ayudar a solucionar problemas de calidad de llamadas en Microsoft Teams. Para obtener más información sobre calidad de servicio (QoS), análisis de llamadas y el Panel de calidad de llamadas (CQD), vea [Implementar QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)y supervisar la calidad de llamadas en Microsoft Teams . 
