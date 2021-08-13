@@ -1,5 +1,5 @@
 ---
-title: Presentación del error de Insider Intune
+title: Archivado de errores de Intune Insider
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925938"
 ---
-# <a name="intune-insider-bug-filing"></a>Presentación del error de Insider Intune
+# <a name="intune-insider-bug-filing"></a>Archivado de errores de Intune Insider
 
-Gracias por su interés en el programa Insiders de Insider. Si ya está integrado en el programa Insider de Insider y necesita archivar una solicitud de soporte técnico, entonces:
+Gracias por su interés en el programa Intune Insiders. Si ya estás incorporado al programa Insiders de Intune y necesitas presentar una solicitud de soporte técnico, entonces:
 
 1. Describa el problema en el campo anterior.
-2. Cree una nueva solicitud de servicio con las opciones siguientes.
+2. Cree una nueva solicitud de servicio con las siguientes opciones.
 
-Un ingeniero de soporte técnico de Intune se pondrá en contacto con usted.
+Un ingeniero de soporte técnico de Intune se pondrá en contacto contigo.
 
-Si no se encuentra en el programa Insider de Insider, le agradecemos su interés. Actualmente no estamos reclutando nuevos participantes.
+Si no está en el programa Intune Insiders, le agradecemos su interés. Actualmente no estamos contratando nuevos participantes.

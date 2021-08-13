@@ -1,5 +1,5 @@
 ---
-title: Identificador de regla de perfiles de aprovisionamiento de iOS 1029
+title: Id. de regla de perfiles de aprovisionamiento de iOS 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925722"
 ---
 # <a name="ios-provisioning-profiles"></a>Perfiles de aprovisionamiento de iOS
 
-La línea de negocio de Apple iOS usa el concepto de Perfil de aprovisionamiento que se usa para validar la integridad de la aplicación y aplicar las directivas definidas en el perfil. Estos perfiles de aprovisionamiento expiran después de 12 meses y, por lo tanto, es necesario asociar un nuevo perfil a la aplicación implementada para que las aplicaciones sigan ejecutándose.
+La línea de negocio de iOS de Apple usa el concepto de perfil de aprovisionamiento que se usa para validar la integridad de la aplicación y aplicar directivas definidas en el perfil. Estos perfiles de aprovisionamiento expiran después de 12 meses, por lo que un nuevo perfil debe asociarse a la aplicación implementada para que las aplicaciones continúen en ejecución.
   
-En el artículo siguiente se describe cómo crear un nuevo perfil de aprovisionamiento con una aplicación LOB para iOS implementada a través de Intune: [usar perfiles de aprovisionamiento de aplicaciones para iOS para evitar que las aplicaciones expiren](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+En el siguiente artículo se describe cómo crear la asociación de un nuevo perfil de aprovisionamiento con una aplicación lob de iOS implementada a través de Intune: Usar perfiles de aprovisionamiento de aplicaciones [de iOS](https://docs.microsoft.com/intune/app-provisioning-profile-ios) para evitar que las aplicaciones expiren
   

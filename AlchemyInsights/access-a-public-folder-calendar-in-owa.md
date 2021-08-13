@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "634"
 - "3500007"
-ms.openlocfilehash: 15b0e35b754150ef0fc9e7a0eb9ac20fa7fbf14d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b6ed570e2bcd40ebaef201136465bfd3d348f8d2d3bc2a8251ae1a12eec1589
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955434"
 ---
 # <a name="access-a-public-folder-calendar-in-owa-outlook-on-the-web"></a>Acceso a calendarios de carpetas públicas en OWA (Outlook en la Web)
 
-1. Inicie sesión en OWA, haga clic con el botón derecho en **Carpetas**y seleccione **Agregar carpeta pública a Favoritos**.
+1. Inicie sesión en OWA, haga clic con el botón derecho en **Carpetas** y seleccione **Agregar carpeta pública a Favoritos**.
 
-2. Examine la jerarquía, seleccione la carpeta pública que prefiera y, a continuación, la opción **Agregar carpeta pública**. Cierre el menú **Agregar carpeta pública**.  
+2. Examine la jerarquía, seleccione la carpeta pública que prefiera y elija la opción **Agregar carpeta pública**. Cierre el menú **Agregar carpeta pública**.  
 
 3. Seleccione el icono de Calendario. El calendario de la carpeta pública aparece en **Otros calendarios**.  
 
-**Nota:** No se puede acceder a carpetas públicas, ni a sus calendarios, desde dispositivos móviles. Si desea acceder a los calendarios desde este tipo de dispositivos, use un grupo de Microsoft 365 o un buzón compartido.
+**Nota:** No se puede acceder a carpetas públicas, ni a sus calendarios, desde dispositivos móviles. Si desea acceder a los calendarios desde este tipo de dispositivos, use un grupo de Microsoft 365 o un buzón compartido.

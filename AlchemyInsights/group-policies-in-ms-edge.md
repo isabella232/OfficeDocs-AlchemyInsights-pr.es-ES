@@ -15,13 +15,13 @@ ms.custom:
 - "9004632"
 - "6890"
 - "8362"
-ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1722873149fdf416357b25ebd31a5c10665d145565130adaaee6cee30af0bdcb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913480"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Directivas de grupo en Microsoft Edge
 
-Use las [directivas de grupo](https://go.microsoft.com/fwlink/?linkid=2134623) disponibles en Microsoft Edge (versión 77 o posterior) para especificar cómo se ejecuta el explorador en su organización.
+Use las [directivas de grupo](https://go.microsoft.com/fwlink/?linkid=2134623) disponibles en Microsoft Edge (versión 77 o posterior) para especificar cómo se ejecuta el explorador en la organización.
