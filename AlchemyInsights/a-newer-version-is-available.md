@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 141aafa8cb2287dfad44276505bba9639a16973436cc6853a026f9cc5ee44863
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917800"
 ---
-# <a name="delete-the-office-document-cache"></a>Eliminar la caché de documentos de Office
+# <a name="delete-the-office-document-cache"></a>Eliminar la Office de documentos
 
-Si recibió un mensaje de Excel que indica que hay disponible una versión más reciente del **archivo,** intente eliminar la caché de documentos de Office siguiendo las instrucciones de [Eliminar la](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)caché de documentos de Office . A continuación, intente volver a abrir el archivo.
+Si recibió una Excel indicando que hay disponible una versión más reciente del **archivo,** intente eliminar la caché de documentos de Office siguiendo las instrucciones de [Eliminar](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)la caché de documentos Office . A continuación, intente volver a abrir el archivo.

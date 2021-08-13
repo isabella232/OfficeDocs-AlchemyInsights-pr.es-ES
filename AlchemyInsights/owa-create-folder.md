@@ -1,5 +1,5 @@
 ---
-title: Crear una carpeta en Outlook en la web
+title: Crear una carpeta en Outlook en la Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 85762dad63607ff9e141d275266233687d7bdad2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214f563f51d7e5d73145decb67a77e1cad201ab05098874145691e42b94c65e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961248"
 ---
 # <a name="create-a-folder"></a>Crear una carpeta
 
-1. En la parte inferior del panel de carpetas en Outlook en la web, seleccione **nueva carpeta**. Es posible que deba desplazarse hacia abajo en el panel de carpetas para ver el botón **nueva carpeta** .
-1. En el cuadro de texto, escriba un nombre para la carpeta y, a continuación, presione Entrar.
+1. En la parte inferior del panel de carpetas de Outlook en la Web, seleccione **Nueva carpeta**. Es posible que deba desplazarse hacia abajo en el panel de carpetas para ver el **botón Nueva** carpeta.
+1. En el cuadro de texto, escriba un nombre para la carpeta y, a continuación, presione ENTRAR.
 
-Para obtener más información, vea [trabajar con carpetas de mensajes en Outlook en la web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Para obtener más información, vea [Trabajar con carpetas de](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)mensajes en Outlook en la Web .

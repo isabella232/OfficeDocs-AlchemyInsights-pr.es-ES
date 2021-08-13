@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 2518c831277bc1cea0b339fc62fa456b7decbf5d9e5b8c2bb2733fe47c969a81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952230"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
 - Caja fuerte Los datos adjuntos, Caja fuerte vínculos y la suplantación de identidad son parte de Microsoft Defender para Office 365. Enterprise E5, Education A5 y Microsoft 365 Empresa Premium Microsoft Defender para Office 365. Todos los demás planes requieren un complemento de Microsoft Defender para Office 365 suscripción.
 
