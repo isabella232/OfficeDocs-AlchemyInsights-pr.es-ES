@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971356"
 ---
 # <a name="user-provisioning"></a>Aprovisionamiento de usuarios
 
@@ -33,5 +33,5 @@ ms.locfileid: "50430775"
   - Si ha establecido un filtro de ámbito basado en atributos, asegúrese de que el usuario cumple los criterios especificados.
   - Si los usuarios ya existen en el sistema de destino y el estado del usuario en la coincidencia de origen y destino, no realizaremos ninguna acción adicional.
 - Nuestro servicio intentó aprovisionar al usuario y falló. Para estos escenarios, revise la pestaña solución de problemas y recomendaciones de los registros de aprovisionamiento:
-  - Es posible que falte un atributo obligatorio en el usuario en Azure Active Directory o que no coincida con el formato requerido por la aplicación de terceros. Por ejemplo, el atributo Country de un usuario puede establecerse en Estados Unidos cuando debería ser ESTADOS UNIDOS.
+  - Es posible que falte un atributo obligatorio en el usuario Azure Active Directory o que no coincida con el formato requerido por la aplicación de terceros. Por ejemplo, el atributo Country de un usuario puede establecerse en Estados Unidos cuando debería ser ESTADOS UNIDOS.
   - El atributo es un atributo referencial que aún no existe en la aplicación de destino. Un atributo referencial es un atributo que apunta a otro objeto, por ejemplo, un usuario que es miembro de un grupo. El identificador del usuario estaría en el atributo member del grupo, pero solo se puede procesar si el objeto de usuario al que apunta ya existe.
