@@ -1,5 +1,5 @@
 ---
-title: 607 solucionador de problemas de disponibilidad
+title: 607 Solucionador de problemas de disponibilidad
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987700"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Pasos para la solución de problemas de disponibilidad de calendario (libre/ocupado)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Pasos de solución de problemas para la disponibilidad del calendario (disponibilidad)
 
-Por lo general, la mejor herramienta para solucionar problemas de disponibilidad es el [analizador de conectividad remota de Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) para ver dónde se produce el error. El RCA le proporcionará un registro detallado de lo que funcionó y de lo que ha fallado con los mensajes de error específicos que puede buscar para encontrar soluciones. También tiene un vínculo al Asistente para [soporte y recuperación de Microsoft](https://diagnostics.office.com/).
+Por lo general, la mejor herramienta para solucionar problemas de disponibilidad es [Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) para ver dónde está fallando. La RCA le dará un registro detallado de lo que funcionó y lo que falló con mensajes de error específicos que puede buscar para encontrar soluciones. También tiene un vínculo a microsoft [Asistente de soporte y recuperación](https://diagnostics.office.com/).
 
-Otra buena herramienta para probar es la [herramienta de comprobación del calendario de Outlook](https://www.microsoft.com/download/details.aspx?id=28786) si el usuario tiene Outlook.
+Otra buena herramienta para probar es la [Herramienta de comprobación](https://www.microsoft.com/download/details.aspx?id=28786) de calendario Outlook si el usuario tiene Outlook.
