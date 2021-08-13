@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971104"
 ---
-# <a name="using-custom-policy-in-intune"></a>Uso de una directiva personalizada en Intune
+# <a name="using-custom-policy-in-intune"></a>Uso de directivas personalizadas en Intune
 
-Intune tiene muchas configuraciones integradas para dispositivos Android, iOS, macOS y Windows. También puede crear un perfil personalizado y, a continuación, implementar esta configuración personalizada en los dispositivos con Intune. Los perfiles personalizados están diseñados para agregar opciones de configuración de dispositivos y características que no están integradas en Intune.
+Intune tiene muchas configuraciones integradas para dispositivos Android, iOS, macOS y Windows dispositivos. También puede crear un perfil personalizado y, a continuación, implementar esta configuración personalizada en sus dispositivos mediante Intune. Los perfiles personalizados están diseñados para agregar la configuración del dispositivo y las características que no están integradas en Intune.
 
 [Configuración personalizada para dispositivos Android en Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Configuración personalizada para dispositivos Android Enterprise en Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Configuración personalizada para dispositivos Enterprise Android en Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
 [Configuración personalizada para dispositivos iOS en Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Configuración personalizada de los dispositivos de macOS en Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Configuración personalizada para dispositivos macOS en Intune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Configuración personalizada para dispositivos Windows 10 en Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Configuración personalizada para Windows 10 dispositivos en Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Configuración personalizada de Windows Holographic para dispositivos de empresa en Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Configuración personalizada para Windows Holographic for Business dispositivos en Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
