@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af767f4c2ab03ab4d0757b572085ff77d9a2901ddcde61523c7f314b11726f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938054"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activar y asignar licencias de aplicaciones de software como servicio 
 
@@ -35,4 +35,4 @@ ms.locfileid: "51823228"
 
 2. Busca y selecciona la aplicación que quieres administrar.  
 
-3. En **Configuración & acciones**, seleccione el vínculo Administrar en el portal del **editor**.
+3. En **Configuración & ,** seleccione el vínculo Administrar en el portal del **editor.**

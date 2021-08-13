@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede8daf49acaf1ad67e840b02364a2978d7f18ef2f219b4938dd14d0ca7e231c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094299"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Cómo compartir en SharePoint Online
 
 Para compartir un sitio:
   
-1. Abra el sitio en un explorador Web.
+1. Abra el sitio en un explorador web.
     
-2. Si el sitio pertenece a un grupo de Microsoft 365, haga clic en el icono de configuración en la esquina superior derecha y, a continuación, haga clic en **permisos del sitio**. Haga clic en **invitar personas**y, a continuación, elija Agregar miembros al grupo de Microsoft 365 o compartir solo el sitio. 
+2. Si el sitio pertenece a un grupo Microsoft 365, haga clic en el icono Configuración en la parte superior derecha y, a continuación, haga clic en **Permisos del sitio**. Haga **clic en** Invitar personas y, a continuación, elija agregar miembros al grupo Microsoft 365 o compartir solo el sitio. 
     
-    Para un sitio de comunicación, haga clic en **compartir sitio** en la esquina superior derecha, escriba el nombre de la persona y, a continuación, seleccione el nivel de permisos (lectura, edición o control total). 
+    Para un sitio  de comunicación, haga clic en Compartir sitio en la esquina superior derecha, escriba el nombre de la persona y, a continuación, seleccione el nivel de permisos (Lectura, Edición o Control total). 
     
-    Para un sitio de grupo clásico, haga clic en **compartir** en la esquina superior derecha. Escriba el nombre de la persona a la que desea invitar o escriba todos para compartir con todos los usuarios de la organización. Haga clic en **Compartir**.
+    Para un sitio de grupo clásico, haga clic en **Compartir** en la esquina superior derecha. Escriba el nombre de la persona a la que desea invitar o escriba Todos para compartir con todos los usuarios de la organización. Haga clic en **Compartir**.
     
-[Obtener información sobre cómo compartir un archivo o una carpeta](https://go.microsoft.com/fwlink/?linkid=511430)
+[Obtenga información sobre cómo compartir un archivo o carpeta](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

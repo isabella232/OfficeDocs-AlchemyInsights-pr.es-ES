@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938748"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Solucionar problemas con bibliotecas de SharePoint asignadas a unidades de red
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Corregir problemas con SharePoint bibliotecas asignadas a unidades de red
 
-Cuando vaya a una unidad de red asignada, es posible que vea uno de los siguientes mensajes:
+Al navegar a una unidad de red asignada, es posible que vea uno de los siguientes mensajes:
   
-- **\\La ruta de acceso no es accesible. Puede que no tenga permiso para usar este recurso de red. Póngase en contacto con el administrador de este servidor para averiguar si tiene permisos de acceso.**
+- **\\No se puede acceder a la ruta de acceso. Es posible que no tenga permiso para usar este recurso de red. Póngase en contacto con el administrador de este servidor para averiguar si tiene permisos de acceso.**
 
-- **Acceso denegado. Antes de abrir archivos en esta ubicación, primero debe agregar el sitio web a la lista de sitios de confianza, ir al sitio web y seleccionar la opción para iniciar sesión automáticamente.**
+- **Acceso denegado. Antes de abrir los archivos en esta ubicación, primero debe agregar el sitio web a la lista de sitios de confianza, examinar el sitio web y seleccionar la opción para iniciar sesión automáticamente.**
 
-[Obtener ayuda para solucionar problemas de unidades de red asignadas](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+[Obtener ayuda para solucionar problemas de unidades de red asignadas.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
   
-La asignación de una biblioteca como una unidad de red es temporal y solo se admite en Internet Explorer. En su lugar, [sincronice los archivos de SharePoint con el nuevo cliente de sincronización de OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) que incluye [los archivos a petición](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Obtenga acceso a todos los archivos en OneDrive sin usar el espacio de almacenamiento local.
+La asignación de una biblioteca como unidad de red es temporal y solo se admite en Internet Explorer. En su [lugar, SharePoint archivos con el nuevo cliente Sincronización de OneDrive que](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) incluye Archivos a [petición.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) Obtenga acceso a todos los archivos en OneDrive sin usar el espacio de almacenamiento local.
   
