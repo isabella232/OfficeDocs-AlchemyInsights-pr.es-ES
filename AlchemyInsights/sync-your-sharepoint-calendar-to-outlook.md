@@ -1,5 +1,5 @@
 ---
-title: Sincronizar el calendario de SharePoint con Outlook
+title: Sincronizar el calendario SharePoint a Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008896"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemas al sincronizar el calendario con los dispositivos
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemas para sincronizar el calendario con dispositivos
 
-Los calendarios de SharePoint son tipos de lista clásicos que a veces se confunden con los calendarios de grupo de Microsoft 365.
+SharePoint Los calendarios son tipos de lista clásicos que a veces se confunden Microsoft 365 calendarios de grupo.
 
-Para sincronizar un calendario de SharePoint con Outlook, siga estos pasos:
+Para sincronizar un calendario SharePoint a Outlook, siga estos pasos:
 
-1. Haga clic en el icono de engranaje de **configuración** y, a continuación, en **contenido del sitio**.
-2. Abra el calendario que desea sincronizar (que es un tipo de lista de eventos).
-3. En el menú de la cinta clásica, haga clic en **calendario**y, a continuación, haga clic en **conectar con Outlook**.
-4. En el elemento emergente que le pide que confirme la sincronización, haga clic en **permitir**.
+1. Haga clic en **el Configuración** de engranaje y, a continuación, haga clic en Contenido **del sitio**.
+2. Abra el calendario que desea sincronizar (que es un tipo de lista Eventos).
+3. En el menú de la cinta de opciones clásica, haga clic en **Calendario** y, a **continuación,** Conectar para Outlook .
+4. En la ventana emergente que le pide que confirme la sincronización, haga clic en **Permitir**.
 
 >[!Note]
-> Cuando realice un cambio en el calendario de Outlook sincronizado, aparecerá en el calendario de SharePoint y viceversa.
+> Cuando realice un cambio en el calendario de Outlook sincronizado, aparecerá en el calendario SharePoint y viceversa.
 
-Para obtener más información sobre los grupos de 365 de Microsoft, vea este [artículo](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Para obtener más información acerca Microsoft 365 grupos, vea este [artículo](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

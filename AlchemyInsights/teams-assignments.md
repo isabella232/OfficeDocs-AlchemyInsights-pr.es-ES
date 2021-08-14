@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6142"
 - "9003098"
-ms.openlocfilehash: 75e755bf35f4ee969159d3488d4daf04d524c464
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5fe1271f33b103c267b080442d2246db107dfa812f0af65ec1808dd1cd640a4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008716"
 ---
 # <a name="teams-assignments"></a>Asignaciones de Teams
 
