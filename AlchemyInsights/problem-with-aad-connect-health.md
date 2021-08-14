@@ -1,5 +1,5 @@
 ---
-title: Problema con AAD Connect Health
+title: Problema con AAD Conectar Health
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50453301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923769"
 ---
-# <a name="problem-with-aad-connect-health"></a>Problema con AAD Connect Health
+# <a name="problem-with-aad-connect-health"></a>Problema con AAD Conectar Health
 
 - Asegúrese de que está autorizado a realizar la operación. Los administradores globales tienen acceso de forma predeterminada. Además, puede usar el control de acceso [basado en roles para](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) delegar el permiso de registro al colaborador.
 - Asegúrese de que los puntos de conexión necesarios están habilitados y no bloqueados debido al firewall. Para obtener más información, vea [requisitos](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
 - El registro puede producir un error debido a que la capa de red somete a la inspección SSL a la comunicación saliente.
-- Asegúrese de que ha comprobado la configuración de notificaciones de Azure AD Connect Health. Revise la configuración. Esta [guía](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) puede ayudarle a comprender cómo configurar las opciones de notificación para las notificaciones de estado de Azure AD Connect.
-- Para obtener más información sobre el informe de sincronización de AAD Connect Health y cómo descargarlo, vea Informe de sincronización [de nivel de objeto](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Asegúrese de que ha comprobado la configuración de notificaciones de Azure AD Conectar Health. Revise la configuración. Esta [guía](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) puede ayudarle a comprender cómo configurar las opciones de notificación de Azure AD Conectar notificaciones de estado.
+- Para obtener más información sobre el informe de sincronización Conectar estado de AAD y cómo descargarlo, vea Informe de sincronización [de nivel de objeto](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
 
-Para solucionar problemas de alertas de estado de AAD Connect, siga la guía de solución de problemas de las alertas de actualización de datos de [AAD Connect Health](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) y para las preguntas más frecuentes, vea Common [AAD Connect Health installation questions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Para solucionar problemas de las alertas de mantenimiento de AAD Conectar, siga la guía de solución de problemas de las alertas de actualización de datos de [AAD Conectar Health](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) y para las preguntas más frecuentes, consulte Common [AAD Conectar Health installation questions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).

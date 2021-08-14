@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7a165a0fc5fb7baa7b02f3093f784ca17de2fc0d59332d2e70fb0f507bfeb221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980384"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Usar Snip & Sketch para capturar, marcar y compartir imágenes
 
 El boceto de pantalla ahora se denomina **Snip & Sketch**. **Para tomar rápidamente un snip**:
 
-1. Presione la **tecla del logotipo de Windows + Mayús + S**. Verás que la pantalla se oscurece y el cursor se muestra como una cruz. 
+1. Presione la **tecla Windows logotipo + Mayús + S**. Verás que la pantalla se oscurece y el cursor se muestra como una cruz. 
 
 2. Elija un punto en el borde del área que desea copiar y haga clic con el botón izquierdo en el cursor. 
 

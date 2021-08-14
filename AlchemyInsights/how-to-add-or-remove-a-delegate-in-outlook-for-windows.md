@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945354"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Cómo agregar o quitar un delegado en Outlook para Windows
 
 Para agregar un delegado en Outlook para Windows: 
 
-1. Haga clic en la pestaña **archivo** seguida de **configuración** de la cuenta y, a continuación, elija **delegar acceso**.
-2. Haga clic en **Agregar**. Si no aparece **Agregar** , es posible que no exista una conexión activa entre Outlook y Exchange. La barra de estado de Outlook muestra el estado de la conexión.
-3. Escriba el nombre de la persona que desea designar como su delegado, o bien busque y elija el nombre en la lista de resultados de la búsqueda.
+1. Haga clic en **la pestaña** Archivo seguido de Account Configuración y, a **continuación,** elija **Delegate Access**.
+2. Haga clic en **Agregar**. Si **Add** no aparece, es posible que no exista una conexión activa entre Outlook y Exchange. La Outlook de estado muestra el estado de conexión.
+3. Escriba el nombre de la persona que desea designar como delegado o busque y elija el nombre en la lista de resultados de búsqueda.
 
     > [!NOTE]
-    > El delegado debe ser una persona de la lista global de direcciones (GAL) de Exchange de la organización.
+    > El delegado debe ser una persona de la lista global de direcciones Exchange organización (GAL).
 4. Haga clic en **Agregar** seguido de **Aceptar**.
-5. En el cuadro de diálogo **permisos de delegado** , acepte la configuración de permisos predeterminada o seleccione niveles de acceso personalizados para las carpetas de Exchange.
+5. En el **cuadro de diálogo Delegar** permisos, acepte la configuración de permisos predeterminada o seleccione niveles de acceso personalizados para Exchange carpetas.
 
-    - Si un delegado necesita permiso para trabajar solo con convocatorias de reunión y respuestas, la configuración de permisos predeterminada, como **Delegate recibe copias de los mensajes de reunión que se me envíen** es suficiente. Puede dejar la configuración de permisos de la **bandeja de entrada** en **ninguno**. Las convocatorias de reunión y las respuestas Irán directamente a la bandeja de entrada del delegado.
+    - Si un delegado necesita permiso para trabajar solo con solicitudes y respuestas de reunión, la configuración de permisos predeterminada, como **Delegado,** recibe copias de los mensajes relacionados con la reunión que se me envían son suficientes. Puede dejar la configuración **de permisos bandeja** de entrada en **Ninguno**. Las solicitudes de reunión y las respuestas irán directamente a la bandeja de entrada del delegado.
 
     > [!NOTE]
-    > De forma predeterminada, el delegado tiene concedido el permiso **Editor (puede leer, crear y modificar elementos)** a la carpeta **calendario** . Cuando el delegado responde a una reunión en su nombre, se agrega automáticamente a la carpeta del **calendario** .
+    > De forma predeterminada, al delegado se le concede **permiso editor (puede leer, crear** y modificar elementos) en la carpeta **Calendario.** Cuando el delegado responde a una reunión en su nombre, se agrega automáticamente a la **carpeta Calendario.**
 
-5. Para enviar un mensaje para notificar al delegado los permisos modificados, active la casilla de verificación **enviar automáticamente un mensaje al delegado que resume estos permisos** .
-6. Si lo desea, active la casilla el **delegado puede ver mis elementos privados** .
+5. Para enviar un mensaje para notificar al delegado de los permisos modificados, active la casilla Enviar automáticamente un mensaje para delegar que **resuma** estos permisos.
+6. Si lo desea, active la casilla **Delegado puede ver mis elementos** privados.
 
     > [!IMPORTANT]
-    > Esta configuración afecta a todas las carpetas de Exchange. Esto incluye todas las carpetas correo, contactos, calendario, tareas, notas y diario. No hay ninguna forma de conceder acceso a los elementos privados en las carpetas especificadas.
+    > Esta configuración afecta a todas las Exchange carpetas. Esto incluye todas las carpetas Correo, Contactos, Calendario, Tareas, Notas y Diario. No hay ninguna forma de conceder acceso a elementos privados en solo carpetas especificadas.
 
 7. Elija **Aceptar**.
 
     > [!NOTE]
     >
-    > - Los mensajes enviados con los permisos enviar en nombre de incluyen el delegado y los nombres junto a **desde**. Cuando se envía un mensaje con los permisos enviar como, sólo aparece su nombre.
-    > - Una vez que agregue a alguien como delegado, puede Agregar el buzón de Exchange a su perfil de Outlook. Para obtener instrucciones, consulte [administrar los elementos de correo y calendario de otra persona](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - Los mensajes enviados con permisos Enviar en nombre incluyen los nombres del delegado y los nombres junto a **From**. Cuando se envía un mensaje con permisos Enviar como, solo aparece su nombre.
+    > - Una vez que agregue a alguien como delegado, puede agregar el buzón de correo Exchange a su perfil Outlook usuario. Para obtener instrucciones, consulte [Manage another person's mail and calendar items](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
 
 Para quitar un delegado en Outlook para Windows:
 
-1. Haga clic en la pestaña **archivo** .
-2. Haga clic en configuración de la **cuenta** seguida de **Acceso delegado**.
-3. Elija el nombre del delegado para el que desea cambiar los permisos y, a continuación, haga clic en **quitar** seguida de **Aceptar**.
+1. Haga clic en la **pestaña** Archivo.
+2. Haga clic en **Account Configuración** seguido de **Delegate Access**.
+3. Elija el nombre del delegado para el que desea cambiar los permisos y, a continuación, haga clic en **Quitar** seguido de **Aceptar**.
