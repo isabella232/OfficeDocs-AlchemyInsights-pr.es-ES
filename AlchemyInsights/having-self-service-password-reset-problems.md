@@ -1,5 +1,5 @@
 ---
-title: ¿Tiene problemas de restablecimiento de contraseña de autoservicio (SSPR)?
+title: ¿Tiene problemas de restablecimiento de contraseña de autoservicio (SSPR)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945867"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>¿Tiene problemas de restablecimiento de contraseña de autoservicio (SSPR)?
+# <a name="having-self-service-password-reset-sspr-problems"></a>¿Tiene problemas de restablecimiento de contraseña de autoservicio (SSPR)
 
-Los problemas comunes de restablecimiento de contraseñas de autoservicio (SSPR) en entornos locales y en la nube híbrida son los siguientes:
+Los problemas comunes de restablecimiento de contraseña de autoservicio (SSPR) en entornos locales y en la nube híbrida son:
 
-- [SSPR escritura diferida de contraseña no habilitada](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Licencia de Azure AD Premium no asignada](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- Problemas de [red](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity) o [problemas de Azure ad Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors)
-- [Métodos de autenticación de SSPR no registrados](https://mysignins.microsoft.com/security-info)
-- [Escenarios de reescritura no admitidos](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) como el centro de administración de Microsoft 365 o los administradores que usan SSPR
+- [Escritura contra escritura por contraseña de SSPR no habilitada](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Licencia premium de Azure AD no asignada](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Problemas de Conectar de Azure AD o](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) problemas de [red](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [Métodos de autenticación SSPR no registrados](https://mysignins.microsoft.com/security-info)
+- [Escenarios de reescribición no admitidos,](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) como Administración de Microsoft 365 o administradores con SSPR
 
 
 Para obtener más información, vea:
 
-- [Solucionar problemas de restablecimiento de contraseña de autoservicio](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Solucionar problemas de reescritura de restablecimiento de contraseña de autoservicio en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Solucionar problemas de restablecimiento de contraseñas de autoservicio](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Solucionar problemas de reescribición de restablecimiento de contraseñas sin Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

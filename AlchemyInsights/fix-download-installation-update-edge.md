@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 10bc99634879bdbea5791ef194ab6a38ebf3db87
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: 3db5fc4f2be0bbf845dec15b53f1299653f97ed75e12b04e8041de5982f5a74a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945917"
 ---
 # <a name="fix-problems-with-the-download-installation-and-update-of-microsoft-edge"></a>Solucionar problemas con la descarga, instalación y actualización de Microsoft Edge
 
-Antes de intentar realizar correcciones, compruebe que el sistema operativo del equipo es compatible con Microsoft Edge, que admite Windows 10, 8, 8.1 y 7 de 32 bits (x86) y 64 bits (x64), así como macOS 10.12 Sierra y versiones posteriores. Para solucionar problemas con la descarga, instalación y actualización de Microsoft Edge, siga las siguientes instrucciones:
+Antes de intentar realizar correcciones, compruebe que el sistema operativo del equipo es compatible con Microsoft Edge, que admite Windows 10, 8, 8.1 y 7 de 32 bits (x86) y 64 bits (x64), así como macOS 10.12 Sierra y versiones posteriores. Para solucionar los problemas de descarga, instalación y actualización de Microsoft Edge, siga estas instrucciones:
 
 1. Compruebe la red y la VPN:
     - Compruebe la conexión de red.
