@@ -1,5 +1,5 @@
 ---
-title: Guía de configuración de Microsoft Search
+title: Búsqueda de Microsoft de configuración
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50417300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975832"
 ---
-# <a name="microsoft-search-setup-guide"></a>Guía de configuración de Microsoft Search
+# <a name="microsoft-search-setup-guide"></a>Búsqueda de Microsoft de configuración
 
-Use la [guía de configuración de Microsoft Search](https://go.microsoft.com/fwlink/?linkid=2153798) para configurar y configurar Microsoft Search. Tanto si desea realizar pruebas piloto para un grupo de usuarios como si lo desea para todos los usuarios de la organización. Asignará administradores de búsqueda y editores de búsqueda y, a continuación, personalizará la experiencia de búsqueda de los usuarios con respuestas y opciones adicionales, como agregar la extensión de Bing a Chrome o establecer Bing como motor de búsqueda predeterminado.
+Use la [Búsqueda de Microsoft de configuración para](https://go.microsoft.com/fwlink/?linkid=2153798) configurar y configurar Búsqueda de Microsoft. Tanto si desea realizar pruebas piloto para un grupo de usuarios como si lo desea para todos los usuarios de la organización. Asignará administradores de búsqueda y editores de búsqueda y, a continuación, personalizará la experiencia de búsqueda de los usuarios con respuestas y opciones adicionales, como agregar la extensión Bing a Chrome o configurar Bing como motor de búsqueda predeterminado.

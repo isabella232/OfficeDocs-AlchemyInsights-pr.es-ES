@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 902a0ef2bef4e4cabfc4cd5bb335069b89fe5b932b104cd0f32dfee2266c33c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009913"
 ---
 # <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Aviso "Producto desactivado" en las aplicaciones de Microsoft 365
 
@@ -27,7 +27,7 @@ ms.locfileid: "51800555"
 
 - Abra una aplicación de Office, vaya a **Archivo > Cuenta** y cierre la sesión de todas las cuentas. Vuelva a iniciar sesión con una cuenta de usuario que tenga una licencia válida. Para obtener información más detallada, consulte [Cuentas en Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Abra una aplicación de Office y vaya a **Archivo > Cuenta > Opción de actualización > Actualizar ahora** para actualizar Office en el equipo afectado. Para ver los pasos detallados, consulte [Instalar actualizaciones de Office](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- Abra una aplicación de Office y vaya a **Archivo > Cuenta > Opción de actualización > Actualizar ahora** para actualizar Office en el equipo afectado. Para conocer los pasos detallados, consulte [Instalar actualizaciones de Office](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 - Ejecute el [Solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy) y reinicie el equipo.
 

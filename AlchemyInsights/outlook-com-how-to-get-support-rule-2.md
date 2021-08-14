@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: fe8a3956dbeff811935e976a8d75274f5e736482
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 1d42e026814499c28396913906346b70c6b7299176dea67e0cd420df73a0cda4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096073"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Cómo obtener soporte técnico en Outlook.com
 
 Lo sentimos, Outlook.com no ofrece soporte telefónico, pero tenemos equipos dedicados que pueden ayudarle.
-Escriba su pregunta o describa su problema en el cuadro de la **ayuda** anterior y, a continuación, seleccione **obtener ayuda**.
+Escriba su pregunta o describa el problema en el **cuadro ayuda** anterior y, a continuación, seleccione **Obtener ayuda**.
 
 [Obtener ayuda con Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
