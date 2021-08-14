@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dcba3ff83c4fa4db2e687ca9236ee8732102c431edc265b9856c94c126708d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941385"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Mensaje de ADVERTENCIA: las directivas de la organización no le permiten compartir con estos usuarios
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Mensaje de advertencia: las directivas de la organización no permiten compartir con estos usuarios
 
-Los usuarios pueden experimentar un mensaje de advertencia al intentar compartir con usuarios externos de su organización. El mensaje es la **Directiva de la organización no le permite compartir con estos usuarios. Vaya a uso compartido externo en el centro de administración de Microsoft 365 para habilitarlo**. Esto suele ocurrir la primera vez que se intenta compartir con usuarios externos o al compartir con nuevos usuarios externos.
+Los usuarios pueden experimentar un mensaje de advertencia al intentar compartir con usuarios externos de su organización. El mensaje es que las directivas de su organización no permiten compartir **con estos usuarios. Vaya a Uso compartido externo en el Centro de administración de Microsoft 365 para habilitarlo.** Esto suele ocurrir por primera vez al intentar compartir con usuarios externos o al compartir con nuevos usuarios externos.
 
-Compruebe la **configuración de uso compartido externo de SharePoint y OneDrive** para la organización.
+Compruebe la **SharePoint y OneDrive de uso compartido externo** de la organización.
 
-1. En el [centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), seleccione **SharePoint**.
-3. Seleccione **uso compartido** para ver la configuración de uso compartido externo.
+1. En el [Centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), seleccione **SharePoint**.
+3. Seleccione **Uso compartido** para ver la configuración de uso compartido externo.
 
 Compruebe la **configuración de uso compartido externo** de un sitio específico.
 
-1. En el [centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), seleccione **SharePoint**.
-2. Seleccione **sitios activos** para ver los sitios que están disponibles.
-3. Seleccione el sitio que desea comprobar y, a continuación, seleccione el botón **compartir** que se muestra en la barra de menús para comprobar la configuración del sitio.
+1. En el [Centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), seleccione **SharePoint**.
+2. Seleccione **Sitios activos** para ver los sitios que están disponibles.
+3. Seleccione el sitio que desea comprobar  y, a continuación, seleccione el botón Compartir que se muestra en la barra de menús para comprobar la configuración del sitio.
 
-Para obtener más información, vea [external Sharing Overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Para obtener más información, vea [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).

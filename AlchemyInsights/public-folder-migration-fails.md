@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "639"
 - "3500007"
-ms.openlocfilehash: b22dce778b4507e0a3337a59a55531ce248b59c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e92a983a74ac0b97a613723dacb356ebff68f6cdba2d78ca63085a818d12e739
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923328"
 ---
 # <a name="public-folder-migration-fails-at-95"></a>Error en la migración de carpetas públicas al 95%
 
