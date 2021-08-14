@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094623"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Quitar una cuenta en Windows 10
 
-Aquí te explicamos cómo quitar una cuenta de Windows 10:
+Este es el modo de quitar una cuenta de Windows 10:
 
-1. Ve a **Inicio**  >  **Configuración Familia**  >  **de** cuentas  >  **& otras personas** (u **Otras** personas, si usas Windows 10 Enterprise).
+1. Ve **a Inicio Configuración** familia de & otras personas  >    >    >   (u **Otras** personas, si estás usando Windows 10 Enterprise).
 2. Seleccione la cuenta que desea quitar, seleccione **Quitar** y, a continuación, **seleccione Eliminar cuenta y datos.**
  
 **Nota:** No puede eliminar una cuenta en la que haya iniciado sesión actualmente.  Si necesitas reemplazar la cuenta en la que has iniciado sesión:

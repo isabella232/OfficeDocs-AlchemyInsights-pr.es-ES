@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: ee2de4b53729bb4dccc16352f612f15ecba5aa2b
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 18a95f5d98961b9450718ee97b81d97ca14967d1b703b2b7f034d15e46f1a1bd
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687947"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54500969"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Opciones de pago para las suscripciones a Microsoft 365 para empresas
   
@@ -35,7 +35,7 @@ Si se ha rechazado su tarjeta de crédito o tiene un saldo pendiente vencido, y 
   
 Si la suscripción cuesta más de una determinada cantidad de dinero (esta cantidad varía según la ubicación del servicio), tendrá la opción de pagar con factura mediante un cheque o TEF. Es posible que se requiera una comprobación de crédito para los pagos de facturas más cuantiosas. Si se requiere una comprobación de crédito, recibirá una notificación cuando compre la suscripción. Si acepta que se pongan en contacto con usted, recibirá un correo electrónico con más información sobre cómo solicitar la aprobación de crédito. Las comprobaciones de crédito suelen completarse en un plazo de dos días laborables.
 
-Si paga su suscripción mediante factura, recibirá un correo electrónico que indica que su extracto de facturación está listo. Este correo electrónico no contiene una copia del extracto de facturación. Pero también tiene la posibilidad de [recibir una copia del extracto de facturación por correo electrónico](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). El extracto de facturación incluye información sobre las opciones de pago, además de dónde debe enviarse. Si escribe un número de pedido de compra al comprar una suscripción, el número aparece en su extracto de facturación. Para información sobre cómo acceder a los extractos de facturación, vea [Ver su factura](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Si paga su suscripción mediante factura, usted recibe un correo electrónico cuando su extracto de facturación está listo para ver. Este correo electrónico no contiene una copia del extracto de facturación. Sin embargo, tiene la posibilidad de [recibir una copia del extracto de facturación por correo electrónico](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). El extracto de facturación incluye información sobre las opciones de pago, y dónde enviarlo. Si escribe un número de pedido de compra al comprar una suscripción, el número aparece en su extracto de facturación. Para información sobre cómo acceder a los extractos de facturación, vea [Ver su orden o factura](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Información adicional**
   

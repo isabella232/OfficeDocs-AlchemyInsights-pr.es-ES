@@ -1,5 +1,5 @@
 ---
-title: Infraestructura de escritorio virtualizada de Teams
+title: Teams para infraestructura de escritorio virtualizada
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 684fe91cf4e8cc6a767878efe397ccaf0f7cc0cf74ba29f21b40d77c18a028f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008527"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Infraestructura de escritorio virtualizada de Teams
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams para infraestructura de escritorio virtualizada
 
-Para obtener información detallada sobre teams para entornos de infraestructura de escritorio virtualizada, vea [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Para obtener información detallada sobre Teams entornos de infraestructura de escritorio [virtualizada, vea Teams virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
 Los problemas y limitaciones conocidos en entornos VDI se detallan en la sección [Problemas ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) conocidos y limitaciones del mismo artículo, que incluye los siguientes temas:
  - Implementación, instalación y configuración de cliente
