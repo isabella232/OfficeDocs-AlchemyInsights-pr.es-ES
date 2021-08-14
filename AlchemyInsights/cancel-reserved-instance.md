@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931250"
 ---
 # <a name="cancelling-reservation"></a>Cancelar reserva
 
@@ -61,7 +61,7 @@ Ejemplo de reserva por adelantado:
 
 - Compra un período de reserva de un año por $10 al mes.
 - El día 7 de abril, quiere que se le reembolse o intercambie esta reserva.
-- Como el último pago ocurrió hace 7 días, recibirá de vuelta el resultado de (1-7/31) multiplicado por $10. (por ejemplo, $7,74).
+- Como el último pago ocurrió hace 7 días, recibirá de vuelta el resultado de (1-7/31) multiplicado por 10 dólares (es decir, 7,74 dólares).
 - Los pagos futuros cancelados corresponden a $80. Actualmente, no hay ninguna penalización sobre los reembolsos
 - Esta cancelación deducirá $87,74 de su límite de reembolso de $50.000.
 - Si hace un intercambio, el valor total de la nueva compra debe ser mayor que $87,74.

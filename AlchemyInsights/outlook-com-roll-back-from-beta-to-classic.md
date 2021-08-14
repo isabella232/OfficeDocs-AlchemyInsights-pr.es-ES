@@ -1,5 +1,5 @@
 ---
-title: Solicitud para revertir a la versión beta de Outlook.com a la Outlook.com clásica
+title: Solicitud para revertir de Outlook.com beta a la versión Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961752"
 ---
 # <a name="the-new-outlookcom"></a>El nuevo Outlook.com
 
-Ya no es posible dejar la nueva experiencia de Outlook.com y volver a la versión clásica de Outlook.com.
+Ya no es posible dejar la nueva experiencia Outlook.com y volver a la versión clásica de Outlook.com.
 
-Si le gustaría enviar comentarios sobre el nuevo Outlook.com, vaya al [Foro de UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Puede votar sobre las ideas o los problemas a los que le gustaría dirigirse y responderemos directamente a los principales comentarios y sugerencias.
+Si desea enviar comentarios sobre la nueva Outlook.com, vaya al foro [de UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Puedes votar sobre las ideas o los problemas que quieras ver resueltos y responderemos directamente a los comentarios y sugerencias principales.
 
-[Obtener ayuda con Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Obtenga ayuda con Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
