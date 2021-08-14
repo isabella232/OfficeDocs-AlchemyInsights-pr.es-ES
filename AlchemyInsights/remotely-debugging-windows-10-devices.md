@@ -1,5 +1,5 @@
 ---
-title: Introducción a la depuración remota de dispositivos Windows 10
+title: Introducción a la depuración remota de Windows 10 dispositivos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959412"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Introducción a la depuración remota de dispositivos Windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Introducción a la depuración remota de Windows 10 dispositivos
 
-Para depurar de forma remota contenido dinámico en un dispositivo Windows 10 desde un equipo con Windows o macOS:
+Para depurar de forma remota contenido dinámico en un dispositivo Windows 10 desde un equipo Windows o macOS:
 
 1. Configura el dispositivo Windows 10 para la depuración remota y, a continuación, conéctate a él desde el equipo de desarrollo.
-2. Inspecciona y depura contenido en directo en tu dispositivo Windows 10 desde el equipo de desarrollo.
-3. Difusión en pantalla del contenido del dispositivo Windows 10 en una instancia de DevTools en el equipo de desarrollo.
+2. Inspeccione y depure el contenido en directo Windows 10 dispositivo desde el equipo de desarrollo.
+3. Difusión en pantalla del contenido Windows 10 dispositivo en una instancia de DevTools en el equipo de desarrollo.
 
-Para obtener más información, consulta Introducción a la depuración [remota de dispositivos Windows 10 con Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
+Para obtener más información, vea Introducción con la depuración [remota Windows 10 dispositivos con Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

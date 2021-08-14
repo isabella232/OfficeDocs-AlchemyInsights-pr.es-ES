@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c6f5ee46c6d6fb3ae579968e6660cd83e9313f1e43a4907d212a39f6eee9b6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977314"
 ---
 # <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>¿Cómo se borra la memoria caché o se restablece o se actualiza localmente el cliente o la aplicación?
 
@@ -25,4 +25,4 @@ Si ves datos incompletos o incorrectos, intenta forzar el cierre y volver a abri
 
 Si eso no funciona, puedes intentar restablecer la cuenta en el dispositivo.
  
-Abre la aplicación, ve a **Configuración,** selecciona la cuenta de correo electrónico y elige **Restablecer cuenta**.
+Abra la aplicación, vaya a **Configuración**, seleccione la cuenta de correo electrónico y elija **Restablecer cuenta**.

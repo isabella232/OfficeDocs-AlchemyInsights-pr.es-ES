@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986719"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Archivos que no se pueden cargar en SharePoint Online
 
@@ -29,6 +29,6 @@ Si un archivo no se carga en SharePoint Online, asegúrese de:
     
 - El nombre del archivo no contiene los caracteres " \* : \< \> ? / \ | y no está en la lista de nombres [no válidos](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Si estás intentando cargar el archivo mediante la aplicación de escritorio de OneDrive, consulta [Restricciones](https://go.microsoft.com/fwlink/p/?LinkID=717734) y limitaciones al sincronizar archivos y carpetas o Solucionar problemas de sincronización [de OneDrive.](https://go.microsoft.com/fwlink/?linkid=866431)
+Si estás intentando cargar el archivo mediante la aplicación de escritorio de OneDrive, consulta Restricciones y limitaciones al sincronizar archivos y [carpetas](https://go.microsoft.com/fwlink/p/?LinkID=717734) o Solucionar Sincronización de OneDrive [problemas](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

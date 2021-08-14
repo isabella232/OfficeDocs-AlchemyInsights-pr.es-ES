@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995062"
 ---
 # <a name="create-a-communication-compliance-policy"></a>Crear una directiva de cumplimiento de comunicaciones
 
-Este paso es necesario. Puede crear una directiva de cumplimiento de comunicaciones en el Centro de cumplimiento de Microsoft 365. A continuación se describe cómo:
+Este paso es necesario. Puede crear una directiva de cumplimiento de comunicaciones en el Centro de cumplimiento de Microsoft 365. A continuación se muestra cómo hacerlo:
 
-1. En el [Centro de cumplimiento de Microsoft 365,](https://go.microsoft.com/fwlink/?linkid=2130502)seleccione Cumplimiento de **comunicaciones.**
-2. Seleccione la **pestaña** Directivas.
+1. En el [Centro de cumplimiento de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130502), seleccione **Cumplimiento de comunicaciones.**
+2. Seleccione la pestaña **Directivas**.
 3. Seleccione **Crear directiva** para crear y configurar una nueva directiva desde una plantilla o para crear y configurar una directiva personalizada.
 4. Cuando haya terminado, seleccione **Crear directiva** si usa la plantilla o **Enviar** si usa el Asistente para directivas personalizadas.
 
