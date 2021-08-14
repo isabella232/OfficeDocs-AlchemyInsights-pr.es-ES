@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932798"
 ---
 # <a name="anonymous-sharing"></a>Uso compartido anónimo
 
  **Habilitar el acceso anónimo**
   
-En el nuevo centro de administración de SharePoint, haga clic en **uso compartido** en el panel izquierdo. 
+En el nuevo centro SharePoint administración, haga clic **en Compartir** en el panel izquierdo. 
   
-- Seleccione lo siguiente: **permitir el uso compartido para usuarios externos autenticados y el uso de acceso anónimo.**
+- Seleccione lo siguiente: **Permitir el uso compartido a usuarios externos autenticados y usar el acceso anónimo.**
   
-(Opcionalmente, puede establecer que los vínculos expiren en un número específico de días y seleccionar cómo los destinatarios pueden usar los vínculos).
+(Opcionalmente, puede establecer vínculos para que expiren en un número específico de días y seleccionar cómo los destinatarios pueden usar los vínculos).
     
- **Compartir un archivo o una carpeta de forma anónima**
+ **Compartir un archivo o carpeta de forma anónima**
   
-- Seleccione el archivo o la carpeta que desea compartir y, a continuación, haga clic en **compartir**. 
+- Seleccione el archivo o carpeta que desea compartir y, a continuación, haga clic en **Compartir**. 
     
-- ¿A quién desea que trabaje este vínculo? Haga clic en **cualquier usuario.**
+- Quién¿Desea que este vínculo funcione? haga clic **en Cualquiera.**
   
- **Nota**: **cualquier persona** crea un vínculo que cualquiera puede usar para tener acceso al documento o carpeta, incluso si no ha iniciado sesión en Microsoft 365 o en OneDrive. Use esta para compartir con cualquier persona, dentro o fuera de la compañía. Este vínculo también puede reenviarse a cualquier persona. 
+ **Nota:** **Cualquier persona** crea un vínculo que cualquier persona puede usar para obtener acceso al documento o carpeta, incluso si no ha iniciado sesión en Microsoft 365 o OneDrive. Úse esto para compartir con cualquier persona, dentro o fuera de su empresa. Este vínculo también se puede reenviar a cualquier persona. 
     
 

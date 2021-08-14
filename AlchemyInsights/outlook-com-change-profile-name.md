@@ -1,5 +1,5 @@
 ---
-title: Cambiar el nombre de perfil en Outlook.com
+title: Cambiar el nombre del perfil en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc5d0d93091cdd4c74b6703e4295bfac18c911f8ad630b8bd7db5a17b1ffb9d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962472"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Cambiar el nombre de perfil en Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>Cambiar el nombre del perfil en Outlook.com
 
-1. Ve a [la información de la cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Vaya a [La información de su cuenta microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
 2. Seleccione **Editar nombre**.
-3. Escriba un nombre y un apellido y seleccione **Guardar**.
+3. Escriba un nombre y apellidos y seleccione **Guardar**.
 
-Espere hasta 24 horas para que los cambios en el nombre del perfil surtan efecto.
+Espere hasta 24 horas para que los cambios en el nombre de su perfil entren en vigor.

@@ -1,5 +1,5 @@
 ---
-title: Suscripciones de correo electrónico de Outlook.com
+title: Outlook.com suscripciones de correo electrónico
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962328"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>No se puede adjuntar o cargar archivos desde Facebook
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>No se pueden adjuntar ni cargar archivos desde Facebook
 
-Debido a un cambio en los términos y condiciones de Facebook, después del 23 de octubre de 2019, ya no podrá cargar datos adjuntos directamente desde Facebook, y Facebook dejará de aparecer en la lista de ubicaciones de la nube. 
+Debido a un cambio en los términos y condiciones de Facebook, después del 23 de octubre de 2019, ya no podrá cargar datos adjuntos directamente desde Facebook y Facebook ya no aparecerá en la lista de ubicaciones en la nube. 
 
-Puede administrar la lista de otras ubicaciones de la nube en sus [cuentas de almacenamiento](https://go.microsoft.com/fwlink/?linkid=2111075).
+Puede administrar la lista de otras ubicaciones en la nube en sus [Storage cuentas](https://go.microsoft.com/fwlink/?linkid=2111075).
 
-Obtenga más información sobre [las cuentas de almacenamiento](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Obtenga más información [sobre Storage cuentas](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   

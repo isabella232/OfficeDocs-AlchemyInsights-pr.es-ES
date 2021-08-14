@@ -1,5 +1,5 @@
 ---
-title: 608 información del calendario en las configuraciones híbridas
+title: Información del calendario 608 sobre las configuraciones híbridas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989572"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Problemas de disponibilidad del calendario en entornos híbridos
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Problemas de disponibilidad de calendario en entornos híbridos
 
-Si los usuarios tienen problemas para ver la información de disponibilidad de calendario en entornos híbridos, vuelva a ejecutar el Asistente para la configuración híbrida. Para obtener más información sobre el Asistente para la configuración híbrida, vea [Asistente de configuración híbrida](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Si los usuarios tienen problemas para ver la información de disponibilidad del calendario en entornos híbridos, vuelva a ejecutar el Asistente para configuración híbrida. Para obtener más información acerca del Asistente para configuración híbrida, vea [Asistente para configuración híbrida.](https://go.microsoft.com/fwlink/p/?linkid=528149)
 
-Para solucionar los pasos de solución de problemas en entornos híbridos, consulte [troubleshoot a Hybrid Deployment](https://technet.microsoft.com/library/jj659053.aspx).
+Para ver los pasos de solución de problemas en entornos híbridos, vea [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).
