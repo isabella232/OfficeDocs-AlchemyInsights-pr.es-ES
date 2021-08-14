@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868435"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Registros de auditoría de mensajes de correo electrónico eliminados
 
@@ -34,6 +34,6 @@ A partir de enero de 2019, Microsoft activará el registro de auditoría de buzo
 
 En los resultados, seleccione un registro de auditoría. En el menú desplegable de detalles, haga clic **en Más información**. Se muestra información adicional sobre el elemento eliminado (por ejemplo, la línea de asunto y la ubicación del elemento cuando se eliminó) en el **campo AffectedItems.** La **propiedad ClientInfoString** mostrará si la eliminación se produjo en Outlook, Outlook en la Web (anteriormente conocido como Outlook Web App) o en cualquier otro dispositivo.
 
-Para obtener más información, vea [Determine who set up email forwarding for a mailbox](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Para obtener más información, vea [Determine who set up email forwarding for a mailbox](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Nota:** No puede recuperar elementos eliminados con la característica de registro de auditoría. Para recuperar mensajes eliminados en Outlook en la Web, vea [Recuperar elementos eliminados en Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

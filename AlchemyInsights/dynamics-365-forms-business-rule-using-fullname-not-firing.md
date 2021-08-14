@@ -1,5 +1,5 @@
 ---
-title: La regla de negocio de Dynamics 365 Forms que usa el campo FullName no se ha desencadenado
+title: Dynamics 365 Forms Business Rule Using Fullname Field Not Firing
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947424"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>El campo Nombre completo no es compatible con las aplicaciones de la aplicación integrada
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Campo nombre completo no compatible con aplicaciones de entrada unificadas
 
-Las acciones o condiciones que usan un campo **nombre completo** (FullName) no se admiten en las aplicaciones basadas en la interfaz unificada. Como alternativa, puede usar acciones o condiciones con los campos **nombre** (FirstName) y **apellidos** (Apellidos).
+Las acciones o condiciones que usan **un campo Nombre** completo (nombre completo) no se admiten en aplicaciones basadas en la interfaz unificada. Como alternativa, puede usar acciones o condiciones con los campos **Nombre** (nombre) y **Apellido** (apellido).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

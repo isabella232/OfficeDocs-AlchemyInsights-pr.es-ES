@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947280"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Limitaciones de los recursos Web de la página web (HTML)
+# <a name="webpage-html-web-resources-limitations"></a>Limitaciones de recursos web de página web (HTML)
 
-* Un recurso web HTML no puede contener ningún código que deba ejecutarse en el servidor. Las páginas de ASP.NET no se pueden cargar como recursos web HTML.
+* Un recurso web HTML no puede contener ningún código que se debe ejecutar en el servidor. ASP.NET las páginas no se pueden cargar como recursos web HTML.
 
-* Los recursos web HTML solo pueden aceptar un número limitado de parámetros de cadena de consulta. Más información: [pasar parámetros a recursos web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* Los recursos web HTML solo pueden aceptar un número limitado de parámetros de cadena de consulta. Más información: [Pasar parámetros a recursos web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Recursos Web de página web (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Recursos web de página web (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

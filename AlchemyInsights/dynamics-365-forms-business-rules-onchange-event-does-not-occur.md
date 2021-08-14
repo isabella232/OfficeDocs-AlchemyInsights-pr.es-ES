@@ -1,5 +1,5 @@
 ---
-title: 'Dynamics 365 Forms Business Rules: regla de negocios que no se desencadena para un formulario'
+title: 'Reglas empresariales de Dynamics 365 Forms: regla de negocio que no se dispara para un formulario'
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: 7422b67973f93ce10c1639209cc50206a1016c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8425918950e1ef6c44f2866e6fa8987fe165536ae21e08ea6a1da880f761d512
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947316"
 ---
 # <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>El evento OnChange no se produce si el campo se cambia mediante programación
 
-El evento *onchange* no se produce si el campo se cambia mediante programación con el *atributo.* método [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Si desea que se ejecuten controladores de eventos del evento *onchange* después de establecer el valor, debe usar el método [FireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) del *atributo formContext. Data. Entity* en el código.
+El *evento OnChange* no se produce si el campo se cambia mediante programación mediante el *atributo.* [setValue (método).](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) Si desea que los controladores de eventos del evento *OnChange* se ejecuten después de establecer el valor, debe usar el método [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) del atributo *formContext.data.entity* en el código.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)
