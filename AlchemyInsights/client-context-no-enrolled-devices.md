@@ -1,5 +1,5 @@
 ---
-title: 'Contexto de cliente: no hay dispositivos inscritos'
+title: 'Contexto de cliente: sin dispositivos inscritos'
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a5738d933ebe63d6ffb7e1a1008b6e3d5ea2ad47f453a4aa0028e566f344ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930556"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Contexto de cliente: no hay dispositivos inscritos
+# <a name="client-context---no-enrolled-devices"></a>Contexto de cliente: sin dispositivos inscritos
 
-El espacio empresarial no tiene dispositivos inscritos de administración de dispositivos móviles (MDM) con Intune. Si quiere inscribir y administrar los dispositivos a través de la MDM de Intune, revise la documentación [aquí](https://docs.microsoft.com/intune/device-enrollment) para obtener la plataforma que desee. Si usa MDM de terceros o solo características de protección de aplicaciones, no es necesario realizar ninguna acción. 
+El inquilino no tiene dispositivos inscritos en la administración de dispositivos móviles (MDM) con Intune. Si quieres inscribir y administrar tus dispositivos a través de MDM de Intune, consulta la documentación [aquí para](https://docs.microsoft.com/intune/device-enrollment) obtener la plataforma deseada. Si usas una MDM de terceros o solo las características de Protección de aplicaciones no es necesario realizar ninguna acción. 
