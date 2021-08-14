@@ -1,5 +1,5 @@
 ---
-title: Cifrar automáticamente determinados mensajes de correo electrónico de Office 365
+title: Cifrar automáticamente ciertos mensajes Office 365 de correo electrónico
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737611"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949584"
 ---
-# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Cifrar automáticamente determinados mensajes de correo electrónico de Office 365
+# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Cifrar automáticamente ciertos mensajes Office 365 de correo electrónico
 
 Puede cifrar automáticamente los mensajes que los usuarios envían a determinadas personas u organizaciones externas. Para ello, realice los siguientes pasos:
 
-1. En el [Centro de administración de Exchange,](https://outlook.office365.com/ecp/)elija flujo de correo > **reglas**. 
-2. Haga clic **en el icono Nuevo (+)** y, a continuación, haga clic en Aplicar el cifrado de mensajes de Office **365** y la protección de derechos a los mensajes .
+1. En el [Centro Exchange administración,](https://outlook.office365.com/ecp/)elija **flujo de correo > reglas**. 
+2. Haga clic **en el icono Nuevo (+)** y, a continuación, haga clic en Aplicar Cifrado de mensajes de Office 365 protección de derechos y derechos a los **mensajes**.
 3. En **Nombre**, escriba un nombre para la regla, como *Cifrar mensajes enviados a DrToniRamos@gmail.com*.
 4. En **Aplicar esta regla si**, elija El destinatario > es esta **persona**. 
 5. En la **ventana Seleccionar miembros,** seleccione el nombre de la persona a la que desea que se aplique la regla de cifrado y, a continuación, haga clic en **Agregar**. 

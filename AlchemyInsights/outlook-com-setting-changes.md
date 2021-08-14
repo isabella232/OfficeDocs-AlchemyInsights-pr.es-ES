@@ -1,5 +1,5 @@
 ---
-title: Configuración de Outlook.com
+title: Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,31 +10,31 @@ ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 953bb7feec3099e7125c41b7177057ff40efa5be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0fa87db304c2935f60848bf69c0fcc2217ac4414abd53718f418785e8804c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095271"
 ---
-# <a name="settings-in-outlookcom"></a>Configuración de Outlook.com
+# <a name="settings-in-outlookcom"></a>Configuración en Outlook.com
 
-Si el destinatario es interno o externo a su organización y si usa una cuenta de correo electrónico de Office 365 o Outlook.com, los clientes siguientes no deben tener que hacer nada especial para abrir el mensaje: **outlook 2016, Outlook en la web/Outlook Web App, Outlook Mobile App**
+Si el destinatario es interno o externo a su organización Y si está usando una cuenta de correo electrónico de Office 365 o Outlook.com, los siguientes clientes no deben tener que hacer nada especial para abrir el mensaje: **Outlook 2016, Outlook en la Web / Outlook Web App, una** aplicación móvil Outlook
 
-**Delegados** de usuarios a los que se envió el correo electrónico protegido, no se pueden abrir mensajes protegidos. Solo los destinatarios originales (persona a la que se envió el correo electrónico protegido) pueden ver la información en el correo electrónico.
+**Los delegados** de usuarios a los que se envió correo electrónico protegido no pueden abrir mensajes protegidos. Solo los destinatarios originales (persona a la que se envió el correo electrónico protegido) pueden ver la información en el correo electrónico.
 
-- Si el destinatario está en un proveedor de servicios Internet diferente y &nbsp; no puede abrir el mensaje y ve un archivo adjunto ' rpmsg ', siga las instrucciones siguientes:
+- Si el destinatario está en otro proveedor de servicios de Internet y no pueden abrir el mensaje y ver un archivo adjunto &nbsp; de "rpmsg", siga las instrucciones siguientes:
     
-    - Seleccione **leer** el mensaje.
+    - Seleccione **Leer** el mensaje.
     
-    - Se redirigen a una página donde deben seleccionar **iniciar sesión con un código**de acceso de un solo uso.
+    - Se redirigen a una página donde deben seleccionar iniciar sesión con un código de acceso **único.**
     
-    - Se envía un código de acceso de un solo uso a la misma dirección de correo electrónico. Escribe el código en la ventana del explorador y, a continuación, selecciona **continuar** para leer el mensaje.
+    - Se envía un código de acceso de un solo uso a la misma dirección de correo electrónico. Escriba el código en la ventana del explorador y, a **continuación, seleccione Continuar** para leer el mensaje.
 
-- Si no puede cifrar mensajes desde otra organización, siga los pasos de resolución especificados en este [artículo](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
+- Si no puede cifrar mensajes de otra organización, siga los pasos de resolución especificados en este [artículo](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
 
-- Si el buzón del destinatario está en **Yahoo o gmail**, siga las instrucciones que </span> se describen en este [artículo](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+- Si el buzón de destinatario está en **Yahoo o Gmail,** siga las instrucciones </span> que se encuentran en este [artículo](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
 
-- Las directivas de protección se aplican solo a [formatos de archivo conocidos](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Los datos adjuntos de OneDrive para la empresa no son compatibles con el cifrado.
+- Las directivas de protección solo se aplican a [formatos de archivo conocidos.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types) OneDrive para la Empresa datos adjuntos no son compatibles con el cifrado.
 
-- Los buzones compartidos **no pueden abrir mensajes cifrados actualmente a través de cualquier cliente**. 
+- Los buzones **compartidos no pueden abrir mensajes cifrados actualmente a través de ningún cliente**. 

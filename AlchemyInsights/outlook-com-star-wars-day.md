@@ -1,5 +1,5 @@
 ---
-title: Día de las guerras de 8000045 estrella
+title: 8000045 Star Wars Day
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
-ms.openlocfilehash: 360089fb1ee2d3cdc6dbcb88bca248977dfd50a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0fe31783a95eb1a21f364dde4212b27c5267447b88b4237d7d00b1b8d36dee49
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063501"
 ---
-# <a name="star-wars-day"></a>Día de las guerras
+# <a name="star-wars-day"></a>Día de Star Wars
 
-Hmmm, curiosidad es.
+Hmmm, es curioso que lo hagas.
 
-Puede que sea la fuerza para usted.
+Que la Fuerza esté contigo.
