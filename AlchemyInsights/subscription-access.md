@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999257"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>No se puede iniciar sesión en Azure debido a problemas en el explorador (el explorador se bloquea, sigue girando, no se carga, etc.).
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>No se puede iniciar sesión en Azure debido a problemas del explorador (el explorador se cuelga, sigue girando, no se carga, etc.)
 
-Es posible que se vea afectado por una interrupción. Compruebe si hay una interrupción continua: [Estado de Azure Health](https://status.azure.com/status/history/).
+Es posible que se le haya afectado una interrupción. Compruebe si hay una interrupción continua: [Estado de estado de Azure .](https://status.azure.com/status/history/)
 
-Cierre sesión en todas las sesiones de Azure activas. Inicie un modo en privado o incógnito de su explorador Web.
+Cierre sesión de todas las sesiones activas de Azure. Inicie un modo de incógnito o en privado del explorador web.
 
-También puede intentar actualizar el explorador, usar otro explorador y eliminar las cookies de caché si no funciona.
+También puedes intentar actualizar el explorador, usar otro explorador, eliminar cookies de caché si no funciona anteriormente.
 
-Más información: [solución de problemas de inicio de sesión](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
+Más información: [Solucionar problemas de inicio de sesión](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
-**No se puede tener acceso a las suscripciones**
+**No se puede acceder a las suscripciones**
 
-En [Azure portal](https://portal.azure.com/), asegúrese de que se selecciona el directorio de Azure correcto en la cuenta de la parte superior derecha.
+En [Azure Portal,](https://portal.azure.com/)asegúrese de que el directorio de Azure correcto está seleccionado en la cuenta de la parte superior derecha.
 
-En el [centro de cuentas de Azure](https://account.windowsazure.com/Subscriptions), asegúrese de que la cuenta usada sea el administrador de la cuenta.
+En el [Centro de cuentas de Azure,](https://account.windowsazure.com/Subscriptions)asegúrese de que la cuenta usada es el administrador de la cuenta.
 
-Más información: [solucionar problemas no se encontraron suscripciones](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+Más información: Solucionar [problemas sin suscripciones encontradas](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**No se puede obtener acceso al historial de facturación**
+**No se puede acceder al historial de facturación**
 
-El administrador de la cuenta debe asegurarse de que el usuario que tiene acceso a la información de facturación se agrega a Azure Active Directory como usuario invitado: [Agregar o eliminar un nuevo usuario](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+El administrador de la cuenta debe asegurarse de que el usuario que obtiene acceso a la información de facturación se agrega en Azure Active Directory como usuario invitado: Agregar o eliminar [un nuevo usuario.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-A continuación, el usuario debe tener un rol de administrador global: [asignar rol a los usuarios](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+A continuación, el usuario debe tener un rol de administrador global: [Asignar un rol a los usuarios](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-Registrar esto, al usuario se le puede conceder acceso a la facturación mediante directivas RBAC: [conceder acceso a la facturación](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+Tras ello, se puede conceder al usuario acceso de facturación mediante directivas RBAC: [Conceder acceso a la facturación.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Documentos recomendados**
 
