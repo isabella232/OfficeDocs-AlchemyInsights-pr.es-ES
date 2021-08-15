@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969324"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Aplicar automáticamente etiquetas de confidencialidad
 
@@ -32,7 +32,7 @@ Para aplicar etiquetas automáticamente, se requiere lo siguiente:
 
 Estamos trabajando en compatibilidad nativa que no requerirá el cliente de etiquetado unificado de Azure Information Protection en el futuro.
 
-Actualmente, solo Windows admite el cliente de etiquetado unificado.  La característica aún no es compatible con Mac, iOS y Android.
+Actualmente, solo Windows el cliente de etiquetado unificado.  La característica aún no es compatible con Mac, iOS y Android.
 
 Para obtener más información sobre las etiquetas de confidencialidad y aplicarlas automáticamente al contenido, vea:
 
