@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038201"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Actualizar la información de mi perfil o cambiar mi imagen
 
 Actualmente, no es posible editar y actualizar la información de perfil directamente desde Outlook para iOS, pero es posible editar esta información en otro lugar. 
 
-Puede realizar actualizaciones de su perfil en Outlook para Windows o Outlook en la Web (OWA). 
+Puede realizar actualizaciones en su perfil en Outlook para Windows o Outlook web (OWA). 
 
 **Outlook para Windows**: 
 
-- **Archivo**  >  **Cuenta de Office**  >  **Información del usuario**  >  **Acerca de mí** (te lleva al perfil de Microsoft 365 en línea) > **actualizar** perfil o haz clic en el icono de la cámara para cambiar la foto  
+- **Archivo**  >  **Office cuenta**  >  **Información del usuario**  >  **Acerca de mí** (te lleva Microsoft 365 perfil en línea) > **Actualizar** perfil o haz clic en el icono de la cámara para cambiar la foto  
   
-**Outlook en la Web (OWA):** 
+**Outlook web (OWA):** 
 
 - **Imagen de perfil**  >  **Mi perfil**  >  **Actualizar perfil**

@@ -1,5 +1,5 @@
 ---
-title: Cerrar sesión de Outlook.com
+title: Cerrar sesión en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,22 +14,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983398"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Cómo cerrar la sesión de Outlook.com
+# <a name="how-to-sign-out-of-outlookcom"></a>Cómo cerrar sesión en Outlook.com
 
 1. Seleccione su nombre o imagen en la esquina superior derecha.
 
-    Si no ve la imagen en la parte superior de la pantalla, compruebe si el bloqueo de ad está activado. A veces eso impide que se muestre la imagen.
+    Si no ves la imagen en la parte superior de la pantalla, comprueba si el bloqueo de anuncios está activado. A veces eso impide que se muestre la imagen.
 
 2. Seleccione **Cerrar sesión**.
 
-    Para detener el inicio de sesión automático, desactive la casilla **mantener la sesión iniciada** en la página en la que escribió su contraseña.
+    Para dejar de iniciar sesión automáticamente, desactive la casilla **Mantenerme** iniciado sesión en la página donde escriba su contraseña.
 
-Para obtener más información, consulte [Cómo iniciar o cerrar sesión en Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Para obtener más información, vea [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

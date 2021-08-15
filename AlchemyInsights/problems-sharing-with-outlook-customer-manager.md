@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960132"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas para compartir con el Administrador de clientes de Outlook
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas para compartir con Outlook administrador de clientes
 
-Si tiene problemas de uso compartido con el Administrador de clientes de Outlook, le recomendamos que primero intente borrar la memoria caché del explorador. Por ejemplo, en Internet Explorer:
+Si tiene problemas de uso compartido con el administrador Outlook le recomendamos que primero intente borrar la memoria caché del explorador. Por ejemplo, en Internet Explorer:
 
-1. Vaya a **Configuración**  >  **general >** configuración en Historial de **exploración**  >  **Cachés y bases de datos**.
+1. Vaya a **Configuración** General > Configuración en Historial de exploración  >     >  **Cachés y bases de datos**.
 2. Eliminar archivos de caché para el sitio web "outlookapps.com".
 3. Reinicie Outlook.
 
-Para obtener más información acerca del uso compartido, [vea Compartir información en el Administrador de clientes de Outlook.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
+Para obtener más información acerca del uso compartido, vea [Compartir información en Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782168"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038129"
 ---
 # <a name="upn-sync-disabled"></a>Sincronización upn deshabilitada
 
@@ -27,6 +27,6 @@ Si empezó a sincronizar con Azure AD antes del 30 de marzo de 2016, ejecute el 
   
 La coincidencia suave de UPN se activa automáticamente para las organizaciones que empezaron a sincronizarse con Azure AD en o después del 30 de marzo de 2016.
   
-Para obtener más información sobre cómo habilitar la coincidencia suave en UPN y otras características de sincronización, consulte Características del servicio de sincronización de [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Para obtener más información sobre cómo habilitar la coincidencia suave en UPN y otras características de sincronización, consulte [Azure AD Conectar sync service features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 
