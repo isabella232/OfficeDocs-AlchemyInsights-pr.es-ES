@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976702"
 ---
 # <a name="manage-bing-maps-for-your-organization"></a>Administrar mapas de Bing para su organización
 
-Después de activar Mapas  de Bing en Contenido incrustado en el Centro de administración de Power Platform, los usuarios verán un cliente en Mapas de Bing cuando vean contactos, clientes potenciales o cuentas.
+Después de activar mapas de Bing contenido  incrustado en el Centro de administración de Power Platform, los usuarios verán a un cliente en mapas de Bing cuando vean contactos, clientes potenciales o cuentas.
 
-Para obtener más información, consulta [Administrar mapas de Bing para tu organización.](https://go.microsoft.com/fwlink/?linkid=2152757)
+Para obtener más información, vea [Manage mapas de Bing for your organization](https://go.microsoft.com/fwlink/?linkid=2152757).

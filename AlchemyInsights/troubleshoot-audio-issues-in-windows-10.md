@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039443"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Solución de problemas de audio en Windows 10
 
@@ -55,12 +55,12 @@ Para asegurarse de que los controladores están actualizados:
 
 2. En **Controladores de sonido, vídeo** y juegos, selecciona tu tarjeta de sonido, ábrala, selecciona la pestaña Controlador y selecciona Actualizar **controlador**. 
 
-**Nota:** Si Windows no encuentra un controlador nuevo, busca uno en el sitio web del fabricante del dispositivo y sigue sus instrucciones.
+**Nota:** si Windows no encuentra un controlador nuevo, busque uno en el sitio web del fabricante del dispositivo y siga sus instrucciones.
 
 **Reinstalar el controlador**
 
 Si no puedes actualizar a través del Administrador de dispositivos o encontrar un nuevo controlador en el sitio web del fabricante, prueba estos pasos:
 
-1. En el Administrador de dispositivos, haga clic con el botón secundario (o mantenga presionado) el controlador de audio y seleccione **Desinstalar**. Reinicia el dispositivo y Windows intentará reinstalar el controlador.
+1. En el Administrador de dispositivos, haga clic con el botón secundario (o mantenga presionado) el controlador de audio y seleccione **Desinstalar**. Reinicie el dispositivo y Windows intentará reinstalar el controlador.
 
-2. Si reinstalar el controlador no funciona, prueba a usar el controlador de audio genérico que viene con Windows. En el Administrador de dispositivos, haga clic con el botón secundario (o presione y mantenga presionado) el **controlador** de audio > Actualizar software del controlador Examinar mi equipo en busca de software de controladores Permítanme elegir de una lista de controladores de dispositivo en mi equipo , seleccione Dispositivo de audio de alta definición, seleccione Siguiente y siga las instrucciones para  >    >  instalarlo.  
+2. Si reinstalar el controlador no funciona, intente usar el controlador de audio genérico que viene con Windows. En el Administrador de dispositivos, haga clic con el botón secundario (o presione y mantenga presionado) el **controlador** de audio > Actualizar software del controlador Examinar mi equipo en busca de software de controladores Permítanme elegir de una lista de controladores de dispositivo en mi equipo , seleccione Dispositivo de audio de alta definición, seleccione Siguiente y siga las instrucciones para  >    >  instalarlo.  

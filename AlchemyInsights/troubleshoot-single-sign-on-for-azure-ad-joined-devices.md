@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039263"
 ---
 # <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Solucionar problemas de inicio de sesión único para dispositivos unidos a Azure AD
 
-Si tiene un entorno de Active Directory (AD) local y desea unir los equipos unidos a un dominio de AD a Azure AD, puede hacerlo mediante la combinación híbrida de Azure AD. [How To: Plan your hybrid Azure Active Directory join implementation](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) provides you with the related steps to implement a hybrid Azure AD join in your environment.
+Si tiene un entorno de Active Directory (AD) local y desea unir los equipos unidos a un dominio de AD a Azure AD, puede hacerlo mediante la combinación híbrida de Azure AD. [How To: Plan your hybrid Azure Active Directory join implementation](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) proporciona los pasos relacionados para implementar una combinación híbrida de Azure AD en su entorno.
 
 Para obtener más información, vea [Configure Azure AD joined devices for Single-Sign On](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)on using Windows Hello for Business .
 
 **Problemas del token de actualización principal (PRT)**
 
-Un token de actualización principal (PRT) es un artefacto clave de la autenticación de Azure AD en windows 10, Windows Server 2016 y versiones posteriores, dispositivos iOS y Android. Se trata de un token web JSON (JWT) especialmente emitido a los agentes de tokens de microsoft para habilitar el inicio de sesión único (SSO) en todas las aplicaciones usadas en esos dispositivos. Para obtener más información sobre cómo se emite, usa y protege un PRT en dispositivos Windows 10, consulta ¿Qué es un token de actualización [principal?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+Un token de actualización principal (PRT) es un artefacto clave de la autenticación de Azure AD en dispositivos Windows 10, Windows Server 2016 versiones posteriores, iOS y Android. Se trata de un token web JSON (JWT) especialmente emitido a los agentes de tokens de microsoft para habilitar el inicio de sesión único (SSO) en todas las aplicaciones usadas en esos dispositivos. Para obtener información detallada sobre cómo se emite, usa y protege un PRT en dispositivos Windows 10, vea ¿Qué es un token de actualización [principal?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
 
 **WamDefaultSet: YES y AzureADPrt: SÍ**
 

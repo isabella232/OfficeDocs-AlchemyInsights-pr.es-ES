@@ -1,5 +1,5 @@
 ---
-title: ¿Cuál es mi dirección de correo electrónico de Outlook.com?
+title: ¿Cuál es mi dirección Outlook.com?
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 0282d565d4fb05f22f41e227d280ddeee23e4b8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb714428b29cde80ac379d59a1ca4a46f07cfbebbdc459c73ef100b7a17a72b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992020"
 ---
-# <a name="see-your-own-outlookcom-email-address"></a>Ver su propia dirección de correo electrónico Outlook.com
+# <a name="see-your-own-outlookcom-email-address"></a>Ver su propia dirección de correo Outlook.com
 
-Para ver la dirección de correo electrónico predeterminada que usa al enviar un correo electrónico, vaya a [configuración de correo electrónico de sincronización](https://outlook.live.com/mail/options/mail/accounts) y mire en **establecer predeterminada desde la dirección**.
+Para ver la dirección de correo electrónico predeterminada que usa al enviar correo electrónico, vaya a la configuración de correo electrónico [de](https://outlook.live.com/mail/options/mail/accounts) sincronización y busque **en Establecer dirección predeterminada de**.
 
-Si ha conectado otra cuenta de correo electrónico a su cuenta de Outlook.com, puede elegir enviar correo electrónico desde esa dirección.
+Si has conectado otra cuenta de correo electrónico a tu cuenta Outlook.com, puedes elegir enviar correo electrónico desde esa dirección.
 
-1. Seleccione los puntos suspensivos <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- en la parte inferior de la ventana de redacción y seleccione **Mostrar desde**   para ver la línea de.
-2. Encima de la línea para, seleccione **desde**   y elija la dirección de correo electrónico que desea usar.
+1. Seleccionar los tres puntos <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ en la parte inferior de la ventana de redacción y seleccione **Mostrar desde** para ver la línea De.
+2. Encima de la línea Para, **seleccione De** y elija qué dirección de correo electrónico desea usar.
 
-Obtenga más información sobre [el envío de correo electrónico desde una dirección distinta en Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Obtenga más información [sobre cómo enviar correo electrónico desde una dirección diferente en Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
