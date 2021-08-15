@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001686"
 - "3750"
-ms.openlocfilehash: 649124db135805d8101b43dbead63860d36853ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6671a63d97f24fadc9b34907d75600a3c0ad1c9990a4a8f8d32034c11e8a952e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038417"
 ---
 # <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>No se puede iniciar sesión en Teams por el error autologon.microsoftazuread-sso dot com:443
 
@@ -30,7 +30,7 @@ Siga estos pasos para agregar una dirección URL a la lista de sitios de la intr
 1. Para abrir Internet Explorer, haga clic en el botón **Inicio**. En el cuadro de búsqueda, escriba Internet Explorer y, a continuación, en la lista de resultados, haga clic en **Internet Explorer**.
 2. Haga clic en **Herramientas** y, luego, en **Opciones de Internet**.
 3. Haga clic en la pestaña **Seguridad**.
-4. Ahora, haga clic en **Sitios de Intranet local**, después, haga clic en el botón **sitios** y, luego, en el botón**Avanzado**.
+4. Ahora, haga clic en **Sitios de Intranet local**, después, haga clic en el botón **sitios** y, luego, en el botón **Avanzado**.
 5. Escriba la dirección URL del sitio web y haga clic en **Agregar**.
 6. Cuando haya terminado, haga clic en **Cerrar.**
 
