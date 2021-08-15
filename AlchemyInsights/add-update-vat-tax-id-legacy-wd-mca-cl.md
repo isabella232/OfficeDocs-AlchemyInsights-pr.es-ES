@@ -1,5 +1,5 @@
 ---
-title: 'Adición o actualización del ID de IVA/Impuesto: pasos recomendados de WD + MCA CL _ Legacy'
+title: 'Agregar o actualizar EL IVA/Id. fiscal: WD heredado + MCA CL _ Pasos recomendados'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953706"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Adición o actualización del ID de IVA/Impuesto: pasos recomendados de WD + MCA CL
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Agregar o actualizar EL IVA/Id. fiscal : WD heredado + MCA CL: pasos recomendados
 
-El identificador de impuestos se usa para el cálculo de exención de impuestos y aparece en la factura.
+El id. de impuestos se usa para el cálculo de la exención de impuestos y aparece en la factura.
 
-1. Vaya a la página [Administración de costos + facturación](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. Haga clic en **propiedades** en el lado izquierdo. 
-3. Haga clic en **administrar identificadores de impuestos** en el panel **ID de impuestos** y, a continuación, escriba el nuevo identificador fiscal.
+1. Vaya a la [página Administración de costos y facturación.](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) 
+2. Haga **clic en** Propiedades en el lado izquierdo. 
+3. Haga clic en Administrar **identificadores fiscales** en el panel **Identificadores** fiscales y, a continuación, escriba su nuevo identificador fiscal.
 4. Haga clic en **Actualizar**. 
 
-Si no ve el panel **identificadores de impuestos** , significa que aún no se han recopilado los identificadores de impuestos para su región o que no se admite la actualización de identificadores de impuestos en el portal para su cuenta.
+Si no ve el panel Tax **IDs,** significa que los ID fiscales aún no se recopilan para su región o que la actualización de los IDs fiscales en el portal no es compatible con su cuenta.
 
 **Documentos recomendados**
 
-[Países, regiones y divisas admitidas](https://azure.microsoft.com/pricing/faq/)
+[Países/regiones y monedas admitidos](https://azure.microsoft.com/pricing/faq/)
 

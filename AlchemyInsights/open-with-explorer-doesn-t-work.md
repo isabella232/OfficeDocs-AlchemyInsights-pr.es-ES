@@ -1,5 +1,5 @@
 ---
-title: Abrir con el explorador no funciona
+title: Abrir con el Explorador no funciona
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 5bf28982533d8ca9998605cf3592f317c0ef99b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 164d5fe8c992df825d1f52f19792e1623526c35c58ff2f1e1ab601fdcf5f0f53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011353"
 ---
-# <a name="open-with-explorer-isnt-working"></a>Abrir con el explorador no funciona
+# <a name="open-with-explorer-isnt-working"></a>Abrir con el Explorador no funciona
 
-Si **abrir con el explorador** o **ver en el explorador de archivos** no funciona, asegúrese de que el servicio WebClient está configurado para **ejecutarse** siguiendo los pasos que se indican a continuación. Por ejemplo, puede tardar mucho tiempo en abrir una biblioteca de SharePoint o de OneDrive cuando el servicio no se está ejecutando. 
+Si **Abrir con el Explorador** o **Ver** en el Explorador de archivos no funciona, asegúrese de que el servicio WebClient esté establecido en **Ejecutar** siguiendo los pasos siguientes. Por ejemplo, puede tardar mucho tiempo en abrir una biblioteca SharePoint o OneDrive cuando el servicio no se está ejecutando. 
   
-1. En el cuadro de búsqueda de Windows, escriba ejecutar, seleccione la aplicación de escritorio ejecutar, escriba Services. msc y, a continuación, seleccione **entrar**.
+1. En el Windows de búsqueda, escriba **ejecutar,** seleccione ejecutar aplicación de escritorio, escriba services.msc y, a continuación, seleccione Entrar .
     
-2. Desplácese hacia abajo hasta el servicio WebClient y Compruebe la columna **Estado** . Si el estado del servicio WebClient no se está **ejecutando**, haga doble clic en el servicio, haga clic en **iniciar**y, a continuación, haga clic en **Aceptar**. Habilite el servicio, si es necesario, seleccionando **manual** o **automático** en el cuadro **tipo de inicio** . 
+2. Desplácese hacia abajo hasta el servicio WebClient y compruebe la **columna** Estado. Si el estado del servicio WebClient no se está **ejecutando,** haga doble clic en el servicio, haga clic en **Inicio** y, a continuación, haga clic en **Aceptar**. Habilite el servicio, si es necesario, seleccionando **Manual** o **Automático** en el cuadro **Tipo de** inicio. 
     
 > [!NOTE]
-> Para solucionar problemas de apertura en el explorador de archivos, consulte [abrir en el explorador](https://go.microsoft.com/fwlink/?linkid=871665). Explore Sync como una alternativa mejor: [sincronizar archivos de SharePoint con el nuevo cliente de sincronización de OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Para solucionar problemas de apertura en el Explorador de archivos, vea [Abrir en el Explorador](https://go.microsoft.com/fwlink/?linkid=871665). Explorar la sincronización como una mejor alternativa: [sincronizar SharePoint archivos con el nuevo Sincronización de OneDrive cliente](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

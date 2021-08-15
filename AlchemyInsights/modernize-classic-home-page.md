@@ -1,5 +1,5 @@
 ---
-title: Modernizar la Página principal clásica
+title: Modernizar la página principal clásica
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026095"
 ---
-# <a name="modernize-the-classic-home-page"></a>Modernizar la Página principal clásica
+# <a name="modernize-the-classic-home-page"></a>Modernizar la página principal clásica
 
-Una actualización reciente de las páginas principales del sitio de grupo de SharePoint clásico afecta a la Página principal de los sitios de grupo clásicos (STS # 0) cuando una página principal contiene *solo los elementos Web predeterminados* , como la introducción, la biblioteca de documentos y el suministro de noticias.
+Una actualización reciente de las páginas principales del sitio de grupo de SharePoint clásicas afecta a la  página principal de los sitios de grupo clásicos (STS#0) cuando una página principal contiene solo elementos web predeterminados, como introducción, biblioteca de documentos y fuentes de noticias.
 
 Vea un recorrido por el cambio [aquí](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
-**Nota: los sitios de grupo clásicos que contienen contenido personalizado no se actualizarán automáticamente.**
+**Nota: Los sitios de grupo clásicos que contienen contenido personalizado no se actualizarán automáticamente.**
 
-* Obtenga más información sobre los criterios de actualización en [modernización clásica de páginas principales](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Obtenga más información sobre los criterios de actualización en [Modernización de página principal clásica.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
-* [Actualizar otras páginas principales que no formaban parte de la modernización automática](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Actualizar otras páginas de inicio que no formaron parte de la modernización automática.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
 
-* Deshabilite esta actualización en sitios específicos con un [cmdlet de PowerShell de patrones y prácticas de SharePoint (PNP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* Deshabilite esta actualización en sitios específicos mediante un cmdlet de PowerShell SharePoint patrones y [prácticas (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
