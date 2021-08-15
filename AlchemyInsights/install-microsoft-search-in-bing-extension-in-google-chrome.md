@@ -1,5 +1,5 @@
 ---
-title: Instalar la extensión De Microsoft Search en Bing en Google Chrome
+title: Instalar el Búsqueda de Microsoft en Bing en Google Chrome
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014629"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Instalar la extensión De Microsoft Search en Bing en Google Chrome
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Instalar el Búsqueda de Microsoft en Bing en Google Chrome
 
-Para instalar Microsoft Search en la extensión de Bing en Google Chrome, haga lo siguiente:
+Para instalar Búsqueda de Microsoft en Bing en Google Chrome, haga lo siguiente:
 
 1. Asegúrate de que el dispositivo cumple [los criterios](https://go.microsoft.com/fwlink/?linkid=2152236) para instalar la extensión.
-2. Opt in to have the extension installed, by configuring the appropriate settings in the **Microsoft Search** section of the Microsoft 365 admin center.
-3. En el dispositivo del usuario, instale un servicio en segundo plano para Microsoft Search en Bing. Este servicio en segundo plano se incluye con Aplicaciones de Microsoft 365 para empresas.
+2. Opt in to have the extension installed, by configuring the appropriate settings in the **Búsqueda de Microsoft** section of the Centro de administración de Microsoft 365.
+3. En el dispositivo del usuario, instale un servicio en segundo plano para Búsqueda de Microsoft en Bing. Este servicio en segundo plano se incluye Aplicaciones Microsoft 365 para empresas.
 
-Para obtener más información, [consulta ¿Cómo se](https://go.microsoft.com/fwlink/?linkid=2150992) instala la extensión De Microsoft Search en Bing para Google Chrome?
+Para obtener más información, consulta ¿Cómo se [instala la Búsqueda de Microsoft en Bing extensión para Google Chrome?](https://go.microsoft.com/fwlink/?linkid=2150992)

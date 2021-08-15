@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029821"
 ---
 # <a name="file-open-read-only"></a>Archivo de solo lectura abierto
 
@@ -36,13 +36,13 @@ Para comprobar las propiedades del archivo, haga clic con el botón secundario e
   
 Los archivos de Internet y de otras ubicaciones potencialmente no seguras pueden contener virus, gusanos u otros tipos de malware que pueden dañar el equipo. Esto también es habitual con los datos adjuntos de correo electrónico o los archivos que has descargado. Para ayudar a proteger el equipo, los archivos de estas ubicaciones potencialmente no seguras se abren en la vista protegida. Al usar la vista protegida, puede leer un archivo y ver su contenido al mismo tiempo que reduce los riesgos. Para obtener más información sobre la vista protegida y cómo cambiar la configuración, vea este artículo: [¿Qué es la vista protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **¿OneDrive está lleno?**
+ **¿OneDrive lleno?**
   
 Si el archivo se almacena en OneDrive y el espacio de almacenamiento de OneDrive está lleno, no podrá guardar el documento hasta que esté bajo el espacio asignado. Puede comprobar el espacio libre en OneDrive haciendo clic en el icono de OneDrive en el centro de notificaciones y eligiendo Administrar almacenamiento, o puede ir a , iniciar sesión y tener en cuenta la cantidad de espacio usado en la parte inferior izquierda de la [https://onedrive.live.com](https://onedrive.live.com) pantalla.
   
- **¿Office está activado?**
+ **¿Office activado?**
   
-Si Office no está activado o si la suscripción ha expirado, podría estar en modo de funcionalidad reducida de solo lectura. Para obtener información sobre cómo activar Office, vea: Errores de activación y producto sin [licencia en Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Si Office está activada, o si la suscripción ha expirado, podría estar en modo de funcionalidad reducida de solo lectura. Para obtener información sobre cómo activar Office, vea: Productos sin licencia y errores de [activación en Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Si todo lo demás falla...**
   

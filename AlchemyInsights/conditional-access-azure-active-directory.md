@@ -8,20 +8,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 8070c4aa9483ed5baed558457e09190ccd88dcd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f691e626b9deabb59b909e75221d684a2d133ac6c8949deb148b5646c0d117c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966234"
 ---
 # <a name="conditional-access"></a>Acceso condicional
 
-El acceso condicional es una capacidad de Azure Active Directory. Con el acceso condicional, puede implementar decisiones de control de acceso automatizado para obtener acceso a las aplicaciones en la nube que se basan en condiciones. Para obtener más información, visite [configuración de directivas basadas en ubicaciones](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+El acceso condicional es una funcionalidad de Azure Active Directory. Con el acceso condicional, puedes implementar decisiones de control de acceso automatizado para obtener acceso a las aplicaciones en la nube basadas en condiciones. Para obtener más información, visite [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
-Como administrador de ti, también puede controlar el acceso a los recursos de SharePoint y OneDrive basándose en las ubicaciones de red definidas o en los dispositivos en los que confía. Para obtener más información, visite los vínculos siguientes.
+Como administrador de TI, también puede controlar el acceso a SharePoint y OneDrive basados en ubicaciones de red definidas o dispositivos en los que confíe. Para obtener más información, visite los vínculos siguientes.
 
-- [Controlar el acceso a los datos de SharePoint Online y OneDrive según la ubicación de red](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Controlar el acceso a SharePoint Online y OneDrive datos basados en la ubicación de red](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [Control de acceso desde dispositivos no administrados](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Controlar el acceso desde dispositivos no administrados](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

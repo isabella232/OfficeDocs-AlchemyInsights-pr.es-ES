@@ -1,5 +1,5 @@
 ---
-title: Cómo agregar o quitar un delegado en Outlook en la web (OWA)
+title: Cómo agregar o quitar un delegado en Outlook en la Web (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993442"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Cómo agregar o quitar un delegado en Outlook en la web (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Cómo agregar o quitar un delegado en Outlook en la Web (OWA)
 
-Para asignar un editor o delegar el acceso a su calendario:
+Para asignar un editor o un acceso delegado al calendario:
 
-1. En Outlook en la web, seleccione el icono del calendario en la parte inferior de la página.
-2. En la parte superior de la página, seleccione **compartir > calendario**.
-3. En la página **uso compartido y permisos** , escriba el nombre o la dirección de correo electrónico de la persona con la que desea compartir el calendario. Aunque puede compartir su calendario con más de una persona, solo puede Agregar a una persona a la vez desde Outlook en la Web.
-4. Una vez que haya agregado la persona que desea que administre el calendario, seleccione la lista desplegable situada junto a su nombre y elija el nivel de acceso que desea que tengan.
+1. En Outlook en la Web, seleccione el icono Calendario en la parte inferior de la página.
+2. En la parte superior de la página, seleccione **Compartir > calendario**.
+3. En la **página Uso compartido y permisos,** escriba el nombre o la dirección de correo electrónico de la persona con la que desea compartir el calendario. Aunque puedes compartir el calendario con más de una persona, solo puedes agregar una persona a la vez a partir de Outlook en la Web.
+4. Después de agregar la persona que desea administrar el calendario, seleccione la lista desplegable junto a su nombre y elija el nivel de acceso que desea que tenga.
 
-    - Seleccione **puede editar** para darles permiso para realizar cambios en el calendario.
-    - Seleccione **delegar** para darles el mismo permiso que un editor, y recibirá las convocatorias de reunión y las respuestas en su nombre.
+    - Seleccione **Puede editar** para darles permiso para realizar cambios en el calendario.
+    - Seleccione **Delegado** para darles el mismo permiso que un editor, además de que recibirán solicitudes de reunión y respuestas en su nombre.
     > [!NOTE]
-    > Cuando un delegado responde a una invitación de reunión en su nombre, no verá la respuesta en la invitación en la bandeja de entrada cuando use Outlook en la Web. Las reuniones aceptadas o aceptadas provisionalmente aparecerán en el calendario y mostrarán que el delegado las aceptó.
-    - Las opciones **pueden ver cuando estoy ocupado**, **puede ver los títulos y las ubicaciones** y **puede ver todos los detalles** permite que otros usuarios vean su calendario pero no realicen cambios en él. El acceso de personas ajenas a la organización se limita a estas opciones.
+    > Cuando un delegado responde a una invitación a una reunión en su nombre, no verá la respuesta en la invitación en la bandeja de entrada cuando use Outlook en la Web. Las reuniones que se acepten o acepten provisionalmente aparecerán en el calendario y mostrarán que el delegado las aceptó.
+    - Las opciones **Pueden ver cuando estoy** ocupado , Puede  ver **títulos** y ubicaciones y Puede ver todos los detalles permitir que otros usuarios puedan ver el calendario, pero no realizar cambios en él. El acceso de personas de fuera de la organización está limitado a estas opciones.
 
-5. Una vez que haya terminado de agregar a la persona con la que desea compartir el calendario y que haya elegido el permiso que desea concederle, seleccione **compartir**. Si decide no compartir su calendario en este momento, seleccione **quitar**.
+5. Una vez que haya terminado de agregar la persona con la que desea compartir el calendario y haya elegido qué permiso desea darles, seleccione **Compartir**. Si decide no compartir el calendario en este momento, seleccione **Quitar**.
 
-La persona con la que ha compartido el calendario recibirá un mensaje de correo electrónico en el que se le indicará. Al seleccionar el botón **Aceptar** en la invitación, se agregará el calendario a su lista de calendarios.
+La persona con la que compartiste el calendario recibirá un mensaje de correo electrónico en el que se le indica. Cuando seleccionan el **botón** Aceptar en la invitación, se agregará el calendario a su lista de calendarios.
 
 > [!NOTE]
-> Los elementos de calendario marcados como **privados** están protegidos. La mayoría de las personas con las que comparte el calendario solo ven la hora de los elementos marcados como **privados**, no el asunto, la ubicación u otros detalles. La excepción es si selecciona la casilla de verificación **permitir que el delegado vea los eventos privados** .
+> Los elementos de calendario **marcados como Privado** están protegidos. La mayoría de las personas con las que comparte el calendario solo ven la hora de los elementos marcados **como Privado,** no el asunto, la ubicación u otros detalles. La excepción a esto es si selecciona la casilla **Delegar ver eventos** privados.
 
-Para quitar un delegado en Outlook en la web (OWA):
+Para quitar un delegado en Outlook web (OWA):
 
-1. En Outlook en la web, seleccione el icono del calendario en la parte inferior de la página.
-2. En la parte superior de la página, seleccione **compartir** y elija el calendario que desea dejar de compartir.
-3. Seleccione **quitar** junto a la persona con la que desea dejar de compartir el calendario.
+1. En Outlook en la Web, seleccione el icono Calendario en la parte inferior de la página.
+2. En la parte superior de la página, seleccione **Compartir** y elija el calendario que desea dejar de compartir.
+3. Selecciona **Quitar** junto a la persona con la que quieres dejar de compartir el calendario.
