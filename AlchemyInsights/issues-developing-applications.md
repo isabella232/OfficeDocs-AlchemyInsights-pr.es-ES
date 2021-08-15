@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013441"
 ---
 # <a name="issues-developing-applications"></a>Problemas con el desarrollo de aplicaciones
 
@@ -30,7 +30,7 @@ Para solucionar los problemas más comunes al crear aplicaciones de Azure Active
 - [No sé cómo conceder permisos a mi aplicación](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
 - [No entiendo la diferencia entre los permisos delegados y los de aplicación](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Fin de soporte para la Biblioteca de autenticación de Active Directory (ADAL) y la API de Azure AD Graph (AAD Graph)** _
+***Fin de soporte para la Biblioteca de autenticación de Active Directory (ADAL) y la API de Azure AD Graph (AAD Graph)***
 
 - A partir del 30 de junio de 2020, ya no agregaremos nuevas características a la Biblioteca de autenticación de Active Directory (ADAL) y a la API de Azure AD Graph (AAD Graph). Seguiremos proporcionando soporte técnico y actualizaciones de seguridad, pero dejaremos de ofrecer actualizaciones de características.
 
@@ -40,7 +40,7 @@ Para solucionar los problemas más comunes al crear aplicaciones de Azure Active
 
     - Es posible que, después de este momento, las aplicaciones que usan AAD Graph ya no reciban respuestas del punto de conexión de AAD Graph.
 
-_ *Migración de ADAL**
+**Migración de ADAL**
 
 Si usa aplicaciones de Microsoft, le recomendamos que actualice a la biblioteca de autenticación de Microsoft (MSAL), que tiene las características y actualizaciones de seguridad más recientes. Esta recomendación es en el contexto en el que Microsoft inicia el proceso de migrar sus aplicaciones a MSAL antes de la fecha límite del fin de soporte técnico. 
 

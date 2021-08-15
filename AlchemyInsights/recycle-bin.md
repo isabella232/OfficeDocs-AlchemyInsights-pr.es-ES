@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991681"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Restaurar elementos en SharePoint Online
 
@@ -25,7 +25,7 @@ Al eliminar elementos en SharePoint Online, se conservan durante un total de 93 
   
 1. Vaya al sitio y haga clic **en Papelera de reciclaje** en el panel izquierdo. 
     
-    Si no ve  la Papelera de reciclaje en el panel izquierdo, haga clic en el icono Configuración de la parte superior derecha y, a continuación, haga clic en **Contenido del sitio**. La Papelera de reciclaje está en el extremo derecho de la barra de comandos en la parte superior.
+    Si no ve  la papelera de reciclaje en el panel izquierdo, haga clic en el icono Configuración en la parte superior derecha y, a continuación, haga clic en **Contenido del sitio**. La Papelera de reciclaje está en el extremo derecho de la barra de comandos en la parte superior.
     
 2. En la **página Papelera de** reciclaje, seleccione los elementos que desea restaurar apuntando a ellos y haciendo clic en el icono de marca de verificación que aparece. 
     

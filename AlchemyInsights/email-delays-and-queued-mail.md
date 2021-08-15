@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030181"
 ---
 # <a name="are-you-seeing-email-delays-or-queued-mail"></a>¿Ve retrasos de correo electrónico o correo en cola?
 
-Recientemente empezamos a descartar los extremos SMTP más antiguos. Estos valores de destino estaban disponibles para usarlos en los registros MX y Smart hosts antes 2012. Si todavía usa uno de estos valores anteriores, deberá actualizar el extremo a un valor admitido. Para obtener más información, consulte esta [compatibilidad con KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Recientemente empezamos a desaprobar puntos de conexión SMTP anteriores. Estos valores de destino estaban disponibles para su uso en registros MX y hosts inteligentes antes de 2012. Si sigue usando uno de estos valores anteriores, deberá actualizar el extremo a un valor admitido. Para obtener más información, vea este [kb de soporte](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)técnico .
