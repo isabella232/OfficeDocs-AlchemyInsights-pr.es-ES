@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017833"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Cambiar el nombre de una cuenta local o una cuenta de Microsoft
 
-Si usas solo un nombre de usuario y una contraseña para iniciar sesión en Windows 10, estás usando una cuenta local. 
+Si usas solo un nombre de usuario y una contraseña para iniciar sesión Windows 10, estás usando una cuenta local. 
 
 **Para cambiar el nombre de una cuenta local:**
 
@@ -37,7 +37,7 @@ Si usa una dirección de correo electrónico y una contraseña para iniciar sesi
 
 **Para cambiar el nombre para mostrar de la cuenta Microsoft:**
 
-Use su nombre para mostrar siempre que inicie sesión en su cuenta. También es el nombre que ves en tus dispositivos Windows 10 y es el nombre que los usuarios ven al enviar correos electrónicos. Este nombre puede diferir del nombre para mostrar de la cuenta local. Este es el modo de cambiar el nombre para mostrar:
+Use su nombre para mostrar siempre que inicie sesión en su cuenta. También es el nombre que ves en los dispositivos Windows 10 y es el nombre que los usuarios ven al enviar correos electrónicos. Este nombre puede diferir del nombre para mostrar de la cuenta local. Este es el modo de cambiar el nombre para mostrar:
 
 1. Inicie sesión en la **página Su información** en el sitio web de la cuenta [Microsoft](https://account.microsoft.com/).
 

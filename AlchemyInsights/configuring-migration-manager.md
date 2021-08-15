@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5670"
-ms.openlocfilehash: e5133f0fedbc5fe8feb25aa0e869234619bd5b94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b242c2d011a578f2987f4722addebd34c558abfe88981387d8bcc3f7550e53b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033259"
 ---
 # <a name="configuring-migration-manager"></a>Configuración del Administrador de migración
 
-El Administrador de migración centraliza la administración de las migraciones de grandes archivos compartidos configurando uno o más ordenadores o máquinas virtuales (VM) como "agentes" de migración. Para obtener más información, vea:
+El Administrador de migración centraliza la administración de las migraciones de grandes recursos compartidos de archivos mediante la configuración de uno o más equipos o máquinas virtuales (VM) como "agentes" de migración. Para obtener más información, consulte:
 
 - [Configurar clientes del Administrador de migración](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 

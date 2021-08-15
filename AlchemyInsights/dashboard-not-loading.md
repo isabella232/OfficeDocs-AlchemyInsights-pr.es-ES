@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002929"
 - "5608"
-ms.openlocfilehash: e800db4165a770f9980d2178dbad8ec2fc898858
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13d9e5718051ecadbfc7e8c875d37ca2d2cdd24e48a5e9a391d578aa7c3cc2d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005611"
 ---
 # <a name="dashboard-not-loading"></a>El panel no se carga
 
 **Síntoma:**
 
-Es posible que el panel esté atascado con un control de carga o puede mostrar un mensaje de error genérico: "Algo ha ido mal. Compruebe los detalles técnicos para obtener más detalles ".
+Es posible que el panel esté atascado y muestre un indicador giratorio o un mensaje de error genérico del tipo "Algo ha fallado. Consulte los detalles técnicos para obtener más detalles".
 
 **Guía de solución de problemas:**
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994882"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Establecer ClientAccessServerEnabled en True
 
@@ -27,16 +27,16 @@ Si no puede abrir un mensaje de correo electrónico cifrado y, en su lugar, ver 
 1. Conéctese a Exchange Online PowerShell.
 
 > [!NOTE]
-> Para conectarse a Exchange Online PowerShell, debe iniciar sesión con un administrador global o una cuenta de administrador de Exchange.
+> Para conectarse a Exchange Online PowerShell, debe iniciar sesión con un administrador global o una cuenta Exchange administrador.
 
-   a. Abra Windows PowerShell y, a continuación, ejecute el siguiente comando: `$UserCredential = Get-Credential`
-b. En el Windows PowerShell de diálogo Solicitud de **credencial,** escriba su cuenta y contraseña de trabajo o escuela, c. Haga clic en **Aceptar**. 
+   a. Abra Windows PowerShell y, a continuación, ejecute el siguiente comando:`$UserCredential = Get-Credential`
+b. En el **Windows PowerShell de** diálogo Solicitud de credencial, escriba su cuenta y contraseña de trabajo o escuela, c. Haga clic en **Aceptar**. 
 
 2. Ejecute el siguiente comando para crear una nueva sesión:
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    a. Ejecute el siguiente comando:
+    a. Ejecute el comando siguiente:
     
     `Import-PSSession $Session -DisableNameChecking`
 
