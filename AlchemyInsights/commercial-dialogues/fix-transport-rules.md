@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 635009ed4b78d2b05b0eef1f3298765b10f86ede
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d89283dec427ba3d4f55fc1f180efc13da16ae15c3d5a6c0c06a696faa6df7f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034771"
 ---
 # <a name="fix-transport-rules"></a>Corregir reglas de transporte
 
 Una regla de flujo de correo personalizada afectó a este mensaje. Para revisar la regla exacta, haga lo siguiente:
 
 1. En los resultados de envío, en **Información adicional**, anote el **GUID** o el nombre de **la directiva**.
-2. Inicie el Shell de administración de Exchange. Para obtener más información, vea [Open the Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
+2. Inicie Exchange Shell de administración. Para obtener más información, vea [Open the Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
 3. Ejecute este comando (mediante el GUID del envío):  **Get-TransportRule -identity "GUID" | fl * Description***
 4. Revise la descripción para ver las condiciones configuradas que afectaron al mensaje.
 

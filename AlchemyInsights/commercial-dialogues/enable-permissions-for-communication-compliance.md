@@ -1,5 +1,5 @@
 ---
-title: Habilitar permisos para el cumplimiento de comunicaciones
+title: Habilitación de los permisos para el cumplimiento de las comunicaciones
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c841232525dd2eabc068494a1e22975d428705dc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a845e9c51741f69edba328fbf147847d44690a211af0c091fe29733414f771b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058739"
 ---
-# <a name="enable-permissions-for-communication-compliance"></a>Habilitar permisos para el cumplimiento de comunicaciones
+# <a name="enable-permissions-for-communication-compliance"></a>Habilitación de los permisos para el cumplimiento de las comunicaciones
 
-A continuación se describe cómo:
+A continuación se muestra cómo hacerlo:
 
-1. Inicie sesión para [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) usar credenciales para una cuenta de administrador en su organización de Microsoft 365.
+1. Inicie sesión para [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) usar credenciales para una cuenta de administrador en su Microsoft 365 organización.
 2. En el [Centro de & cumplimiento,](https://go.microsoft.com/fwlink/?linkid=2101341)vaya a **Permisos**. Seleccione el vínculo para ver y administrar roles en Office 365 y, a continuación, **\+ seleccione Crear**.
 3. En el **campo** Nombre, asigne al nuevo grupo de roles un nombre descriptivo. Seleccione **Siguiente**.
 4. Seleccione **Elegir roles** y, a continuación, seleccione **Agregar**. Active la casilla administrador de **revisión de** supervisión **,** administración de casos, administrador **de** cumplimiento y revisión **,** seleccione **Agregar** y, a continuación, **seleccione Listo**. Seleccione **Siguiente**.

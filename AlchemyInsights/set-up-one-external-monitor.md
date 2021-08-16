@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0bf4ae49aee6b1ccfcd1c7a55daef92f6f1eb6375017f24f715264235460c3ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051791"
 ---
 # <a name="set-up-one-monitor"></a>Configurar un monitor
 
 **Comprobar la configuración del proyecto del equipo**
 
-1. Abre la configuración del proyecto presionando las siguientes teclas al mismo tiempo: tecla Windows (botón Inicio del logotipo de Windows) + P.
+1. Abra la configuración del proyecto presionando las siguientes teclas al mismo tiempo: Windows clave (Windows botón Inicio del logotipo) + P.
 2. Elija **Duplicate**, **Extend** o Second **screen only**, según sus preferencias.
 
 **Nota:** Si el equipo solo tiene un puerto de pantalla (como HDMI o VGA), necesitarás una estación de acoplamiento o un adaptador USB para configurar varios monitores.
