@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: f7239abd554e36b4d209687dae98f27fb72f41f5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791753"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097395"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream es un servicio empresarial de vídeo en el que las personas de la organización pueden cargar, ver y compartir vídeos de forma segura. Puede compartir grabaciones de clases, reuniones, presentaciones, sesiones de aprendizaje u otros vídeos que faciliten la colaboración del equipo.  
+Microsoft Stream es un servicio empresarial de vídeo que las personas de la organización pueden usar para cargar, ver y compartir vídeos de forma segura. Puede compartir grabaciones de clases, reuniones, presentaciones, sesiones de aprendizaje u otros vídeos que faciliten la colaboración del equipo. Microsoft Stream también permite compartir comentarios sobre un vídeo y etiquetar códigos de tiempo en comentarios y descripciones para hacer referencia a puntos específicos de un vídeo.  
 
 - [The New Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
 - [Microsoft Stream (clásico)](https://docs.microsoft.com/stream/overview)

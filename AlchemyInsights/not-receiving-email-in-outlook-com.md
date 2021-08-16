@@ -1,5 +1,5 @@
 ---
-title: 8000037 no se recibe correo electrónico en Outlook.com
+title: 8000037 no recibir correo electrónico en Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097359"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>No se recibe correo en Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>No recibir correo en Outlook.com
 
-Si no recibes un correo electrónico de un remitente específico, como extractos bancarios o mensajes de restablecimiento de contraseñas, tendrás que ponerte en contacto con el remitente y hacerle saber que no estás recibiendo el correo electrónico en tu cuenta de Outlook.com. Remita al remitente a [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , donde puede encontrar información sobre los procedimientos recomendados, recomendar la solución de problemas y un vínculo para ponerse en contacto con el equipo de soporte técnico del remitente.
+Si no recibe correo electrónico de un remitente específico, como sus extractos bancarios o mensajes de restablecimiento de contraseña, deberá ponerse en contacto con el remitente y comunicarles que no recibe correo electrónico en su cuenta de Outlook.com. Consulte al remitente a , donde puede encontrar información sobre los procedimientos recomendados, recomendar la solución de problemas y un vínculo para ponerse en contacto con nuestro equipo de soporte [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) técnico del remitente.
   
-Si su cuenta de Outlook.com no recibe correo electrónico, consulte [Fix Outlook.com email Sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Si tu cuenta Outlook.com no está recibiendo correo electrónico en absoluto, consulta Corregir problemas de sincronización de correo [electrónico Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 
