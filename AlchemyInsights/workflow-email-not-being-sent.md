@@ -1,5 +1,5 @@
 ---
-title: No se está enviando correo electrónico de flujo de trabajo
+title: El correo electrónico de flujo de trabajo no se envía
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2caf8e0878da0049667d9a19f4488eaec4b9327fbf36be7d29dbf4b7a9c89158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749026"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072537"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>El correo electrónico de flujo de trabajo no se envía a una lista o biblioteca de SharePoint
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>El correo electrónico de flujo de trabajo no se envía para una SharePoint o biblioteca
 
-1. El correo electrónico de flujos de trabajo no se envía a todos los usuarios o solo a usuarios específicos, o Ve el error **no se puede enviar el mensaje de correo electrónico. Asegúrese de que el correo electrónico tiene un destinatario válido**.
+1. El correo electrónico de los flujos de trabajo no se envía a todos los usuarios o solo a usuarios específicos, o ve el error El mensaje de correo electrónico no se puede **enviar.** Asegúrese de que el correo electrónico tiene un destinatario válido .
 
-    Compruebe si el usuario existe en el grupo de permisos **todos los usuarios** (lista de información del usuario) para esa colección de sitios.  Dirección URL directa de ejemplo: https:// <tenant> . SharePoint.com/sites/ <sitename> /_layouts/15/People.aspx? MembershipGroupId = 0
+    Compruebe si el usuario existe en el grupo **De** todos los permisos (lista de información de usuario) de esa colección de sitios.  Dirección URL directa de ejemplo: https:// <tenant> .sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId=0
 
-    - Si el usuario no existe, asegúrese de que el usuario haya iniciado sesión en la página. 
+    - Si el usuario no existe, asegúrese de que el usuario ha iniciado sesión en la página. 
     - Si es un usuario externo, asegúrese de que su invitación se ha aceptado.
-    - Si el usuario existe en el grupo permisos, asegúrese de que la dirección de correo electrónico es correcta.
-    - Si no se establece aquí la dirección de correo electrónico de los usuarios, cree una alerta de ejemplo para ese usuario que fuerce la sincronización de esa cuenta de usuario de los perfiles de usuario de SharePoint con esta colección de sitios.
+    - Si el usuario existe en el grupo de permisos, asegúrese de que la dirección de correo electrónico es correcta.
+    - Si la dirección de correo electrónico de los usuarios no está establecida aquí, cree una alerta de ejemplo para ese usuario que fuerza la sincronización de esa cuenta de usuario de perfiles de usuario de SharePoint a esta colección de sitios.
  
-2. El correo electrónico de los flujos de trabajo se envía a los administradores de la colección de sitios, pero no a otros usuarios, y ve el error **http prohibido a <span>https:</span>//URL/_vti_bin/Client.XVC.SP.Utilities.Utility.sendEmail**.
+2. El correo electrónico de los flujos de trabajo se envía a los administradores de la colección de sitios, pero no a otros usuarios y ve el error HTTP Prohibido en **<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Vea [acceso denegado cuando se envía un correo electrónico a un grupo de SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Consulte [Acceso denegado al enviar un correo electrónico a un grupo SharePoint .](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)
 
-    Compruebe también que la característica de colección de sitios del **modo de bloqueo de permisos de usuario de acceso limitado** no está activa.
+    Además, compruebe que la **característica** de colección de sitios del modo de bloqueo de permisos de usuario de acceso limitado no está activa.
 
 
 ## <a name="related-topics"></a>Temas relacionados
-¿Desea probar Microsoft Flow en SharePoint Online?
-- [Crear flujo](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [Flujo y SharePoint](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+¿Quieres probar Microsoft Flow en SharePoint Online?
+- [Crear Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint y Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
