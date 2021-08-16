@@ -13,14 +13,14 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 38cd588e9f5388579e4e8c2064d1390091425254effd3aa7c50c4f2cbc80ce53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051503"
 ---
-# <a name="sharepoint-online-throttling"></a>Limitación de SharePoint Online
+# <a name="sharepoint-online-throttling"></a>SharePoint Limitación en línea
 
 SharePoint Online utiliza limitación para mantener un rendimiento óptimo y la confiabilidad del servicio SharePoint Online. La limitación se llama el número de acciones de usuario o simultáneos (por secuencia de comandos o código) para evitar el uso excesivo de los recursos. 
 

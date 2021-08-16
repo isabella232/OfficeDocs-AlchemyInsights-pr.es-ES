@@ -1,5 +1,5 @@
 ---
-title: Los sitios web públicos de SharePoint Online se están discontinuando
+title: SharePoint Se están descontinuados los sitios web públicos en línea
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051287"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Los sitios web públicos de SharePoint Online se están discontinuando
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Se están descontinuados los sitios web públicos en línea
 
-Si ha creado un sitio web público de SharePoint Online, puede seguir utilizándolo hasta el 31 de marzo de 2018. Si desea seguir teniendo un sitio web público, debe crear uno nuevo con un nuevo proveedor. Se eliminará el contenido del sitio web público de SharePoint Online, por lo que tendrá que copiar el contenido que desee conservar.
+Si ha creado un sitio SharePoint web público en línea, puede seguir uslo hasta el 31 de marzo de 2018. Si desea seguir teniendo un sitio web público, debe crear uno nuevo con un nuevo proveedor. El contenido del sitio SharePoint en línea se eliminará, por lo que deberá copiar cualquier contenido que desee conservar.
   
-Un titular aparece ahora en la parte superior del sitio web público de SharePoint Online como notificación de que se quitará el sitio. No puede desactivar este banner. Para obtener información sobre cómo guardar y copiar contenido en un sitio web de asociados, vea [detalles sobre el proceso de descontinuación de características](https://go.microsoft.com/fwlink/?linkid=866980).
+Ahora aparece un banner en la parte superior del sitio SharePoint sitio web público en línea como notificación de que se quitará el sitio. No puedes desactivar este banner. Para obtener información sobre cómo guardar y copiar contenido en un sitio web asociado, consulta [Detalles sobre el proceso de interrupción de características.](https://go.microsoft.com/fwlink/?linkid=866980)
   
