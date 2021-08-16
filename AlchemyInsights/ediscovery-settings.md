@@ -1,5 +1,5 @@
 ---
-title: Configuración de eDiscovery
+title: Configuración de exhibición de documentos electrónicos
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711004"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101247"
 ---
-# <a name="ediscovery-settings"></a>Configuración de eDiscovery
+# <a name="ediscovery-settings"></a>Configuración de exhibición de documentos electrónicos
 
-las búsquedas de contenido y eDiscovery permiten buscar, conservar y exportar contenido de buzones de Exchange Online, SharePoint Online y OneDrive para la empresa, conversaciones de Skype empresarial, Microsoft Teams y grupos de Microsoft 365.
+Las búsquedas de eDiscovery/Content permiten buscar, retener y exportar contenido de buzones de correo de Exchange Online, sitios de SharePoint Online y OneDrive para la Empresa, conversaciones Skype Empresarial, Microsoft Teams y grupos Microsoft 365.
 
-- Si está buscando las opciones de exhibición de documentos electrónicos o búsqueda de contenido, vea [problemas de eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Obtenga información sobre los permisos necesarios para realizar búsquedas de eDiscovery a partir de [los permisos necesarios para las búsquedas de eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Si la búsqueda no devuelve los resultados esperados, vea [Buscar que no devuelve los resultados esperados](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Si está buscando las opciones del menú Exhibición de documentos electrónicos o búsqueda de contenido, vea [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Obtenga información sobre los permisos necesarios para realizar búsquedas de exhibición de documentos electrónicos en [Permisos necesarios para las búsquedas de exhibición de documentos electrónicos.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Si la búsqueda no devuelve los resultados esperados, vea [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Para obtener más información sobre la exhibición de documentos electrónicos, vea [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Para obtener más información sobre la exhibición de documentos electrónicos, vea [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
