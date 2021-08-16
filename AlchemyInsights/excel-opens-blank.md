@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 49ea6d553c844d0b655695736f5c492f9884b288b5ce642c21859f2a3a235268
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029785"
 ---
 # <a name="excel-opens-blank"></a>Excel se abre en blanco
 
-Si Excel se inicia pero muestra una pantalla en blanco en la que espera que aparezca el archivo, vea Solucionar problemas de apertura de Excel en blanco al hacer doble clic en un icono de archivo o [nombre de archivo](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
+Si Excel pero muestra una pantalla en blanco donde espera que aparezca el archivo, vea Solucionar problemas Excel abrir en blanco al hacer doble clic en un icono de archivo o nombre [de archivo](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
