@@ -1,5 +1,5 @@
 ---
-title: La entidad de MDM no está configurada
+title: La entidad mdm no está establecida
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046697"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>La entidad de MDM no está configurada
+# <a name="your-mdm-authority-is-not-set"></a>La entidad mdm no está establecida
 
-La autoridad de administración de dispositivos móviles (MDM) de este inquilino no está configurada. Debe establecer una autoridad de MDM antes de inscribir y administrar los dispositivos con la MDM de Intune. Sin tener que configurar la autoridad de MDM, no podrá usar las características de MDM de Intune. La configuración de la autoridad de MDM determina cómo se administran los dispositivos.
+La autoridad de administración de dispositivos móviles (MDM) de este inquilino no está establecida. Debes establecer una autoridad MDM antes de inscribir y administrar dispositivos a través de MDM de Intune. Sin establecer la autoridad MDM, no podrás usar las características MDM de Intune. La configuración de entidad de MDM determina cómo administras los dispositivos.
 
 Pasos recomendados:
-1. Navegue hasta la hoja información general de inscripción en Intune para establecer la autoridad de MDM.
-2. Elija la autoridad adecuada según sus necesidades administrativas. Para obtener más información, consulte [establecer el artículo de la entidad de administración de dispositivos móviles](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Vaya a la hoja Introducción a la inscripción de Intune para establecer la entidad mdma.
+2. Elija la autoridad adecuada en función de sus necesidades administrativas. Para obtener más información, consulte [Set the mobile device management authority article](https://docs.microsoft.com/intune/mdm-authority-set).

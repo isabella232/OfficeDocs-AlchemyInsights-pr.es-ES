@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "8245"
 - "9000701"
-ms.openlocfilehash: 0e46cbbe06c45a89da8ab8a1e2543ce374d03b99
-ms.sourcegitcommit: 22eaf0a151ab95414476f596db8d318b6540ff31
+ms.openlocfilehash: fa7a769e91d7e91879d448d750d281dcf7de308d8130a1c6d8e1235cdaaf45d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50162939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054383"
 ---
 # <a name="join-a-team-by-code"></a>Unirse a un equipo con un código
 
-Microsoft es consciente de un problema que provoca que los usuarios no pueden crear un código para **Unirse a un equipo** ni unirse a un equipo con la característica **Unirse con un código**. Como solución alternativa, los propietarios del equipo pueden agregar usuarios manualmente, según sea necesario.
+Microsoft está al tanto de un problema que provoca que los usuarios no puedan crear un código para **Unirse a un equipo** ni puedan unirse a un equipo con la característica **Unirse con un código**. Como solución alternativa, los propietarios del equipo pueden agregar usuarios de forma manual según sea necesario.
