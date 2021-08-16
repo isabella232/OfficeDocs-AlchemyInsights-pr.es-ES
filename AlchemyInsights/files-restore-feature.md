@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4837"
-ms.openlocfilehash: 168860aaa34f39eddb3e7d7073ca108f882f2e79
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f899af7b6a2bbd450cbff4c974ffc559940612d34dae6b7abad55441bfd9a9cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068973"
 ---
 # <a name="files-restore-feature"></a>Característica Restaurar archivos
 
-Si una gran cantidad de archivos de OneDrive o SharePoint se eliminan, se sobrescriben, se dañan o se infectan con un malware, puede restaurar la totalidad de su biblioteca de OneDrive o SharePoint a un momento anterior mediante la característica Restaurar archivos. Para obtener más información, vea:
+Si una gran cantidad de archivos de OneDrive o SharePoint se eliminan, se sobrescriben, se dañan o se infectan con un malware, puede restaurar la totalidad de su biblioteca de OneDrive o SharePoint a un momento anterior en el tiempo mediante la característica Restaurar archivos. Para obtener más información, consulte:
 
 - [Restaurar una biblioteca de OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 

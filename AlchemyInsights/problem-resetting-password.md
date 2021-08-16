@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50585655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039983"
 ---
 # <a name="problems-resetting-password"></a>Problemas para restablecer la contraseña
 
@@ -29,7 +29,7 @@ Estos son algunos de los problemas que puede tener que enfrentar al restablecer 
 - Asegúrese de que está autorizado a restablecer las contraseñas. Solo los administradores globales, de contraseña y de usuario pueden restablecer las contraseñas de usuario. Los administradores globales también pueden restablecer las contraseñas de otros administradores con privilegios.
 - Asegúrese de comprender los requisitos de licencia:
     - Debe tener al menos una licencia asignada en su organización
-        - Solo usuarios en la nube: cualquier SKU de pago de Office 365 (O365) o Azure AD Basic
+        - Solo usuarios en la nube: sku Office 365 (O365) de pago o Azure AD Basic
         - Usuarios locales o en la nube: Azure AD Premium P1 o P2, Enterprise Mobility + Security (EMS) o Secure Productive Enterprise (SPE)
         - Para obtener más información acerca de los requisitos de licencias, consulte el artículo Requisitos de licencias para el restablecimiento de contraseñas de autoservicio [de Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
@@ -41,7 +41,7 @@ Estos son algunos de los problemas que puede tener que enfrentar al restablecer 
 
 **Quiero implementar el restablecimiento de contraseña, pero no quiero que mis usuarios registren información de seguridad adicional**
 
-Rellena previamente los datos de los usuarios para que no tengan que hacerlo. - Como administrador, puede establecer propiedades de teléfono y correo electrónico para los usuarios antes de implementar el restablecimiento de contraseña en su organización. Puede hacerlo con una API, PowerShell o Azure AD Connect. Más información aquí:
+Rellena previamente los datos de los usuarios para que no tengan que hacerlo. - Como administrador, puede establecer propiedades de teléfono y correo electrónico para los usuarios antes de implementar el restablecimiento de contraseña en su organización. Puede hacerlo con una API, PowerShell o Azure AD Conectar. Más información aquí:
 - [Implementar el restablecimiento de contraseña sin necesidad de que los usuarios se registren](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 - [Qué datos usa el restablecimiento de contraseña](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
@@ -59,7 +59,7 @@ No está autorizado a restablecer contraseñas. Solo los administradores globale
 - No verá esta hoja si:
     - No está usando la reescribición de contraseñas
     - Hay un problema con la instalación/conectividad de la escritura por escritura por contraseña
-    - Hay un problema con la instalación/conectividad de Azure AD Connect
+    - Hay un problema con la instalación o conectividad de Azure AD Conectar
     - Para obtener más pasos de solución de problemas con la escritura reescribición de contraseñas, vea la sección Solucionar problemas [de escritura contra escritura de contraseñas](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **No sé cómo restablecer la contraseña de un usuario**
@@ -71,7 +71,7 @@ No está autorizado a restablecer contraseñas. Solo los administradores globale
 1. Siga las instrucciones de la pantalla.
     - Solo se restablecen los restablecimientos realizados a través de la reescribición de contraseñas de soporte técnico de Azure Portal.
 
-**Restablezca la contraseña de un usuario local desde el portal de administración de Office 365 o la aplicación móvil de Office 365, pero el usuario aún no puede iniciar sesión**
+**Restablezca la contraseña de un usuario local desde el portal de Office 365 Admin o Office 365 aplicación móvil, pero el usuario aún no puede iniciar sesión**
 
 La escritura de contraseña no se admite en este portal. Restablecer la contraseña del usuario de nuevo en Azure Portal: portal.azure.com
 
