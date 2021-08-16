@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000382"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migración de AIP a MIP o etiquetado unificado en el centro de seguridad y cumplimiento
 
@@ -39,7 +39,7 @@ Para migrar de etiquetas de AIP a etiquetado unificado en el centro de seguridad
 
 4. En la hoja **Azure Information Protection: etiquetado unificado**, haga clic en **Activar** y siga las instrucciones que se muestran en línea.
 
-**Nota**: compruebe que tiene los permisos adecuados antes de activar la Migración del Centro de seguridad y cumplimiento. Vea estos artículos para obtener más información:
+**Nota**: compruebe que tiene los permisos adecuados antes de activar la Migración del Centro de seguridad y cumplimiento. Vea estos artículos para más información:
 
 1. [¿Necesita ser un administrador global para configurar Azure Information Protection o se puede delegar en otros administradores?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 

@@ -1,5 +1,5 @@
 ---
-title: Códigos de Facebook Outlook.com
+title: Outlook.com códigos de Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672073"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063969"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>No recibir códigos de Facebook mediante Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>No recibir códigos de Facebook con Outlook.com
 
-Si ha solicitado una nueva contraseña de Facebook pero no ha recibido el correo para restablecer la contraseña:
+Si solicitó una nueva contraseña de Facebook pero no recibió el correo electrónico de restablecimiento de contraseña:
 
 - Compruebe la [carpeta de correo no deseado o correo no deseado](https://outlook.live.com/mail/junkemail).
-- Intente [restablecer su contraseña de Facebook](https://aka.ms/facebook-password-reset).
+- Intente restablecer [la contraseña de Facebook de nuevo.](https://aka.ms/facebook-password-reset)
 
-Si no puede restablecer la contraseña porque no puede obtener acceso al correo electrónico o al número de teléfono móvil de su cuenta, pruebe las [sugerencias de restablecimiento de contraseña de Facebook](https://aka.ms/facebook-password-help).
+Si no puedes restablecer la contraseña porque no puedes acceder al correo electrónico o al número de teléfono móvil de tu cuenta, prueba el restablecimiento de contraseña de [Facebook Sugerencias](https://aka.ms/facebook-password-help).

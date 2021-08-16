@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 8bd5170c164431d2b48e872f30f5a9a4bdee99ee867c5cd4c290f4abf1bc35ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0ed306ba7eec3256f6d25b642564a83bfd8ff5e9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966882"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295996"
 ---
 # <a name="send-automatic-replies-from-outlook"></a>Enviar respuestas automáticas desde Outlook
 
@@ -28,5 +28,4 @@ Esto es lo que hace:
 3. En la pestaña **Dentro de mi organización**, escriba la respuesta que desea enviar mientras esté fuera de la oficina.
 4. Opcionalmente, si desea que las respuestas automáticas se envíen a  personas de fuera  de su organización, elija la pestaña Fuera de mi organización, active la casilla Respuesta automática a personas fuera de mi organización y, a continuación, escriba la respuesta que desea enviar mientras está fuera de la oficina. Seleccione si desea que solo se envíen respuestas a **Mis contactos** o a cualquier persona de fuera de mi **organización** que le envíe mensajes.
 
-    > [!NOTE]
-    > Si envía respuestas automáticas a **cualquiera que no pertenezca a mi organización**, se enviará la respuesta automática a todos los correos electrónicos, incluidos boletines, anuncios y, posiblemente, al correo no deseado. Si desea enviar respuestas automáticas a los que están fuera de su organización, se recomienda elegir Solo **Mis contactos.**
+    **Nota:** El envío  de respuestas automáticas a cualquier persona fuera de mi organización enviará su respuesta automática a cada correo electrónico, incluidos los boletines, los anuncios y, potencialmente, el correo no deseado. Si desea enviar respuestas automáticas a los que están fuera de su organización, se recomienda elegir Solo **Mis contactos.**

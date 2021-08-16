@@ -1,5 +1,5 @@
 ---
-title: Carpetas móviles de Outlook en orden nuevo
+title: Outlook Carpetas móviles en nuevo orden
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000265"
 ---
 # <a name="my-folders-are-in-a-new-order"></a>Mis carpetas están en un nuevo orden
 
-Con la adición de carpetas y grupos favoritos a Outlook para iOS y Android, es posible que observe que las carpetas están en un orden nuevo. Si tiene favoritos, verá una sección Favoritos en la parte superior de la barra lateral. Puede Agregar favoritos con el icono de lápiz situado cerca de la parte superior de la barra lateral. Esto mantendrá todas sus carpetas y grupos más importantes en la parte superior donde pueda acceder fácilmente.
+Con la adición de carpetas y grupos favoritos a Outlook para iOS y Android, es posible que observe que las carpetas están en un orden nuevo. Si tienes favoritos, verás una sección de favoritos en la parte superior de la barra lateral. Puedes agregar favoritos con el icono de lápiz cerca de la parte superior de la barra lateral. Esto mantendrá todas las carpetas y grupos más importantes en la parte superior donde pueda acceder fácilmente a ellas.
