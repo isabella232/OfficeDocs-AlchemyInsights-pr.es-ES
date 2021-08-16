@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: b0fe9d7f62738b96c9887f7b18fc29c90436ee71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29383f8b4c943871cdf12c2056d946f4ad841de0260a13fc824031daa78c0e6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082527"
 ---
-# <a name="change-your-profile-name"></a>Cambiar el nombre de perfil
+# <a name="change-your-profile-name"></a>Cambiar el nombre del perfil
 
-1. Ve a [la información de la cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Vaya a [La información de su cuenta microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
     
 2. Seleccione **Editar nombre**. 
     
-3. Escriba un nombre y un apellido y seleccione **Guardar**. 
+3. Escriba un nombre y apellidos y seleccione **Guardar**. 
     
-Deje que transcurran 24 horas hasta que los cambios en el nombre del perfil surtan efecto.
+Espere hasta 24 horas para que los cambios en el nombre del perfil entren en vigor.
   
-Para obtener más información, consulte [cambiar el nombre o la foto de perfil en Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
+Para obtener más información, consulta Cambiar la foto o el nombre de [tu perfil en Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
   
 
