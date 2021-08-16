@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16cc9d8d2ede108ea8301f9971f84ac7b6bafaabab8e26edefe15acf66783339
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064971"
 ---
 # <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Mensaje de aplicaciones de Microsoft 365: No ha sido posible encontrar las licencias de Office asociadas
 
@@ -37,7 +37,7 @@ Para corregir este error, siga estos pasos:
 
 Si el problema persiste, pruebe los siguientes pasos:
 
-- Restablezca el estado de activación de Office. Vea [Restablecer el estado de activación de las aplicaciones de Microsoft 365 para empresas](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Restablecer el estado de activación de Office. Consulte [Restablecer el estado de activación de las Aplicaciones de Microsoft 365 para empresas](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 - Compruebe el firewall, el software antivirus y la configuración de proxy para confirmar que no están bloqueando el acceso de las aplicaciones de Microsoft 365 a Internet. 
 
@@ -45,4 +45,4 @@ Para ver más medidas de solución de problemas, vea:
 
 [Errores de activación y de producto sin licencia en Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Intervalos de direcciones IP y URL de Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Intervalos de direcciones IP y URL de Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

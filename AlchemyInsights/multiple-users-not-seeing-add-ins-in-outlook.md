@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: a0c272f40044795754ed8630e88e00ed14ea6ad7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 850df2cb349f9a751def3d59fb665670e70e493daba56a88821afcef9c48ffa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011821"
 ---
 # <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>Varios usuarios no ven los complementos en Outlook
 
