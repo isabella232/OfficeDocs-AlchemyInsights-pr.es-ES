@@ -1,5 +1,5 @@
 ---
-title: Cifrar automáticamente los mensajes de correo electrónico de Office 365 enviados a determinados dominios
+title: Cifrar automáticamente los Office 365 de correo electrónico enviados a determinados dominios
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7fb96a30cd1922bd39a4b99a7ecd869622f3a466
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082203"
 ---
-# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Cifrar automáticamente los mensajes de correo electrónico de Office 365 enviados a determinados dominios
+# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Cifrar automáticamente los Office 365 de correo electrónico enviados a determinados dominios
 
-1. En el [Centro de administración de Exchange,](https://outlook.office365.com/ecp/)elija flujo de correo > **reglas**. 
-2. Haga clic **en el icono Nuevo (+)** y, a continuación, haga clic en Aplicar el cifrado de mensajes de Office **365** y la protección de derechos a los mensajes .
+1. En el [Centro Exchange administración,](https://outlook.office365.com/ecp/)elija **flujo de correo > reglas**. 
+2. Haga clic **en el icono Nuevo (+)** y, a continuación, haga clic en Aplicar Cifrado de mensajes de Office 365 protección de derechos y derechos a los **mensajes**.
 3. En **Nombre**, escriba un nombre para la regla, como *Cifrar mensajes enviados* a contoso.com .
 4. En **Aplicar esta regla si**, elija El destinatario > dominio **es**. 
 5. Escriba el nombre del dominio, como **contoso.com**.
@@ -36,4 +36,4 @@ ms.locfileid: "50737588"
 > [!IMPORTANT]
 > Siempre puede volver y editar esta regla más adelante.
 
-Para obtener más información sobre cómo crear reglas de cifrado, vea Definir reglas de flujo de correo [para cifrar mensajes de correo electrónico en Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Para obtener más información acerca de la creación de reglas para el cifrado, vea [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)

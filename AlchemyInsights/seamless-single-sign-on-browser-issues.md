@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074305"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Solucionar problemas del explorador de inicio de sesión único sin problemas (SSO)
 
@@ -36,6 +36,6 @@ La mayoría de los usuarios pueden resolver el problema del explorador SSO sin p
 
 SSO de conexión directa admite la siguiente versión de Microsoft Edge basada en Chromium y funciona en modo InPrivate e Invitado por diseño.
 
-**Asesoramiento**
+**Advertencia**
 
 Para realizar solicitudes de características o hacer preguntas técnicas sobre SSO de conexión directa, consulte [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

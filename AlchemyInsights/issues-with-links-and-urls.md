@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054815"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemas con vínculos y direcciones URL
 
-Los URI de redirección o las URL de respuesta (ambas expresiones significan lo mismo) son direcciones URL que usa la Plataforma de identidad de Microsoft para devolver tokens solicitados por aplicaciones. Para obtener información acerca de estas URL, vea los siguientes artículos:
+Los URI de redirección o las URL de respuesta (ambas expresiones significan lo mismo) son direcciones URL que usa la Plataforma de identidad de Microsoft para devolver tokens solicitados por aplicaciones. Para obtener información sobre estas direcciones URL, consulte los siguientes artículos:
 
 - [Flujos de autenticación y escenarios de aplicaciones](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios): información sobre los URI de redirección en la página de **Registro de aplicación** de cada escenario.
 - [Restricciones y limitaciones de los URI de redirección o las URL de respuesta](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
