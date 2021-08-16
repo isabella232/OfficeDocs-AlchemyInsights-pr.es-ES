@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: e2803a49aaf087ac55b1fd62056e2b0af3fcd919
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50417320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025519"
 ---
 # <a name="monitor-intune-conditional-access"></a>Supervisar el acceso condicional de Intune
 
@@ -40,4 +40,4 @@ Los usuarios dirigidos con acceso condicional recibirán un correo electrónico 
 - [Supervisión del cumplimiento de dispositivos de Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
 > [!NOTE]
-> Estos pasos solo son útiles para solucionar problemas de la característica de Azure Active Directory Acceso condicional. También es posible poner en cuarentena un dispositivo que bloquea su acceso al correo electrónico con la directiva de Exchange. Encontrará más información sobre la administración de dispositivos exchange [**aquí**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).
+> Estos pasos solo son útiles para solucionar problemas de la Azure Active Directory de acceso condicional. También es posible poner en cuarentena un dispositivo que bloquea su acceso al correo electrónico con Exchange directiva. Encontrará más información Exchange administración de [**dispositivos**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))aquí.
