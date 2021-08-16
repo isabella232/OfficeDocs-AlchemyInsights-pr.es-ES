@@ -1,5 +1,5 @@
 ---
-title: Abrir una biblioteca de SharePoint en el explorador de archivos
+title: Abrir una biblioteca SharePoint en el Explorador de archivos
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025267"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Abrir una biblioteca de SharePoint en el explorador de archivos
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Abrir una biblioteca SharePoint en el Explorador de archivos
 
 1. Vaya a la biblioteca en Internet Explorer 10 o Internet Explorer 11. 
     
-2. Haga clic en el icono Vista en la esquina superior derecha y, a continuación, haga clic en **ver en el explorador de archivos**.
+2. Haga clic en el icono Ver en la parte superior derecha y, a continuación, haga clic **en Ver en el Explorador de archivos**.
     
 > [!NOTE]
-> Abrir una biblioteca en el explorador de archivos es útil si necesita copiar o mover varios archivos y carpetas una vez, pero si desea trabajar con regularidad en la biblioteca, le recomendamos que lo sincronice. Para solucionar problemas de apertura en el explorador de archivos, consulte [abrir en el explorador](https://go.microsoft.com/fwlink/?linkid=871665). Para obtener información sobre cómo configurar la sincronización, vea [sincronizar archivos de SharePoint con el nuevo cliente de sincronización de OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Abrir una biblioteca en el Explorador de archivos es útil si necesita copiar o mover varios archivos y carpetas una vez, pero si desea trabajar regularmente en la biblioteca, se recomienda sincronizarla. Para solucionar problemas de apertura en el Explorador de archivos, vea [Abrir en el Explorador](https://go.microsoft.com/fwlink/?linkid=871665). Para obtener información sobre cómo configurar la sincronización, [consulta Sincronizar SharePoint archivos con el nuevo Sincronización de OneDrive cliente](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

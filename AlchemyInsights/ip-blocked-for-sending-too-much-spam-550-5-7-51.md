@@ -1,5 +1,5 @@
 ---
-title: 1264 la dirección IP está bloqueada para el envío de correo no deseado demasiado grande (550 5.7.51)
+title: 1264 IP bloqueada por enviar demasiado correo no deseado (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099267"
 ---
 # <a name="access-denied-banned-sender"></a>Acceso denegado, remitente prohibido
 
- **Error**: error de SMTP del servidor remoto para el comando RCPT to Command, host: *xxxx*-com.mail.Protection.Outlook.com (*xxx.xxx.xxx.xxx*) razón: 550 5.7.511 acceso denegado, remitente prohibido [*XX.xxx.x.xxx*]. 
+ **Error**: error SMTP del servidor remoto para el comando RCPT TO, host: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) motivo: 550 5.7.511 Acceso denegado, remitente prohibido [*xx.xxx.x.xxx*]. 
 
-Si recibe este error al enviar un correo electrónico a un destinatario de 365 de Microsoft, quite la cuenta afectada de la lista de remitentes bloqueados en [https://sender.office.com](https://sender.office.com) .
+Si recibe este error al enviar correo electrónico a un destinatario Microsoft 365, quite la cuenta afectada de la lista de remitentes bloqueados en [https://sender.office.com](https://sender.office.com) .

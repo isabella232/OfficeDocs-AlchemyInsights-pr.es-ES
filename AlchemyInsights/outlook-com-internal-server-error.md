@@ -1,5 +1,5 @@
 ---
-title: 9000234 Outlook.com error interno del servidor
+title: 9000234 Outlook.com error de servidor interno
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024547"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Errores internos del servidor en Outlook.com
+# <a name="internal-server-errors-in-outlookcom"></a>Errores de servidor internos en Outlook.com
 
-¡ No! Si ve el mensaje "error 500" o "error interno del servidor", es nosotros y no lo sentimos.
+¡No! Si ve el mensaje "Error 500" o "Error interno del servidor", lo sentimos.
 
-Consulte la [Página estado del servicio de Office](https://portal.office.com/servicestatus) para asegurarse de que no hay nada más en marcha, pero la mejor solución es tardar unos minutos y, a continuación, actualice el explorador presionando **Ctrl** y **F5**.
+Consulte la página estado del servicio Office para asegurarse de que no hay nada más en curso, pero la mejor solución es tomar un descanso durante unos minutos y, [a](https://portal.office.com/servicestatus) continuación, actualizar el explorador presionando **CTRL** y **F5**.
