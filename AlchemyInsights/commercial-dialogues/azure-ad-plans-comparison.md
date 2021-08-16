@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50465091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045653"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Comparación de planes de Azure Active Directory
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory de planes
 
-Azure Active Directory se incluye en cuatro ediciones: Gratis, Aplicaciones de Office 365, Premium P1 y Premium P2.
+Azure Active Directory viene en cuatro ediciones: Free, Office 365 Apps, Premium P1 y Premium P2.
 
-La edición gratuita se incluye con una suscripción de Azure. Las ediciones Premium están disponibles a través de su representante de Microsoft, el [Programa de licencias](https://go.microsoft.com/fwlink/?linkid=2110873)por volumen abierto y los programas Proveedores de soluciones en la [nube.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
+La edición gratuita se incluye con una suscripción de Azure. Las Premium están disponibles a través de su representante de Microsoft, el [Programa](https://go.microsoft.com/fwlink/?linkid=2110873)de licencias por volumen abierto y los programas [Proveedores de soluciones en la nube.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Los suscriptores de Azure y Office 365 también pueden comprar Azure Active Directory Premium P1 y P2 en línea. Para obtener más información, vea Características y precios [de Azure Active Directory.](https://go.microsoft.com/fwlink/?linkid=2081447)
+Los suscriptores de Azure y Office 365 también pueden comprar Azure Active Directory Premium P1 y P2 en línea. Para obtener más información, [vea Azure Active Directory características y precios](https://go.microsoft.com/fwlink/?linkid=2081447).

@@ -1,5 +1,5 @@
 ---
-title: Configurar el escritorio virtual de Windows
+title: Configurar Windows Escritorio virtual
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036653"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Configurar el escritorio virtual de Windows
+# <a name="set-up-windows-virtual-desktop"></a>Configurar Windows Escritorio virtual
 
-El escritorio virtual de Windows es un servicio de escritorio completo y de virtualización de aplicaciones que se ejecuta en la nube. Se trata de la única infraestructura de escritorio virtual (VDI) que ofrece administración simplificada, optimizaciones de Windows 10 para sesiones múltiples para las aplicaciones de Microsoft 365 y compatibilidad con entornos de servicios de escritorio remoto (RDS). Implemente y escale sus aplicaciones y escritorios de Windows a Azure en minutos y obtenga características de cumplimiento y seguridad integradas.
+Windows Virtual Desktop es un servicio completo de virtualización de aplicaciones y escritorio que se ejecuta en la nube. Es la única infraestructura de escritorio virtual (VDI) que ofrece administración simplificada, Windows 10 de varias sesiones, optimizaciones para Aplicaciones Microsoft 365 y compatibilidad con entornos de Servicios de escritorio remoto (RDS). Implemente y escale sus Windows escritorios y aplicaciones en Azure en minutos y obtenga características integradas de seguridad y cumplimiento.
 
-La [Guía de instalación de escritorio virtual de Windows](https://go.microsoft.com/fwlink/?linkid=2146236) proporciona a los administradores recursos de planeación y los requisitos previos para la implementación, la guía de instalación y recursos adicionales.
+La Windows de configuración [de Escritorio virtual](https://go.microsoft.com/fwlink/?linkid=2146236) proporciona a los administradores recursos de planeación y los requisitos previos para la implementación, instrucciones de configuración y recursos adicionales.
