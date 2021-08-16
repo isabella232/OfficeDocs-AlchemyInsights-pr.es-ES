@@ -1,5 +1,5 @@
 ---
-title: Informes y alertas de DLP
+title: Informes y alertas dlp
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "8261"
-ms.openlocfilehash: 562537f0a8d53cf1526c6a9069b1f98721a90538
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 6ad924147812186610fdef8bf443c76f6663ec35e5e38720783fd4b0369bc579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101895"
 ---
-# <a name="dlp-reporting-and-alerts"></a>Informes y alertas de DLP
+# <a name="dlp-reporting-and-alerts"></a>Informes y alertas dlp
 
-**Informes de DLP:** [ver los informes de prevención de pérdida de datos- Cumplimiento de Microsoft 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide&preserve-view=true)
+**Informes dlp:** ver los informes para la prevención de pérdida de datos: Microsoft 365 [cumplimiento | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide&preserve-view=true)
 
-**Alertas:** [configurar y ver alertas para directivas DLP (versión preliminar) - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide&preserve-view=true)
+**Alertas:** [configurar y ver alertas para directivas DLP (versión preliminar): Microsoft 365 cumplimiento | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide&preserve-view=true)
 
- Si tiene acceso a 365 DLP, también puede obtener acceso al panel de administración de alertas dlp.  Para configurar tipos específicos de alertas, consulte estos requisitos de licencia en Configurar y ver alertas para directivas [DLP (versión preliminar): Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide#licensing-for-alert-configuration-options&preserve-view=true)
+ Si tiene acceso a 365 DLP, también puede acceder al panel de administración de alertas DLP.  Para configurar tipos específicos de alertas, consulte estos requisitos de licencia en [Configure and view alerts for DLP policies (preview) - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide#licensing-for-alert-configuration-options&preserve-view=true)
 
-Para ver el panel de administración de alertas de DLP:
+Para ver el panel de administración de alertas dlp:
 
-1. En el Centro de cumplimiento de Microsoft 365, vaya a Prevención **de pérdida de datos.**
-1. Seleccione la pestaña **Alertas (versión preliminar)** para ver el panel de alertas de DLP.
+1. En el Centro de cumplimiento de Microsoft 365, vaya a **Prevención de pérdida de datos**.
+1. Seleccione la **pestaña Alerts(Preview)** para ver el panel de alertas DLP.

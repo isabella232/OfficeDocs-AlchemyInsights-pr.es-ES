@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: bb6aa5a3cd8976cb590b4da18bc35b3ee782eca60ed1a48083cca8e7ef17e51e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539805"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034375"
 ---
 # <a name="learn-about-microsoft-defender-for-office-365"></a>Obtenga información sobre Microsoft Defender para Office 365
 
@@ -30,7 +30,7 @@ Microsoft Defender para Office 365 es un servicio de filtrado de correo electró
 
 **¿Cómo activo Microsoft Defender para Office 365?**
 
-Caja fuerte Los datos adjuntos, Caja fuerte vínculos y la protección contra la suplantación de identidad forman parte de la característica de Microsoft Defender para Office 365 web. Enterprise E5, Education A5 y Microsoft 365 Empresa incluyen Microsoft Defender integrado para Office 365 características. Todos los demás planes requieren un complemento de Microsoft Defender para Office 365 suscripción. Debe asignar las licencias adecuadas a los usuarios para que estén protegidos por Microsoft Defender para Office 365. Debe tener permisos de administrador global o administrador de seguridad para tener acceso a esta característica. Para obtener más información sobre cómo aplicar licencias en masa a los usuarios finales, vea Asignar licencias a usuarios de [Office 365 para empresas.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Caja fuerte Los datos adjuntos, Caja fuerte vínculos y la protección contra la suplantación de identidad forman parte de la característica de Microsoft Defender para Office 365 web. Enterprise E5, Education A5 y Microsoft 365 Business incluyen Microsoft Defender integrado para Office 365 características. Todos los demás planes requieren un complemento de Microsoft Defender para Office 365 suscripción. Debe asignar las licencias adecuadas a los usuarios para que estén protegidos por Microsoft Defender para Office 365. Debe tener permisos de administrador global o administrador de seguridad para tener acceso a esta característica. Para obtener más información sobre cómo aplicar licencias en masa a los usuarios finales, vea Asignar licencias a usuarios de [Office 365 para empresas.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
 **¿Cómo puedo administrar Microsoft Defender para Office 365 o obtener más información sobre él?**
 
