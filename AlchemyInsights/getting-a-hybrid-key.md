@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056543"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Obtener una clave híbrida de Exchange
+# <a name="getting-an-exchange-hybrid-key"></a>Obtener una Exchange híbrida
 
-Para conectar su organización local a Exchange online en Microsoft 365, debe configurar al menos un servidor de Exchange en la organización local. Este servidor se usa para crear una implementación híbrida que conecta la organización de Exchange local a Exchange Online. Para obtener una clave híbrida para este servidor, siga los pasos del [Asistente para la distribución de claves de producto híbridas de Exchange](https://aka.ms/hybridkey).
+Para conectar la organización local a Exchange Online en Microsoft 365, debe configurar al menos un servidor Exchange en la organización local. Este servidor se usa para crear una implementación híbrida que conecte la organización local Exchange a Exchange Online. Para obtener una clave híbrida para este servidor, siga los pasos de Exchange asistente para distribución [de claves de producto híbridas.](https://aka.ms/hybridkey)
   

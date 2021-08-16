@@ -1,5 +1,5 @@
 ---
-title: Es posible que DLP necesite un tipo personalizado
+title: DLP puede necesitar un tipo personalizado
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -13,31 +13,31 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030811"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>Es posible que DLP necesite un tipo personalizado
+# <a name="dlp-might-need-a-custom-type"></a>DLP puede necesitar un tipo personalizado
 
 **Importante**: durante estos tiempos, se siguen pasos para asegurarse de que los servicios de SharePoint Online y OneDrive estén altamente disponibles. Para obtener más información, visite [Ajustes temporales de características de SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Es posible que DLP requiera un tipo de información personalizada**
+**DLP puede requerir un tipo de información personalizado**
 
-Con una directiva de prevención de pérdida de datos (DLP), puede identificar y proteger los datos confidenciales de su organización. En algunos escenarios, es posible que necesite crear su propio tipo **personalizado** de información confidencial para proteger los datos de su organización.
+Con una directiva de prevención de pérdida de datos (DLP), puede identificar y proteger datos confidenciales en su organización. En algunos escenarios, es posible  que deba crear su propio tipo de información confidencial personalizada para proteger los datos de su organización.
 
-Por ejemplo, es posible que su organización necesite identificar y proteger los identificadores de los empleados u otros datos en algún formato específico de su organización. Si es así, consulte los artículos siguientes para obtener más información.
+Por ejemplo, es posible que su organización necesite identificar y proteger los id. de empleados u otros datos en algún formato específico de su organización. Si es así, vea los siguientes artículos para obtener más información.
   
  **Personalizar un tipo de información confidencial integrado**
   
-Si un tipo de información confidencial incorporado satisface sus necesidades con solo unos cuantos ajustes, puede [personalizar un tipo de información confidencial integrada](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Por ejemplo, puede Agregar o quitar palabras clave, o bien agregar o quitar evidencias auxiliares, como una fecha o una dirección.
+Si un tipo de información confidencial integrado satisface sus necesidades con solo unos pocos retoques, puede personalizar un tipo de información [confidencial integrada.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Por ejemplo, puede agregar o quitar palabras clave, o agregar o quitar evidencias de soporte, como una fecha o una dirección.
   
  **Crear un tipo personalizado de información confidencial**
   
-Pero si necesita identificar y proteger por completo un tipo diferente de información confidencial, puede [crear un tipo personalizado de información confidencial](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) en la interfaz de usuario del centro de seguridad & cumplimiento.
+Pero si necesitas identificar y proteger por completo un [](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) tipo diferente de información confidencial, puedes crear un tipo de información confidencial personalizada en la interfaz de usuario del Centro de seguridad & cumplimiento.
   
 **Crear un tipo personalizado de información confidencial en PowerShell del Centro de seguridad y cumplimientol**
 
-Por último, si la interfaz de usuario no proporciona todas las opciones que necesita, puede [crear un tipo personalizado de información confidencial en el PowerShell del centro de cumplimiento de & de seguridad](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Al comenzar con un archivo XML, puede usar todas las opciones disponibles.
+Por último, si la interfaz de usuario no proporciona todas las opciones que necesita, puede crear un tipo de información confidencial personalizada en [PowerShell](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)del Centro de seguridad & cumplimiento . Al empezar con un archivo XML, puede usar todas las opciones disponibles.

@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 880002a3aba20d363e892a8adafcc9b469f9c748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3d6bd0d9eb5cbb4ed35a19c453f255aba1c7de361278f113499364241c600675
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039515"
 ---
 # <a name="tile-errors"></a>Errores en mosaico
 
 - "Errores inesperados al cargar el modelo". Inténtelo de nuevo más tarde.
 
-- "No tiene permisos para ver este icono". Póngase en contacto con el propietario del panel.
+- "No tiene permisos para ver este mosaico". Póngase en contacto con el propietario del panel.
 
-- "Las formas de datos deben contener, al menos, un grupo o cálculo que genere datos." Póngase en contacto con el propietario del panel.
+- "Las formas de datos deben contener al menos un grupo o cálculo que genere datos". Póngase en contacto con el propietario del panel.
 
 - "No tenemos datos que mostrar porque la consulta está vacía". Pruebe a agregar algunos campos de la lista de campos al objeto visual y, a continuación, vuelva a anclar.
 

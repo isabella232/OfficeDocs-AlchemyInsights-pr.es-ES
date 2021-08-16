@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030775"
 ---
 # <a name="do-site-discovery"></a>Realizar detección de sitio
 
@@ -44,7 +44,7 @@ Si actualmente solo usa Internet Explorer, es posible que no sepa qué sitios se
 Una vez que haya recopilado los datos del sitio, recomendamos seguir un proceso de cuatro pasos para analizar los datos:
 1. Ordenar los datos por dominio y, a continuación, por URL.
 2. Definir los límites de una aplicación para configurarla para el modo Internet Explorer. Es recomendable incluir todos los sitios y controles web que definan la aplicación, pero sin incluir controles y sitios extra. Algunos sitios pueden ser tan sencillos como *https://contoso.com/app1*, mientras que otros pueden requerir que definas varios sitios y páginas.
-3. Prueba la aplicación para comprobar que no funciona de forma nativa. Muchos sitios ofrecerán contenido moderno cuando detecten un explorador moderno y solo ofrecerán contenido heredado cuando detecten Internet Explorer.
+3. Pruebe la aplicación para comprobar que no funciona de forma nativa. Muchos sitios ofrecerán contenido moderno cuando detecten un explorador moderno y solo ofrecerán contenido heredado cuando detecten Internet Explorer.
 4. Agrega la aplicación a la lista de sitios de empresa si la prueba no se realiza correctamente.
 
 > [!NOTE]
