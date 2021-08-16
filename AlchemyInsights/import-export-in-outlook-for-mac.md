@@ -14,14 +14,14 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e947c6cd5d27bdb690117b18dd100f3de64b0bcd5d5bdab7cb1eeca355ef4489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708115"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987448"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Importar/exportar en Outlook para Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Import/Export en Outlook para Mac 
 
 Exportar:
 1. En la **pestaña Herramientas,** elija **Exportar**.
@@ -30,11 +30,11 @@ Exportar:
 
 Importar:
 1. En la **pestaña Herramientas,** elija **Importar**.
-2. Seleccione **Archivo de archivo de Outlook para Windows (.pst)**  >  **Continuar**.
+2. Seleccione **Outlook para Windows archivo de archivo (.pst)**  >  **Continuar**.
 3. Busque el archivo .pst en su Mac y, a continuación, elija **Importar**.
 4. Una vez completado el proceso de importación, elija **Finalizar**.
 5. Los elementos importados aparecen en el panel de navegación **en On My Computer**.
 
-Para obtener un conjunto completo de instrucciones de importación y exportación para Outlook para Mac, vea [Import and export Outlook email, contacts, and calendar](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Para obtener un conjunto completo de instrucciones de importación y exportación Outlook para Mac [vea Import and export Outlook email, contacts, and calendar](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Para recibir soporte técnico desde la aplicación para problemas de Outlook para Mac, abra Outlook y seleccione **Help**  >  **Contact Support**. Escriba su pregunta y un miembro del equipo de soporte técnico de Outlook para Mac se pondrá en contacto con usted. [Póngase en contacto con el soporte técnico en Outlook para Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
+Para recibir soporte técnico desde la aplicación para Outlook para Mac problemas, abra Outlook y seleccione **Ayuda**  >  **póngase en contacto con el soporte técnico**. Escriba su pregunta y un miembro del Outlook para Mac de soporte técnico se pondrá en contacto con usted. [Póngase en contacto con el soporte técnico Outlook para Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

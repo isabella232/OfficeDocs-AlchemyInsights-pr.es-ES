@@ -13,16 +13,16 @@ ms.collection: Adm_O364
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: 1e55d9d579c389dfe731f887a2a08c6234de2787
-ms.sourcegitcommit: 254b25150fa326628084d08479b0e7dd8b7d479a
+ms.openlocfilehash: 398496448089d4480119a2eb21221dc11f13c6c1f3bcbd931d6c18033f2e734e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51590321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987586"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>Identificar problemas de Windows Virtual Desktop
 
-Diagnóstico de Windows Virtual Desktop usa solo un cmdlet de PowerShell, pero contiene muchos parámetros opcionales para ayudar a limitar y aislar los problemas. Para empezar: 
+Diagnóstico de Windows Virtual Desktop usa solo un cmdlet de PowerShell, pero contiene muchos parámetros opcionales para ayudar a limitar y aislar los problemas. 
 
 1. Descargar e importar el módulo de PowerShell Windows Virtual Desktop Para más información, consulte [Cmdlets de Windows Virtual Desktop para Windows PowerShell](https://docs.microsoft.com/powershell/windows-virtual-desktop/overview)
 

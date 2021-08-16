@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987592"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identificación de suspensiones colocadas en buzones
+# <a name="identify-holds-placed-on-mailboxes"></a>Identificar retenciones colocadas en buzones
 
-¿Tiene contenido de Microsoft 365 que está **retenido** por una **suspensión** que no puede identificar? ¿Necesita **saber** dónde se encuentra la retención en el **buzón de correo** ? Las suspensiones (*características de retención*) se pueden aplicar mediante uno de los métodos siguientes:
+¿Tiene Microsoft 365 contenido que está **reteniendo** una retención **que** no puede identificar? ¿Necesita **averiguar dónde** se encuentra la retención en el **buzón?** Las retenciones (*características de* retención ) se pueden aplicar mediante uno de los siguientes métodos:
   
-- Retención por juicio
+- Retención por litigio
 
-- conservación de exhibición de documentos electrónicos
+- Retención de exhibición de documentos electrónicos
 
 - Retención en contexto
 
-- Directiva de retención de Microsoft 365 
+- Microsoft 365 de retención 
 
-  - Directivas de retención de ubicación específicas
+  - Directivas de retención de ubicaciones específicas
 
-  - Directivas de retención de toda la organización
+  - Directivas de retención en toda la organización
 
-- Etiquetas 365 de Microsoft
+- Microsoft 365 etiquetas
 
-Para identificar el tipo de retención que se aplica al buzón de un usuario, consulte [How to identify The Type of Hold in a Exchange Online Mailbox](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Para identificar qué tipo de retención se aplica al buzón de un usuario, vea How [to identify the type of hold placed on an Exchange Online mailbox](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
