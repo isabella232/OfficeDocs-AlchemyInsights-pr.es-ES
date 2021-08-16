@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064221"
 ---
-# <a name="cant-get-verification-codes"></a>No se pueden obtener los códigos de verificación
+# <a name="cant-get-verification-codes"></a>No se pueden obtener códigos de verificación
 
-Si no puede acceder a su correo electrónico o número de teléfono alternativos, vaya a la página [conceptos básicos](https://account.microsoft.com/security) de la seguridad de la cuenta de Microsoft, seleccione **no tengo ninguno de estos** en la página de inicio de sesión y siga las instrucciones para reemplazar la información de seguridad.
+Si no puedes acceder a tu número de teléfono o correo electrónico  alternativo, ve a la página [Conceptos](https://account.microsoft.com/security) básicos de seguridad de tu cuenta Microsoft, selecciona No tengo ninguno de estos en la página de inicio de sesión y sigue las instrucciones para reemplazar la información de seguridad.
 
-*Nota:* La [aplicación Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) no requiere una conexión a Internet para proporcionar un código de comprobación.
+*Nota:* La [Microsoft Authenticator no](https://go.microsoft.com/fwlink/?linkid=2016117) requiere una conexión a Internet para proporcionarte un código de verificación.
 
-Para obtener más información, lea [información de seguridad de la cuenta Microsoft y códigos de verificación](https://support.microsoft.com/help/12428/).
+Para obtener más información, lee la información de seguridad de la cuenta [Microsoft y los códigos de verificación](https://support.microsoft.com/help/12428/).
