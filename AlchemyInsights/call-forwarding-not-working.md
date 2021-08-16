@@ -1,5 +1,5 @@
 ---
-title: Desvío de llamadas, grupos de llamadas y llamadas simultáneas en Microsoft Teams
+title: Desvío de llamadas, grupos de llamadas y llamadas simultáneas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49371819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996431"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Desvío de llamadas, grupos de llamadas y llamadas simultáneas en Microsoft Teams
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Desvío de llamadas, grupos de llamadas y llamadas simultáneas
 
-Configurar el desvío de llamadas
+Configurar el reenvío de llamadas
 
-1. En el cliente de Microsoft Teams, haga clic en su imagen de perfil en la parte superior de Teams y seleccione **configuración > llamadas**.
-2. En **reglas de contestador automático**, elija **desviar mis llamadas** y, a continuación, seleccione la ubicación a la que desea que se realicen las llamadas reenviadas: correo de voz, otro usuario o grupo de llamadas.
+1. En el Teams, haga clic en la imagen de perfil en la parte superior de Teams y, a continuación, **seleccione Configuración > llamadas**.
+2. En **Reglas de contestador** automático, elija Reenviar mis llamadas y, a continuación, seleccione dónde desea que vayan las llamadas reenviadas: correo de voz, otra persona o un grupo de llamadas. 
 
-Configurar el desvío de llamadas a un grupo de llamadas
+Configurar el reenvío de llamadas a un grupo de llamadas
 
-1. En **reglas de respuesta a llamada**, seleccione **desviar mis llamadas**.
-2. En el menú **reenviar a** , seleccione **grupo de llamadas**.
-3. En **Agregar personas**, agregue las personas que desee en el grupo de llamadas. Puede Agregar hasta 25 personas. Cualquier usuario que agregue recibirá una notificación.
+1. En **Reglas de contestación de llamadas,** **seleccione Reenviar mis llamadas.**
+2. En el **menú Reenviar a,** seleccione **Grupo de llamadas**.
+3. En **Agregar personas,** agregue las personas que desee en el grupo de llamadas. Puede agregar hasta 25 personas. Cualquier persona que agregue recibirá una notificación.

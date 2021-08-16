@@ -1,5 +1,5 @@
 ---
-title: Capacidades clave del escritorio virtual de Windows
+title: Las capacidades clave de Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067137"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Capacidades clave del escritorio virtual de Windows
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Las capacidades clave de Windows Virtual Desktop
 
-El escritorio virtual de Windows es una virtualización de escritorio y un servicio de virtualización de aplicaciones que se ejecuta en la nube. Esto es lo que puede hacer al ejecutar el escritorio virtual de Windows en Azure:
+Windows Virtual Desktop en Microsoft Azure es un servicio de virtualización de aplicaciones y escritorios que se ejecuta en la nube. Si ejecuta Windows Virtual Desktop en Azure, podrá hacer lo siguiente:
 
-- Configurar una implementación de Windows 10 con varias sesiones que ofrezca una experiencia de Windows 10 completa con escalabilidad
-- Virtualizar las aplicaciones de Microsoft 365 y optimizarlas para que se ejecuten en escenarios virtuales de varios usuarios
-- Proporcionar escritorios virtuales de Windows 7 con actualizaciones de seguridad ampliadas gratuitamente (ESU)
-- Poner a un equipo los servicios de escritorio remoto (RDS) y los equipos de escritorio y las aplicaciones de Windows Server existentes
-- Administre los equipos de escritorio y las aplicaciones de Windows 10, Windows Server y Windows 7 con una experiencia de administración unificada
-- Cree un entorno de virtualización de escritorio completo en su suscripción a Azure, sin tener que ejecutar servidores de puerta de enlace adicionales.
-- Publicar tantos grupos de host como sea necesario para acomodar las diversas cargas de trabajo
-- Desde la galería de Azure, coloque sus propias imágenes para las cargas de trabajo y pruebas de producción
-- Reducir costos mediante el uso de recursos de varias sesiones y poold
-- Proporcionar propiedad individual mediante escritorios personales (persistentes)
+- Configurar una implementación de Windows 10 de varias sesiones que ofrezca una experiencia Windows 10 completa con escalabilidad
+- Virtualice Aplicaciones Microsoft 365 y optimice para que se ejecute en escenarios virtuales de varios usuarios
+- Proporcionar Windows 7 escritorios virtuales con actualizaciones de seguridad extendidas (ESU) gratuitas
+- Llevar los servicios de Escritorio remoto (RDS) existentes y Windows escritorios y aplicaciones de servidor a cualquier equipo
+- Administrar Windows 10, Windows server y Windows 7 escritorios y aplicaciones con una experiencia de administración unificada
+- Crear un entorno de virtualización de escritorio completo en la suscripción de Azure, sin tener que ejecutar servidores de puerta de enlace adicionales
+- Publicar tantos grupos de host como necesite para adaptarse a sus diversas cargas de trabajo
+- Desde la Galería de Azure, traiga sus propias imágenes para cargas de trabajo y pruebas de producción
+- Reducir costos mediante recursos de varias sesiones agrupadas
+- Proporcionar propiedad individual a través de escritorios personales (persistentes)
 
-Para obtener más información, consulte [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) and [key Capabilities](https://go.microsoft.com/fwlink/?linkid=2127033).
+Para obtener más información, consulte [Características de Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) y [Funcionalidades clave](https://go.microsoft.com/fwlink/?linkid=2127033).
 

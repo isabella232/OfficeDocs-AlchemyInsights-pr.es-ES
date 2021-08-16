@@ -1,5 +1,5 @@
 ---
-title: Cómo hacer que el nuevo Outlook.com tenga el aspecto anterior
+title: Cómo hacer que la nueva Outlook.com se parezca a la antigua
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067101"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Cómo hacer que el nuevo Outlook.com tenga el aspecto de la versión anterior
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Cómo hacer que el nuevo Outlook.com se parezca a la versión antigua
 
-Estas son algunas de las configuraciones que puede cambiar para que el nuevo Outlook.com tenga el aspecto de la versión anterior:
+Estas son algunas opciones de configuración que puede cambiar para que el nuevo Outlook.com se parezca a la versión antigua:
 
-1. Vaya a [configuración de diseño](https://outlook.live.com/mail/options/mail/layout).
-1. En **bandeja de entrada prioritarios**, seleccione **no ordenar mis mensajes**.
-1. En **organización del mensaje**, seleccione **mensajes más recientes en la parte superior**.
-1. En **imagen del remitente**, seleccione **no mostrar las imágenes del remitente**.
-1. En **Panel de lectura**, seleccione **ocultar panel de lectura**.
-1. En **texto de vista previa de mensaje**, seleccione **Mostrar vista previa de texto**.
-1. En **vistas previas en línea**, seleccione **no Mostrar datos adjuntos en la lista de mensajes**.
+1. Vaya a [Configuración de diseño](https://outlook.live.com/mail/options/mail/layout).
+1. En **Bandeja de entrada centrada,** seleccione No ordenar mis **mensajes.**
+1. En **Organización de mensajes,** seleccione **Mensajes más nuevos en la parte superior**.
+1. En **Imagen del remitente,** seleccione **No mostrar imágenes del remitente.**
+1. En **Panel de lectura,** seleccione **Ocultar panel de lectura**.
+1. En **Texto de vista previa del mensaje,** seleccione Mostrar texto de vista **previa**.
+1. En **Vistas previas en línea,** seleccione **No mostrar datos adjuntos en la lista de mensajes**.
 
-Para cambiar la configuración de correo de modo que la bandeja de entrada tenga el aspecto y el comportamiento deseado, vea [cambiar la apariencia de su buzón en Outlook.com y el nuevo Outlook en la web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Para cambiar la configuración de correo para que la bandeja de entrada se vea y se comporte como desee, vea Cambiar la apariencia del buzón en [Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)y la nueva Outlook en la Web .
