@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012253"
 ---
 # <a name="microsoft-teams-together-mode"></a>Modo Juntos de Microsoft Teams
 
