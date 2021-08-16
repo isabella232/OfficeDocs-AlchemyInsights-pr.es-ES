@@ -1,5 +1,5 @@
 ---
-title: Más información sobre las aplicaciones web progresivas (PWA) en Microsoft Edge (cromo)
+title: Obtenga información sobre las aplicaciones web progresivas (PWA) en Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101463"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Más información sobre las aplicaciones web progresivas (PWA) en Microsoft Edge (cromo)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Obtenga información sobre las aplicaciones web progresivas (PWA) en Microsoft Edge (Chromium)
 
-PWA los sitios web son mejorados progresivamente para funcionar como aplicaciones nativas en plataformas que los admiten. PWA combinan las mejores cualidades de las aplicaciones web y nativas.
+Las PWA son sitios web mejorados progresivamente para funcionar como aplicaciones nativas en plataformas que los admiten. Las PWA combinan las mejoras cualidad de las aplicaciones web y nativas.
 
-Desde la perspectiva de una plataforma web, [PWA en Microsoft Edge (cromo)](https://go.microsoft.com/fwlink/?linkid=2135193) se basan en estándares. Permiten a los usuarios instalar aplicaciones directamente desde dentro del explorador y no requieren la implementación ni el registro basados en Microsoft Store. Los PWA de escritorio son compatibles con cualquier plataforma en la que Microsoft Edge (cromo) esté disponible.
+Desde la perspectiva de una plataforma web, las [PWA en Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) se basan en estándares. Permiten a los usuarios instalar aplicaciones directamente desde el explorador y no requieren implementación basada en Microsoft Store ni registro. Las PWA de escritorio son compatibles con cualquier plataforma en la que esté disponible Microsoft Edge (Chromium).
