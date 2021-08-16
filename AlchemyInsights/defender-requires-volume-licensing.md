@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11129"
 - "9005486"
-ms.openlocfilehash: 3686bdbed46ed817446be0df63600436bbf2073f
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 52e859922453e7996bc1e2da9c989bf2bde946d815f5b432cc079d94feca4b9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994162"
 ---
 # <a name="microsoft-defender-for-endpoint-requires-microsoft-volume-licensing"></a>Microsoft Defender para endpoint requiere licencias por volumen de Microsoft
 
