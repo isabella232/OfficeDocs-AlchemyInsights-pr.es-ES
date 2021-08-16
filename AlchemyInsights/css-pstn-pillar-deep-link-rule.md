@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: a97712433a245c16e9dd01192f689c3afc96d4cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e9e9ddd131c109d20f1772089b8103fbde12d81adc3f2282210c8a9e2e43611
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031783"
 ---
 # <a name="pstn-calling-with-microsoft-teams"></a>Llamadas RTC con Microsoft Teams
 
-Para obtener más información sobre las llamadas rtc y telefónicas de Microsoft Teams en Microsoft Teams, vea ¿Qué es [Microsoft Teams Phone en Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
+Para obtener más información sobre Microsoft Teams Teléfono llamadas RTC en Microsoft Teams, vea ¿Qué Microsoft Teams Teléfono [en Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031423"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Implementación de complementos para Aplicaciones Microsoft 365
 
@@ -27,7 +27,7 @@ La implementación centralizada es la forma recomendada para implementar Office 
 **Nota:** Para instalar complementos para Office como un usuario individual, vea [Ver,](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)administrar e instalar complementos en Office programas . Además, asegúrate de que la adquisición individual de Office complementos de la Tienda está habilitada. Para obtener más información, vea [Prevent add-in downloads by turning off the Office Store across all clients (Except Outlook).](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Asegúrese de que el entorno cumple los requisitos para la implementación de complementos mediante la implementación centralizada. Para obtener más información, vea [Requirements](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
-2. Ve a **Configuración** aplicaciones integradas Obtener aplicaciones en  >    >   el centro Microsoft 365 administración para implementar complementos. 
+2. Ve a **Configuración**  >  **aplicaciones integradas**  >  **Obtén aplicaciones** en el Centro de administración de Microsoft 365 para implementar complementos. 
 
 Notas: 
 
@@ -46,6 +46,6 @@ Para obtener más información, vea:
 [Implementar complementos en el Centro de administración](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Administrar complementos en el Centro de administración](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [Usar los cmdlets de PowerShell de implementación centralizada para administrar complementos](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- [Publicar Office complementos mediante](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) la implementación centralizada a través del Centro Microsoft 365 administración 
+ [Publicar Office complementos mediante la](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) implementación centralizada a través de la Centro de administración de Microsoft 365 
  [Solución de problemas: el usuario no ve complementos](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Solucionar errores de usuario con Office complementos](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)

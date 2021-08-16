@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 00db7b59e5a3d81c46d28cb919564ae99dca00b09c12f85388f5c419647dad01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50465083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070737"
 ---
 # <a name="create-a-signature-in-outlook-for-mac"></a>Crear una firma en Outlook para Mac
 
-1.  En el **menú de Outlook,** haga clic **en Preferencias**.
+1.  En el menú **Outlook,** haga clic en **Preferencias**.
 2.  En **Correo electrónico,** haga clic **en Firmas**.
 3.  Haga clic **en Agregar** **+** .
 4.  Haga doble clic **en Sin título** y, a continuación, escriba un nombre para la firma.

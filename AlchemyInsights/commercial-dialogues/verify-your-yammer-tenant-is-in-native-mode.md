@@ -1,5 +1,5 @@
 ---
-title: Comprobar que el inquilino de Yammer está en modo nativo
+title: Comprobar que el Yammer está en modo nativo
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070269"
 ---
-# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Comprobar que el inquilino de Yammer está en modo nativo
+# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Comprobar que el Yammer está en modo nativo
 
-Este paso es opcional. En el modo nativo, todos los usuarios de Yammer están en Azure Active Directory (Azure AD), todos los grupos son grupos de Microsoft 365 y todos los archivos se almacenan en SharePoint Online. El inquilino de Yammer debe estar en modo nativo para permitir que las directivas de cumplimiento de comunicación analicen e identifiquen conversaciones de riesgo en mensajes privados y conversaciones de la comunidad en Yammer.  
+Este paso es opcional. En el modo nativo, todos los Yammer están en Azure Active Directory (Azure AD), todos los grupos son grupos Microsoft 365 y todos los archivos se almacenan en SharePoint Online. Su Yammer inquilino debe estar en modo nativo para permitir que las directivas de cumplimiento de comunicación analicen e identifiquen conversaciones de riesgo en mensajes privados y conversaciones de la comunidad en Yammer.  
   
-Para obtener más información acerca de la configuración de Yammer en modo nativo, vea [Overview of Yammer Native Mode in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) y [Configure your Yammer network for Native Mode for Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772).
+Para obtener más información acerca de la configuración de Yammer en modo nativo, vea [Overview of Yammer Native Mode in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) y Configure your Yammer network for Native Mode for [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772).

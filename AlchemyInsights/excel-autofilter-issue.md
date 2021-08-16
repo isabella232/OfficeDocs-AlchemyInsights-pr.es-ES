@@ -1,5 +1,5 @@
 ---
-title: Problema de Autofiltro de Excel
+title: Excel Problema de autofiltro
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100563"
 ---
-# <a name="excel-autofilter-issue"></a>Problema de Autofiltro de Excel
+# <a name="excel-autofilter-issue"></a>Excel Problema de autofiltro
 
-Cuando se usa Excel 2016, si la lista desplegable de Autofiltro no muestra todas las casillas de verificación disponibles, o las casillas no se pueden hacer clic en ellas, puede deberse a un problema conocido en las versiones anteriores de Excel. 
+Al usar Excel 2016, si la lista desplegable Autofiltro no muestra todas las casillas disponibles o las casillas no se pueden hacer clic, puede deberse a un problema conocido en compilaciones anteriores de Excel. 
   
-Este problema ahora está solucionado en la **versión 1707 (8326,2073)** o posterior. Para obtener la actualización inmediatamente, abra Excel y elija **File** \> **account** \> **Update Options** \> **Update Now**.
+Este problema se ha corregido en **la versión 1707 (8326.2073)** o posterior. Para obtener la actualización inmediatamente, abra Excel y elija **Opciones** de actualización de cuenta de archivo \>  \>  \> **Actualizar ahora**.
   
 
