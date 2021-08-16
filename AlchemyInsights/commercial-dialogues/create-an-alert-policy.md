@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 78fd77c27a3ec62b16325cdb3be469e45514f8cf0b5de4f4264f080b23627eef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988348"
 ---
 # <a name="create-an-alert-policy"></a>Crear una directiva de alerta
 
 Este es el modo de hacerlo:
 
-1. Vaya al Centro [de seguridad y cumplimiento de Office 365 &.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Vaya al Centro [de Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143).
 1. Seleccione **Directivas de**  >  [alertas](https://go.microsoft.com/fwlink/?linkid=2103208).
 1. Seleccione **+ Nueva directiva de alerta**. Aparece un desplegable.
 1. Establezca los **campos Nombre,** **Descripción,** **Gravedad** y **Categoría** según corresponda a sus necesidades. Seleccione **Siguiente**.

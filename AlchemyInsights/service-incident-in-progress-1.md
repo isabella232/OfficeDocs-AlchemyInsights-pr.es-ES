@@ -1,5 +1,5 @@
 ---
-title: Incidente del servicio en curso
+title: Incidente de servicio en curso
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: 9bd973c26d7decb40a97884ab241bbde7165f31a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f747e2146b2d9bd0b594a2cffe227c98fcdd6f612fdf264c82fbda91f4fca99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052187"
 ---
-# <a name="service-incident-in-progress"></a>Incidente del servicio en curso
+# <a name="service-incident-in-progress"></a>Incidente de servicio en curso
 
-Es posible que se vea afectado por una incidencia o aviso de servicio que actualmente se está investigando. Puede comprobar el estado más reciente yendo a la página de [Estado del servicio](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Es posible que se haya visto afectado por un incidente de servicio o un aviso que se está investigando actualmente. Para comprobar el estado más reciente, vaya a la página [Estado del](https://admin.microsoft.com/adminportal/home#/servicehealth) servicio.
   
 Para su comodidad, puede encontrar un resumen de este incidente a continuación:
   

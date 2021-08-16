@@ -1,5 +1,5 @@
 ---
-title: Guía de configuración del trabajo remoto
+title: Guía de configuración de trabajo remoto
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024007"
 ---
-# <a name="remote-work-setup-guide"></a>Guía de configuración del trabajo remoto
+# <a name="remote-work-setup-guide"></a>Guía de configuración de trabajo remoto
 
-Se ha realizado cada vez más trabajo de forma remota. Su organización debe estar equipada para administrar la creciente demanda de trabajo remoto.
+Cada vez se realiza más trabajo de forma remota. Su organización debe estar equipada para administrar la mayor demanda de trabajo remoto.
 
-Use la [Guía de configuración del trabajo remoto](https://go.microsoft.com/fwlink/?linkid=2142062) para habilitar las características de seguridad esenciales y revisar las recomendaciones de seguridad adicionales. Obtendrá instrucciones para reducir la presión en su infraestructura de VPN y, opcionalmente, configurar el acceso remoto para equipos de escritorio y aplicaciones. A continuación, revisará las opciones para implementar Microsoft Teams y las aplicaciones de Office.
+Use la [guía de configuración de trabajo remoto para](https://go.microsoft.com/fwlink/?linkid=2142062) habilitar características de seguridad esenciales y revisar recomendaciones de seguridad adicionales. Tendrás instrucciones para reducir la tensión en la infraestructura vpn y, opcionalmente, configurarás el acceso remoto para escritorios y aplicaciones. A continuación, revisarás las opciones para implementar Microsoft Teams y Office aplicaciones.
