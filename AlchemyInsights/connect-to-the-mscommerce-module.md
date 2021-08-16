@@ -1,5 +1,5 @@
 ---
-title: Conectarse al módulo MSCommerce
+title: Conectar al módulo MSCommerce
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df427f1d0fbda46f17a62ad2122b8773b546f0a00ec91ba312c609e4a670870f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032966"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>Conectarse al módulo MSCommerce
+# <a name="connect-to-the-mscommerce-module"></a>Conectar al módulo MSCommerce
 
 Debe estar conectado al módulo MSCommerce para poder ver o establecer la directiva AllowSelfServicePurchase.  
 
