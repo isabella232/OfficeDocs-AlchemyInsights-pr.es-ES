@@ -1,5 +1,5 @@
 ---
-title: Iniciar sesión en Microsoft Edge manualmente
+title: Inicie sesión para Microsoft Edge manualmente
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,14 +15,14 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050783"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Iniciar sesión en Microsoft Edge manualmente
+# <a name="sign-in-to-microsoft-edge-manually"></a>Inicie sesión para Microsoft Edge manualmente
 
 Si un usuario no ha iniciado sesión automáticamente durante una experiencia de primera ejecución, el usuario puede iniciar sesión manualmente a través de la configuración del explorador o el control de identidad. Para administrar el inicio de sesión, use las siguientes directivas:
 

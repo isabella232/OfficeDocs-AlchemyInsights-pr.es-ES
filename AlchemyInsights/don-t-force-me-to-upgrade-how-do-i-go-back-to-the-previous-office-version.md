@@ -1,5 +1,5 @@
 ---
-title: No forzar la actualización. Volver a la versión anterior de Office
+title: No me obligó a actualizar. ¿Cómo puedo volver a la versión Office anterior?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079611"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>No forzar la actualización. Volver a la versión anterior de Office
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>No me obligó a actualizar. ¿Cómo puedo volver a la versión Office anterior?
 
-Al abrir un archivo de Office, es posible que se abra la versión de prueba de una aplicación de Office, en lugar de otra versión. Esto ocurrirá si tiene la versión de prueba de Microsoft 365.
+Al abrir un archivo Office, la versión de prueba de un Aplicación de Office puede abrirse, en lugar de otra versión. Esto ocurrirá si tiene la Microsoft 365 prueba.
   
-Al instalar la versión de prueba de Microsoft 365, se instala la versión de prueba de 2016 de las aplicaciones. Estas versiones de prueba se convierten en las opciones predeterminadas para abrir archivos de Word, Excel y PowerPoint. Por ejemplo, si tiene instalado Excel 2013 y también ha instalado la prueba de Microsoft 365, los libros se abrirán en la versión de prueba de Excel 2016.
+Al instalar la versión Microsoft 365 prueba, se instala la versión de prueba de 2016 de las aplicaciones. Estas versiones de prueba se convierten en el valor predeterminado para abrir word, Excel y PowerPoint archivos. Por ejemplo, si Excel 2013 instalado y también ha instalado la prueba de Microsoft 365, los libros se abrirán en la versión de prueba de Excel 2016.
   
-Si tiene este problema, puede [desinstalar](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) las aplicaciones de 2016 y usar las versiones anteriores de las aplicaciones que ya tiene instaladas. O bien, puede [desinstalar](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) las versiones anteriores de las aplicaciones y actualizar a las versiones más recientes incluidas en Microsoft 365.
+Si tienes este problema, [](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) puedes desinstalar las aplicaciones de 2016 y usar las versiones anteriores de las aplicaciones que ya tienes instaladas. O bien, puedes [desinstalar las](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) versiones anteriores de las aplicaciones y actualizar a las versiones más recientes incluidas con Microsoft 365.

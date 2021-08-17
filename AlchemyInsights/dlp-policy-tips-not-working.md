@@ -1,5 +1,5 @@
 ---
-title: Sugerencias de directivas dlp no funcionan
+title: Directiva DLP Sugerencias no funciona
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079683"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemas de sugerencias de directiva DLP
 
@@ -30,6 +30,6 @@ Para configurar las sugerencias de directiva en la directiva DLP en el Centro de
 
 - Asegúrese de que el contenido coincide con lo necesario para desencadenar la regla descrita en [Definiciones de](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)entidad de tipo de información confidencial .
 
-- Las sugerencias de directiva se muestran en OWA y Outlook. Sin embargo, al usar Outlook 2013 o versiones posteriores, las sugerencias de directiva solo se muestran en determinadas condiciones. Para obtener la lista de condiciones específicas, vea [Condiciones admitidas para Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)o posterior para mostrar sugerencias de directiva .
+- Las sugerencias de directiva se muestran en OWA y Outlook. Sin embargo, al usar Outlook 2013 o posterior, las sugerencias de directiva solo se muestran en determinadas condiciones. Para obtener la lista de condiciones específicas, vea Condiciones admitidas [para Outlook 2013 o](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)posterior para mostrar directivas Sugerencias .
 
-Para obtener información sobre las sugerencias de directiva DLP, vea [DLP Policy Tips Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) and Support Matrix for DLP Policy [Tips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).
+Para obtener información sobre las sugerencias de directiva DLP, [vea DLP Policy Sugerencias Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) and Support Matrix for DLP Policy [tips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).
