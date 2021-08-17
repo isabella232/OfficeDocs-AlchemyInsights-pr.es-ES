@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: befb89c28396be3dc60d9d812a0c6aced69bea3c1c48d88a4ab81a34d6c259b0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919008"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886156"
 ---
 # <a name="11-call-recording"></a>Grabación de llamadas 1:1
 
@@ -28,7 +28,7 @@ A partir del 31 de mayo de 2021, empezaremos a aplicar una nueva directiva de Te
 
 *AllowCloudRecordingForCalls*   la opción de directiva de llamada **se establece $False** de forma predeterminada. Si prefieres impedir que todos los usuarios graben llamadas 1:1, no necesitas realizar ninguna acción.  
 
-Para habilitar la grabación de llamadas para todos los usuarios en llamadas 1:1, [use Teams PowerShell](/microsoftteams/teams-powershell-install) para ejecutar el siguiente cmdlet: 
+Para habilitar la grabación de llamadas para todos los usuarios en llamadas 1:1, [use Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) para ejecutar el siguiente cmdlet: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 

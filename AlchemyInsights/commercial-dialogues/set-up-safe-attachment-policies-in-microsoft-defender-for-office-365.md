@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058559"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888387"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Configurar directivas Caja fuerte datos adjuntos en Microsoft Defender para Office 365
 
-1. Vaya al Centro [de Office 365 seguridad & cumplimiento y](https://go.microsoft.com/fwlink/p/?linkid=2077143) seleccione **Directiva** de administración de amenazas Caja fuerte  >    >  **datos adjuntos**.
-2. Para habilitar esta característica para otras cargas de trabajo, seleccione Activar Microsoft Defender para Office 365 para **SharePoint Online, OneDrive y Microsoft Teams**.
-3. Para crear una nueva directiva, seleccione el **icono Nuevo** ( **+** ) .
-4. Especifique el nombre, la descripción y la configuración de la directiva.
-5. Haga clic en **Guardar**.
+1. En el portal Microsoft 365 Defender en , vaya a Correo electrónico & directivas de colaboración & reglas de amenazas Caja fuerte datos adjuntos en la <https://security.microsoft.com/>  \>  \>  \>  **sección** Directivas.
+
+   Para ir directamente a la **página Caja fuerte datos adjuntos,** use <https://security.microsoft.com/safeattachmentv2> .
+
+2. En la **página Caja fuerte datos adjuntos,** siga estos pasos:
+   - Para agregar una nueva directiva, seleccione **+ Crear**. Se iniciará un asistente para ayudarle a definir la configuración de la directiva.
+   - Para editar una directiva existente, seleccione la directiva haciendo clic en el nombre de la directiva. En el control desplegable de detalles que aparece, seleccione **Editar** en la sección que contiene la configuración que desea configurar.
+   - Para activar o desactivar los datos adjuntos de Caja fuerte para SharePoint, OneDrive y Microsoft Teams, haga clic en Configuración **global,** active o desactive la configuración y, a continuación, haga clic en **Guardar**.
+
+3. Después de revisar la configuración, selecciona **Enviar** (nuevo) o **Guardar** (editar).
+
+Para más información, consulte los siguientes artículos:
+
+- [Configurar directivas Caja fuerte datos adjuntos en Microsoft Defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Activar Datos adjuntos seguros para SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

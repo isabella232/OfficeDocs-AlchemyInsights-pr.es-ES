@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "12311"
 - "9007388"
-ms.openlocfilehash: 18146d9ab3cb71a013669a885e8f1bce801e0566badc893ee77fec5305eb812a
-ms.sourcegitcommit: bf8102695d18dc90819b1b34bb004da963ee01d0
+ms.openlocfilehash: 9efb9a21c7433801a3a1802f31c85b8bd5f0b185a2e2f9f17c5a49bb4cfed7a5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 08/11/2021
-ms.locfileid: "57847763"
+ms.locfileid: "57886554"
 ---
 # <a name="microsoft-defender-for-identity-guide"></a>Guía de Microsoft Defender for Identity
 
 Microsoft Defender for Identity (MSDI) es una solución de seguridad basada en la nube que aprovecha las señales de Active Directory para identificar y detectar las amenazas dirigidas a su organización. Para proteger a su organización de posibles filtraciones de información, use [Implementar la guía de configuración](https://portal.office.com/adminportal/home?#/modernonboarding/microsoftdefenderforidentitysetupguide). 
 
-Para más información, vea [¿Qué es Microsoft Defender for Identity?](/defender-for-identity/what-is)  
+Para más información, vea [¿Qué es Microsoft Defender for Identity?](https://docs.microsoft.com/defender-for-identity/what-is)  
 
