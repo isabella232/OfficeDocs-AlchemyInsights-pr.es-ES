@@ -14,16 +14,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: ac6bc3ff7b3abffe3f31f67d168e51d6b779daa0
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 2241cab0c509b010d3c427e962d9204ff86e5b6ce16b76a07c6c2b6b60485b18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48278468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073257"
 ---
 # <a name="upload-a-folder-or-files-to-a-document-library"></a>Cargar archivos o una carpeta en una biblioteca de documentos
 
-Puede cargar archivos a una biblioteca de documentos en SharePoint arrastrándolos desde el equipo y colocándolos en la biblioteca de documentos.
+Puede cargar archivos en una biblioteca de documentos en SharePoint arrastrándolos desde el equipo y soltándolos en la biblioteca de documentos.
 
 * [Cargar archivos o una carpeta en una biblioteca de documentos](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 * [Cargar con la sincronización de OneDrive](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)

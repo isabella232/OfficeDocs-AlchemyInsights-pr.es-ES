@@ -1,5 +1,5 @@
 ---
-title: Cargar archivos en OneDrive o SharePoint
+title: Upload archivos a OneDrive o SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 03e2962a12fca12850441d03b43d6cfde9e60bad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90767dbcbac08f109b33bfed474cf53829f1e553e5973477796b951acf5c8d28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073293"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Cargar archivos en OneDrive o SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload archivos a OneDrive o SharePoint
 
-1. En el explorador Web, vaya a la ubicación en la que desea cargar los archivos.
+1. En el explorador web, vaya a la ubicación donde desea cargar archivos.
     
-2. Abra el explorador de archivos y vaya a los archivos que desea cargar.
+2. Abra el Explorador de archivos y busque los archivos que desea cargar.
     
-3. Seleccione los archivos y arrástrelos a la ubicación en OneDrive o SharePoint. Nota: Si usa Microsoft Edge, Mozilla FireFox o Google Chrome, también puede cargar una carpeta y todos los archivos que contenga.
+3. Seleccione los archivos y arrástrelos a la ubicación de OneDrive o SharePoint. Nota: Si usas Microsoft Edge, Mozilla FireFox o Google Chrome, también puedes cargar una carpeta y todos los archivos que contiene.
     
-**Notas**:
+**Notas:**
 - Puede cargar archivos de hasta 15 GB de tamaño. 
-- La ruta de acceso completa de un archivo (incluido el nombre de archivo) no puede tener más de 400 caracteres de longitud. 
-- Si necesita cargar más de 100 archivos, [use el cliente de sincronización de OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+- La ruta de acceso completa de un archivo (incluido el nombre del archivo) no puede tener más de 400 caracteres de longitud. 
+- Si necesita cargar más de 100 archivos, [use el Sincronización de OneDrive .](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 
