@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988276"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898873"
 ---
 # <a name="fix-anti-spam-policy"></a>Corregir directiva contra correo no deseado
 
-Una directiva contra correo no deseado personalizada en el espacio empresarial afectó a este mensaje. Para revisar la directiva, haga lo siguiente:
+Una de las directivas contra correo no deseado afectó a este mensaje. Para revisar la directiva, siga estos pasos:
 
-1. Vaya al Centro [de Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143)y, a continuación, vaya a Directiva de **administración** de amenazas contra correo  >    >  [no deseado.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. En la **pestaña** Personalizado, seleccione la directiva de filtro de **correo** no deseado predeterminada o cualquier otra directiva personalizada que haya creado y, a continuación, seleccione **Editar directiva**.
-3. Expanda la **opción Propiedades de correo** no deseado y revise la configuración Marcar como **correo** no deseado.
+1. En el portal Microsoft 365 Defender en , vaya a Correo electrónico & directivas de colaboración & reglas directivas contra correo no deseado en <https://security.microsoft.com/>  \>  \>  \>  la **sección** Directivas.
 
-Para obtener más información sobre cómo configurar directivas de filtro de correo no deseado, vea [Configure custom spam filter policy settings](https://go.microsoft.com/fwlink/?linkid=2101054).
+   Para ir directamente a la página **Directivas contra correo no deseado**, use <https://security.microsoft.com/antispam>.
+
+2. En la página **Directivas** contra correo no deseado, seleccione la directiva  haciendo clic en  el nombre de la directiva **(** Tipo es Directiva contra correo no deseado personalizada o Nombre es Directiva de entrada contra correo no deseado **(valor predeterminado).**
+
+3. En el control desplegable de  detalles que aparece, haga clic en Editar umbral de correo no deseado y propiedades en la sección Propiedades de correo no deseado del umbral de correo electrónico masivo **&,** seleccione **Editar** acciones y revise la configuración Marcar como correo **no** deseado.
+
+Para más información, consulte [Configurar directivas contra correo electrónico no deseado en EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

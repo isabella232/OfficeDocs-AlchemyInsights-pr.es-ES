@@ -16,12 +16,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 541a38088833f8e9f79450bc74486365a1b34de845728a7a621a8f21e67cd162
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fc052672ecb4363204f3756080c7031fde44738ec9b9955aa7ffbe9b57d2603a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503597"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899037"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Comprar una suscripción para Microsoft 365 desde la versión de prueba gratuita
 
@@ -38,7 +38,7 @@ Has intentado Microsoft 365 y ahora estás listo para comprar. Tienes dos opcion
 1. En el Centro de administración, vaya a la página **Servicios de compra** de \> [facturación.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. Busque la suscripción que desea comprar, seleccione **Comprar** y siga los pasos para desprote entrada.
 
-Para obtener más información, consulta [Comprar una suscripción desde la versión de prueba gratuita.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
+Para obtener más información, consulta [Comprar una suscripción desde la versión de prueba gratuita.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
 
 **Solución de problemas**
 

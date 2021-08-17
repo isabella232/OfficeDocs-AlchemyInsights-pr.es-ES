@@ -13,23 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: 0a7be6ca17ff9c1934cf09d7e660da295179553b30494c409c345c5e3b5c5fd8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6ca61775d18fb5501911fb3334ef499ff1f06a6b42634367eaf546fc322f822c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074517"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889663"
 ---
 # <a name="retrieve-the-audit-logs"></a>Recuperar los registros de auditoría
 
 Al abrir por primera vez el registro de auditoría, está vacío. Tiene que realizar una búsqueda para ver el contenido. Aquí le explicamos cómo realizar una búsqueda general de todas las actividades:
 
-1. Vaya a la página de búsqueda en el registro de auditoría (o a Centros de administración > **Centro de cumplimiento de Microsoft 365** > **Búsqueda e investigación** > **Búsqueda en el registro de auditoría**).
+1. Realice uno de los pasos siguientes:
+   - En el Centro de cumplimiento de Microsoft 365 en <https://compliance.microsoft.com>, vaya a **Soluciones** \>**Auditoría**. O bien, para ir directamente a la página de **Auditoría**, use <https://compliance.microsoft.com/auditlogsearch>.
+   - En el portal de Microsoft 365 Defender en <https://security.microsoft.com>, vaya a **Auditoría**. O bien, para ir directamente a la página de **Auditoría**, use <https://sip.security.microsoft.com/auditlogsearch>.
 
-1. En el cuadro de **Actividades**, acepte **Mostrar resultados para todas las actividades**, el valor predeterminado.
+2. En la página de **Auditoría**, compruebe que la pestaña **Búsqueda** está seleccionada y, a continuación, configure las siguientes opciones:
+   - **Intervalo de fecha y hora**: seleccione el intervalo de fecha y hora en los cuadros de **Inicio** y **Finalizar**.
+   - **Actividades**: compruebe que está seleccionada la opción **Mostrar resultados para todas las actividades**.
+   - **Usuarios**: acepte el valor predeterminado en blanco para entregar resultados de todos los usuarios, o introduzca uno o más usuarios.
 
-1. Especifique el intervalo de fechas y, en el cuadro **Usuarios**, acepte el valor predeterminado para devolver resultados para todos los usuarios o elija el nombre del usuario que quiera investigar.
+3. Cuando haya terminado, haga clic en **Buscar**. Las actividades aparecen en la nueva página de **Búsqueda de auditoría**.
 
-1. Seleccione **Buscar**. Las actividades aparecen en **Resultados**.
+4. En los resultados, haga clic en **Filtrar resultados** y escriba **Set-Mailbox** en el cuadro de filtro de actividad.
 
-1. Para ver detalles, seleccione una actividad y, después, elija **Más información** para ver más información, como Cliente, Usuario que ha realizado una acción, etc.
+5. Seleccione un registro de auditoría en los resultados. En el control flotante **Detalles**, haga clic en **Más información** para ver más información, como cliente, Usuario que ha realizado una acción, etc.
