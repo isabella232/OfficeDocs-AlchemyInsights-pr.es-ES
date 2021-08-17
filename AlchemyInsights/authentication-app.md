@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082959"
 ---
 # <a name="authentication-app"></a>Aplicación de autenticación
 
@@ -30,11 +30,11 @@ Si es un administrador global, puede averiguar rápidamente lo que ha ocurrido o
 
 **Compruebe el escenario aplicable:**
 
-1. Si un usuario no recibe una notificación de inserción en la aplicación Microsoft Authenticator, compruebe que no se muestran en los usuarios bloqueados de MFA como se describe en Bloquear y [desbloquear usuarios.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Si un usuario no recibe una notificación de inserción en la aplicación Microsoft Authenticator, compruebe que no se muestran en los usuarios bloqueados de MFA como se describe en Bloquear y desbloquear [usuarios](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom).
 1. Si el usuario no está bloqueado para MFA pero no recibe una notificación de inserción, puede abrir la aplicación Microsoft Authenticator, que extraerá las solicitudes de aprobación pendientes.
 1. Como método de inicio de sesión alternativo, el usuario también puede hacer clic en Iniciar sesión de otra forma y elegir usar un código de verificación desde mi aplicación móvil.
-1. La aplicación Microsoft Authenticator es el único método disponible para muchos usuarios. [Obtén más información sobre los valores predeterminados de seguridad,](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)consulta Preguntas más frecuentes sobre la aplicación [Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) para ver las preguntas más frecuentes y cómo resolverlas.
+1. La Microsoft Authenticator app es el único método disponible para muchos usuarios. [Obtenga más información sobre los valores predeterminados de seguridad,](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) [consulte Authenticator Preguntas](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) frecuentes sobre la aplicación para las preguntas más frecuentes y cómo resolverlas.
  
 **Vídeos recomendados**
 
-[Cómo configurar la aplicación Authenticator en un teléfono nuevo (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)
+[Cómo configurar la aplicación Authenticator en un teléfono nuevo (2 minutos).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)

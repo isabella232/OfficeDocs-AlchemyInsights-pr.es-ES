@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009193"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891916"
 ---
 # <a name="subscription-expired"></a>Suscripción expirada
 
@@ -35,7 +35,7 @@ Si su subscripción ha expirado, Microsoft la ha deshabilitado o si la ha cancel
 3. En el panel **Reactivar esta suscripción**, seleccione un método de pago de la lista desplegable o seleccione **Agregar método de pago**.
 4. Seleccione **Guardar**.
 
-Para obtener más información, vea [Reactivar la suscripción](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para obtener más información, vea [Reactivar la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Administrar la renovación de la suscripción**
 
@@ -47,4 +47,4 @@ Para administrar la facturación mensual o anual puede activar o desactivar la f
 4. En el panel **Editar la configuración de facturación periódica**, seleccione **Activado**, **Activado pero renovar una vez** o **Desactivar**.
 5. Seleccione **Guardar**.
 
-Para obtener más información, consulte [Activar o desactivar la facturación periódica](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para obtener más información, consulte [Activar o desactivar la facturación periódica](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

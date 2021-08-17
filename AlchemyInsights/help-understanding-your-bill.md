@@ -16,12 +16,12 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: dfa1f65e8983fa06aad4b41ca387a4a4020e64fb0a8e2d7b1cce54e1ba4d07e8
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: bb12ac9bcb5f8eae7d03f4d3ad876e5858bd32fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502481"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320960"
 ---
 # <a name="help-understanding-your-bill"></a>Ayuda para comprender tu factura
 
@@ -35,4 +35,4 @@ If the amount billed is different then expected, there are a few reasons this ma
 
 - La suscripción se renovó para un nuevo período y el precio de la licencia ha cambiado.
 
-Para obtener más información acerca de la factura, vea: [Comprender la factura](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Para obtener más información acerca de la factura, vea: [Comprender la factura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

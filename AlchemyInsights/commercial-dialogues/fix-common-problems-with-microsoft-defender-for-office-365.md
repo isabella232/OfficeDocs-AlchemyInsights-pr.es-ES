@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de1edf14389c6747272d4e1f8d8e0955a86269c433106bc8ce25129e78581ea7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034987"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898261"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Corregir problemas comunes con Microsoft Defender para Office 365
 
 Estas son algunas soluciones a problemas comunes con Microsoft Defender para Office 365:
 
-- **Retraso del mensaje:** Si tiene problemas en los que se retrasa la entrega de  mensajes, querrá usar las opciones de entrega dinámica dentro de la directiva de datos adjuntos Caja fuerte mensajes. Para obtener más información, vea [Dynamic Delivery in Caja fuerte Attachments policies](https://go.microsoft.com/fwlink/?linkid=2094106).
-- **Informe de resultados falsos positivos o negativos:** Informe del mensaje a Microsoft mediante este vínculo: [Portal de respuesta de Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2092835).
-- **Habilitar Caja fuerte de vínculos:**
-    1. Inicie sesión en el [Centro Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-    2. Vaya a **Directiva de administración**  >  **de** amenazas  >  **Caja fuerte vínculos.**
-    3. En **Directivas que se aplican a destinatarios específicos,** abra la directiva configurada.
-    4. En **Configuración**, seleccione **Aplicar vínculos seguros a los mensajes enviados dentro de la organización**.
+- **Retraso del mensaje:**
+
+  Los retrasos en la entrega de correo electrónico pueden deberse Caja fuerte datos adjuntos de análisis de mensajes. Para obtener más información, [vea Caja fuerte configuración de directiva de datos adjuntos](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings).
+
+- **Informe de resultados falsos positivos o negativos:**
+
+  Para obtener más información, consulte [Notificar mensajes y archivos a Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft).
+
+- **Habilitar Caja fuerte de vínculos**:
+
+  1. En el portal Microsoft 365 Defender en , vaya a Correo electrónico & directivas de colaboración & reglas de amenazas Caja fuerte vínculos en la <https://security.microsoft.com/>  \>  \>  \>  **sección** Directivas.
+
+     Para ir directamente a la **página Caja fuerte vínculos,** use <https://security.microsoft.com/safelinksv2> .
+
+  2. En la **Caja fuerte vínculos,** seleccione la directiva haciendo clic en el nombre de la directiva.
+  3. En el menú desplegable de detalles que aparece, realice uno de los pasos siguientes:
+     - Para agregar una nueva directiva, seleccione **+ Crear**. Se iniciará un asistente para ayudarle a definir la configuración de la directiva.
+     - Para editar una directiva existente, seleccione la directiva haciendo clic en el nombre de la directiva. En el control desplegable de detalles que aparece, seleccione **Editar en** la sección **Configuración de** protección.
+  4. En la **página Configuración de** protección, configure las siguientes opciones:
+     - Activar Seleccione la acción para direcciones URL **potencialmente malintencionadas desconocidas en los mensajes**.
+     - Seleccione **Aplicar vínculos seguros a los mensajes enviados dentro de la organización**.
+
+  Para obtener más información, vea [Configurar directivas Caja fuerte vínculos en Microsoft Defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies).
