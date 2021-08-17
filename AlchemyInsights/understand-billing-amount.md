@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919684"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304350"
 ---
 # <a name="understand-billing-amount"></a>Entender el importe de facturación
 
@@ -67,7 +67,9 @@ Compare su total de Azure Marketplace en Informes > Resumen de uso, en el portal
 - Inicie sesión en **Enterprise portal**. Seleccione **Informes**
 - En la esquina superior derecha de la pestaña, cambie la vista de **M** a **C** y haga que coincida el período de la factura.
 - El total de **Azure Marketplace** debe coincidir con la **Venta total** de su factura de Marketplace.
-- Vaya a **Descargar uso** para obtener más información sobre sus cargos basados en el uso. En **Cargos de Marketplace**, seleccione **Descargar** **Nota**: este informe no incluye los impuestos ni muestra compras de pago único.
+- Vaya a **Descargar uso** para obtener más información sobre sus cargos basados en el uso. En **Cargos de Marketplace**, seleccione **Descargar** 
+
+En **Nota**: este informe no incluye los impuestos ni muestra compras de pago único
 
 **Proveedor de soluciones en la nube (CSP)**
 

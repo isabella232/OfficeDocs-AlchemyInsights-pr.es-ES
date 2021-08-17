@@ -1,5 +1,5 @@
 ---
-title: Almacenamiento de OneDrive
+title: OneDrive almacenamiento
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,17 +15,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: a47d53ea985ca3809396bcd741d20cb8ed639b26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ef5fe2dfa6f223b3b87ba5018ece36e9f673566b840bb8b7a0ed700f7bc94a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075771"
 ---
-# <a name="manage-your-onedrive-storage"></a>Administrar el almacenamiento de OneDrive
+# <a name="manage-your-onedrive-storage"></a>Administrar el almacenamiento OneDrive almacenamiento
 
-Puede administrar su OneDrive para la empresa para ver cuánto espacio está usando y liberar espacio.  Para obtener más información, visite los siguientes vínculos.
+Puede administrar el OneDrive para la Empresa para ver cuánto espacio está usando y liberar espacio.  Para obtener más información, visite los vínculos siguientes.
 
-- [Administrar el almacenamiento de OneDrive para la empresa](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Administrar el OneDrive para la Empresa almacenamiento](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
 - [Cambiar el espacio de almacenamiento de OneDrive de un usuario específico](https://docs.microsoft.com/onedrive/change-user-storage)
 - [Establecer el espacio de almacenamiento predeterminado para los usuarios de OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
