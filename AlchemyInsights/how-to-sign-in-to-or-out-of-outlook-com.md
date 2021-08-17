@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ce3ea7b6d0677796713ca98dbfe863f6033b8d6ea4bb4aa0aef6a86df7ab119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042935"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Cómo iniciar o cerrar sesión en Outlook.com
 
-Si no puede iniciar sesión en la cuenta de correo electrónico de Outlook.com, hotmail, Live o MSN, o no está seguro de cómo iniciar o cerrar sesión, [estas son algunas](https://go.microsoft.com/fwlink/p/?linkid=2005840)de las soluciones.
+Si no puedes iniciar sesión en tu cuenta de correo electrónico de Outlook.com, Hotmail, Live o MSN, o no estás seguro de cómo iniciar sesión o cerrar [sesión,](https://go.microsoft.com/fwlink/p/?linkid=2005840)estas son algunas soluciones .
   
-Si aún tiene problemas con el inicio de sesión, vea [Cuándo no puede iniciar sesión en su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Si aún tiene problemas para iniciar sesión, vea [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).

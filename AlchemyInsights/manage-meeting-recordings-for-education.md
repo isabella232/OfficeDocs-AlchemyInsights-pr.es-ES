@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
-ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
+ms.openlocfilehash: b064c5773a681c1602dc939049d5eb6084fb661906d3a406169c31f313876a6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48753688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042287"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Administrar las grabaciones de reuniones para el ámbito educativo
 
-A partir **del 20 de agosto de 2020** , cuando los usuarios con las licencias a1 (incluidas las de a1 y) inicien la grabación de una reunión de Teams, la grabación está disponible durante 21 días.
+A partir **del 20 de agosto de 2020**, cuando los usuarios con las licencias a1 (incluidas las de a1 y) inicien la grabación de una reunión de Teams, la grabación está disponible durante 21 días.
 
 Para obtener más información, incluido cómo guardar la reunión en otra ubicación, vea [Cargar una grabación de reunión de Microsoft Teams en Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 

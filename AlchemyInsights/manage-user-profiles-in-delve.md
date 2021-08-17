@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042215"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Administrar perfiles de usuario en Delve
 
@@ -26,10 +26,10 @@ Office Delve permite a los usuarios administrar su perfil de usuario. Los usuari
     
 - Cambiar su perfil o imagen de portada
     
-- Cambiar el formato de idioma y hora de Delve
+- Cambiar el idioma y el formato de hora de Delve
     
 > [!NOTE]
-> Si un usuario actualizó su imagen de perfil y el cambio no aparece en SharePoint o en OneDrive, pídale que abra un explorador Web, [vaya a Office.com](https://www.office.com), inicie sesión con su cuenta profesional o educativa y, a continuación, haga clic en el mosaico OneDrive o SharePoint. Esto le pedirá que se sincronice la imagen de perfil. Es posible que el usuario tenga que intentar completar estos pasos con la versión privada de su explorador. 
+> Si un usuario actualizó su imagen de perfil y el cambio no aparece en SharePoint o OneDrive, pídale que abra un explorador web, vaya a [Office.com,](https://www.office.com)inicie sesión con su cuenta laboral o educativa y, a continuación, haga clic en el icono OneDrive o SharePoint. Esto pedirá a la imagen de perfil que se sincronice. Es posible que el usuario tenga que intentar completar estos pasos con la versión privada de su explorador. 
   
 [Obtenga más información sobre cómo actualizar perfiles en Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
