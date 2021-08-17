@@ -1,5 +1,5 @@
 ---
-title: Código de error 550 5.7.501 acceso denegado, abuso de correo no deseado detectado
+title: Código de error 550 5.7.501 Access denied, spam abuse detected
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,17 +12,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 6542450ca4d03daef4a7f63783d431d2091bc5e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3eebe4e9d69e100a750e74a6d34ec67dc0566df5dd6eb59809adb07ed8a682f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044285"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 acceso denegado, se ha detectado abuso de correo no deseado
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Access denied, spam abuse detected
 
-Normalmente, este mensaje se produce cuando los usuarios envían mensajes de correo electrónico desde direcciones IP mediante el dominio inicial *. onmicrosoft.com* que está asignado a los nuevos inquilinos en Microsoft 365. La forma más sencilla de solucionar este problema es:
+Normalmente, este mensaje se produce cuando los usuarios envían mensajes de correo electrónico desde direcciones IP mediante el dominio *inicial .onmicrosoft.com* asignado a nuevos inquilinos en Microsoft 365. La forma más sencilla de resolver este problema es:
 
-1. [Agregue un dominio a su inquilino](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+1. [Agregue un dominio al espacio empresarial](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
 
-2. [Cambie la dirección de correo electrónico principal de los usuarios](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) por el nuevo dominio personalizado que acaba de agregar.
+2. [Cambie la dirección de correo electrónico principal de los usuarios](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) al nuevo dominio personalizado que acaba de agregar.
