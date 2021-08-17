@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918484"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312776"
 ---
 # <a name="frequent-excel-crashes"></a>¿Excel bloqueos frecuentes?
 
@@ -28,8 +28,7 @@ Los bloqueos frecuentes Excel pueden deberse a un complemento defectuoso. Puede 
 
 3. En el Add-Ins disponible, desactive la casilla situada junto al complemento que desea deshabilitar y, a continuación, haga clic en **Aceptar**.
 
-> [!NOTE]
-> Si Excel se bloquea durante el inicio, inicie el programa en modo Caja fuerte presionando y manteniendo presionada la tecla Ctrl mientras inicia el programa.
+**Nota:** si Excel se bloquea durante el inicio, inicie en modo Caja fuerte presionando y manteniendo presionada la tecla Ctrl mientras inicia el programa.
   
 Si aún tiene problemas, consulte los siguientes artículos:
   

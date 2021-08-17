@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 54889cd480f85fc63254c8218d03e26541795620fe2711798c19c9c503637f92
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499097"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892944"
 ---
 # <a name="buy-additional-licenses"></a>Comprar licencias adicionales
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499097"
 3. En **Nueva cantidad en** el cuadro **Total** de licencias, escriba el número total de licencias que desea para esta suscripción. Por ejemplo, si tiene 100 licencias y desea agregar 25 más, escriba 125.
 4. Seleccione **Guardar**.
 
-Para obtener más información, [vea Comprar o quitar licencias.](/microsoft-365/commerce/licenses/buy-licenses)
+Para obtener más información, [vea Comprar o quitar licencias.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Recursos adicionales**
 
-[Asignar licencias a usuarios de Microsoft 365 para empresas](/microsoft-365/admin/manage/assign-licenses-to-users)
+[Asignar licencias a usuarios de Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

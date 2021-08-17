@@ -1,5 +1,5 @@
 ---
-title: Restaurar su OneDrive
+title: Restaure el OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109365"
 ---
-# <a name="restore-your-onedrive"></a>Restaurar su OneDrive
+# <a name="restore-your-onedrive"></a>Restaure el OneDrive
 
-Si muchos de los archivos de OneDrive se eliminan, overwritted, dañan o infectan con malware, puede restaurar todo el OneDrive a una hora anterior en los últimos 30 días.
+Si muchos de los archivos OneDrive se eliminan, sobreescriben, dañan o infectan por malware, puedes restaurar todo el OneDrive a una hora anterior en los últimos 30 días.
   
-1. Vaya a su OneDrive en el explorador Web.
+1. Vaya a su OneDrive en el explorador web.
     
-2. Haga clic en el icono de configuración en la esquina superior derecha y, a continuación, seleccione **restaurar OneDrive**.
+2. Haga clic en Configuración en la parte superior derecha y, a continuación, seleccione **Restaurar el OneDrive**.
     
-3. Seleccione una fecha de la lista o elija **fecha y hora personalizadas**.
+3. Seleccione una fecha de la lista o elija **Fecha y hora personalizadas.**
     
-4. Haga clic en **restaurar** para deshacer todas las actividades posteriores a la fecha seleccionada. 
+4. Haga **clic en** Restaurar para deshacer todas las actividades después de la fecha seleccionada. 
     
-[Más ayuda para usar restaurar archivos](https://go.microsoft.com/fwlink/?linkid=872874)
+[Más ayuda con la restauración de archivos](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

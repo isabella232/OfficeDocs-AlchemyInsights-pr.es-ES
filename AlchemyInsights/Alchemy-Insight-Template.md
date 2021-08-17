@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918918"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312842"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Encabezado de alquimia requerido H1, H2 no funciona".
 Procedimientos recomendados y directrices para la creación de Alchemy:
@@ -27,8 +27,8 @@ Procedimientos recomendados y directrices para la creación de Alchemy:
     1. Incluya el id. de regla o el id. de cubo del [portal de partners de Alchemy](https://alchemyportal.azurewebsites.net) en el campo ms.custom. ex. ***ms.custom: 100021***
 1. Use el resto de los metadatos en la parte superior de este archivo como plantilla.
 1. En el portal de partners de [Alchemy,](https://alchemyportal.azurewebsites.net)vaya a la sección Título de **customer insight:** y úselo como punto de partida para el título H1 para la información. 
-    > [!NOTE]
-    > Alchemy Ideas debe tener un solo H1 en la parte superior o interrumpirán la producción. H2s don't render either so use **bold** or other conventions to signify separate sections.
+
+**Nota:** Alchemy Ideas debe tener un solo H1 en la parte superior o interrumpirán la producción. H2s don't render either so use **bold** or other conventions to signify separate sections.
 1. A continuación, rellene el texto del cuerpo con el material de borrador en la Customer Insights de la página Regla de alquimia
     1. Las listas con viñetas están bien
     1. Listas numeradas también
