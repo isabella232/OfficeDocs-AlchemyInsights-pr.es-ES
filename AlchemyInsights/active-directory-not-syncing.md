@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937118"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889235"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory no se sincroniza
 
@@ -29,8 +29,8 @@ La reinstalación de AADConnect mediante la configuración rápida podría resol
 
 1. [Descargue la versión más reciente de AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [Siga las instrucciones para la instalación rápida](/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Siga las instrucciones para la instalación rápida](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Azure AD Connect tiene que instalarse en Windows Server 2012 o posterior. Este servidor debe estar unido a un dominio y puede ser un controlador de dominio o un servidor miembro. Para obtener una lista completa de requisitos Conectar y requisitos previos de Azure AD, consulte [Prerequisites for Azure AD Conectar](/azure/active-directory/hybrid/how-to-connect-install-prerequisites).
+Azure AD Connect tiene que instalarse en Windows Server 2012 o posterior. Este servidor debe estar unido a un dominio y puede ser un controlador de dominio o un servidor miembro. Para obtener una lista completa de requisitos Conectar y requisitos previos de Azure AD, consulte [Prerequisites for Azure AD Conectar](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites).
 
-Para obtener más información sobre las cuentas de servicio de AADConnect, consulte [Azure AD Connect: Cuentas y permisos](/azure/active-directory/hybrid/reference-connect-accounts-permissions)
+Para obtener más información sobre las cuentas de servicio de AADConnect, consulte [Azure AD Connect: Cuentas y permisos](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)

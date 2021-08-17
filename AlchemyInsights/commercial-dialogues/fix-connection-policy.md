@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988226"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888423"
 ---
 # <a name="fix-connection-policy"></a>Directiva de conexión de corrección
 
-El correo electrónico se marcó como seguro y se entregó a la bandeja de entrada del usuario porque la dirección IP de envío estaba marcada como segura en la directiva de filtro de conexión. Para revisar la directiva, haga lo siguiente:
+El correo electrónico se marcó como seguro y se entregó a la Bandeja de entrada del usuario porque la dirección IP de origen se marcó como segura en la directiva de filtro de conexión predeterminada. Para revisar la directiva, siga estos pasos:
 
-1. Vaya al Centro [de Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143)y, a continuación, vaya a Directiva de **administración** de amenazas contra correo  >    >  [no deseado.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. En la **pestaña Personalizado,** seleccione la **directiva de filtro de conexión** y, a continuación, seleccione Editar **directiva**.
-3. Revise la **lista de direcciones IP** permitidos. Vea si **Caja fuerte lista** está habilitada.
+1. En el portal Microsoft 365 Defender en , vaya a Correo electrónico & directivas de colaboración & reglas directivas contra correo no deseado en <https://security.microsoft.com/>  \>  \>  \>  la **sección** Directivas.
 
-    > [!NOTE]
-    > Microsoft se suscribe a fuentes de terceros de remitentes de confianza. Si **Caja fuerte lista está** habilitada, estos remitentes de confianza no se marcan erróneamente como correo no deseado. Te recomiendo seleccionar esta opción, ya que reducirá el número de falsos positivos (correo bueno que se clasifica como correo no deseado) que recibes.
+   Para ir directamente a la página **Directivas contra correo no deseado**, use <https://security.microsoft.com/antispam>.
+
+2. En la **página Directivas contra correo** no deseado, seleccione la directiva denominada Directiva de filtro de conexión **(predeterminada)** haciendo clic en el nombre de la directiva.
+
+3. En el control desplegable de detalles que aparece, haga clic **en Editar directiva de filtro de conexión** en la sección Filtrado **de** conexiones.
+
+4. Revise las entradas de la sección Permitir siempre mensajes de las siguientes **direcciones IP** o intervalo de direcciones y vea si activar **la lista** segura está seleccionada.
+
+   > [!NOTE]
+   > Microsoft se suscribe a fuentes de terceros de remitentes de confianza. Si la lista segura está habilitada, estos remitentes de confianza no se marcan erróneamente como correo no deseado. Se recomienda seleccionar esta opción, ya que reducirá el número de falsos positivos (correo bueno que se clasifica como correo no deseado) que recibe.
+
+Para obtener más información, consulte [Configurar filtrado de la conexión](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy).
