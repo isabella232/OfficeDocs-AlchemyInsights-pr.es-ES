@@ -1,5 +1,5 @@
 ---
-title: 1490-solución de problemas-errores de exhibición de documentos electrónicos
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105585"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Solucionar errores de búsqueda de contenido
 
-¿Tiene problemas con la búsqueda de contenido o la obtención de errores al exportar los resultados de la búsqueda?
+¿Está experimentando problemas con la búsqueda de contenido u obteniendo errores al exportar los resultados de búsqueda?
 
-Por ejemplo, ¿recibe lo siguiente cuando ejecuta búsquedas?
+Por ejemplo, ¿recibe lo siguiente al ejecutar búsquedas?
 
 - Errores CS008 o CS012
 
-- Errores de tiempo de espera o de servidor ocupado
+- Errores de disponibilidad/tiempo de espera del servidor
 
-- Se produjo un error en la aplicación
+- Error de aplicación
 
-O bien, al buscar o exportar resultados de un gran número de buzones (más de 100.000 buzones), ¿recibe errores de exportación?
+¿O al buscar o exportar resultados de un gran número de buzones (más de 100.000 buzones), ¿se producen errores de exportación?
 
-Para estos tipos de errores, vuelva a intentar la búsqueda de las ubicaciones de contenido que han fallado. Consulte  [este artículo](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) para obtener más información.
+Para estos tipos de errores, reintente la búsqueda de las ubicaciones de contenido que han fallado. Vea  [este artículo](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) para obtener más información.
 
-Si va a exportar más de 100 k buzones, tendrá que usar el siguiente PowerShell para descargar los resultados de la exportación:  [exportar resultados de más de 100 k buzones de correo](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Si exporta más de 100.000 buzones, deberá usar el siguiente Powershell para descargar los resultados de exportación: Exportar resultados de más de [100 mil buzones.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
