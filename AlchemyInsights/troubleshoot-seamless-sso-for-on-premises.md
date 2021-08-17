@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9370"
 - "9004357"
-ms.openlocfilehash: a8d14b12bfb3b02da0468eee70af26344465a2a2
-ms.sourcegitcommit: 3fb39a080cc8680d960b8468ac9355389a3e2df4
+ms.openlocfilehash: c4f46306c153c8b1598329479474895ec1ac292e07f9bc61323a90d708f34885
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105543"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-for-on-premises"></a>Solución de problemas de Inicio de sesión único (SSO) de conexión directa en el entorno local
 
@@ -34,7 +34,7 @@ Para implementar SSO de conexión directa, siga los pasos que se indican en [Ini
 
 **Advertencia**
 
-- [Inicio de sesión único de conexión directa de Azure Active Directory: Preguntas más frecuentes](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq) : En este artículo, abordamos las preguntas más frecuentes sobre el inicio de sesión único de conexión directa de Azure Active Directory (SSO de conexión directa). Vuelva a visitarnos para comprobar si hay nuevo contenido.
+- [Inicio de sesión único de conexión directa de Azure Active Directory: Preguntas más frecuentes](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq): En este artículo, abordamos las preguntas más frecuentes sobre el inicio de sesión único de conexión directa de Azure Active Directory (SSO de conexión directa). Regrese con frecuencia para verificar si hay nuevo contenido.
 - [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) : Este artículo proporciona información sobre cómo realizar solicitudes de características o hacer preguntas técnicas sobre SSO de conexión directa.
 
 **Solucionar problemas**
