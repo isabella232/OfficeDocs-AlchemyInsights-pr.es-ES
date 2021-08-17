@@ -1,5 +1,5 @@
 ---
-title: Outlook no Sincronizando carpetas
+title: Outlook carpetas de sincoción
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111247"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook no Sincronizando carpetas
+# <a name="outlook-not-synching-folders"></a>Outlook carpetas de sincoción
 
-Si Outlook no sincroniza las carpetas según lo previsto, hay algunas cosas que puede intentar para corregirlo.
+Si Outlook no se sinlacha las carpetas como se esperaba, hay algunas cosas que puede intentar corregir.
 
-1. Reduzca el número de carpetas en el buzón principal o compartido. [Vea problemas de rendimiento de Outlook si hay demasiados elementos o carpetas en una carpeta de archivos. Ost o. pst de modo en caché](https://support.microsoft.com/help/2768656).
+1. Reduzca el número de carpetas en el buzón principal o compartido. [Vea Outlook problemas de rendimiento](https://support.microsoft.com/help/2768656)cuando hay demasiados elementos o carpetas en una carpeta de archivos .ost o .pst en modo caché.
 2. Deshabilitar el almacenamiento en caché de todas las carpetas compartidas.
-3. Cambie la configuración del buzón secundario de Exchange por una segunda cuenta de Exchange en su perfil.
+3. Cambie la configuración del buzón de correo Exchange secundario a una segunda cuenta Exchange en su perfil.
 
-Para obtener más información, vea [problemas de rendimiento y sincronización al trabajar con carpetas en un buzón secundario en Outlook](https://support.microsoft.com/help/3115602).
+Para obtener más información, vea Problemas de rendimiento y sincronización al trabajar con carpetas en un [buzón secundario en Outlook](https://support.microsoft.com/help/3115602).

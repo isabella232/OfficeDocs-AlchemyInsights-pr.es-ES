@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c928d2fef83f2ae93aa764078739def8e1ec9f9d5cf3d9f11e22cd20702d4ddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084768"
 ---
 # <a name="site-template-cannot-be-created"></a>No se puede crear la plantilla de sitio
 
-Es posible que falte una característica en la plantilla y no se activará. Si la característica no está disponible para activarla en la colección de sitios actual, no podrá usar la plantilla de sitio para crear un sitio.
+Es posible que falte una característica en la plantilla y no se vaya a activar. Si la característica no está disponible para activarla en la colección de sitios actual, no podrá usar la plantilla de sitio para crear un sitio.
 
 - Compruebe si alguna de las listas o bibliotecas supera [el límite de umbral de vista de lista](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) de 5000 elementos, ya que esto puede bloquear la creación de una plantilla de sitio.
 

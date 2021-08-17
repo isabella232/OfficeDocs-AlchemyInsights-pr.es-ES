@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889399"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314329"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Activar o reactivar una suscripción
 
@@ -36,8 +36,9 @@ Si su suscripción expira, Microsoft la ha deshabilitado o la ha cancelado en me
 1. En el centro de administración, vaya a la página de **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. En la pestaña **Productos**, busque la suscripción que quiere reactivar.
 3. Seleccione los tres puntos (más acciones) y, después, seleccione **Reactivar esta suscripción**.
-    > [!IMPORTANT]
-    > Si no ves **Reactivar** esta suscripción como una acción [disponible,](https://go.microsoft.com/fwlink/p/?linkid=518322) llama al soporte técnico para reactivar la suscripción.
+
+    **Importante:** Si no ve **Reactivar** esta suscripción como una acción [disponible,](https://go.microsoft.com/fwlink/p/?linkid=518322) llame al soporte técnico para reactivar la suscripción.
+
 4. En el **panel Reactivar esta suscripción,** seleccione un método de pago existente o **seleccione Agregar método de pago**.
 5. Seleccione **Reactivar**.
 

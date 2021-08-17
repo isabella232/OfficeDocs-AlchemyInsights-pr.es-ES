@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948972"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894412"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Investigar el phishing, el correo no deseado o el correo electrónico filtrado incorrectamente
 
 Use el Explorador de envíos para enviar el mensaje a Microsoft. Tendrás comentarios inmediatos sobre el filtrado de mensajes y la razón por la que se produjo el problema. Este es un resumen de los pasos:
 
-1. Vaya al Centro [de Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143), seleccione **Envíos** de administración de amenazas y, a continuación, seleccione  >   **+Nuevo envío**.
-2. Especifique los detalles en el menú **desplegable** Nuevo envío.
-3. Informe a los usuarios de que deben [](https://go.microsoft.com/fwlink/?linkid=2092385) notificar correos electrónicos sospechosos a Microsoft y que el complemento Mensaje de informe es la herramienta que deben usar para este propósito.
+1. En el portal Microsoft 365 Defender <https://security.microsoft.com> en , vaya a Correo electrónico &  \> **envíos de colaboración**.
+
+   Para ir directamente a la **página Envíos,** use <https://security.microsoft.com/reportsubmission> .
+
+2. En la **página Envíos,** compruebe que la pestaña **Enviado** para el análisis está seleccionada y, a continuación, haga clic **en + Enviar a Microsoft para su análisis.**
+
+3. Aparecerá un menú desplegable con la opción de enviar un correo electrónico, una dirección URL o un archivo. Para obtener más información, vea [Use Admin Submission to submit suspected spam, phish, URLs, and files to Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
+
+4. Informe a los usuarios de que deben informar de cualquier mensaje sospechoso en su Bandeja de entrada mediante el complemento Report Message o el complemento [Report Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).
