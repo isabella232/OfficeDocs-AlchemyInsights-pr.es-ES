@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045149"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311416"
 ---
 # <a name="view-all-quarantined-messages"></a>Ver todos los mensajes en cuarentena
 
-1. En el Centro de administración, vaya al [Centro de seguridad & cumplimiento.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Vaya a **Administración de amenazas** Revisar  >    >  **cuarentena**.
+1. En el Microsoft 365 Defender en , vaya a <https://security.microsoft.com> Email & **Collaboration** \> **Review** \> **Quarantine**.
+
+   Para ir directamente a la **página Cuarentena,** use <https://security.microsoft.com/quarantine> .
+
+2. En la **página Cuarentena,** compruebe que la **pestaña correo electrónico** está seleccionada.
 3. De forma predeterminada, los mensajes se ordenan de más reciente a más antiguo en función de la fecha en que se recibió el mensaje. Puede ordenar un campo haciendo clic en un encabezado.
 4. Solo puede realizar operaciones masivas en hasta 100 elementos, por lo que el filtrado también puede ayudar a reducir el conjunto de resultados si tiene más de 100 elementos.
+
+Para más información, consulte los siguientes artículos:
+
+- [Buscar y liberar mensajes en cuarentena como usuario](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Administrar mensajes y archivos en cuarentena como administrador](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

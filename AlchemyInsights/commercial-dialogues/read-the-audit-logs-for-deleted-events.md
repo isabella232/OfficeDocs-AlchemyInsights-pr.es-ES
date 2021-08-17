@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967350"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896032"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Leer los registros de auditoría para eventos eliminados
 
 Este es el modo de hacerlo:
 
-1. Vaya al Centro [de Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Seleccione **Búsqueda de registro** de auditoría de  >  [**búsqueda**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Realice una de las siguientes acciones:
+   - En el Centro de cumplimiento de Microsoft 365 <https://compliance.microsoft.com> en , vaya a Auditoría **de** \> **soluciones**. O bien, para ir directamente a la **página Auditoría,** use <https://compliance.microsoft.com/auditlogsearch> .
+   - En el Microsoft 365 Defender en <https://security.microsoft.com> , vaya a **Auditar**. O bien, para ir directamente a la **página Auditoría,** use <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Si ve un aviso de que necesita activar la característica, adelante y encándala ahora. Si la característica no está activada, los resultados de la búsqueda no podrán extraer datos de fechas anteriores.
-1. Seleccione **Actividades** y, a continuación, **busque Exchange de buzón de correo**. Seleccione las **opciones Mensajes eliminados de la carpeta Elementos eliminados** y **Mensajes movidos a la carpeta Elementos** eliminados. Cuando haya terminado, haga clic fuera del panel para minimizar el **panel** Actividades.
-1. Especifique el intervalo de fechas y, a continuación, en el cuadro **Usuarios,** seleccione el nombre de usuario del usuario que desea investigar. Puede seleccionar más de un usuario a la vez.
-1. Seleccione **Buscar**. Las actividades aparecen en **Resultados**.
-1. Para ver los detalles, seleccione una actividad y, a continuación, **seleccione Más información**. Se muestra información adicional sobre el elemento eliminado, como la línea de asunto y la ubicación del elemento cuando se eliminó, en el **campo AffectedItems.**
-    > [!NOTE]
-    > No puede restaurar elementos eliminados con la característica de registro de auditoría. Para restaurar elementos eliminados, vea [Recuperar elementos eliminados o correo electrónico en Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
 
-Para obtener más información, vea [Search the Office 365 audit log to troubleshoot common scenarios](https://go.microsoft.com/fwlink/?linkid=2103944).
+2. En la **pestaña Búsqueda** de la **página Auditoría,** configure las siguientes opciones:
+   - **Intervalo de fecha y hora:** seleccione el intervalo de fecha y hora en los **cuadros** Inicio **y** Fin.
+   - **Actividades:** escriba **Exchange de buzón de correo** y, a continuación, seleccione los siguientes valores:
+     - **Mensajes eliminados de la carpeta elementos eliminados**
+     - **Mensajes movidos a la carpeta Elementos eliminados**
+
+       Cuando haya terminado, haga clic fuera del panel para minimizar el **panel** Actividades.
+
+   - **Usuarios:** acepte el valor predeterminado en blanco para devolver resultados para todos los usuarios o escriba uno o varios usuarios.
+
+3. Cuando haya terminado, haga clic en **Buscar**. Las actividades aparecen en la nueva página **De búsqueda auditoría.**
+
+4. Seleccione una actividad en los resultados para abrir el menú desplegable de detalles. Se muestra información adicional sobre el elemento eliminado, como la línea de asunto y la ubicación del elemento cuando se eliminó, en el **campo AffectedItems.**
+
+   > [!NOTE]
+   > No puede restaurar elementos eliminados con la característica de registro de auditoría. Para restaurar elementos eliminados, vea [Recuperar mensajes de correo electrónico eliminados en Outlook en la Web](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11).
+
+Para obtener más información, [vea Search the audit log to investigate common support issues](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).
