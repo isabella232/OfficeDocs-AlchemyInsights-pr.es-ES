@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "12575"
 - "9007066"
-ms.openlocfilehash: bf6699857f1b8d1796526560ec1aeeb8bce324ef21e87ba0cefa6c3da57e32d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5a7c6ab4e4ae0cbaad08b3e199edd303d3c789eb0d4e012fc0a24ad76750c880
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918977"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890915"
 ---
 # <a name="403-forbidden-error-on-onedrive-or-sharepoint"></a>Error 403 Prohibido en OneDrive o SharePoint
 
-Para obtener más información sobre los motivos por los que se produce el error «403 Prohibido», consulte [error «403 Prohibido» en OneDrive o SharePoint](/sharepoint/troubleshoot/sharing-and-permissions/error-403-forbidden).
+Para obtener más información sobre los motivos por los que se produce el error «403 Prohibido», consulte [error «403 Prohibido» en OneDrive o SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/error-403-forbidden).

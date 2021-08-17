@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080907"
 ---
 # <a name="create-a-sharepoint-site"></a>Creación de un sitio de SharePoint
 
-Cree o administre sitios desde [sitios activos](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) en el centro de administración de SharePoint. Para obtener más información, vea [administrar sitios en el nuevo centro de administración de SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Cree o administre sitios desde [sitios activos](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) en el Centro SharePoint administración. Para obtener más información, consulta [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
-## <a name="tips"></a>Abrevia
+## <a name="tips"></a>Sugerencias:
 
-- **No se puede** crear un sitio con la misma dirección URL de un sitio existente. Si ha eliminado un sitio y desea volver a usar la dirección URL, es posible que el sitio eliminado siga existiendo en [sitios eliminados](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). El sitio tendrá que eliminarse de forma permanente para volver a usar la dirección URL. Para quitar por completo un sitio con PowerShell, consulte el ejemplo del cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Es posible que algunos usuarios no puedan crear un sitio. [Consulte administrar la creación de sitios en SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Es posible que el sitio aparezca bloqueado en la **creación** de más tiempo del esperado. Si ha pasado más de 24 horas desde que vio por primera vez este problema, registre un vale de soporte técnico. En muchos casos, ya estamos trabajando en una solución. Por lo menos, danos 24 horas para completar una soluci? a.
+- No **puede** crear un sitio con la misma dirección URL de un sitio existente. Si eliminó un sitio y desea volver a usar la dirección URL, es posible que el sitio eliminado aún exista en [Sitios eliminados.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) El sitio tendrá que eliminarse permanentemente para volver a usar la dirección URL. Para quitar completamente un sitio con Powershell, consulte el ejemplo del cmdlet [Remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Es posible que algunos usuarios no puedan crear un sitio. [Consulte Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Es posible que el sitio aparezca atascado en **Crear** más tiempo del esperado. Si han pasado más de 24 horas desde que vio por primera vez este problema, registre un vale de soporte técnico. En muchos casos, ya estamos trabajando en una solución. Por favor, dénos al menos 24 horas para completar una solución.
