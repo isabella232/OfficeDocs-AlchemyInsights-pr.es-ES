@@ -11,29 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: ac4c157d6e202488659c56605768bbfd2b3af8e658d0a2f82e529fdac6763fa9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999689"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899349"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alerta de mensajes de correo electrónico de la directiva "Phish Delivered due to tenant or user override".
 
-Una directiva de alerta predeterminada denominada "Phish Delivered due to tenant or user override" se ha lanzado a los inquilinos con Microsoft Defender para obtener Office 365 de P1 y P2. Si recibió esta alerta, estos son los pasos para investigar:
+Una directiva de alerta predeterminada denominada **Phish Delivered debido** a la invalidación de inquilino o usuario está disponible en organizaciones con Microsoft Defender para Office 365 licencias P1 y P2. Si recibió esta alerta, estos son los pasos para investigar:
 
-1. En el mensaje de alerta, haga clic **en Ver alerta** para ir a la página **Alertas** del Centro de seguridad & cumplimiento.
+1. En el mensaje de alerta, haga clic **en Ver alerta** para ir a la página **Alertas** del portal de Microsoft 365 Defender alertas.
 
 2. Seleccione la alerta para ver la opción Ver lista **de mensajes** o Ver mensajes en **el Explorador**. Ambas opciones le llevan a los detalles del mensaje, que incluye el id. de mensaje. Tenga en cuenta que el vínculo Explorador de amenazas filtrará automáticamente los mensajes que coinciden con los criterios de alerta. Es posible que deba ajustar el filtro de fecha en el Explorador de amenazas.
 
 El mensaje de suplantación de identidad se entregó debido a una invalidación configurada manualmente:
 
 - Un remitente o dominio permitido establecido por el usuario.
-
 - Un remitente o dominio permitido establecido por el administrador en una directiva contra correo no deseado.
-
 - Una dirección IP permitida en una directiva de filtro de conexión.
-
 - Regla de flujo de correo (también conocida como regla de transporte) que está configurada para permitir la entrada de mensajes.
 
-Si cree que el mensaje se marcó incorrectamente como suplantación de identidad, use el complemento Outlook [Report Message para](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) enviar ejemplos de mensajes a Microsoft.
+Si cree que el mensaje se marcó incorrectamente como suplantación de identidad, use el envío [de](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) administrador para notificar el mensaje a Microsoft.
+
+Los usuarios pueden usar el complemento Report Message o el complemento [Report Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) en Outlook enviar ejemplos de mensajes a Microsoft.

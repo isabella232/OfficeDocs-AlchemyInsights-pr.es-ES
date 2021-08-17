@@ -1,5 +1,5 @@
 ---
-title: límites de reglas 924
+title: Límites de reglas 924
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cef87f04a40e150756b9ddc18fefab64e8acd4b9ad0de049a168b45c742d85a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086541"
 ---
 # <a name="rule-limits"></a>Límites de reglas
 
-Los límites de reglas pueden variar entre las opciones de plan y las opciones independientes. Para obtener más información, vea los límites de las [reglas diario, transporte y bandeja de entrada](https://technet.microsoft.com/library/exchange-online-limits.aspx).
+Los límites de reglas pueden variar según las opciones del plan y las opciones independientes. Para obtener más información, vea [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).

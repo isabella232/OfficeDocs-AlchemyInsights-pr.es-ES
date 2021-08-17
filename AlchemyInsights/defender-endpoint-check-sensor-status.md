@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: a53a0109c3b974806d04135dd2c102de81ec560f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52627255"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890071"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Estado de sensor de Microsoft Defender para punto de conexión
 
@@ -40,6 +40,6 @@ Al hacer clic en cualquiera de los grupos, se le dirigirá a la lista de disposi
 
 Puede descargar toda la lista en formato CSV con la característica Exportar.
 
-Para obtener más información, consulte [Comprobar el estado del sensor en Microsoft Defender para punto de conexión](/microsoft-365/security/defender-endpoint/check-sensor-status).
+Para obtener más información, consulte [Comprobar el estado del sensor en Microsoft Defender para punto de conexión](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status).
 
-Para obtener más información sobre qué provocó que un dispositivo esté inactivo o mal configurado, vea [Corregir sensores en mal estado en Microsoft Defender para el punto de conexión](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).
+Para obtener más información sobre qué provocó que un dispositivo esté inactivo o mal configurado, vea [Corregir sensores en mal estado en Microsoft Defender para el punto de conexión](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).
