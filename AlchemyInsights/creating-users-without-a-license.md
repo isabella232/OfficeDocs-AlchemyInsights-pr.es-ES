@@ -1,5 +1,5 @@
 ---
-title: 743 crear usuarios sin una licencia
+title: 743 Crear usuarios sin licencia
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "743"
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: 03fb05ffcb939e0fd05cf93f7ab5de080da0eaa4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b6737bb8e472a1534667c6ee66490e5f25df088abfd42d1ef5c13a28984be67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746542"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102921"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a>Crear buzones que no requieran licencias
+# <a name="create-mailboxes-that-dont-require-licenses"></a>Crear buzones que no requieren licencias
 
-- Si necesita una dirección de correo electrónico de grupo para varias personas, consulte [crear un buzón compartido](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+- Si necesita una dirección de correo electrónico de grupo para varias personas, vea [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
 
-- Para permitir que un equipo de personas trabaje conjuntamente y comparta el correo electrónico y los archivos, consulte [información sobre los grupos de 365 de Microsoft](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+- Para permitir que un equipo de personas trabaje juntos y comparta correo electrónico y archivos, vea [Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
