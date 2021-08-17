@@ -1,5 +1,5 @@
 ---
-title: 1800019 bandeja de entrada prioritarios en Outlook Mobile
+title: 1800019 Bandeja de entrada centrada en Outlook móvil
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117069"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Bandeja de entrada prioritarios para Outlook Mobile
+# <a name="focused-inbox-for-outlook-mobile"></a>Bandeja de entrada centrada para Outlook móvil
 
-[¿Qué es la bandeja de entrada prioritarios?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[¿Qué es la Bandeja de entrada centrada?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[¿Cómo puedo editar las reglas que mueven mi correo electrónico dentro y fuera de la bandeja de entrada prioritarios?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[¿Cómo edito las reglas que mueven mi correo electrónico dentro y fuera de la Bandeja de entrada centrada?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[¿Cómo puedo desactivar la bandeja de entrada prioritarios o cambiar si mi número de notificaciones y notificaciones se sincronizan con la bandeja de entrada prioritarios?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[¿Cómo puedo desactivar la Bandeja de entrada centrada o cambiar si el recuento de distintivos y las notificaciones se sincronizan con la Bandeja de entrada centrada?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[¿Cómo puedo desactivar la bandeja de entrada prioritarios o cambiar si las notificaciones se sincronizan con la bandeja de entrada prioritarios?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[¿Cómo puedo desactivar la Bandeja de entrada centrada o cambiar si las notificaciones se sincronizan con la Bandeja de entrada centrada?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[¿Cómo puedo alternar entre prioritarios y otros?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[¿Cómo puedo alternar entre Focused y Other?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Obtenga más información sobre cómo [obtener ayuda en la aplicación para Outlook para iOS y Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Más información: Obtener ayuda desde la aplicación [para Outlook para iOS y Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

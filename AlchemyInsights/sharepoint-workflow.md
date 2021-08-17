@@ -15,16 +15,16 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 93ce636c1cb4dd9f25b47861da22c30b6db6953c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 34d7029c90b4f2a71e7f621a0b20fe4de3365f0f6182cd5b125a8c1a6055222a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58304782"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894144"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Solucionar problemas de flujos de trabajo en SharePoint
 
-Para más información, consulte:
+Para más información, vea:
 
 - [Solucionar SharePoint errores de validación de flujo de trabajo](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
 - [Depuración SharePoint flujos de trabajo](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).

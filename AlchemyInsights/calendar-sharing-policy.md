@@ -15,27 +15,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091626"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Error de directiva al compartir un calendario
 
-1. Realice una de las acciones siguientes, según corresponda a su situación:
-    - Conéctese a Exchange online mediante PowerShell remoto. Para obtener más información, vea [conectarse a Exchange online mediante PowerShell remoto](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
-    - En el servidor local, abra el shell de administración de Exchange.
-2. Determine la Directiva de uso compartido que está asignada al usuario. Para ello, ejecute el siguiente comando y observe la Directiva devuelta:
+1. Realice una de las siguientes acciones, según corresponda para su situación:
+    - Conectar para Exchange Online mediante PowerShell remoto. Para obtener más información, [vea Conectar para Exchange Online con PowerShell remoto](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+    - En el servidor local, abra el Shell Exchange administración.
+2. Determine la directiva de uso compartido asignada al usuario. Para ello, ejecute el siguiente comando y anote la directiva devuelta:
 
     `
     Get-Mailbox User1 | fl *sharing*
     `
 
-3. Actualice la Directiva de uso compartido para el usuario. Para ello, siga estos pasos:
+3. Actualice la directiva de uso compartido para el usuario. Para ello, siga estos pasos:
     - Abra el Centro de administración de Exchange.
-    - Haga clic en **organización**y, a continuación, haga doble clic en la directiva asignada al usuario bajo **uso compartido individual**. Esta es la Directiva que se ha devuelto en el paso 2.
-    - En la página regla de uso compartido, seleccione el nivel de uso compartido del calendario que desea permitir en **Especifique qué información desea compartir**; Haga clic en **Guardar**.
+    - Haga **clic en** Organización y, a continuación, haga doble clic en la directiva asignada al usuario en Uso compartido **individual**. Esta es la directiva que se devolvió en el paso 2.
+    - En la página Regla de uso compartido, seleccione el nivel de uso compartido de calendario que desea permitir en **Especificar qué información desea compartir;** haga clic **en Guardar**.
 
-Para obtener más información, vea: ["la Directiva no permite conceder permisos en este nivel a uno o más de los destinatarios" cuando el usuario intenta compartir el calendario](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+Para obtener más información, vea el [error "La](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)directiva no permite conceder permisos en este nivel a uno o varios de los destinatarios" cuando el usuario intenta compartir el calendario .

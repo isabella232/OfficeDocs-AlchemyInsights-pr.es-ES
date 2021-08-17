@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: fc25928b601cd6c36d6c5569a44288c12b156857453f15c312110464e621f251
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54042359"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893868"
 ---
 # <a name="license-or-account-disabled"></a>Licencia o cuenta deshabilitada
 
@@ -34,4 +34,4 @@ Si su subscripción ha expirado, Microsoft la ha deshabilitado o si la ha cancel
 3. En el panel **Reactivar esta suscripción**, seleccione un método de pago de la lista desplegable o seleccione **Agregar método de pago**.
 4. Seleccione **Guardar**.
 
-Para obtener más información, vea [Reactivar la suscripción](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Para obtener más información, vea [Reactivar la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
