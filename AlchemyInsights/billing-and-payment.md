@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502409"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314933"
 ---
 # <a name="billing-and-payment"></a>Facturación y pago
 
@@ -46,8 +46,7 @@ Si has agregado una nueva tarjeta y sigues recibiendo un aviso de declinación e
 
 4. Para usar un método de pago existente, elija uno de la lista desplegable y seleccione **Reemplazar**.
 
-    > [!NOTE]
-    > Si tiene una suscripción asociada a un perfil de facturación, solo puede usar una tarjeta de crédito o débito para pagar por ella. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
+    **Nota:** Si tienes suscripciones asociadas a un perfil de facturación, solo puedes usar una tarjeta de crédito o débito para pagarlas. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
 
 5. Para agregar un nuevo método de pago, seleccione **Agregar método de pago**.
 
@@ -55,10 +54,10 @@ Si has agregado una nueva tarjeta y sigues recibiendo un aviso de declinación e
 
 7. El nuevo método de pago ya está seleccionado en la lista desplegable. Seleccione **Reemplazar**.
 
-Para más información, consulte [Administrar métodos de pago](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Para más información, consulte [Administrar métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frecuencia de facturación**
 
 Las facturas se generan mensual o anualmente en función de la frecuencia de facturación elegida al realizar el pago.  
 
-**Nota:** Los pedidos con facturación anual pueden recibir una factura a medio plazo si se han realizado cambios como agregar o quitar licencias. [Cambiar la frecuencia de facturación](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Nota:** Los pedidos con facturación anual pueden recibir una factura a medio plazo si se han realizado cambios como agregar o quitar licencias. [Cambiar la frecuencia de facturación](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

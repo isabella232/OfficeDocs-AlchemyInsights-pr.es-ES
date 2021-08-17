@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930042"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896128"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Corregir dirección del remitente de lista de dominios
 
-Una directiva contra correo no deseado en el inquilino afectó a este mensaje. El remitente del mensaje se encontró en una lista Permitir o Bloquear. Para revisar la directiva, haga lo siguiente:
+Una de las directivas contra correo no deseado afectó a este mensaje. El remitente del mensaje se encontró en una lista Permitir o Bloquear. Para revisar las directivas, siga estos pasos:
 
-1. Vaya al Centro [de Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143)y, a continuación, vaya a Directiva de **administración** de amenazas contra correo  >    >  [no deseado.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. En la **ficha Estándar,** si **la configuración estándar** está habilitada, compruebe permitir **listas** y **bloquear listas**.
-3. En la **pestaña** Personalizado, si **la** configuración personalizada está habilitada, revise las directivas **seleccionando Editar** directiva y marcando Permitir listas **y** **Bloquear listas**.
+1. En el portal Microsoft 365 Defender en , vaya a Correo electrónico & directivas de colaboración & reglas directivas contra correo no deseado en <https://security.microsoft.com/>  \>  \>  \>  la **sección** Directivas.
 
-Para obtener más información sobre cómo configurar directivas de filtro de correo no deseado, vea [Configure your spam filter policies](https://go.microsoft.com/fwlink/?linkid=2101431).
+   Para ir directamente a la página **Directivas contra correo no deseado**, use <https://security.microsoft.com/antispam>.
+
+2. En la página **Directivas** contra correo no deseado, seleccione la directiva  haciendo clic en  el nombre de la directiva **(** Tipo es Directiva contra correo no deseado personalizada o Nombre es Directiva de entrada contra correo no deseado **(valor predeterminado).**
+3. En el control desplegable de detalles que aparece, seleccione **Editar remitentes** y dominios permitidos y bloqueados en la sección Remitentes y **dominios permitidos y** bloqueados.
+4. En la **sección Permitido,** revise los remitentes y dominios haciendo clic en **Administrar \<nn\> remitentes** o **Permitir dominios**.
+
+Para más información, consulte [Configurar directivas contra correo electrónico no deseado en EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

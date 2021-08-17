@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 4c4a495c0d4628b449454b3e2fdc9a7d4956d57b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: aa109cace9ab0ac0fe09c322102c72cda1077373d0de0e1eaf0394ebf11a56e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085209"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Solución de problemas de archivos o carpetas que faltan en OneDrive o SharePoint
 
@@ -28,7 +28,7 @@ ms.locfileid: "50709375"
 
 **Característica Restaurar archivos**
 
-Si muchos de los archivos de OneDrive o SharePoint se eliminan, sobrescriben, dañan o infectan por malware, puede restaurar toda la biblioteca de OneDrive o Sharepoint a una hora anterior mediante la característica de restauración de archivos.
+Si muchos de los archivos OneDrive o SharePoint se eliminan, sobrescriben, dañan o infectan por malware, puede restaurar toda la biblioteca de OneDrive o Sharepoint a una vez anterior mediante la característica de restauración de archivos.
 
 - [Restaurar una biblioteca de OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
@@ -40,7 +40,7 @@ Si muchos de los archivos de OneDrive o SharePoint se eliminan, sobrescriben, da
 
 Use el [panel de actividad del](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) archivo para comprobar el historial del archivo.
 
-Compruebe el cliente de sincronización de OneDrive en el equipo local.  Si está sincronizando los archivos en el equipo a través del cliente de Sincronización de OneDrive, compruebe la carpeta de sincronización local para asegurarse de que se ha cargado correctamente. Asegúrese de comprobar también la papelera de reciclaje en la máquina local.
+Compruebe el OneDrive de sincronización en el equipo local.  Si está sincronizando los archivos en el equipo mediante el cliente de sincronización OneDrive, compruebe la carpeta de sincronización local para asegurarse de que se ha cargado correctamente. Asegúrese de comprobar también la papelera de reciclaje en la máquina local.
 
 
 

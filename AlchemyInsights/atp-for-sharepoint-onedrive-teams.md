@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d0fff3e699d46af2a19a8ad60696b824bafa109
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997151"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314979"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender para Office 365 para SharePoint, OneDrive y Microsoft Teams
 
@@ -28,8 +28,8 @@ Siga estos pasos para habilitar Microsoft Defender para Office 365:
 
 3. Seleccione **Activar Defender para Office 365 para SharePoint, OneDrive y Microsoft Teams**.
 
-4. [Cree una directiva de alerta de actividad](/microsoft-365/compliance/create-activity-alerts) para recibir notificaciones cuando detectemos archivos malintencionados.
+4. [Cree una directiva de alerta de actividad](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) para recibir notificaciones cuando detectemos archivos malintencionados.
 
-Para obtener instrucciones completas, vea este artículo Activar Caja fuerte datos adjuntos para [SharePoint, OneDrive y Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Para obtener instrucciones completas, vea este artículo Activar Caja fuerte datos adjuntos para [SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Nota:** Por diseño, Microsoft Defender para Office 365 no analiza todos los archivos de SharePoint Online, OneDrive para la Empresa o Microsoft Teams. Los archivos se examinan de forma asincrónica mediante un proceso que usa la actividad de uso compartido, la actividad de invitado y las señales de amenaza para identificar archivos malintencionados. Para obtener más información, [vea Caja fuerte attachments for SharePoint, OneDrive y Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Nota:** Por diseño, Microsoft Defender para Office 365 no analiza todos los archivos de SharePoint Online, OneDrive para la Empresa o Microsoft Teams. Los archivos se examinan de forma asincrónica mediante un proceso que usa la actividad de uso compartido, la actividad de invitado y las señales de amenaza para identificar archivos malintencionados. Para obtener más información, [vea Caja fuerte attachments for SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb043122edf5f99325f0403810eb0dc119d254e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105693"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314437"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>Solución de problemas de firma de certificados de SAML
 
@@ -31,13 +31,11 @@ Cuando se complete este proceso, la aplicación confiará en este certificado y 
 
 3. Si este certificado expira, cree uno nuevo, actualícelo en el proveedor de la aplicación y, después, actívelo en Azure. Para obtener más información, consulte [Renovar un certificado que pronto expirará](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-> [!NOTE]
-> Si el certificado expira, el usuario no se bloqueará.
+**Nota**: si el certificado expira, no se bloqueará al usuario.
 
-4. [Agregue una dirección de correo electrónico para las notificaciones](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration) que deba recibir antes de que expire el certificado actual.
+4. [Agregue una dirección de correo electrónico para las notificaciones](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration) que ha de recibir antes de que expire el certificado actual.
 
-> [!NOTE]
-> El paso 4 es opcional.
+**Nota**: el paso 4 es opcional.
 
 5. Cambie las opciones de firma del certificado SAML de una aplicación y el algoritmo de firma de certificados. Para obtener más información, consulte [Cambiar las opciones de firma de certificado y la firma del algoritmo](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
 

@@ -1,5 +1,5 @@
 ---
-title: Modernizar la experiencia clásica de SharePoint
+title: Modernizar la experiencia SharePoint clásica
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a6ea80b64d98f8def1831297768a33e65d0b3891bce564385631ad01a5a2602
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085461"
 ---
-# <a name="modernize-your-classic-sharepoint-experience"></a>Modernizar la experiencia clásica de SharePoint
+# <a name="modernize-your-classic-sharepoint-experience"></a>Modernizar la experiencia SharePoint clásica
 
 Para cambiar a la interfaz de usuario moderna, revise los siguientes recursos:
 
-- [Crear **sitios modernos** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (sitio de grupo o sitio de comunicación). Use el [libro de apariencia de SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) para crear una intranet atractiva y eficaz que conecte el área de trabajo. Vea [ejemplos](https://lookbook.microsoft.com/) y obtener [instrucciones de diseño](https://spdesign.azurewebsites.net/).
-- [Conecte el sitio a un **grupo de Microsoft 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) para aumentar la colaboración en Microsoft 365.
-- Se transforma en la experiencia **moderna** de listas y bibliotecas mediante la [habilitación de listas y bibliotecas para mostrar en la interfaz de usuario moderna](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-- Transforme **las páginas del sitio** del **wiki**clásico, el **elemento Web**y las páginas **principales** en [las páginas modernas del lado cliente](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). El [escáner de modernización de SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) proporciona información de uso de la página sobre la wiki y las páginas de elementos Web actuales para ayudarle a priorizar la transformación de página.
+- [Crear **sitios modernos**](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (sitio de grupo o sitio de comunicación). Use el [SharePoint look book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) para crear una intranet hermosa y eficaz que conecte el lugar de trabajo. Vea [ejemplos](https://lookbook.microsoft.com/) y obtenga instrucciones [de diseño.](https://spdesign.azurewebsites.net/)
+- [Conectar el sitio a un grupo **Microsoft 365 para**](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) aumentar la colaboración entre Microsoft 365.
+- Transforme a la **experiencia moderna de listas y bibliotecas** habilitando listas y bibliotecas para que se muestren en la interfaz de usuario [moderna.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+- Transforme **las páginas de** sitio de **wiki** clásica, **elemento web** y páginas **de** inicio en [páginas modernas del lado cliente.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) El [SharePoint de modernización de](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) páginas proporciona información de uso de páginas sobre las páginas de elementos web y wiki actuales para ayudarle a priorizar la transformación de páginas.
 
 Información adicional:
 
-- Para obtener una introducción paso a paso sobre la modernización de la experiencia clásica de SharePoint a la versión moderna, consulte [modernice su experiencia clásica de SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
-- Consulte la guía de la [experiencia moderna](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
-- Vea [experiencias clásicas y modernas de SharePoint](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
+- Para obtener información general paso a paso sobre la modernización de la experiencia SharePoint a la moderna, consulte Modernizar la [experiencia SharePoint clásica.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- Consulta una guía de [La experiencia moderna.](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)
+- Vea [SharePoint experiencias clásicas y modernas](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
