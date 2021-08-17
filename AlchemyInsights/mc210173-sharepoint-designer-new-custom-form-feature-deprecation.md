@@ -14,12 +14,12 @@ ms.custom:
 - "5508"
 - "9000127"
 - "5507"
-ms.openlocfilehash: 5be1ac4c8a4044adbc7d37c32ba7b3cb67c6cc25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f72d6ce6931b39d5d4a4835cee0ed2952407b13187213cca5bd483acb1e192bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077697"
 ---
 # <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173: desuso de la nueva característica de formulario personalizado en SharePoint Designer
 

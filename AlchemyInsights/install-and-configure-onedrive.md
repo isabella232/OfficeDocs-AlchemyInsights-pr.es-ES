@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078135"
 ---
 # <a name="install-and-configure-onedrive"></a>Instalar y configurar OneDrive
 
-El cliente de sincronización de OneDrive se instala previamente con Windows 10. Para instalar OneDrive para Windows 7 o Mac, o para obtener la aplicación móvil para el teléfono o la tableta, vaya a [https://onedrive.com/download](https://onedrive.com/download) .
+El Sincronización de OneDrive está preinstalado con Windows 10. Para instalar OneDrive para Windows 7 o Mac, o para obtener la aplicación móvil para su teléfono o tableta, vaya a [https://onedrive.com/download](https://onedrive.com/download) .
   
-Para configurar el cliente de sincronización de OneDrive en Windows, consulte:
+Para configurar el cliente Sincronización de OneDrive en Windows, vea:
   
-- [Onedrive configure Guide](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) para empezar a trabajar con capacidades de sincronización, uso compartido, colaboración y almacenamiento de archivos de onedrive.
+- [OneDrive configurar guía para](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) empezar a usar OneDrive almacenamiento de archivos, uso compartido, colaboración y sincronización.
 
-- [Configurar el equipo para sincronizar los archivos de OneDrive para la empresa](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Configurar el equipo para sincronizar los OneDrive para la Empresa archivos](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Sincronizar archivos de SharePoint con el nuevo cliente de sincronización de OneDrive](https://go.microsoft.com/fwlink/?linkid=871666)

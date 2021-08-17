@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2fb5d7ca8e074e69dbb7c35aab35754c14508a5d91b12a1fc943fadda242040
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834208"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047237"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Resolver problemas al convertir un documento de Word en XPS o PDF
 
@@ -41,4 +41,4 @@ Estas son algunas soluciones a problemas comunes.
 
 2. En la **ventana Publicar como PDF o XPS,** elija **Opciones** Etiquetas de estructura de documento  >  **para accesibilidad.** Establece cualquier otra opción que quieras y elige **Aceptar**.
 
-Para obtener más información acerca de las opciones para convertir archivos de Office a XPS o PDF, vea Guardar o [convertir a PDF o XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Para obtener más información acerca de las opciones para convertir Office a XPS o PDF, vea Guardar o [convertir a PDF o XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).

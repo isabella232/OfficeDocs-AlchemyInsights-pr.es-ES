@@ -1,5 +1,5 @@
 ---
-title: Problemas de inicio de sesión de Teams
+title: Teams de inicio de sesión
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: f484015d8a96730443ef4b35da5ec59af2419a55
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 20941c2b369d075ee11ba02bbad5bdf84a67c33615e7e5624ce790bb04cb808c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106443"
 ---
-# <a name="troubleshooting-teams-sign-in"></a>Solución de problemas de inicio de sesión de Teams 
+# <a name="troubleshooting-teams-sign-in"></a>Solución de problemas Teams inicio de sesión 
 
-¿Tiene problemas para iniciar sesión en Microsoft Teams? Consulte los siguientes artículos para obtener más información.
+¿Tiene problemas para iniciar sesión Microsoft Teams? Consulte los siguientes artículos para obtener más información.
 
 - [¿Por qué tengo problemas para iniciar sesión en Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
 - [Microsoft Teams se atasca en un bucle de inicio de sesión en Edge o Internet Explorer](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
