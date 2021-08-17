@@ -13,16 +13,16 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: 42b275309ff7a63899bc03898dd29884fd797a4c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2229ccac30b1bddb943a5fb9a944167895a41129608326ced437231166920610
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050063"
 ---
 # <a name="solutions-for-error-30179-25"></a>Soluciones para el error 30179-25
 
-Es posible que vea un error con el mensaje "Couldn't stream Office" (Error code [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) si el disco duro se está quedando sin espacio.
+Es posible que vea un error con el mensaje "No se pudo transmitir Office" (código de error [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) si el disco duro se está quedando sin espacio.
   
-[Liberar espacio en el disco duro y,](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) a continuación, [volver a instalar Office](https://portal.office.com/OLS/MySoftware.aspx).
+[Libera espacio en el disco duro y](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) vuelve a instalar [Office](https://portal.office.com/OLS/MySoftware.aspx).
   
