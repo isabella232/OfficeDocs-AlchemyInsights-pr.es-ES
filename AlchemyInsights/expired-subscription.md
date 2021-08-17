@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029749"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895904"
 ---
 # <a name="expired-subscription"></a>Suscripción expirada
 
@@ -36,7 +36,7 @@ Parece que tiene una o más suscripciones expiradas. Si desea continuar con el s
 4. Seleccione **Guardar**.
 
 Para obtener más información, vea [Reactivar 
-la suscripción](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Realizar una nueva compra**
   
@@ -45,4 +45,4 @@ la suscripción](/microsoft-365/commerce/subscriptions/reactivate-your-subscript
 3. Escribe el número de licencias que necesitas y elige si quieres pagar cada mes o durante todo el año. Elige si quieres asignar automáticamente licencias a todos los usuarios que no tienen una licencia actualmente. A continuación, **elija Des check-out now**.
 4. Siga los pasos restantes para completar la des check-out.
 
-Para obtener más información, consulta [Comprar otra suscripción](/microsoft-365/commerce/buy-another-subscription).
+Para obtener más información, consulta [Comprar otra suscripción](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
