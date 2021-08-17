@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057263"
 ---
 # <a name="enable-external-sharing"></a>Habilitar el uso compartido externo
 
@@ -22,22 +22,22 @@ ms.locfileid: "47784684"
   
 - **Uso compartido global**
     
-  - Portal de \> uso compartido externo: \> información general sobre el uso compartido: sitios, permitir que los usuarios externos tengan acceso a los sitios: activado
+  - Portal - \> Uso compartido externo - Información general sobre el uso compartido: sitios, permitir que personas externas \> accedan a los sitios: ON
     
-  - Casilla de \> verificación portal-uso compartido externo- \> sitios-"permitir que los usuarios externos tengan acceso a los sitios"
+  - Portal - Uso compartido externo - Sitios: casilla "Permitir que personas \> \> externas accedan a sus sitios"
     
-- **Uso compartido administrativo: Centro de administración de SharePoint**
+- **Uso compartido administrativo: centro SharePoint administración**
     
-    Uso compartido externo: Asegúrese de seleccionar cualquiera de las dos opciones:
+    Uso compartido externo: asegúrese de que cualquiera de las dos opciones está seleccionada:
     
-  - "Permitir usuarios externos que acepten invitaciones de uso compartido e inicien sesión como usuarios autenticados"
+  - "Permitir que los usuarios externos que acepten invitaciones para compartir e inicien sesión como usuarios autenticados"
     
-  - "Permitir a los usuarios externos que acepten invitaciones de uso compartido y vínculos de invitado anónimo"
+  - "Permitir a los usuarios externos que acepten invitaciones para compartir y vínculos de invitado anónimos"
     
 - **Colecciones de sitios individuales**
     
-  - Colecciones de sitios: Seleccione una colección de sitios en cuestión y, a continuación, haga clic en compartir: desde la cinta de opciones, asegúrese de que \> estén seleccionadas las opciones de uso compartido.
+  - Colecciones de sitios: seleccione la colección de sitios en cuestión y, a continuación, haga clic en Compartir - en la cinta de opciones - asegúrese de que las opciones \> de uso compartido estén seleccionadas.
     
-Para obtener más información sobre cómo activar el uso compartido externo, consulte [activar o desactivar el uso compartido externo para SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Para obtener información adicional sobre cómo activar el uso compartido externo, vea Activar o desactivar el uso compartido externo [para SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

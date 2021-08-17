@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976882"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891312"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar la actividad de regla de bandeja de entrada en registros de auditoría
 
-Puede usar la búsqueda de registro de auditoría en el Centro de cumplimiento de Microsoft 365 Seguridad & para ver eventos de regla de bandeja de entrada (crear, modificar y eliminar reglas de la bandeja de entrada).
+Puede usar la búsqueda de registro de auditoría en el Centro de cumplimiento de Microsoft 365 para ver eventos de regla de bandeja de entrada (crear, modificar y eliminar reglas de bandeja de entrada).
 
-1. Inicie sesión en el Centro [Microsoft 365 cumplimiento](https://protection.office.com/).
+1. Realice uno de los pasos siguientes:
+   - En el Centro de cumplimiento de Microsoft 365 <https://compliance.microsoft.com> en , vaya a Auditoría **de** \> **soluciones**. O bien, para ir directamente a la **página Auditoría,** use <https://compliance.microsoft.com/auditlogsearch> .
+   - En el Microsoft 365 Defender en <https://security.microsoft.com> , vaya a **Auditar**. O bien, para ir directamente a la **página Auditoría,** use <https://security.microsoft.com/auditlogsearch> .
 
-2. Vaya a la **página Búsqueda de** registro de auditoría  >  **de** búsqueda.
+2. En la **pestaña Búsqueda** de la **página Auditoría,** configure las siguientes opciones:
+   - **Intervalo de fecha y hora:** seleccione el intervalo de fecha y hora en los **cuadros** Inicio **y** Fin.
+   - **Actividades:** seleccione uno o varios de los siguientes valores:
+     - **New-InboxRule Crear regla de bandeja de entrada a partir de Outlook Web App**
+     - **Set-InboxRule Modificar regla desde Outlook Web App**.
+     - **Actualizar reglas de la bandeja de entrada Outlook cliente**
 
-3. Seleccione el intervalo de fechas en **los campos Fecha de** inicio y Fecha **de** finalización.
+3. Cuando haya terminado, haga clic en **Buscar**. Las actividades aparecen en la nueva página **De búsqueda auditoría.**
 
-4. En **Exchange de buzones** de  correo , compruebe que el campo Actividades está establecido en **New-InboxRule Create/modify/enable/disable inbox rule**.
+4. Seleccione una actividad en los resultados para abrir el menú desplegable de detalles. La información sobre la configuración de la regla de bandeja de entrada se muestra en el **campo Parámetros.**
 
-5. Haga clic en **Buscar**.
-
-En los resultados, seleccione un registro de auditoría. En el menú desplegable de detalles, haga clic **en Más información**. La información sobre la configuración de la regla de bandeja de entrada se muestra en el **campo Parámetros.**
-
-Para obtener más información, vea [Determining if a user created an inbox rule](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Para obtener más información, vea [Determining if a user created an inbox rule](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule).
