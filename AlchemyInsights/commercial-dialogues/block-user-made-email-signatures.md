@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103569"
 ---
 # <a name="block-user-made-email-signatures"></a>Bloquear firmas de correo electrónico realizadas por el usuario
 
-La siguiente solución solo se aplica a las firmas de correo electrónico creadas en Outlook en la web. Solo puede bloquear firmas en la aplicación de Outlook si tiene un Exchange Server.
+La siguiente solución solo se aplica a las firmas de correo electrónico creadas en Outlook en la Web. Solo puedes bloquear firmas en la aplicación Outlook si tienes una aplicación local Exchange Server.
 
 1. En el Centro de administración, elija **Centros de administración**  >  **Exchange**.
-2. Haga **clic en permisos Directivas** de Outlook Web  >  **App**.
+2. Haga **clic en permisos** Outlook Web App  >  **directivas**.
 3. Seleccione la directiva y, a continuación, haga clic en el icono de lápiz para editarla.
 4. Características **de clic** Más  >  **opciones**.
 5. En **Experiencia del usuario,** desactive la casilla **Firma de** correo electrónico y, a continuación, haga clic en **Guardar**.
