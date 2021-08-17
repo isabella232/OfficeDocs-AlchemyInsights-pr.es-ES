@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 0f7ce9cb8054c6e0960aab334ad47123320a0cde
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 1aa60a3be051194e3816e909ba25a32e98463a2179e94844869cd97a564548a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052655"
 ---
 # <a name="send-an-email-message-based-on-a-template"></a>Enviar un mensaje de correo electrónico basado en una plantilla
 
-Para usar una plantilla de mensaje de correo electrónico en el escritorio de Outlook, siga estos pasos:
+Para usar una plantilla de mensaje de correo electrónico Outlook Escritorio, siga estos pasos:
 
-1. Seleccione **nuevos elementos**  >  **más elementos**  >  **Elija formulario**.
-2. En el cuadro de diálogo **elegir formulario** , en **Buscar en**, haga clic en **plantillas del usuario en el sistema de archivos**.
-3. Se abre la carpeta Plantillas predeterminadas. La ubicación de la carpeta (en sistemas operativos Windows 7 y versiones posteriores) es **c:\users\username\appdata\roaming\microsoft\templates**. Si la plantilla se ha guardado en una carpeta diferente, haga clic en **examinar** y, a continuación, seleccione la plantilla.
-4. Seleccione la plantilla y, a continuación, haga clic en **abrir**.
-5. Realice las adiciones o revisiones a los destinatarios en los cuadros **para**, **CC** o **CCO** , y cualquier cambio en el asunto y el cuerpo del mensaje.
+1. Seleccionar **Nuevos elementos Más**  >  **elementos** Elija  >  **Formulario**.
+2. En el **cuadro de diálogo** Elegir formulario, en **Buscar**, haga clic en Plantillas de usuario en sistema **de archivos**.
+3. Se abre la carpeta de plantillas predeterminada. La ubicación de la carpeta (en Windows 7 y sistemas operativos posteriores) es **c:\users\username\appdata\roaming\microsoft\templates**. Si la plantilla se guarda en una carpeta diferente, haga clic **en Examinar** y, a continuación, seleccione la plantilla.
+4. Seleccione la plantilla y, a continuación, haga clic **en Abrir**.
+5. Realice adiciones o revisiones a los destinatarios en los cuadros **Para**, **Cc** o **CCO** y cualquier cambio en el asunto y el cuerpo del mensaje.
     > [!NOTE]
-    > Los cambios realizados no se guardan en la plantilla. Si usa el comando **Guardar** , se creará un borrador del mensaje, pero no se actualizará la plantilla. Para actualizar la plantilla, siga los pasos para guardar una nueva plantilla en [crear una plantilla de mensaje de correo electrónico](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
+    > Los cambios realizados no se guardan en la plantilla. Si usa el **comando Guardar,** esto crea un borrador del mensaje, pero no actualizará la plantilla. Para actualizar la plantilla, siga los pasos para guardar una nueva plantilla en [Crear una plantilla de mensaje de correo electrónico](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
 6. Haga clic en **Enviar**.

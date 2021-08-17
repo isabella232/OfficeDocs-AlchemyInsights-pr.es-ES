@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 9465ee400b8043cf0adb9638819e26b9cc5fe15c0d4c73d13a1f4fc237b2e6ea
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952518"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883068"
 ---
 # <a name="admin-password-reset"></a>Restablecimiento de contraseña de administrador
 
@@ -29,4 +29,4 @@ ms.locfileid: "53952518"
 
 - Otro administrador puede restablecer su contraseña desde **Usuarios > [usuarios activos](https://portal.office.com/adminportal/home#/users)**. Seleccione la cuenta y haga clic en el icono de clave.  También, si las credenciales se almacenan en caché, puede [crear una cuenta de administrador nueva](https://portal.office.com/adminportal/home#/users), iniciar sesión en esa cuenta y luego restablecer su propia contraseña de administrador.
 
-Para más situaciones de restablecimiento de contraseñas, pruebe [Restablecer contraseñas de Office 365 Empresa](/microsoft-365/admin/add-users/reset-passwords) o envíe una solicitud de soporte para obtener ayuda.
+Para más situaciones de restablecimiento de contraseñas, pruebe [Restablecer contraseñas de Office 365 Empresa](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) o envíe una solicitud de soporte para obtener ayuda.
