@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038822"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Solución de problemas de Microsoft Defender para Office 365
 
