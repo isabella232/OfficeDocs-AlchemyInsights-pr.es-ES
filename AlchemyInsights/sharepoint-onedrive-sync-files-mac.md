@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: 9e40f43435a069e150bc95976f8c04a09fa60244cad268f283f326c1df363704
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 17ced78cda3c1095eddce539a88d430610cd5ad5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53957522"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321842"
 ---
 # <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Instalar, configurar y sincronizar archivos OneDrive o SharePoint en Mac 
 
@@ -22,8 +22,7 @@ Instale, instale y sincronice OneDrive o SharePoint archivos en un Mac con las i
 
 Si la OneDrive está instalada y instalada en un Mac, pero los usuarios están experimentando problemas de sincronización, consulta Solucionar problemas de sincronización con [OneDrive (Mac).](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)
 
-> [!NOTE]
-> La característica Mover carpeta conocida en Sincronización de OneDrive para Windows no está disponible para Mac.
+**Nota:** La característica Mover carpeta conocida de Sincronización de OneDrive para Windows no está disponible para Mac.
 
 
 

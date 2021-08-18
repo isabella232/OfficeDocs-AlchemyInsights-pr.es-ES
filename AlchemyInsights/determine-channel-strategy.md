@@ -15,12 +15,12 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 06ad41ae0d76b5734d6a399e023d1ae84f5b86d8b9b48d7696619dbf22d88618
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 19efa16e7cf665648a03dc95da9d68841ca9e531
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899961"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323257"
 ---
 # <a name="determine-channel-strategy"></a>Determinar la estrategia de canal
 
@@ -28,8 +28,7 @@ Microsoft Edge se lanza en cuatro canales que controlan la frecuencia con la que
 
 El Canal estable es el canal que querrá implementar en la mayoría de los dispositivos, pero debería considerar implementar varios canales y dispositivos.
 
-> [!NOTE]
-> Puedes instalar más de un canal en un solo dispositivo.
+**Nota**: Puede instalar más de un canal en un único dispositivo.
 
 **Varios dispositivos y canales**
 

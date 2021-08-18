@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119625"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Cambiar la contraseña Wi-Fi enrutador
 
 Para cambiar la contraseña Wi-Fi del enrutador, siga estos pasos:
 
-1. Seleccione **Iniciar**  >  **configuración**  >  **Red & Internet** Network y Centro de uso  >  **compartido**.
+1. Seleccione **Iniciar**  >  **Configuración**  >  **red & Internet** Network and Sharing  >  **Center**.
 
 2. En **Ver las redes activas,** busque la red a la que está conectado. Seleccione el vínculo azul junto a **Connections**.<br>
 

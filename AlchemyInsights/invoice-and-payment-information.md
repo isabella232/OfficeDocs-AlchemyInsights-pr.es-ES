@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8b9b8545607e230a13de78478e3b1c655c461f6259f649aeb2b369d94d2697aa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502625"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321980"
 ---
 # <a name="invoice-and-payment-information"></a>Factura y información de pago
 
 **Pago**
 
-Al comprar una suscripción de Microsoft 365 para empresas directamente de Microsoft, puede pagar con una tarjeta de crédito o débito.  En algunos países o regiones, también puede pagar con una cuenta bancaria.  Puede aprender a administrar y solucionar problemas de estos métodos de pago desde [Administrar métodos de pago](/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Esto incluye la resolución de problemas cuando se rechaza la tarjeta de crédito y la actualización de la información de pago.
+Al comprar una suscripción de Microsoft 365 para empresas directamente de Microsoft, puede pagar con una tarjeta de crédito o débito.  En algunos países o regiones, también puede pagar con una cuenta bancaria.  Puede aprender a administrar y solucionar problemas de estos métodos de pago desde [Administrar métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Esto incluye la resolución de problemas cuando se rechaza la tarjeta de crédito y la actualización de la información de pago.
 
 **Factura/Factura**
 
@@ -37,4 +37,4 @@ Puedes encontrar y descargar tus facturas en la página **facturación**  >  [& 
 
 Las facturas se crean mensual o anualmente en función de la frecuencia de facturación elegida durante la compra.  Si paga anualmente, puede obtener una factura a medio plazo al agregar o quitar licencias en una suscripción.
 
-- Para obtener más información, consulta [Comprender la factura de Microsoft 365 para empresas](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- Para obtener más información, consulta [Comprender la factura de Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

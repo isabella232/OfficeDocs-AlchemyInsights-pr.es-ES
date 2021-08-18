@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055175"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322016"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalación Office en un Terminal Server
 
@@ -28,8 +28,7 @@ Para implementar Aplicaciones Microsoft 365 para empresas en un servidor Windows
 
 Si desea instalar Aplicaciones Microsoft 365 para empresas en RDS desde el Centro de administración de Microsoft 365, que usa la ***configuración de*** instalación predeterminada, siga estos pasos.
 
-> [!TIP]
-> También puede descargar y ejecutar microsoft Asistente de soporte y recuperación [para](https://aka.ms/SaRA_OfficeSCA_M365Portal) instalar Aplicaciones Microsoft 365 para empresas en modo de activación de equipo compartido.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. Comprueba qué Microsoft 365 suscripción tienes. [Más información](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 

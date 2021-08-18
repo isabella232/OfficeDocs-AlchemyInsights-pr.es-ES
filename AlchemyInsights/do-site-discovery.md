@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ae99192c769dd5d5acae1c6e8f9b021e824b465
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030775"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322184"
 ---
 # <a name="do-site-discovery"></a>Realizar detección de sitio
 
@@ -36,8 +36,7 @@ Identifique cualquier sitio SSO u otros sitios neutros que use y agréguelos a s
 
 Si actualmente solo usa Internet Explorer, es posible que no sepa qué sitios se han actualizado a los estándares web modernos y cuáles requieren todavía Internet Explorer. Es recomendable encontrar y agregar estos sitios a la lista de sitios de empresa para poder utilizar el modo Internet Explorer solo para esos sitios.
 
-> [!NOTE]
-> [Detección de sitio de empresa](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) detecta los sitios que pueden necesitar el modo Internet Explorer. Puede recopilar datos de equipos que ejecutan Windows Internet Explorer 8 a través de Internet Explorer 11 en Windows 10, Windows 8.1 o Windows 7.
+**Nota**: [Detección de sitio de empresa](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) detecta los sitios que pueden necesitar el modo Internet Explorer. Puede recopilar datos de equipos que ejecutan Windows Internet Explorer 8 a través de Internet Explorer 11 en Windows 10, Windows 8.1 o Windows 7.
 
 **Analizar los datos**
 
@@ -47,8 +46,7 @@ Una vez que haya recopilado los datos del sitio, recomendamos seguir un proceso 
 3. Pruebe la aplicación para comprobar que no funciona de forma nativa. Muchos sitios ofrecerán contenido moderno cuando detecten un explorador moderno y solo ofrecerán contenido heredado cuando detecten Internet Explorer.
 4. Agrega la aplicación a la lista de sitios de empresa si la prueba no se realiza correctamente.
 
-> [!NOTE]
-> Como práctica recomendada, agrupa todos los sitios que componen una aplicación. De esta manera, al actualizar una aplicación, es más sencillo eliminar todo el sitio del modo Internet Explorer y empezar a usar un explorador moderno para esa aplicación.
+**Nota**: como práctica recomendada, agrupa todos los sitios que componen una aplicación. De esta manera, al actualizar una aplicación, es más sencillo eliminar todo el sitio del modo Internet Explorer y empezar a usar un explorador moderno para esa aplicación.
 
 Una vez que haya finalizado la detección de sitio y haya analizado los datos, podrá empezar a ocuparse de su estrategia de canal.
 

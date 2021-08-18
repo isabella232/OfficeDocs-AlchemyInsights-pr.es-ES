@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: 052311ffe71bcb65de2b5c2a964932b1fb99c373
-ms.sourcegitcommit: c34ba92e19419dcb2d251b8a1afe4d180a939617
+ms.openlocfilehash: d71bb376615191f507d39b99d9e51ca77d929b90
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "50965472"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323455"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>El Acceso condicional con dispositivo unido a dominio me bloquea
 
@@ -32,7 +32,7 @@ ms.locfileid: "50965472"
 
 Aquí tiene algunos motivos habituales por los que el acceso condicional puede fallar en un dispositivo que se haya unido a un dominio (Azure AD híbrido).
 
-1. **No hay PRT de Azure AD en el dispositivo**: debe asegurarse de que el dispositivo tenga el token de actualización principal (PRT) de Azure AD. Para más información sobre PRT, consulte este [documento](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+1. **No hay PRT de Azure AD en el dispositivo**: debe asegurarse de que el dispositivo tenga el Token de Actualización Principal (PRT) de Azure AD. Para obtener más información, consulte este [documento](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
 
 Para comprobar que tiene PRT de Azure AD, puede ejecutar `dsregcmd/status` comando en el dispositivo y comprobar si “AzureAdPrt” es igual a “SÍ”.
 
@@ -52,8 +52,7 @@ Si no es posible instalar la extensión de forma remota, notifique a los usuario
 
 Para solucionar este problema, ejecute `dsregcmd/leave` en los dispositivos afectados y deje que se vuelvan a unir a Azure AD. Para más información, consulte este [documento](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices).
 
-> [!NOTE]
-> Si sus dispositivos usan Windows 10, actualización 1809, con VPN/Cloud proxy y observa problemas con el estado "AzureAdPrt" o cualquier aplicación con problema de SSO (Outlook no se conecta al buzón de correo pese a tener PRT), asegúrese de tener esta revisión [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) o la actualización acumulativa de abril [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) para prevenir errores de PRT en esos equipos.
+**Nota**: Si sus dispositivos usan Windows 10, actualización 1809, con VPN/Cloud proxy y observa problemas con el estado "AzureAdPrt" o cualquier aplicación con problema de SSO (Outlook no se conecta al buzón de correo pese a tener PRT), asegúrese de tener esta revisión [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) o la actualización acumulativa de abril [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) para prevenir errores de PRT en esos equipos.
 
 
 

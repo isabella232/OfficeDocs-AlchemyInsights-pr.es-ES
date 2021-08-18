@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054815"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321924"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemas con vínculos y direcciones URL
 
@@ -40,17 +40,15 @@ Para agregar una dirección URL de respuesta, vaya a la pestaña **Autenticació
     Para obtener más información, consulte [Aplicaciones de escritorio - Registro de aplicaciones - URI de redirección](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
 - Para las aplicaciones móviles, el URI de redirección depende de:
     - la plataforma (iOS/Android/UWP)
-    - la información usada para crear la aplicación, como el id. de agrupación en iOS, o el nombre del paquete y el hash de firma en Android. La aplicación Azure Portal le ayudará. Para obtener más información, consulte [Configuración de la plataforma y URI de redirección](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
+    - la información usada para compilar la aplicación, como el identificador de lote en iOS, y el nombre del paquete y el hash de firma en Android. El registro de la aplicación en Azure Portal le ayudará. Para obtener más información, vea[Configuración de la plataforma y URI de redireccionamiento](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Las API web y algunos de los métodos silenciosos para adquirir tokens (IWA y nombre de usuario y contraseña) no requieren un URI de redirección.
+**Nota**: Las API web y algunas de las formas silenciosas de adquirir tokens (IWA y nombre de usuario y contraseña) no requieren un URI de redirección.
 
 **He implementado mi aplicación web y al probarla un mensaje me dice que las URL de respuesta no coinciden**
 
 Agregue URI de redirección para todas las ubicaciones en las que implemente la aplicación web. Para obtener más información, consulte [Registrar una aplicación web con Azure Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Agregue el URI de redirección para una ubicación inmediatamente después implementar la aplicación en esa ubicación.
+**Nota**: Agregue el URI de redirección para una ubicación inmediatamente después de haber implementado la aplicación en esa ubicación.
 
 **No puedo registrar suficientes URL de respuesta**
 

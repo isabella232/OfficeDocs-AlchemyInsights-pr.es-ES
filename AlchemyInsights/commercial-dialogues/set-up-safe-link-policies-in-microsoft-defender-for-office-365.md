@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 353571996403d1ddd133d5ef1705d86e7dc38d02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070377"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322230"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Configurar directivas Caja fuerte vínculos en Microsoft Defender para Office 365
 
-Ya se ha creado una directiva predeterminada para Caja fuerte vínculos de Microsoft Defender para Office 365 para usted. Para cambiar las configuraciones:
+1. En el portal Microsoft 365 Defender en , vaya a Correo electrónico & directivas de colaboración & reglas de amenazas Caja fuerte vínculos en la <https://security.microsoft.com/>  \>  \>  \>  **sección** Directivas.
 
-1. Vaya al Centro [de Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Seleccione **Directiva de administración de**  >  **amenazas**. En la **página Directiva,** seleccione [Microsoft Defender para Office 365 Caja fuerte vínculos](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. En la **sección Directivas que se aplican a toda** la organización, seleccione Predeterminado y, a continuación, seleccione el **icono** Editar. 
-4. En la **sección Bloquear las siguientes direcciones URL,** especifique una o varias direcciones URL que desee impedir que los usuarios de su organización visiten. Para obtener más información, vea ["Bloquear las siguientes direcciones URL" para obtener Caja fuerte vínculos](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. En la **Configuración que se aplican al contenido** excepto al correo electrónico, seleccione (o desactive) las opciones que desea usar. (Se recomienda seleccionar todas las opciones).
-6. Haga clic en **Guardar**.
+   Para ir directamente a la **página Caja fuerte vínculos,** use <https://security.microsoft.com/safelinksv2> .
+
+2. En la **página Caja fuerte vínculos,** siga estos pasos:
+   - Para agregar una nueva directiva, seleccione **+ Crear**. Se iniciará un asistente para ayudarle a definir la configuración de la directiva.
+   - Para editar una directiva existente, seleccione la directiva haciendo clic en el nombre de la directiva. En el control desplegable de detalles que aparece, seleccione **Editar** en la sección que contiene la configuración que desea configurar.
+   - Para bloquear direcciones URL de la protección de vínculos de Caja fuerte o configurar la configuración de vínculos de Caja fuerte en aplicaciones Office 365 compatibles, haga clic en Configuración **global,** configure la configuración que desee y, a continuación, haga clic en **Guardar**.
+
+3. Después de revisar la configuración, selecciona **Enviar** (nuevo) o **Guardar** (editar).
+
+Para más información, consulte los siguientes artículos:
+
+- [Configurar directivas Caja fuerte vínculos en Microsoft Defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Configurar la configuración global para Caja fuerte vínculos en Microsoft Defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

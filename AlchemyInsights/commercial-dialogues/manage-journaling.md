@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 2fcd0f386d2da8cad19fcc9872482bb75fe00dd2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c104f77f0f0f20fa4b029e5e0b515b6418326e4b7fab304f005fb67a18e2202a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119301"
 ---
 # <a name="manage-journaling"></a>Administrar registro en diario
 
