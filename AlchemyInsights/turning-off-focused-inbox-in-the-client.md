@@ -1,5 +1,5 @@
 ---
-title: 911 desactivación de la bandeja de entrada prioritarios en el cliente
+title: 911 Desactivar la bandeja de entrada centrada en el cliente
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092500"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Desactivar la bandeja de entrada prioritarios en clientes de correo electrónico
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Desactivar bandeja de entrada centrada en clientes de correo electrónico
 
-Para desactivar la bandeja de entrada prioritarios en Outlook 2016, Outlook en la web, Outlook.com/Hotmail.com, Outlook 2016 para Mac o correo para Windows 10, vea [desactivar la bandeja de entrada prioritarios](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Para desactivar la Bandeja de entrada centrada en Outlook 2016, Outlook en la Web, Outlook.com/Hotmail.com, Outlook 2016 para Mac o Mail for Windows 10, consulte [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
 
-Para desactivar la bandeja de entrada prioritarios para todos los usuarios de la organización, vea [configuración de la bandeja de entrada prioritarios para todos los usuarios de la organización](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Para desactivar la Bandeja de entrada centrada para todos los usuarios de la organización, vea [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
