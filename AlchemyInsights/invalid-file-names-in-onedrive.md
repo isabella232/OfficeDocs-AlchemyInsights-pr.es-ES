@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 90c2df4eb6fe97925a6d6eb6e7afd357e2349850
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2564d25d9385e629ead0fd5af7e178f9d73cfd766c672fa31abc493185786c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088125"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nombres de archivo y carpeta no válidos en OneDrive y SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nombres de archivos y carpetas no válidos en OneDrive y SharePoint
 
-Estos caracteres no se permiten en los nombres de archivo y carpeta " \* : \< \> ? / \ | 
+Estos caracteres no están permitidos en nombres de archivos y carpetas " \* : \< \> ? / \ | 
   
-Algunas organizaciones todavía no admiten # y% activado. Para obtener información sobre cómo permitir estos caracteres en su organización, consulte [Habilitar la compatibilidad # y%](https://go.microsoft.com/fwlink/?linkid=862611). 
+Algunas organizaciones aún no tienen compatibilidad con # y % activados. Para obtener información sobre cómo permitir estos caracteres en la organización, consulte [Enabling # and % Support](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Más información sobre las restricciones de nombres de archivos y carpetas](https://go.microsoft.com/fwlink/?linkid=866430)
+[Más información sobre las restricciones de nombre de carpeta y archivo](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

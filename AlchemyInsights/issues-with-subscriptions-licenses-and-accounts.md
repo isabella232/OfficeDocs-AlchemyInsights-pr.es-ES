@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49869186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087981"
 ---
 # <a name="issues-with-subscriptions-licenses-and-accounts"></a>Problemas con suscripciones, licencias y cuentas
 
-1. Todos los usuarios de un inquilino gratuito de Azure AD pueden usar la autenticación multifactor de Azure mediante el uso de [valores predeterminados de seguridad.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
-1. Comprenda [las características y licencias de Azure AD Multi-Factor Authentication](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing).
-1. Obtenga información sobre [cómo asociar o agregar una suscripción de Azure a su inquilino de Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
-1. Siga estos pasos para [transferir una suscripción de Azure a otro directorio de Azure AD.](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
-1. Consulte [Asignar o quitar licencias en el portal](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) de Azure Active Directory para obtener instrucciones sobre cómo asignar o quitar licencias de los usuarios.
+1. Todos los usuarios de un Azure AD Free inquilino pueden usar la autenticación multifactor de Azure mediante el uso de [valores predeterminados de seguridad](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+1. Comprender [características y licencias para la autenticación multifactor](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)de Azure AD .
+1. Obtenga información sobre [cómo asociar o agregar una suscripción de Azure a su Azure Active Directory inquilino.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+1. Siga estos pasos para [transferir una suscripción de Azure a otro directorio de Azure AD](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription).
+1. Consulte [Assign or remove licenses in the Azure Active Directory portal](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) para obtener instrucciones sobre cómo asignar o quitar licencias de los usuarios.

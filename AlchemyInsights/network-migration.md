@@ -12,27 +12,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f63ce1641faf3cb2a29fd954624d25f5e1e37f135ec361ac09668086d78aa3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113217"
 ---
 # <a name="network-migration"></a>Migración de red
 
-El inquilino de O365 probablemente está asociado a varias redes de Yammer en un espacio empresarial de 1: muchas configuraciones de red. A partir del 16 de octubre de 2018, Yammer ya no será compatible con varias redes de Yammer asociadas a un espacio empresarial. Puede realizar una migración de red para obtener una configuración de 1:1 preferida.
+El espacio empresarial de O365 posiblemente esté asociado a varias Yammer en un inquilino 1: configuración de muchas redes. A partir del 16 de octubre de 2018, Yammer ya no admitirá varias Yammer asociadas a un inquilino. Puede realizar una migración de red para llegar a una configuración 1:1 preferida.
   
-- Para ver una lista de las redes asociadas a su inquilino, inicie sesión en Yammer como administrador global y vaya a **Administrador de red**y, a continuación, **migración de red**. Elija **Siguiente**.
+- Para ver una lista de las redes asociadas con el inquilino, inicie sesión en Yammer como administrador global y vaya a **Administrador** de red y, a continuación, **Migración de red**. Elija **Siguiente**.
 
-- Si ve varias redes en la lista del paso 2 de 3, tiene varias redes de Yammer asociadas con el inquilino de O365.
+- Si ve varias redes enumeradas en el paso 2 de 3, tiene varias Yammer asociadas con su inquilino de O365.
 
-- Para corregir la configuración en una configuración de 1:1, continúe usando la herramienta de migración de red.
+- Para corregir la configuración a una configuración 1:1, siga usando la herramienta de migración de red.
 
-- Para obtener más información acerca de la migración de red, vea [migración de red: consolidar varias redes de Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Para obtener más información sobre la migración de red, vea [Migración de red: Consolidar varias Yammer red.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-Ten en cuenta lo siguiente:
+Tenga en cuenta lo siguiente:
   
 - **Una migración de red migra solo a los usuarios activos y pendientes.** Junto con los usuarios activos, también se migra la información de los usuarios, como el nombre y la imagen de perfil. No se migra ningún contenido de red, incluidos los grupos.
 
-- **No se puede revertir la migración de red.** No podrá acceder a la red subsidiaria ni a su contenido después de la migración. Por lo tanto, antes de considerar una migración, desea planear cuidadosamente.
+- **La migración de red no se puede revertir.** No podrá acceder a la red subsidiaria ni a su contenido después de la migración. Por lo tanto, antes de considerar una migración, desea planear cuidadosamente.

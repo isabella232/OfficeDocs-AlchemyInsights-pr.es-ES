@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "10978"
 - "9006450"
-ms.openlocfilehash: 94dc244b987bd1e151ce6e5c933a83b19a6ced33bfbd176c8bbf1e8ce83370b6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e30c42bda3eb34c3f99cc4f134ca5dfeefe6cd8e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087369"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316503"
 ---
 # <a name="learn-about-the-security-features-of-microsoft-edge"></a>Obtenga información sobre las características de seguridad de Microsoft Edge
 
 Los administradores de TI empresariales se ocupan de una infinidad de desafíos existentes y emergentes relacionados con la seguridad. Los administradores deben abordar estos desafíos para proteger la red corporativa y los dispositivos frente a ataques malintencionados y evitar el acceso no autorizado y la pérdida de datos corporativos. Para ayudar a los administradores a abordar estos desafíos, Microsoft Edge (versión 77 o posterior) proporciona varias funcionalidades integradas únicas. 
 
-Para obtener más información, consulte [Seguridad de su empresa con Microsoft Edge](/DeployEdge/ms-edge-security-for-business).
+Para obtener más información, consulte [Seguridad de su empresa con Microsoft Edge](https://docs.microsoft.com/DeployEdge/ms-edge-security-for-business).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100419"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316657"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exportar elementos a un archivo de archivo en Outlook para Mac
 
@@ -24,8 +24,7 @@ Para reducir el tamaño de la bandeja de entrada, archive manualmente mensajes d
 
 1. En la **pestaña Herramientas,** haga clic **en Exportar**.
 
-> [!NOTE]
-> ¿No ve el botón **Exportar?** Asegúrese de que tiene la versión más reciente de Outlook. En el menú Outlook **ayuda,** haga clic **en Buscar actualizaciones.** Si todas Outlook actualizaciones se aplican y aún no  ve el botón Exportar, busque **Exportar** en el menú Outlook **Archivo.**
+    **Nota:**¿No ve el **botón** Exportar? Asegúrese de que tiene la versión más reciente de Outlook. En el menú Outlook **ayuda,** haga clic **en Buscar actualizaciones.** Si todas Outlook actualizaciones se aplican y aún no  ve el botón Exportar, busque **Exportar** en el menú Outlook **Archivo.**
 
 2. En el **cuadro Exportar a archivo (.olm),** active los elementos que desea exportar y haga clic en **Continuar**.
 
