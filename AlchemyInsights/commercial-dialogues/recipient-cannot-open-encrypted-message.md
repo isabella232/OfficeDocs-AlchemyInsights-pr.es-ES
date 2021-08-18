@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967170"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317759"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Se soluciona el problema de visualización de mensajes protegidos en Outlook
 
@@ -28,8 +28,7 @@ Para abrir mensajes cifrados, los usuarios deben realizar los siguientes pasos:
 
 1. Según el cliente de correo electrónico que se esté utilizando, haga clic **en Leer el mensaje** o en un mensaje similar. Los usuarios se redirigen a una página donde pueden iniciar sesión y recibir un código de un solo uso.
 
-> [!NOTE]
-> Para los usuarios de Gmail, se les pedirá que inicien sesión con Gmail. El mensaje se abrirá en una nueva pestaña después de hacer clic en **Permitir**.
+    **Nota:** Para los usuarios de Gmail, se les pedirá que inicien sesión con Gmail. El mensaje se abrirá en una nueva pestaña después de hacer clic en **Permitir**.
 
 2. Compruebe el código de un solo uso en el correo electrónico y, a continuación, escriba ese código en la ventana del explorador.
 

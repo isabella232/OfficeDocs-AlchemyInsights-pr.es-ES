@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8322"
 - "9003227"
-ms.openlocfilehash: 7caf46f9988ddbcbb16c0a2751dbda85bd7da34c
-ms.sourcegitcommit: 616ae0cbd5769e12ae428e00088840cf05e52b6a
+ms.openlocfilehash: a988d792c51a81eac9aad3e8b2cd20fec9b2df51766f8919312e933a806e47ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50282862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114729"
 ---
 # <a name="managing-external-settings"></a>Administrar la configuración externa
 
@@ -33,8 +33,8 @@ Confirme que ha [configurado los ajustes de colaboración externa](https://docs.
 
 **Administrar permisos de acceso de usuarios invitados**
 
-1. Los administradores globales pueden administrar los permisos de acceso de invitado en el directorio a través de Azure Portal configurando los permisos de acceso de invitado en la página Configuración de colaboración externa. [Obtenga más información esta configuración](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support).
-2. Si desea que los invitados accedan a aplicaciones como Teams o SharePoint, confirme que ha configurado esas aplicaciones para permitir el acceso de invitado. Obtenga más información sobre la [Configuración de Teams](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support) y [SharePoint](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. Los administradores globales pueden administrar los permisos de acceso de invitados en el directorio a través de Azure Portal configurando los permisos de acceso de invitado en la página Configuración de colaboración externa. [Obtenga más información sobre esta configuración](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support).
+2. Si desea que los invitados accedan a aplicaciones como Teams o SharePoint, confirme que ha configurado esas aplicaciones para permitir el acceso a invitados. Obtenga más información sobre la configuración de [Teams](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support) y de [SharePoint](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Configurar invitaciones:**
 

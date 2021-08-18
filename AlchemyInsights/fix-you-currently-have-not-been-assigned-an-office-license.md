@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 2117e6bf5b8c39216d273e5970ca8cbe6ac8ec62
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 74d32a4c452e9dab0b52846fdc1baf7bb282ece40cfe2c11b041be355f23882a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089611"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Corrección: "actualmente no se le ha asignado una licencia de Office"
 

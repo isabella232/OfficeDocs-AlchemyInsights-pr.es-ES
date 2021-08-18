@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4e46bc1384051ff184a2ead669c495ea455b226263e0be30b37a339151d810a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090357"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Programar una reunión en Teams
 
-**Importante** Si tiene problemas para crear una reunión o no encuentra la opción de reunión en Teams, asegúrese de que los usuarios afectados tengan un buzón de Exchange habilitado en una versión compatible para Microsoft Teams. Aunque se recomienda Exchange Online, los buzones locales de Exchange se admiten en Exchange Server 2016 CU3 o posterior con OAuth configurado correctamente entre online y local. Para obtener más información, vea [Create user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) y Requirements for [mailboxes hosted on-premises](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Importante** Si tiene problemas para crear una reunión o no encuentra la opción de reunión en Teams, asegúrese de que los usuarios afectados tengan un buzón de Exchange habilitado en una versión compatible para Microsoft Teams. Aunque Exchange Online, Exchange buzones locales se admiten en Exchange Server CU3 de 2016 o posterior con OAuth configurado correctamente entre online y local. Para obtener más información, vea [Create user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) and Requirements for [mailboxes hosted on-premises](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
 1. Puede programar una reunión seleccionando:
 
@@ -33,8 +33,8 @@ ms.locfileid: "51815992"
 
 3. En el lado derecho del formulario de programación puede agregar un canal o personas individuales, o dejar ambos en blanco para programar una cita privada.
 
-Para obtener más información acerca de cómo crear y programar reuniones en Microsoft Teams, vea [Programar una reunión en Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Para obtener más información acerca de cómo crear y programar reuniones en Microsoft Teams, vea Programar una [reunión en Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
 
-Para obtener más información sobre los límites y las especificaciones de las reuniones, consulta [Límites y especificaciones de Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Para obtener más información acerca de los límites y las especificaciones de las reuniones, consulta [Límites y especificaciones para Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
 
-Para obtener ayuda para solucionar problemas de interacciones de Teams y Exchange, especialmente para problemas de programación de delegados, vea [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Para obtener ayuda para solucionar Teams y Exchange interacciones, especialmente para problemas de programación de delegados, vea Solucionar problemas de Microsoft Teams y [Exchange Server de interacción.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

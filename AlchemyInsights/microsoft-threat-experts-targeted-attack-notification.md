@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012145"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901485"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Expertos en amenazas de Microsoft: notificación de ataque dirigido
 
@@ -38,4 +38,4 @@ Puedes recibir una notificación de ataque dirigida desde Expertos en amenazas d
 
 Para recibir notificaciones de ataque dirigidas por correo electrónico, crea una regla de notificación de correo electrónico. 
 
-Consulte [Configurar y administrar Expertos en amenazas de Microsoft funcionalidades para](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) obtener más información.
+Consulte [Configurar y administrar Expertos en amenazas de Microsoft funcionalidades para](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) obtener más información.
