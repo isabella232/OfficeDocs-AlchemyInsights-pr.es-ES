@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1ddf6475e7cf466a39f76486e0f809097917657bc8f4ae7f7f2b516657308f39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947460"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326594"
 ---
 # <a name="domain-status---no-services-selected"></a>Estado del dominio: sin servicios seleccionados
 
@@ -32,5 +32,5 @@ Para seleccionar servicios para su dominio:
     - Si elige Permitir **que Microsoft agregue sus registros DNS** o Más opciones Configurar mis servicios en línea para mí, todos los servicios disponibles se   >   sugieren y seleccionan automáticamente.
 1. Continúe con el asistente para completar la configuración de DNS y las opciones de servicio.
  
-Para obtener ayuda adicional para configurar el dominio, vea [Agregar registros DNS para conectar el dominio](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Para obtener ayuda adicional para configurar el dominio, vea [Agregar registros DNS para conectar el dominio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501833"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326406"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Agregar o quitar licencias para la suscripción
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501833"
 4. Para comprar o quitar  licencias, en Nueva cantidad en el cuadro **Licencias** totales, escriba el número total de licencias que desea para esta suscripción. Por ejemplo, si tiene 100 licencias y desea agregar 25 más, escriba 125. Si desea quitar 25 licencias, escriba 75.
 5. Seleccione **Guardar**.
 
-Para obtener información sobre cómo asignar licencias, vea [Assign licenses to users](/microsoft-365/admin/manage/assign-licenses-to-users).
+Para obtener información sobre cómo asignar licencias, vea [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-**Recursos**
+**Resources**
   
-- [Agregar o quitar licencias](/microsoft-365/commerce/licenses/buy-licenses)
-- [Cancelar Microsoft 365 para empresas](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Probar o comprar una suscripción Microsoft 365 para empresas](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Agregar o quitar licencias](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Cancelar Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Probar o comprar una suscripción Microsoft 365 para empresas](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
