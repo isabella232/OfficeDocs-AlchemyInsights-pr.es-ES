@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051611"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320614"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Compartir archivos en OneDrive con personas fuera de la organización
 
@@ -31,8 +31,7 @@ ms.locfileid: "54051611"
     
   - **Las personas específicas** solo tienen acceso a las personas especificadas, aunque es posible que otras personas ya tengan acceso. Si las personas reenvía la invitación para compartir, solo las personas que ya tienen acceso al elemento podrán usar el vínculo. 
     
-    > [!NOTE]
-    > Si una de estas opciones no está disponible o si desea que aparezca un tipo de vínculo diferente de forma predeterminada,  puede cambiar la configuración de toda la organización yendo al Centro de administración de OneDrive y haciendo clic en Compartir en el panel izquierdo. [Más información](https://go.microsoft.com/fwlink/?linkid=871961)
+    **Nota:** Si una de estas opciones no está disponible o si desea que aparezca un tipo de vínculo diferente de forma predeterminada, puede cambiar la configuración de toda la organización yendo al Centro de administración de OneDrive y haciendo clic en Compartir en el panel izquierdo.  [Más información](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. De forma predeterminada, **Permitir edición** está activada. Si desea que los usuarios solo verán los archivos, desactive la casilla. 
     

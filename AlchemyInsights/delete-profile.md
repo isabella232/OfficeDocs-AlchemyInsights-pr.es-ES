@@ -14,12 +14,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005541"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320175"
 ---
 # <a name="delete-a-profile"></a>Eliminar un perfil
 
@@ -31,8 +31,7 @@ Para eliminar un perfil, siga estos pasos.
 
 3. En el **cuadro de diálogo** Correo, seleccione el perfil que desea eliminar y, a continuación, haga clic en **Quitar**.
 
-    > [!NOTE]
-    > Outlook advertirle que al eliminar el perfil se quitarán los datos sin conexión. No perderá ninguna información almacenada en sus archivos de datos de Outlook (.pst) ni ninguna información almacenada en sus cuentas en línea, por ejemplo, Outlook.com, Exchange o Microsoft 365.
+    **Nota:** Outlook puede advertirle que al eliminar el perfil se quitarán los datos sin conexión. No perderá ninguna información almacenada en sus archivos de datos de Outlook (.pst) ni ninguna información almacenada en sus cuentas en línea, por ejemplo, Outlook.com, Exchange o Microsoft 365.
   
 Para **Outlook para Mac** de perfiles, vea [Manage profiles or identities in Outlook para Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) o use los pasos siguientes.
   

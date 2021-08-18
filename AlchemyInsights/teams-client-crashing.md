@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890355"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321642"
 ---
 # <a name="teams-client-crashing"></a>El cliente de Teams se bloquea
 
@@ -38,10 +38,11 @@ Si el cliente de Teams sigue bloqueándose, intente reproducir el problema. Si l
 1. Use la Grabación de acciones de usuario para capturar los pasos.
     - Cierre todas las aplicaciones innecesarias o confidenciales.
     - Inicie sesión con la cuenta de usuario afectada, abra la Grabación de acciones de usuario y reproduzca el problema.
-    - [Recopile los registros de los equipos que capturen los pasos de reproducción grabados](https://docs.microsoft.com/microsoftteams/log-files). **Nota**: Asegúrese de capturar la dirección de inicio de sesión del usuario afectado.
+    - [Recopile los registros de los equipos que capturen los pasos de reproducción grabados](https://docs.microsoft.com/microsoftteams/log-files). 
+    
+    **Nota**: Asegúrese de capturar la dirección de inicio de sesión del usuario afectado.
     - Recopile la información de la copia de seguridad o el depósito con errores (Windows). Inicie Windows PowerShell en el equipo donde se produce el bloqueo y ejecute los siguientes comandos (después de cada comando, presione Entrar):
 
-    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
-    `notepad .\FaultBuckets.txt`
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt` `notepad .\FaultBuckets.txt`
     
 2. Después de generar el archivo de texto y aparecer en la pantalla, guárdelo y adjunte a la solicitud de servicio. 
