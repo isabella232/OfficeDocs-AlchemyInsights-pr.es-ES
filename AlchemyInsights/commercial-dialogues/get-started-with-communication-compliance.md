@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9b4fbba05af371356497b68399277da4539a50db
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034699"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327935"
 ---
 # <a name="get-started-with-communication-compliance"></a>Introducción al cumplimiento de las comunicaciones
 
@@ -35,5 +35,4 @@ Antes de comenzar, la organización debe tener una de las siguientes suscripcion
 * Office 365 Enterprise Suscripción E5 (versión de pago o de prueba)
 * Office 365 Enterprise Suscripción E3 + Cumplimiento avanzado de Office 365 complemento (ya no está disponible para las nuevas suscripciones, vea la nota)
 
-    > [!NOTE]
-    > Si no tiene un plan de Office 365 Enterprise E5 existente y desea probar la administración de riesgos de insider, puede agregar [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) a su suscripción existente o registrarse para una prueba de Office 365 Enterprise E5.
+    **Nota:** Si no tiene un plan de Office 365 Enterprise E5 existente y desea probar la administración de riesgos de insider, puede agregar [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) a la suscripción existente o registrarse para una prueba de Office 365 Enterprise E5.

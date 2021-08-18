@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: 3ead2702c2fbd26b2e5596e26e9189c2f97baf93c93ec3cbd57f15c855b5128e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b365921d3ca64e8ad4bd3891e11add8043b2a903
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001499"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329843"
 ---
 # <a name="import-and-export-from-yammer"></a>Importación y exportación desde Yammer
 
@@ -29,8 +29,7 @@ Las opciones de importación de usuarios varían según si la red de Yammer est�
 - **Modo no nativo**: se puede importar a usuarios a grupos mediante [Añadir desde la Libreta de direcciones](https://support.microsoft.com/office/manage-yammer-community-members-75253554-d0f3-4148-b835-e6a9a8a0c294) (limitado a 100 usuarios) dentro de la configuración de grupos, o bien a la red a través de [Actualización masiva](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) dentro de Administrador de red.
 - **Modo nativo**: las operaciones de suscripción a grupos y a la red deben realizarse desde el [portal de Administración de Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users), el [portal de Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) o mediante otra opción de Azure AD. Las redes en Modo nativo ya no tienen acceso a la Actualización masiva y otras funciones heredadas.
 
-> [!IMPORTANT]
-> Yammer nunca fue compatible con la importación de contenido desde el Administrador de red, incluso cuando la característica de Exportación de datos se usó en otra red. Las soluciones de asociados o las API de REST de Yammer pueden volver a publicar el contenido.
+    **Importante**: Yammer nunca admitió la importación de contenido desde el Administrador de red, incluso cuando la característica de exportación de datos se usaba en otra red. Las soluciones de asociados o las API de REST de Yammer pueden volver a publicar el contenido.
 
 **Exportación**
 

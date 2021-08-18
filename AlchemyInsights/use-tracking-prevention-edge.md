@@ -15,12 +15,12 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: 4f1a006b24fe77438bc0d54d72bec440128740ac417d7a9dfc93c90d8f0d49ad
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ae8fc8dc329bb631db313cd576a0f121e7a7179a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889519"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330649"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Usar la prevención de seguimiento en Microsoft Edge (Chromium)
 
@@ -28,6 +28,6 @@ Algunos sitios web usan rastreadores para recopilar la información del explorad
 
 - **Básico**. Menos restrictivo y diseñado para los usuarios que disfrutan de los anuncios personalizados y que no les importa tener un seguimiento en la web. El nivel básico protege a los usuarios contra el seguimiento malintencionado, como de huella digitales y criptografías.
 - **Equilibrado**. El equilibrado es el nivel predeterminado y está diseñado para los usuarios que quieren ver menos anuncios que les sigan por la web. El nivel equilibrado no solo bloquea el seguimiento de los sitios con los que los usuarios nunca interactúan, sino que también minimiza el riesgo de problemas de compatibilidad.
-- **Estricto**. Es el más restrictivo y está diseñado para usuarios a los que no les importa sacrificar la compatibilidad con el sitio web a cambio de la máxima privacidad.
+- **Estricto**. Más restrictivo y diseñado para los usuarios a los que no le importa sacrificar la compatibilidad del sitio web para obtener la máxima privacidad.
 
 Si desea actualizar su configuración de privacidad, en su explorador Microsoft Edge, vaya a **Configuración** > **Privacidad, búsqueda y servicios**. Puede actualizar la configuración de prevención de seguimiento, bloquear el seguimiento, borrar los datos de navegación y explorar otras opciones de privacidad y seguridad para mantener sus datos seguros. Para obtener más información, vea [Prevención de seguimiento en Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/tracking-prevention). 

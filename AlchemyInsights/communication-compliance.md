@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090753"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329935"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Cumplimiento de comunicaciones en Microsoft 365
 
@@ -43,5 +43,4 @@ Requisitos de licencia: los usuarios supervisados por directivas de comunicació
 
 Si no tiene ninguna de las anteriores y desea probar el cumplimiento de las comunicaciones, regístrese para obtener una versión de prueba de **[Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
-> [!NOTE]
-> Los mensajes de correo electrónico pueden tardar hasta 24 horas en procesarse completamente en una directiva. Las comunicaciones Microsoft Teams, Yammer y plataformas de terceros pueden tardar hasta 48 horas en procesarse completamente en una directiva.
+**Nota:** Los mensajes de correo electrónico pueden tardar hasta 24 horas en procesarse completamente en una directiva. Las comunicaciones Microsoft Teams, Yammer y plataformas de terceros pueden tardar hasta 48 horas en procesarse completamente en una directiva.

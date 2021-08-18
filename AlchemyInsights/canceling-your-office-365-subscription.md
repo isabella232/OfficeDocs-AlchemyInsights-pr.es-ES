@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901753"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330189"
 ---
 # <a name="canceling-your-subscription"></a>¿Cancelar la suscripción?
 
@@ -30,7 +30,6 @@ Sentimos que te vayas, pero si quieres cancelar la suscripción, estas son tus o
   
 **Reembolso: cualquier crédito prorrateado se le devolverá en el siguiente ciclo de facturación.**
 
-> [!NOTE]
-> Si no ve la opción de cancelar, seleccione la suscripción para ver la página de detalles. En la **sección Configuración de suscripción y pago,** seleccione Cancelar **suscripción**.
+**Nota:** Si no ve la opción de cancelar, seleccione la suscripción para ver la página de detalles. En la **sección Configuración de suscripción y pago,** seleccione Cancelar **suscripción**.
 
 Para obtener más información, consulta [Cancelar la suscripción](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

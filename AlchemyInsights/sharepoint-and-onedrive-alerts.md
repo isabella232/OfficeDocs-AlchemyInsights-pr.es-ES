@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd60159789bc4945c7f5e464fd1359e8fb8458cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107925"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328455"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Retrasos en la recepción SharePoint y OneDrive alertas
 
@@ -26,6 +26,6 @@ ms.locfileid: "54107925"
 - Si **no se entrega una alerta individual de** un archivo o biblioteca específicos, intente eliminarla y volver a crearla. Consulte Administrar, ver o eliminar [SharePoint alertas para](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) volver a crear la alerta.
 - Comprueba la carpeta Correo no deseado o correo no deseado en el correo electrónico.
 
-> [!NOTE]
-> - Las alertas no se pueden enviar a un grupo de distribución. Solo se admiten grupos de seguridad y O365.
-> - No puede personalizar plantillas de correo electrónico de alerta. Debe usar el flujo Microsoft Flow o SharePoint designer para lograrlos.
+**Nota**:
+- Las alertas no se pueden enviar a un grupo de distribución. Solo se admiten grupos de seguridad y O365.
+- No puede personalizar plantillas de correo electrónico de alerta. Debe usar el flujo Microsoft Flow o SharePoint designer para lograrlos.

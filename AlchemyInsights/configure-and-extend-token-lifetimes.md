@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce100fcc2c62d62477f78e10b3cc9233fc2f5c5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044933"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329103"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>Configurar y extender la duración de un token
 
@@ -34,8 +34,7 @@ El artículo [Configurar el comportamiento de sesión en Azure Active Directory 
 
 Los tokens duran 1 hora y la sesión 24 horas. Esto quiere decir que, si no se realizan solicitudes en 24 horas, deberá iniciar sesión de nuevo antes de poder solicitar un nuevo token.
 
-> [!NOTE]
-> A partir del 30 de mayo de 2020, ningún nuevo espacio empresarial podrá utilizar la directiva de Duración de tokens configurables para configurar los tokens de sesión y de actualización. El desuso tendrá lugar varios meses después, lo que significa que dejaremos de reconocer las directivas de tokens de sesión y de actualización. Tras el desuso, todavía podrá configurar las duraciones de token de acceso.
+**Nota**: Después del 30 de mayo de 2020, ningún inquilino nuevo podrá usar la directiva de duración de tokens configurables para configurar tokens de sesión y actualización. El desuso tendrá lugar varios meses después, lo que significa que dejaremos de reconocer las directivas de tokens de sesión y de actualización. Tras el desuso, todavía podrá configurar las duraciones de token de acceso.
 
 
 

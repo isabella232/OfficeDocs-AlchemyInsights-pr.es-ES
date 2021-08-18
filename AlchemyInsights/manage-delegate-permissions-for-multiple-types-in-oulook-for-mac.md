@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962904"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329751"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Administrar permisos de delegado para varios tipos de elementos en Outlook para Mac
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962904"
 3. En **Delegados**, que muestra una lista de delegados que pueden actuar en nombre, seleccione el delegado.
 4. Haga clic **en el botón** Acción, haga clic en Establecer **permisos** y, a continuación, realice los cambios que desee.
 
-> [!NOTE]
-> Si establece el nivel de permisos en **Ninguno,** el delegado permanece en la lista, lo que le permite restablecer los permisos más adelante.
+**Nota:** Si establece el nivel de permisos en **Ninguno,** el delegado permanecerá en la lista, lo que le permite restablecer los permisos más adelante.

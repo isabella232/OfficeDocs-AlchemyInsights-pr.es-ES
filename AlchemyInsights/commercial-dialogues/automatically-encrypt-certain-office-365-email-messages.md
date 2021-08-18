@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949584"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327991"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Cifrar automáticamente ciertos mensajes Office 365 de correo electrónico
 
@@ -35,8 +35,7 @@ Puede cifrar automáticamente los mensajes que los usuarios envían a determinad
 9. Elija cualquier selección opcional (de una lista de selecciones opcionales que puede realizar en este momento, muchas de las cuales se pueden dejar con la configuración predeterminada para simplificar).
 10. Haga clic en **Guardar**.
 
-> [!IMPORTANT]
-> Siempre puede volver y editar esta regla más adelante.
+**Importante:** Siempre puede volver y editar esta regla más adelante.
 
 Para obtener más información acerca de cómo crear reglas de cifrado, vea Definir reglas de flujo de correo para cifrar mensajes de correo [electrónico en Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 

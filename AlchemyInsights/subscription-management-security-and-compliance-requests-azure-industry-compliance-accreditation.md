@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998960"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328307"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Administración de suscripciones: solicitudes de seguridad y cumplimiento: acreditación de cumplimiento del sector de Azure
 
@@ -38,8 +38,7 @@ Si tiene preguntas relacionadas con el cumplimiento, consulte [Microsoft STP- Co
 
 - **Cumplimiento del RGPD:** si tiene preguntas sobre el Contrato de procesamiento de datos, consulte "Términos de protección de datos" a partir de la página 7 en los "Términos de servicios en línea". La OST incluye los términos principales de procesamiento de datos, pero se incorpora al contrato comercial estándar. Entre otras cosas, proporciona un compromiso contractual con respecto a nuestras obligaciones del RGPD. Además, vea los términos específicos del RGPD al final del contrato en "Datos adjuntos 4", a partir de la página 42. Estas secciones cubren las obligaciones del RGPD de Microsoft como procesador de datos y como subprocesador para otro procesador de datos.
 
-> [!NOTE]
-> Se recomienda usar Adobe Acrobat Reader para abrir documentos PDF, ya que se han observado problemas con otros visores de PDF. También se recomienda descargar el archivo localmente en lugar de abrirlo en una ventana del explorador, ya que puede provocar errores.
+**Nota:** Se recomienda encarecidamente usar Adobe Acrobat Reader para abrir documentos PDF, ya que se han observado problemas con otros visores de PDF. También se recomienda descargar el archivo localmente en lugar de abrirlo en una ventana del explorador, ya que puede provocar errores.
 
 - **Cumplimiento de HDS:** Azure ahora es "Health Data Hosting", certificado de acuerdo con los requisitos franceses. Para obtener más información, vea "Microsoft Azure está certificado para hospedar datos de salud confidenciales en Francia".
 
@@ -49,8 +48,7 @@ Para obtener más información acerca de las pruebas de penetración, vea [Prueb
 
 - **Notificaciones del cliente para cambios de** subprocesador: puede participar para recibir notificaciones de cambios en la lista de subprocesadores de datos personales de Microsoft.
 
-> [!NOTE]
-> La notificación de datos de cliente y lista de datos personales de Servicios en línea está totalmente automatizada. Para obtener más información, vea Recursos de protección de datos de Microsofts.
+**Nota:** Los datos de cliente de Servicios en línea y la notificación de lista de datos personales están totalmente automatizadas. Para obtener más información, vea Recursos de protección de datos de Microsofts.
 
 **Documentos recomendados**
 

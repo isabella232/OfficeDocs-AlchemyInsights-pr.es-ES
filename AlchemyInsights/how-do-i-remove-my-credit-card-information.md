@@ -16,12 +16,12 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 0c3a16236ece1de61e94d9e22835c0acbdc4ecc1acf915c3c1ad26aa0174dc37
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681537d17f0df1e2b97a67a2b2fe8bbc60a74865
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901673"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327771"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>¿Cómo puedo quitar la información de mi tarjeta de crédito?
 
@@ -31,8 +31,7 @@ ms.locfileid: "57901673"
 
 3. Para quitar la tarjeta de crédito o la cuenta bancaria, seleccione **Eliminar método de pago.**
 
-> [!NOTE]
-> No podrá quitar una tarjeta de crédito o cuenta bancaria si se está usando para pagar una suscripción.
+    **Nota:** No podrá quitar una tarjeta de crédito o una cuenta bancaria si actualmente se usa para pagar una suscripción.
 
 4. En el **panel Eliminar método de** pago, seleccione **Eliminar**.
 

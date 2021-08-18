@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892444"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330685"
 ---
 # <a name="update-credit-card-information"></a>Actualizar la información de la tarjeta de crédito
 
 1. En el Centro de administración de Microsoft 365, vaya a **Facturación** \> [Métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Si se produce un error que le dirige de nuevo a la página principal de administración antes de que se completen las actualizaciones, pruebe el modo InPrivate o Incógnito.
+    **Nota**: Si ha experimentado un bucle que le envía de vuelta a la página principal de administración antes de que se completen las actualizaciones, pruebe el modo Inprivate o Incógnito.
   
 2. Seleccione la tarjeta de crédito que desea actualizar.
 
-    > [!NOTE]
-    > Si la suscripción la compró otro administrador, no podrá actualizar la información de la tarjeta de crédito o de la cuenta bancaria que usó para ello. Si la tarjeta de crédito está a punto de expirar y el otro administrador no puede actualizar la información, puede evitar que se interrumpa el servicio agregando otra tarjeta de crédito o una cuenta bancaria nueva a la suscripción mediante **Agregar método de pago**.
+    **Nota**: Si otro administrador ha agregado el método de pago, no podrá actualizar la información de la tarjeta de crédito o de la cuenta bancaria correspondiente. Si la tarjeta de crédito está a punto de expirar y el otro administrador no ha podido actualizarla, puede evitar la interrupción del servicio agregando otra tarjeta de crédito o una nueva cuenta bancaria para la suscripción eligiendo **Agregar método de pago**.
   
 3. En el panel de **Detalles del método de pago**, seleccione **Editar**.
 
