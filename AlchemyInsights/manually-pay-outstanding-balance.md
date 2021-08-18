@@ -19,12 +19,12 @@ ms.custom:
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: 1cff63fa1c79d8863fc4f37b3e046e9d15ed944c9bc57c54137720a0dabd33df
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7640630de510d802be03142129e71545aa145d515cc8a4b9adf79cdf8779844f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503885"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896432"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>Liquidar un saldo pendiente manualmente
 
@@ -35,4 +35,4 @@ Es posible que los cambios recientes en la normativa bancaria para las transacci
 3. En el panel derecho, elija su método de pago actual, seleccione otro método de pago o agregue un nuevo método de pago y, después, seleccione **Liquidar saldo**.
 4. Si su banco lo necesita, se le pedirá que proporcione detalles adicionales sobre seguridad y autenticación.
 
-Para obtener más información, consulte [Administrar métodos de pago](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) y [Pagar la suscripción](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Para obtener más información, consulte [Administrar métodos de pago](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) y [Pagar la suscripción](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

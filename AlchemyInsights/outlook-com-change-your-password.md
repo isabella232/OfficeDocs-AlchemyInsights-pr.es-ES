@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112209"
 ---
 # <a name="change-your-password"></a>Cambiar la contraseña
 
-La contraseña de Outlook.com es la misma que la contraseña de la cuenta de Microsoft.
+La contraseña Outlook.com es la misma que la contraseña de la cuenta microsoft.
   
-Para cambiar la contraseña, vaya a [seguridad](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) de la cuenta de Microsoft y seleccione seguridad de la **contraseña**.
+Para cambiar la contraseña, vaya a [Seguridad de la cuenta microsoft](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) y seleccione Seguridad de **contraseña.**
   
-Si has olvidado tu contraseña, ve a la página [recuperar tu cuenta](https://go.microsoft.com/fwlink/p/?linkid=841909) .
+Si ha olvidado su contraseña, vaya a la [página Recuperar su cuenta.](https://go.microsoft.com/fwlink/p/?linkid=841909)
   
-Para obtener más información, consulte [cambiar la contraseña en Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
+Para obtener más información, [vea Cambiar la contraseña en Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,5 +1,5 @@
 ---
-title: Control de versiones en SharePoint y OneDrive
+title: Control de versiones SharePoint y OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,21 +13,21 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 12207efc9822be6cf096fa4884a3cd244a286cbe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085857"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a>Control de versiones en SharePoint y OneDrive 
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Control de versiones SharePoint y OneDrive 
 
 
-Cuando el control de versiones está habilitado en su lista o biblioteca de SharePoint, puede realizar un seguimiento, almacenar y restaurar los elementos de una lista y los archivos de una biblioteca cada vez que se produzcan cambios. El control de versiones, combinado con otras opciones, como la desprotección, proporciona una gran cantidad de control del contenido que se publica en el sitio y puede proporcionar un valor real si alguna vez tiene que mirar o restaurar una versión anterior de un elemento o archivo.
+Cuando el control de versiones está habilitado en su lista o biblioteca de SharePoint, puede realizar un seguimiento, almacenar y restaurar los elementos de una lista y los archivos de una biblioteca cada vez que se produzcan cambios. El control de versiones, combinado con otras configuraciones, como la desprotección, le proporciona un gran control del contenido que se publica en el sitio y puede proporcionar un valor real si alguna vez tiene que ver o restaurar una versión antigua de un elemento o archivo.
 
-Para obtener más información sobre el control de versiones, visite los siguientes artículos.
+Para obtener más información sobre el control de versiones, visite los artículos siguientes.
 
-- [Cómo funciona el control de versiones en una lista o biblioteca de SharePoint](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [¿Cómo funciona el control de versiones en una SharePoint o biblioteca?](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
 - [Habilitar y configurar las versiones para una lista o biblioteca](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
@@ -40,6 +40,6 @@ Para obtener más información sobre el control de versiones, visite los siguien
 - [Límites de control de versiones](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Si es cliente de Microsoft 365, el control de versiones ahora está activado de forma predeterminada al crear nuevas bibliotecas de OneDrive para la empresa, y se guardarán automáticamente las últimas 500 versiones de un documento. Esto le ayudará a evitar la pérdida de datos o documentos importantes. Si tiene bibliotecas existentes en su sitio de OneDrive para la empresa o en el sitio de grupo que no tienen habilitado el control de versiones, puede activar el control de versiones para ellas en cualquier momento.
+>Si es un cliente Microsoft 365, el control de versiones ahora se activa de forma predeterminada al crear nuevas bibliotecas de OneDrive para la Empresa y guardará automáticamente las últimas 500 versiones de un documento. Esto le ayudará a evitar la pérdida de documentos o datos importantes. Si tiene bibliotecas existentes en el sitio de OneDrive para la Empresa o en el sitio de grupo que no tienen habilitado el control de versiones, puede activar el control de versiones en cualquier momento.
 
 
