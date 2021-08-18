@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908367"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324868"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisos de usuario en SharePoint y OneDrive
 
@@ -34,8 +34,7 @@ Si un usuario de la organización no puede acceder a SharePoint o OneDrive, aseg
     
     Para un sitio de grupo clásico, haga clic en **Compartir** en la esquina superior derecha. Escriba el nombre de la persona a la que desea invitar o escriba Todos para compartir con todos los usuarios de la organización. Haga clic en **Compartir**.
     
-> [!NOTE]
-> Si es miembro de un sitio pero no es propietario, puede invitar a personas al sitio, pero la invitación generará una solicitud de acceso que puede ser aprobada o rechazada por un propietario del sitio. 
+**Nota:** Si es miembro de un sitio pero no es propietario, puede invitar a personas al sitio, pero la invitación generará una solicitud de acceso que puede ser aprobada o rechazada por un propietario del sitio. 
   
 [Obtenga información sobre cómo compartir un archivo o carpeta con un usuario](https://go.microsoft.com/fwlink/?linkid=533408)
   

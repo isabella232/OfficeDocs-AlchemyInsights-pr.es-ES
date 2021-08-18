@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ec8f845f599e397814bc9077c3fe59edb5324192
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896032"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324750"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Leer los registros de auditoría para eventos eliminados
 
@@ -28,8 +28,7 @@ Este es el modo de hacerlo:
    - En el Centro de cumplimiento de Microsoft 365 <https://compliance.microsoft.com> en , vaya a Auditoría **de** \> **soluciones**. O bien, para ir directamente a la **página Auditoría,** use <https://compliance.microsoft.com/auditlogsearch> .
    - En el Microsoft 365 Defender en <https://security.microsoft.com> , vaya a **Auditar**. O bien, para ir directamente a la **página Auditoría,** use <https://security.microsoft.com/auditlogsearch> .
 
-    > [!NOTE]
-    > Si ve un aviso de que necesita activar la característica, adelante y encándala ahora. Si la característica no está activada, los resultados de la búsqueda no podrán extraer datos de fechas anteriores.
+    **Nota:** Si ve un aviso de que necesita activar la característica, adelante y encándala ahora. Si la característica no está activada, los resultados de la búsqueda no podrán extraer datos de fechas anteriores.
 
 2. En la **pestaña Búsqueda** de la **página Auditoría,** configure las siguientes opciones:
    - **Intervalo de fecha y hora:** seleccione el intervalo de fecha y hora en los **cuadros** Inicio **y** Fin.
@@ -45,7 +44,6 @@ Este es el modo de hacerlo:
 
 4. Seleccione una actividad en los resultados para abrir el menú desplegable de detalles. Se muestra información adicional sobre el elemento eliminado, como la línea de asunto y la ubicación del elemento cuando se eliminó, en el **campo AffectedItems.**
 
-   > [!NOTE]
-   > No puede restaurar elementos eliminados con la característica de registro de auditoría. Para restaurar elementos eliminados, vea [Recuperar mensajes de correo electrónico eliminados en Outlook en la Web](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11).
+   **Nota:** No puede restaurar elementos eliminados con la característica de registro de auditoría. Para restaurar elementos eliminados, vea [Recuperar mensajes de correo electrónico eliminados en Outlook en la Web](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11).
 
 Para obtener más información, [vea Search the audit log to investigate common support issues](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).

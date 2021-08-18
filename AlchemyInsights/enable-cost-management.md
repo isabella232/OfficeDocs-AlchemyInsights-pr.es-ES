@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003586"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325480"
 ---
 # <a name="enable-cost-management"></a>Habilitar la administración de costos
 
@@ -34,8 +34,7 @@ Después de iniciar sesión en Azure Portal, pueden usar las API de facturación
 2. Seleccione **Facturas y,** a **continuación, Acceso a facturas**.
 3. Activa el acceso, seguido de guardar los cambios, para permitir que los usuarios con roles de ámbito de suscripción descarguen facturas.
 
-> [!NOTE]
-> El administrador de la cuenta también puede configurar para que las facturas se envíen por correo electrónico. Para obtener más información, consulte [Get your invoice in email](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Nota:** El administrador de la cuenta también puede configurar para que las facturas se envíen por correo electrónico. Para obtener más información, consulte [Get your invoice in email](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Cómo agregar usuarios al rol Lector de facturación**
 

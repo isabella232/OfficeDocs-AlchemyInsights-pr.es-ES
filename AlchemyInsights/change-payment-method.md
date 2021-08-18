@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895508"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324053"
 ---
 # <a name="change-payment-method"></a>Cambiar el método de pago
 
@@ -30,8 +30,7 @@ Puede cambiar el método de pago desde el **Centro de administración de Microso
 2. Seleccione la fila del método de pago que desea reemplazar. En el panel derecho se muestran todos los perfiles de facturación y las suscripciones individuales que usan el método de pago seleccionado.
 3. En el panel derecho, seleccione **Reemplazar método de pago para todos los artículos**.
 4. Para usar un método de pago existente, elija uno de la lista desplegable y seleccione **Reemplazar**.
-    > [!NOTE]
-    > Si tiene una suscripción asociada a un perfil de facturación, solo puede usar una tarjeta de crédito o débito para pagar por ella. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
+    **Nota:** Si tienes suscripciones asociadas a un perfil de facturación, solo puedes usar una tarjeta de crédito o débito para pagarlas. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
 5. Para agregar un nuevo método de pago, seleccione **Agregar método de pago**.
 6. En el panel **Agregar método de pago**, escriba la información de la cuenta y seleccione **Guardar**. Debe usar un método de pago del mismo país que su espacio empresarial.
 7. El nuevo método de pago ya está seleccionado en la lista desplegable. Seleccione **Reemplazar**.

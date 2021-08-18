@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868695"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323803"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>¿Cómo cambio de pagos con tarjeta de crédito a factura?
 
-> [!NOTE]
-> Solo puede cambiar al pago con factura si el precio de su suscripción es superior a una cantidad determinada. Primero debe pagar los saldos pendientes en la tarjeta de crédito o débito o cuenta bancaria antes de cambiar al pago mediante factura.
+**Nota:** Solo puede cambiar al pago por factura si su suscripción cuesta por encima de una cantidad determinada. Primero debe pagar los saldos pendientes en la tarjeta de crédito o débito o cuenta bancaria antes de cambiar al pago mediante factura.
 
 1. En el centro de administración, vaya a la página **Facturación** > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. En la pestaña **Productos**, busque la suscripción por la que quiere pagar con el método de pago alternativo.

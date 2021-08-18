@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895904"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325312"
 ---
 # <a name="expired-subscription"></a>Suscripción expirada
 
@@ -29,9 +29,8 @@ Parece que tiene una o más suscripciones expiradas. Si desea continuar con el s
 **Reactivar**
   
 1. En el centro de administración, vaya a la página **Facturación** \> [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. En la pestaña **Productos**, busque la suscripción que quiera reactivar. Seleccione los tres puntos (más acciones) y después elija **Reactivar esta suscripción**.
-    > [!NOTE]
-    > Si no ve **Reactivar** esta suscripción, llame al soporte técnico.
+2. En la pestaña **Productos**, busque la suscripción que quiere reactivar. Seleccione los tres puntos (más acciones) y, después, seleccione **Reactivar esta suscripción**.
+    **Nota:** Si no ve Reactivar esta **suscripción,** llame al soporte técnico.
 3. En el panel **Reactivar esta suscripción**, seleccione un método de pago de la lista desplegable o seleccione **Agregar método de pago**.
 4. Seleccione **Guardar**.
 

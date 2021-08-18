@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e55175e7613d220eaf956d3c7fd02213dcd5803d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930078"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324007"
 ---
 # <a name="fix-common-problems-with-dkim-record-formatting"></a>Corregir problemas comunes con el formato de registro DKIM
 
@@ -28,5 +28,4 @@ Para corregir los problemas de configuración de DKIM, compruebe que el registro
 
 Si necesita ayuda con registros DNS en general, vea [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-> [!NOTE]
-> Después de crear o actualizar los registros DNS DKIM en el servicio de hospedaje DNS de su dominio, tendrá que esperar a que se propaguen los registros DNS.
+**Nota:** Después de crear o actualizar los registros DNS DKIM en el servicio de hospedaje DNS de su dominio, tendrá que esperar a que se propaguen los registros DNS.

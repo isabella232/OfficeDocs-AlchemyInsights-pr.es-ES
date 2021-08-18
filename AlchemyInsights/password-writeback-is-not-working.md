@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 679dea6d488cf74f51baee2b3b498dc64b95530e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999761"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324940"
 ---
 # <a name="password-writeback-is-not-working"></a>La reescribición de contraseñas no funciona
 
@@ -31,8 +31,7 @@ ms.locfileid: "53999761"
     - Para obtener más información sobre los requisitos de licencias, consulte [Licensing requirements for Azure AD self-service password reset](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
 - Tiene al menos una cuenta de administrador y una cuenta de usuario de prueba con una de la licencia adecuada.
 - Debe conectar Azure AD Conectar al controlador de dominio principal Emulator para que la escritura de contraseña funcione. Puede configurar Azure AD Conectar usar un controlador de dominio  principal haciendo clic con el botón secundario en las propiedades del conector de sincronización de Active Directory y, a continuación, **seleccionando configurar particiones de directorio**. A partir de ahí, busque la sección **configuración** de conexión del controlador de dominio y active la casilla titulada **solo usar controladores de dominio preferidos.**
-  > [!NOTE]
-  > Si el CONTROLADOR de dominio preferido no es un emulador de PDC, Azure AD Conectar se pondrá en contacto con el PDC para la escritura de escritura por contraseña.
+    **Nota**:Si el CONTROLADOR de dominio preferido no es un emulador de PDC, Azure AD Conectar se pondrá en contacto con la PDC para la reescribición de contraseñas.
 - El restablecimiento de contraseña se ha configurado y habilitado en el espacio empresarial. Para obtener más información, vea [Permitir que los usuarios restablezcan sus contraseñas de Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
 - Asegúrese de que la cuenta de administrador que se usa para habilitar la reescribición de contraseñas sea una cuenta de administrador en la nube (creada en Azure AD no en AD local)
 - Tiene una implementación local de AD única o de varios bosques que ejecuta Windows Server 2008 R2, Windows Server 2012 o Windows Server 2012 R2 con los service pack más recientes instalados

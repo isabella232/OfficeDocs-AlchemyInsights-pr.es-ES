@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058523"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324588"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Configurar una protección contra correo no deseado
 
-Este es el modo de hacerlo:
+1. En el portal Microsoft 365 Defender en , vaya a Correo electrónico & directivas de colaboración & reglas directivas contra correo no deseado en <https://security.microsoft.com/>  \>  \>  \>  la **sección** Directivas.
 
-1. Vaya al Centro [de Office 365 seguridad & cumplimiento](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Vaya a **Directiva de administración**  >  **de** amenazas y haga clic **[en Correo no deseado.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. En la **pestaña** Personalizado, activa **Configuración** personalizada.
-1. Expanda la **directiva de filtro de correo no deseado predeterminado,** haga clic en Editar **directiva** y, a continuación, especifique la siguiente configuración:
-    1. En la sección Correo no deseado y acciones **masivas,** establezca el umbral en un valor de 5 o 6.
-1. Haga clic en **Guardar**.
+   Para ir directamente a la página **Directivas contra correo no deseado**, use <https://security.microsoft.com/antispam>.
 
-Para obtener más información sobre las opciones de la directiva contra correo no deseado, vea [Configure the anti-spam policies](https://go.microsoft.com/fwlink/?linkid=2092051).
+2. En la **página Directivas contra correo** no deseado, siga uno de estos pasos:
+   - Para agregar una nueva directiva, seleccione **+ Crear** \> **entrada**. Se iniciará un asistente para ayudarle a definir la configuración de la directiva.
+   - Para editar una directiva existente, seleccione la directiva haciendo clic en el nombre de la directiva (**Type** is **Custom anti-spam policy** or **Name** is **Anti-Spam inbound policy (Default)**). En el control desplegable de detalles que aparece, seleccione **Editar** en la sección que contiene la configuración que desea configurar.
+
+3. Después de revisar la configuración, selecciona **Enviar** (nuevo) o **Guardar** (editar).
+
+Para más información, consulte [Configurar directivas contra correo electrónico no deseado en EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

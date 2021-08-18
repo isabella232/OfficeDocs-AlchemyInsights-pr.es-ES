@@ -1,5 +1,5 @@
 ---
-title: El icono de calendario no se muestra en el cliente de Microsoft Teams
+title: El icono de calendario no se muestra en Microsoft Teams cliente
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120021"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>El icono de calendario no se muestra en el cliente de Microsoft Teams
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>El icono de calendario no se muestra en Microsoft Teams cliente
 
-La ficha **calendario** en Microsoft Teams requiere acceso a un buzón de Exchange a través de los servicios web Exchange. El buzón de Exchange puede estar en línea o local. Para los usuarios en línea que no ven la ficha **calendario** , asegúrese [de que tienen licencia para un buzón de Exchange Online y el buzón de correo está habilitado](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Si los usuarios están hospedados en local, debe confirmar que la configuración híbrida es correcta. Use el [Asistente para la configuración híbrida](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) para solucionar el problema. Tenga en cuenta que [Teams requiere Exchange 2016 CU3 o una versión superior](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+La **pestaña** Calendario en Teams requiere acceso a un buzón Exchange mediante Exchange Web Services. El Exchange buzón de correo puede ser En línea o Local. Para los usuarios en línea que no ven **la** pestaña Calendario, asegúrese de que tienen licencia para un buzón de Exchange Online y que el buzón [está habilitado.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) Si los usuarios están adosados localmente, debe confirmar que la configuración híbrida está en buen estado. Use el [Asistente para la configuración híbrida](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) para solucionar el problema. Tenga en cuenta que [Teams requiere Exchange 2016 CU3 o una versión superior](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 
-Para obtener más información y pasos para la solución de problemas, consulte [solucionar problemas de interacción de Microsoft Teams y Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Para obtener más información y pasos de solución de problemas, [vea Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
