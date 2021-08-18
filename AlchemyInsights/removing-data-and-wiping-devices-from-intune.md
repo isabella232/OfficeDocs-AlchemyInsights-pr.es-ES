@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922276"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331058"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Eliminación de datos y borrado de dispositivos desde Intune
 
@@ -32,8 +32,7 @@ Las acciones remotas de eliminación y borrado de dispositivos se pueden usar pa
 4. Seleccione **Sí** para confirmar. Hasta que la eliminación finalice, el estado de la acción del dispositivo se mostrará como *Eliminación pendiente*.
     Cuando se haya completado esta acción, ya no verá el dispositivo móvil en la lista de dispositivos administrados.
 
-> [!NOTE]
-> Los datos de la empresa no se pueden eliminar de los dispositivos CONECTADOS a Azure AD. 
+**Nota**: Los datos de la empresa no se pueden eliminar de los dispositivos UNIDOS a Azure AD. 
 
 Para obtener todos los detalles del efecto de las acciones Retirar y Borrar, incluido lo que se conserva y lo que se elimina, vea la documentación siguiente:
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082419"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332452"
 ---
 # <a name="change-a-users-email-address"></a>Cambiar la dirección de correo electrónico de un usuario
 
@@ -31,7 +31,7 @@ Cambiar la dirección de correo electrónico de alguien es fácil. Siga estos pa
     
 4. En el **cuadro Alias,** escriba un nuevo correo electrónico y, a continuación, **elija Agregar**.
     
-    **IMPORTANTE**: Si recibe el mensaje de error " No se puede encontrar un parámetro que coincida con el nombre del parámetro **'EmailAddresses"** significa que Microsoft tarda un poco más en terminar de configurar el espacio empresarial o el dominio personalizado si agregó uno recientemente. El proceso de configuración puede tardar hasta 4 horas en completarse. Espere un poco para que el proceso de configuración tenga el tiempo suficiente para finalizarse y después inténtelo de nuevo. Si el problema continúa, llame al soporte técnico, que realizará una sincronización completa.
+    **Importante:** Si recibe el mensaje de error " No se puede encontrar un parámetro que coincida con el nombre del parámetro **'EmailAddresses"** significa que Microsoft tarda un poco más en terminar de configurar el espacio empresarial o el dominio personalizado si agregó uno recientemente. El proceso de configuración puede tardar hasta 4 horas en completarse. Espere un poco para que el proceso de configuración tenga el tiempo suficiente para finalizarse y después inténtelo de nuevo. Si el problema continúa, llame al soporte técnico, que realizará una sincronización completa.
     
     Si recibe el mensaje de error " Lo sentimos, no se pudo **editar el usuario. Revise la información del** usuario e inténtelo de nuevo " significa que no es un administrador global y que no tiene permisos para cambiar el nombre del usuario.
     

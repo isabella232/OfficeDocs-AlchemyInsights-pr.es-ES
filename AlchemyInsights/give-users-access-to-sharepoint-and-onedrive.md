@@ -12,17 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c27997b1bca1d47ad876a0a6941607517912333
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088918"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333140"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Dar a los usuarios acceso a SharePoint y OneDrive
 
-> [!NOTE]
-> Si un sitio OneDrive o SharePoint no está disponible para varios usuarios que tenían acceso anteriormente, puede haber un problema de servicio temporal. [Comprobar el panel de estado del servicio](https://portal.office.com/adminportal/home#/servicehealth)
+**Nota:** Si un sitio OneDrive o SharePoint no está disponible para varios usuarios que tenían acceso anteriormente, puede haber un problema de servicio temporal. [Comprobar el panel de estado del servicio](https://portal.office.com/adminportal/home#/servicehealth)
   
 Si desea que los usuarios de su organización puedan iniciar sesión y usar SharePoint y OneDrive, debe agregar cuentas para ellas y asegurarse de que tienen una licencia que les da acceso a SharePoint y OneDrive. La forma más sencilla de agregar usuarios está en el Centro de administración de Microsoft 365.
   

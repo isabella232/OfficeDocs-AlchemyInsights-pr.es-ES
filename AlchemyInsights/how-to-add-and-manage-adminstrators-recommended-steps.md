@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963804"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339049"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cómo agregar y administrar administradores: pasos recomendados
 
@@ -46,7 +46,7 @@ El administrador de servicios o el co-administrador pueden auto-servir esta acci
 3. Vaya a Control de **acceso (IAM)** Administradores clásicos Agregar coadministrador para abrir el panel Agregar  >    >    >    coadministrador (Si la opción Agregar coadministrador está deshabilitada, indica que no tiene permisos).
 4. Seleccione el usuario al que desea agregar y haga clic en **Agregar**.
 
-**Aprende más:**
+**Más información:**
 - [Agregar un co-administrador](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Quitar un co-administrador](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Cambiar el administrador del servicio](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
@@ -75,7 +75,7 @@ Puede agregar nuevos usuarios o eliminar usuarios existentes de su Azure Active 
 - [Tutorial: Conceder acceso a un usuario mediante RBAC y Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Solucionar problemas de RBAC en Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Organizar los recursos con grupos de administración de Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Cómo solicitar una copia de la factura de Azure por correo electrónico](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Cómo solicitar una copia de la factura de Azure por correo electrónico](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Cómo agregar, actualizar o quitar una tarjeta de crédito o débito de Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Administrar (reactivar/cancelar/cambiar) suscripción](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

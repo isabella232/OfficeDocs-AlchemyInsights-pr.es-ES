@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 61372075ac8ccf04606a8003b4ec29f89fc048e5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894480"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332396"
 ---
 # <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Habilitar Caja fuerte datos adjuntos para SharePoint Online, OneDrive y Microsoft Teams
 
@@ -28,11 +28,8 @@ ms.locfileid: "57894480"
 2. En la **página Caja fuerte datos adjuntos,** haga clic en **Configuración global**.
 3. En el menú desplegable que aparece, seleccione Activar Microsoft Defender para Office 365 para **SharePoint,** OneDrive y Microsoft Teams y, a continuación, **seleccione Guardar**.
 
-    > [!TIP]
-    >
-    > Siga estos pasos para mejorar la protección de Caja fuerte datos adjuntos para SharePoint, OneDrive y Microsoft Teams:
-    >
-    > - Para evitar que los usuarios descarguen archivos malintencionados, use el valor del parámetro `$true` *DisallowInfectedFileDownload* en el cmdlet **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** en SharePoint PowerShell en línea. Para obtener más información, [vea Use SharePoint Online PowerShell to prevent users from downloading malicious files](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files).
-    > - [Crear una directiva de alerta para archivos detectados](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
+    **Sugerencia:** Siga estos pasos para mejorar la protección de Caja fuerte datos adjuntos para SharePoint, OneDrive y Microsoft Teams:
+    - Para evitar que los usuarios descarguen archivos malintencionados, use el valor del parámetro `$true` *DisallowInfectedFileDownload* en el cmdlet **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** en SharePoint PowerShell en línea. Para obtener más información, vea [Use SharePoint Online PowerShell to prevent users from downloading malicious files](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files).
+    - [Crear una directiva de alerta para archivos detectados](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
 Para obtener más información, vea [Caja fuerte Attachments for Office 365 for SharePoint, OneDrive y Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).
