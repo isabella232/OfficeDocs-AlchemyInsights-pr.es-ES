@@ -1,5 +1,5 @@
 ---
-title: Le damos la bienvenida a la vista previa privada del preestreno de 365 de Microsoft 365
+title: Bienvenido a la vista previa Microsoft 365 Lighthouse privada
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004405"
 - "7958"
-ms.openlocfilehash: cca5f2200d9a43ee35bd15262e5e2b8913d21d8f
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: c68747fbea80732f80d7537e123eae95e52e02548a37c899350a5d1f9f5cd53d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114261"
 ---
-# <a name="welcome-to-the-microsoft-365-lighthouse-private-preview"></a>Le damos la bienvenida a la vista previa privada de 365 desfilada de Microsoft 365
+# <a name="welcome-to-the-microsoft-365-lighthouse-private-preview"></a>Bienvenido a la vista previa Microsoft 365 Lighthouse privada
 
-Está participando en la versión preliminar privada de Microsoft 365 Desfilando. Si desea enviar comentarios sobre el resalte de Microsoft 365, publique detalles en nuestro [sitio de User Voice.](https://aka.ms/M365Lighthouseuservoice) Si tiene alguna pregunta o se enfrenta a un problema al usar Microsoft 365, cree una solicitud de soporte técnico para obtener más ayuda.
+Está participando en la versión preliminar privada para Microsoft 365 Lighthouse. Si desea proporcionar comentarios acerca de Microsoft 365 Lighthouse, publique detalles en nuestro sitio [de Voz de usuario](https://aka.ms/M365Lighthouseuservoice). Si tiene una pregunta o tiene un problema al usar Microsoft 365 Lighthouse, cree una solicitud de soporte técnico para obtener más ayuda.

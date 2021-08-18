@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: d1d0a481ee5d5803a5ff1205bc167bf301902cbdceccf0a6ceb8497ebc65e54a
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503129"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901041"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Comprar Microsoft Defender para Office 365
 
-Microsoft Defender para Office 365 está incluido en determinadas suscripciones, como Microsoft 365 E5, Office 365 E5, Office 365 A5 y Microsoft 365 Empresa Premium. Si la suscripción no incluye Microsoft Defender para Office 365, puedes comprar [Microsoft Defender](/microsoft-365/security/office-365-security/office-365-atp) para Office 365 como complemento de determinada suscripción. Para comprar en el Centro de administración de Microsoft 365:
+Microsoft Defender para Office 365 está incluido en determinadas suscripciones, como Microsoft 365 E5, Office 365 E5, Office 365 A5 y Microsoft 365 Empresa Premium. Si la suscripción no incluye Microsoft Defender para Office 365, puedes comprar [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) para Office 365 como complemento de determinada suscripción. Para comprar en el Centro de administración de Microsoft 365:
 
 1. En el Centro de administración, vaya a la página **Servicios de compra** de  >  [facturación.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. En la parte inferior de la  página **Servicios** de compra, en la sección Complementos, busque el complemento de Microsoft Defender para Office 365 y seleccione **Detalles**.
@@ -33,6 +33,6 @@ Microsoft Defender para Office 365 está incluido en determinadas suscripciones,
 5. Si es necesario, revise la información de precios y pedidos y, a continuación, **seleccione Siguiente**.
 6. Elija un método de pago, o agregue uno nuevo y, a continuación, **seleccione Realizar pedido** Ir a inicio de  >  **administración.**
 
-Para asignar licencias a los usuarios, vea [Asignar licencias a usuarios.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Para asignar licencias a los usuarios, vea [Asignar licencias a usuarios.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Para asignar más licencias o quitarlas, consulte [Agregar o quitar licencias](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Para asignar más licencias o quitarlas, consulte [Agregar o quitar licencias](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

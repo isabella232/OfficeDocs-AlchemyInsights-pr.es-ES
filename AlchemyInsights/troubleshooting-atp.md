@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038822"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900669"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Solución de problemas de Microsoft Defender para Office 365
 
-- **¿Nota retrasos en la entrega de mensajes?** Usa la [opción Entrega dinámica](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) en tu Microsoft Defender para la directiva Office 365 Caja fuerte datos adjuntos. Esto ayudará a evitar retrasos en los mensajes mientras protege a los destinatarios de archivos malintencionados.
+- **¿Nota retrasos en la entrega de mensajes?** Usa la [opción Entrega dinámica](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) en tu Microsoft Defender para la directiva Office 365 Caja fuerte datos adjuntos. Esto ayudará a evitar retrasos en los mensajes mientras protege a los destinatarios de archivos malintencionados.
 
 - **¿Desea notificar falsos positivos o falsos negativos a Microsoft?** Use [el Explorador de envíos](https://protection.office.com/reportsubmission).
 

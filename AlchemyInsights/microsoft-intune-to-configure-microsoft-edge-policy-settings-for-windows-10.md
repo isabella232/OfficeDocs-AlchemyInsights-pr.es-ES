@@ -1,5 +1,5 @@
 ---
-title: Usar Microsoft Intune para configurar las opciones de directiva de Microsoft Edge para Windows 10
+title: Use Microsoft Intune para configurar las Microsoft Edge de directiva para Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7096"
 - "8365"
-ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114153"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Usar Microsoft Intune para configurar las opciones de directiva de Microsoft Edge para Windows 10
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Use Microsoft Intune para configurar las Microsoft Edge de directiva para Windows 10
 
-Puede configurar las directivas y opciones de Microsoft Edge agregando un perfil de configuración de dispositivo a Microsoft Intune. Esto equivale a configurar las directivas de grupo de Microsoft Azure Active Directory o la configuración de objetos de directiva de grupo (GPO) locales en dispositivos de usuario.
+Puedes configurar las Microsoft Edge y la configuración agregando un perfil de configuración de dispositivo a Microsoft Intune. Esto equivale a configurar las directivas Microsoft Azure Active Directory grupo o la configuración de objetos de directiva de grupo (GPO) locales en dispositivos de usuario.
 
-Para obtener más información, consulta [Crear un perfil para administrar la configuración en Microsoft Edge para Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
+Para obtener más información, vea [Create a profile to manage settings in Microsoft Edge for Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
 
-Este artículo se aplica a las versiones 77 y posteriores de Microsoft Edge.
+Este artículo se aplica a Microsoft Edge versiones 77 y posteriores.

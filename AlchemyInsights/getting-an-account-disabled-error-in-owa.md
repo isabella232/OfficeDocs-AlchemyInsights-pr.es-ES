@@ -1,5 +1,5 @@
 ---
-title: 123 obtener un error de cuenta deshabilitada en OWA?
+title: 123 ¿Se ha deshabilitado un error de cuenta en OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089349"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>¿Se obtiene un error de cuenta deshabilitada en Outlook en la web?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Obtener un error de cuenta deshabilitada en Outlook en la Web?
 
-Si recibe el error con el que se ha **deshabilitado la cuenta**  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` cuando intenta abrir Outlook en la web (anteriormente conocido como Outlook Web App), es posible que el administrador de la organización haya deshabilitado el acceso a Outlook en la Web. El administrador puede solucionar este error si sigue los pasos descritos en el tema [enable or Disable Outlook Web App for a Mailbox](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Si recibe el error **Su** cuenta se ha deshabilitado al intentar abrir Outlook en la Web (anteriormente conocido como Outlook Web App), es posible que el administrador de la organización haya deshabilitado el acceso `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` a Outlook en la Web. El administrador puede corregir este error siguiendo los pasos del tema Habilitar o deshabilitar Outlook Web App [para un buzón](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
