@@ -1,5 +1,5 @@
 ---
-title: 726 Bloqueo del reenvío de correo electrónico
+title: Bloquear o desbloquear el reenvío automático de correo electrónico externo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059649"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897485"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Bloqueo o desbloqueo del reenvío de correo electrónico
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Bloquear o desbloquear el reenvío automático de correo electrónico eterno
 
 Para habilitar o deshabilitar el reenvío de correo electrónico para un buzón específico, vea [Configure email forwarding](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-En el nivel de inquilino, el control del reenvío externo se realiza mediante la directiva de correo no deseado saliente. Puede comprobar la directiva de filtro de correo no deseado saliente desde el Centro de seguridad y cumplimiento [aquí](https://protection.office.com/antispam) o mediante el comando [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Los administradores pueden controlar el reenvío externo para la organización mediante [directivas de correo no deseado salientes.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Las directivas de correo no deseado salientes se administran en el portal de Microsoft 365 Defender o mediante el <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) en Exchange Online PowerShell.
 
-Si recibe el siguiente error: **"550 5.7.520 Acceso denegado,** Su organización no permite el reenvío externo", asegúrese de que la directiva está configurada para habilitar el reenvío automático externo.
+Si recibe el siguiente error: **"550 5.7.520 Acceso denegado,** Su organización no permite el reenvío externo", asegúrese de que la directiva está configurada para habilitar los mensajes de reenvío automático externos.
 
-**Nota:** Se recomienda mantener deshabilitada la opción Autoforward externo en la directiva de filtro de correo no deseado saliente predeterminada y habilitarla solo para los usuarios que necesiten reenvío externo mediante la creación de una directiva personalizada para esos usuarios. Puede leer más en [Configurar el reenvío de correo electrónico externo en Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Nota:** Se recomienda el valor predeterminado  **Automático:** sistema controlado para la configuración de reglas de reenvío automático en la directiva de filtro de correo no deseado saliente predeterminada (el reenvío externo automático está bloqueado; el reenvío automático interno sigue funcionando). Debe crear directivas de filtro de correo no deseado saliente personalizadas y usar el valor **Activado: el** reenvío solo está habilitado para los usuarios que necesiten reenvío automático de correo electrónico externo. Para obtener más información, vea [Configuring external email forwarding in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 4eae45992d3fe6b31ae4d1aed02484cf20cb2260
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: cd3d7d272552d5cd3f21f41160522001d79339d84a6d2259e1b1868deee66ef0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087261"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Asignar una biblioteca SharePoint a una unidad de red
 
@@ -24,8 +24,8 @@ En lugar de asignar una unidad de red, sincronice SharePoint archivos con el nue
 
 Si decide asignar una unidad en lugar de usar el nuevo [cliente Sincronización de OneDrive,](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)asegúrese de seguir estos pasos:
 
-- [Solucionar problemas de unidades de red asignadas que se conectan a SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+- [Solucionar problemas de unidades de red asignadas que se conectan a SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-- [Los errores de autenticación se producen cuando el cliente no tiene compatibilidad con TLS 1.2](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
+- [Los errores de autenticación se producen cuando el cliente no tiene compatibilidad con TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
 **NOTA:** Si usa Internet Explorer 10 con Windows 8 o Windows 7 y recibe Acceso  denegado  o Ruta de acceso no es accesible al asignar una unidad, resuelva este problema instalando esta [revisión](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d).

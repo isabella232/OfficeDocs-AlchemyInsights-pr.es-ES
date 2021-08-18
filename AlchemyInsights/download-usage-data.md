@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004279"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315601"
 ---
 # <a name="download-usage-data"></a>Descargar datos de uso
 
@@ -26,8 +26,7 @@ Ha seleccionado una suscripción asociada a un contrato de empresa de Azure.
 
 Para ver y descargar datos de uso como Enterprise cliente de Azure (EA), siga estos pasos:
 
-> [!NOTE]
-> Debe ser administrador de empresa, propietario de cuenta o administrador de departamento, con la directiva de cargos de vista habilitada. 
+**Nota:** Debe ser administrador de empresa, propietario de cuenta o administrador de departamento, con la directiva de cargos de vista habilitada. 
 
 1. Inicie sesión en Azure Portal y busque **Administración de costos + Facturación**.
 2. Seleccione un perfil de facturación y haga clic **en Uso + cargos**.

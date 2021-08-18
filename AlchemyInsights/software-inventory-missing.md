@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: 191d6ae772dc1b1c6b15071da9c4aca14429cf2db17be6ee0db6b23ea0d29e2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f26fab92d0159c06eb600cf9ec4161892561a719e8d113d15bfbac133301e793
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084660"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897613"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>El inventario de software no se encuentra o no es exacto.
 
@@ -32,8 +32,8 @@ Si realizó un cambio de software y el cambio no se refleja con precisión en la
 
 1. Compruebe la sección de evidencia del software para comprender cómo fue detectado el software.
 1. Asegúrese de que el software sea compatible. Es posible que el software solo sea visible a nivel del dispositivo, incluso si actualmente no es compatible con la Administración de amenazas y vulnerabilidades. Sin embargo, solo están disponibles los datos limitados.
-1. Para obtener información sobre cómo informar la inexactitud desde el portal, consulte [Informar inexactitud](/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy).
+1. Para obtener información sobre cómo informar la inexactitud desde el portal, consulte [Informar inexactitud](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy).
    
     **Nota**: Informar de una inexactitud desde el portal MDE es un canal una sola vía para la ingeniería. Si el problema es urgente, abra un vale de soporte.
 
-Para obtener más información, vea [Inventario de software: Administración de amenazas y vulnerabilidades](/microsoft-365/security/defender-endpoint/tvm-software-inventory).
+Para obtener más información, vea [Inventario de software: Administración de amenazas y vulnerabilidades](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory).
