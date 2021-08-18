@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055571"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318665"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Cómo habilitar el correo de voz hospedado
 
@@ -31,5 +31,4 @@ Para obtener más información sobre cómo conectarse a RPS, vea Microsoft Teams
 1. El administrador Teams debe iniciar sesión en PowerShell remoto para Teams.
 1. Desde PowerShell, el administrador de Teams puede ejecutar **set-csuser user@contoso.com -HostedVoiceMail $true** donde el uri del sip es del usuario en cuestión.
 
-> [!NOTE]
-> Los cambios en las directivas pueden tardar hasta 24 horas en replicarse.
+**Nota:** Los cambios en las directivas pueden tardar hasta 24 horas en replicarse.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091053"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Preparación para aprovisionar usuarios a través de la sincronización de directorios con Office 365
 
@@ -29,7 +29,7 @@ Algunas acciones que deben tener lugar en el aprovisionamiento de usuarios inclu
 1. **Preparación de atributos y objetos de directorio.**
 1. **Preparación de atributos UPN**.
 1. **Adición opcional de sufijos UPN alternativos a AD DS**.
-1. Coincidencia de UPN locales con los UPN de **Office 365**.
+1. **Coincidencia de UPN locales con los UPN Office 365 UPN**.
 1. **Herramientas de integración de directorios**.
 
-Para obtener descripciones detalladas sobre cada paso de preparación, vea el artículo Preparar para aprovisionar usuarios a través de la sincronización de directorios [en Office 365](https://aka.ms/office365assistantprovisionuserstooffice365).
+Para obtener descripciones detalladas sobre cada paso de preparación, vea [Prepare to provision users through directory synchronization to Office 365 article](https://aka.ms/office365assistantprovisionuserstooffice365).

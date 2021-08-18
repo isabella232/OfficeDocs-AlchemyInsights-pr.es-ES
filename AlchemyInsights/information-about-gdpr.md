@@ -12,16 +12,16 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ab1d8283bcd537cf666dd60b3a23459d4d1dfa8aa5167e2d6fb2a9b779b4b3e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115521"
 ---
 # <a name="information-about-gdpr"></a>Información sobre RGPD
 
-- [RGPD simplificado: Una guía para su pequeña empresa](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [RGPD simplificado: Una guía para su pequeña empresa](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - Introducción con el [Portal de confianza de servicio.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
@@ -31,7 +31,7 @@ ms.locfileid: "58311308"
 
   - [Informes de auditoría](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Información sobre **solicitudes de interesados** (DSR): descubra, acceda, rectifique, restrinja, elimine, [exporte aquí.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Información sobre **solicitudes de interesados** (DSR): descubra, acceda, rectifique, restrinja, elimine, [exporte aquí.](/microsoft-365/compliance/gdpr-dsr-office365)
 
 - La información sobre **la notificación de vulneración de datos** está [aquí.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 

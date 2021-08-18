@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6874"
 - "9001223"
-ms.openlocfilehash: c5d23ac050d92c1d6b8c188707255de0abf0b95c
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 75fbf038b8fc2b3dbf2834e4af6a820e2398755b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50449160"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318737"
 ---
 # <a name="create-a-private-channel"></a>Crear un canal privado
 
@@ -26,8 +26,7 @@ De forma predeterminada, los miembros del equipo o el propietario del equipo pue
 
 La posibilidad de crear canales privados se puede administrar a nivel de equipo y de organización. Utilice las directivas para controlar qué usuarios de su organización pueden crear canales privados. Una vez que haya establecido las directivas, los propietarios del equipo podrán activar o desactivar el privilegio de que los miembros puedan crear canales privados en la pestaña **Configuración**.
 
-> [!NOTE]
-> Cada equipo puede tener un máximo de 30 canales privados y cada canal privado puede tener un máximo de 250 miembros.
+**Nota**: Cada equipo puede tener un máximo de 30 canales privados y cada canal privado puede tener un máximo de 250 miembros.
 
 Para obtener más información, consulte [Creación de canales privados](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation).
 

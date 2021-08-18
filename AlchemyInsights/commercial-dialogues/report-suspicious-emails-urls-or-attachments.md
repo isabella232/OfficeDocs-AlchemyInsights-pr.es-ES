@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895136"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318809"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Informar de correos electrónicos sospechosos, direcciones URL o datos adjuntos
 
@@ -33,5 +33,4 @@ Entiendo que necesita ayuda para investigar un correo electrónico sospechoso o 
 
 Para obtener más información, vea [Use Admin Submission to submit suspected spam, phish, URLs, and files to Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
 
-> [!NOTE]
-> Informe a los usuarios de que deben informar de cualquier mensaje sospechoso en su Bandeja de entrada mediante el complemento Report Message o el complemento [Report Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).
+**Nota:** Informe a los usuarios de que deben informar de cualquier mensaje sospechoso en su Bandeja de entrada mediante el complemento Report Message o el complemento [Report Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

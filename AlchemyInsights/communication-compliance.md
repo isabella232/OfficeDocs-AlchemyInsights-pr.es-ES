@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090753"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Cumplimiento de comunicaciones en Microsoft 365
 
-El cumplimiento de la comunicación es una nueva solución de cumplimiento de Microsoft 365 que ayuda a las organizaciones a cumplir los requisitos de cumplimiento de supervisión y minimizar los riesgos de comunicación. Se basa en la característica supervisión y contiene nuevas mejoras, como:
+El cumplimiento de las comunicaciones es una nueva Microsoft 365 de cumplimiento normativo que ayuda a las organizaciones a cumplir los requisitos de cumplimiento de supervisión y minimizar los riesgos de comunicación. Se basa en la característica supervisión y contiene nuevas mejoras, como:
 
 - Plantillas personalizables inteligentes
 - Flujos de trabajo de corrección flexibles
-- Información que se puede tomar en cuenta
+- Detalles accionables.
 
 Si actualmente usa directivas [de supervisión,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)le recomendamos que ahora use el nuevo cumplimiento de comunicaciones para satisfacer las necesidades normativas.
 
@@ -37,11 +37,11 @@ Para obtener información general sobre la característica de cumplimiento de co
 
 Requisitos de licencia: los usuarios supervisados por directivas de comunicación deben tener uno de los siguientes requisitos:
 
-- Licencia de cumplimiento de Microsoft 365 E5
-- Licencia de Office 365 Enterprise E3 con el complemento de cumplimiento avanzado
+- Cumplimiento de Microsoft 365 E5 licencia
+- Office 365 Enterprise Licencia de E3 con el complemento de cumplimiento avanzado
 - Suscripción a Office 365 Enterprise E5
 
-Si no tiene ninguna de las anteriores y desea probar el cumplimiento de las comunicaciones, regístrese para obtener una versión de prueba **[de Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Si no tiene ninguna de las anteriores y desea probar el cumplimiento de las comunicaciones, regístrese para obtener una versión de prueba de **[Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
 > [!NOTE]
-> Los mensajes de correo electrónico pueden tardar hasta 24 horas en procesarse completamente en una directiva. Las comunicaciones en Microsoft Teams, Yammer y plataformas de terceros pueden tardar hasta 48 horas en procesarse completamente en una directiva.
+> Los mensajes de correo electrónico pueden tardar hasta 24 horas en procesarse completamente en una directiva. Las comunicaciones Microsoft Teams, Yammer y plataformas de terceros pueden tardar hasta 48 horas en procesarse completamente en una directiva.
