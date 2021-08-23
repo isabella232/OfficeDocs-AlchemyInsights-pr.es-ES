@@ -3,7 +3,7 @@ title: Preguntas más frecuentes sobre la suscripción a Microsoft 365 E5
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002658"
 - "5183"
-ms.openlocfilehash: 53f94337d3c6ad032e21bc4e8e9484ee937a0c3153543558e960c8f96c838569
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b3a0969b21b4a904b211b6fae135895e760d4290
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925038"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450895"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Preguntas más frecuentes sobre la suscripción a Microsoft 365 E5 y la administración de licencias
 
