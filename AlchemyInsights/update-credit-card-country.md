@@ -22,4 +22,4 @@ ms.locfileid: "53908547"
 ---
 # <a name="update-credit-card-country-information"></a>Actualizar la información de país de la tarjeta de crédito
 
-No puede actualizar la información del país para su método de pago. El país al que se le asignó el pago es el país que se eligió cuando la organización se estableció en Microsoft 365. 
+No puede actualizar la información del país para su método de pago. El país al que se le asignó el pago es el que se eligió cuando la organización se configuró en Microsoft 365. 

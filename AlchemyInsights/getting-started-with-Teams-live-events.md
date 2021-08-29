@@ -25,7 +25,7 @@ Los eventos en directo de Microsoft Teams son una extensión de las reuniones de
 
 Para crear un evento en directo, necesita lo siguiente:
 
-- En primer lugar, asegúrese de que los eventos en directo de Teams estén [disponibles en su país y región](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Los eventos en directo aún no se admiten en algunos países.  Si ha asignado licencias y ha establecido directivas, pero sigue sin poder crear un evento de Teams Live, es probable que se encuentre en un país o región en el que todavía no haya eventos en directo.
+- En primer lugar, asegúrese de que los eventos en directo de Teams estén [disponibles en su país o región](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Los eventos en directo aún no se admiten en algunos países o regiones.  Si ha asignado licencias y ha establecido directivas, pero sigue sin poder crear un evento de Teams Live, es probable que se encuentre en un país o región en el que todavía no haya eventos en directo.
 
 - Una [licencia de Office 365 Enterprise E1, E3 o E5 o una licencia de Office 365 a3 o A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) 
 
