@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f8f2824cc4a575ab7d7c9adec5b75e5955ec9fb5
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088017"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744663"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemas al iniciar sesión Aplicaciones Microsoft 365
+
+Nota: Si usa una versión anterior de Windows (por ejemplo, Windows 7 SP1, Windows Server 2008 [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) R2), use la corrección fácil para habilitar TLS 1.2 de forma predeterminada. Para obtener más información, consulte [Actualizar para habilitar TLS 1.1 y TLS 1.2 como protocolos seguros predeterminados en WinHTTP en Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
 Para solucionar los problemas de inicio de sesión con las aplicaciones de Microsoft 365, pruebe las siguientes opciones en el equipo afectado:  
 
