@@ -3,7 +3,6 @@ title: Cambiar el método de pago
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 924c3afce5ceda57175de1f638a2a4012b2ba96b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324053"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836842"
 ---
 # <a name="change-payment-method"></a>Cambiar el método de pago
 
@@ -30,7 +30,7 @@ Puede cambiar el método de pago desde el **Centro de administración de Microso
 2. Seleccione la fila del método de pago que desea reemplazar. En el panel derecho se muestran todos los perfiles de facturación y las suscripciones individuales que usan el método de pago seleccionado.
 3. En el panel derecho, seleccione **Reemplazar método de pago para todos los artículos**.
 4. Para usar un método de pago existente, elija uno de la lista desplegable y seleccione **Reemplazar**.
-    **Nota:** Si tienes suscripciones asociadas a un perfil de facturación, solo puedes usar una tarjeta de crédito o débito para pagarlas. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
+    **Nota**: si tiene suscripciones asociadas a un perfil de facturación, solo puede usar una tarjeta de crédito o débito para pagarlas. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
 5. Para agregar un nuevo método de pago, seleccione **Agregar método de pago**.
 6. En el panel **Agregar método de pago**, escriba la información de la cuenta y seleccione **Guardar**. Debe usar un método de pago del mismo país que su espacio empresarial.
 7. El nuevo método de pago ya está seleccionado en la lista desplegable. Seleccione **Reemplazar**.
