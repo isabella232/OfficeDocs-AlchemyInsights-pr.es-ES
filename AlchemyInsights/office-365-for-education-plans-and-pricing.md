@@ -3,7 +3,6 @@ title: Office 365 planes y precios de Educación
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_purchase
 - "476"
 - "1500026"
+ms.date: 04/21/2020
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: c226f51b848ba42162f66edcba1137a8c5f0d738
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c268b8254ae57a7a6614ca98d97128914f698311
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331966"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844439"
 ---
 # <a name="get-microsoft-365-free-for-your-entire-school"></a>Obtenga Microsoft 365 gratis para toda la escuela
 

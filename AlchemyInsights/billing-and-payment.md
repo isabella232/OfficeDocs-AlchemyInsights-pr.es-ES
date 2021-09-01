@@ -3,7 +3,6 @@ title: Facturación y pago
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314933"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844979"
 ---
 # <a name="billing-and-payment"></a>Facturación y pago
 
@@ -46,7 +46,7 @@ Si has agregado una nueva tarjeta y sigues recibiendo un aviso de declinación e
 
 4. Para usar un método de pago existente, elija uno de la lista desplegable y seleccione **Reemplazar**.
 
-    **Nota:** Si tienes suscripciones asociadas a un perfil de facturación, solo puedes usar una tarjeta de crédito o débito para pagarlas. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
+    **Nota**: si tiene suscripciones asociadas a un perfil de facturación, solo puede usar una tarjeta de crédito o débito para pagarlas. Si tiene cuentas bancarias que aparecen en la página **Método de pago**, no están disponibles para seleccionarlas en la lista desplegable.
 
 5. Para agregar un nuevo método de pago, seleccione **Agregar método de pago**.
 
