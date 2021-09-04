@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "13809"
+- "13810"
+- "13812"
 - "9008619"
-ms.openlocfilehash: 63a412155c654e3a0d7913de3ec8222982017045
-ms.sourcegitcommit: 744f03d1c3e6e22975fb96396686b112e385a82d
+ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
+ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58867055"
+ms.lasthandoff: 09/04/2021
+ms.locfileid: "58896351"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Los informes de Centro de administración de Microsoft 365 no muestran el nombre de usuario legible
 
@@ -26,7 +28,7 @@ Los informes de Centro de administración de Microsoft 365 no muestran nombres d
 
 Este es el comportamiento esperado y se ha comunicado en el Centro de mensajes (MC275344, publicado el 3 de agosto de 2021). 
 
-Los administradores globales pueden revertir este cambio para su inquilino y mostrar información de usuario identificable si las prácticas de privacidad de su organización lo permiten. Para revertir el cambio para el inquilino:
+Los administradores globales pueden revertir este cambio para su espacio empresarial y mostrar información de usuario identificable si las prácticas de privacidad de su organización lo permiten. Para revertir el cambio para el espacio empresarial:
 
-1. En el centro de administración, vaya a **Configuración** > **Configuración de la organización** > **Servicios** y seleccione **Informes**. 
+1. En el centro de administración, vaya a **Configuración** > **Configuración de la organización** > [**Servicios**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services)y seleccione **Informes**. 
 1. En **Elija cómo mostrar la información de usuario**, seleccione **Mostrar información de usuario identificable en informes** y, a continuación, vuelva a ejecutar el informe.
