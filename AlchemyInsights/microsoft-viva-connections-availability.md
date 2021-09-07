@@ -1,5 +1,5 @@
 ---
-title: Disponibilidad de Conexiones Microsoft Viva
+title: Configurar la aplicación de escritorio Viva Connections
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000481"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923715"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Disponibilidad de Conexiones Microsoft Viva
+# <a name="set-up-the-viva-connections-desktop-app"></a>Configurar la aplicación de escritorio Viva Connections
 
-Conexiones Microsoft Viva estará disponible para escritorio en la primera mitad de 2021 y para móviles en verano de 2021. Se presentarán características adicionales a lo largo de 2022.
+Existen dos requisitos principales para Viva Connections para Teams Escritorio. 
 
-Para obtener más información, vea cómo [Conexiones Microsoft Viva ayuda a todos a seguir involucrados e informados](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009).
+- La SharePoint de aplicaciones debe estar disponible y habilitada para que el inquilino obtenga todas las ventajas de Viva Connections. Se recomienda encarecidamente usar el sitio principal como la experiencia de aterrizaje en Teams. 
+- La primera versión de Viva Connections se puede aprovisionar a través del Centro de descarga de Microsoft mediante PowerShell (use la versión más actualizada de [SharePoint PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps)). A continuación, Viva Connections se carga como una aplicación en el centro Teams administración. El script de PowerShell está disponible desde el 31 de marzo de 2021. Descargue Viva Connections Desktop desde el Centro de [descarga oficial de Microsoft](https://www.microsoft.com/download/confirmation.aspx?id=102888). 
+
+Para obtener más información, vea [Add Viva Connections for Microsoft Teams desktop](https://docs.microsoft.com/SharePoint/viva-connections) and Microsoft Teams [PowerShell overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
