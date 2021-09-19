@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060873"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446672"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurar la administración de riesgos internos
 
-Para obtener acceso y usar la administración de riesgos internos, su organización **debe** tener una de las siguientes suscripciones:
+Para obtener acceso y usar la administración de riesgos internos, su organización debe tener una de las siguientes suscripciones:
 
-- Suscripción a **Microsoft 365 E5**.
+- Suscripción a Microsoft 365 G5 (versión de pago o de prueba)
+- Suscripción a Microsoft 365 G3 + complemento de Cumplimiento de Microsoft 365 G5
+- Subscripción a Microsoft 365 G3 + complemento de Administración de riesgos internos de Microsoft 365 G5
+- Suscripción a Office 365 E3 + Enterprise Mobility + Security E3 + el complemento Cumplimiento de Microsoft 365 E5
 
-- Suscripción a **Microsoft 365 E3** con complemento de cumplimiento Microsoft E5.
+Si no tiene un plan existente de Microsoft 365 E5 y quiere probar la administración de riesgos internos, puede agregar Microsoft 365 a la suscripción existente o suscribirse a una versión de prueba de Microsoft 365 Enterprise E5.
 
-Si no tiene un **plan existente de Microsoft 365 E5** y quiere probar la administración de riesgos internos, puede Agregar Microsoft 365 a la suscripción existente o suscribirse a una versión de prueba de Microsoft 365 Enterprise E5.
+**Sugerencias**:
 
-> [!SUGERENCIAS]
-- > Uso de la plantilla "Pérdida de datos": asegúrese de que tiene al menos una directiva DLP configurada.
-- > El administrador no ve Alertas: asegúrese de que el usuario está asignado a alguno de los siguientes grupos:
-    - >**Analistas de administración de riesgos internos**
-    - >**Investigadores de administración de riesgos internos**
+- Con la plantilla Pérdida de datos, asegúrese de que tiene configurada al menos una directiva sobre la prevención de pérdida de datos (DLP). Sin embargo, hay una nueva opción de activación que no requiere que se configure una directiva DLP.
 
-Para obtener más información sobre cómo las directivas de riesgos internos. pueden ayudarle a administrar los riesgos de su organización, vea [administración de riesgos internos en Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Los administradores globales no tienen acceso de forma predeterminada al portal de administración de riesgos internos. Se les debe asignar uno de los roles de administración de riesgos internos.
+
+- Si un administrador no ve alertas, asegúrese de que el usuario está asignado a uno de los siguientes grupos:
+
+    Analistas de administración de riesgos internos
+
+    Investigadores de administración de riesgos internos
+
+Para obtener más información sobre cómo las directivas de riesgos internos pueden ayudarle a administrar el riesgo de su organización, consulte [Obtener información sobre la administración de riesgos internos en Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).
