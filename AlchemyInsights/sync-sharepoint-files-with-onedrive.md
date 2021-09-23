@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7c9b50abf89edca6cfded4e8f47bd3f4db9ec538
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 538cc24c091d42a8f7a8998ce1d18b61ac0b689c
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329389"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475486"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Solucionar los problemas de "Abrir con el explorador" en SharePoint Online
 
@@ -32,7 +32,7 @@ Siga los pasos y las prácticas recomendadas que se indican en los siguientes ar
 **Nota**:
 - Se recomienda [sincronizar los archivos de SharePoint con el nuevo Cliente de sincronización de OneDrive](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us), que proporciona los [Archivos a petición](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us) ya que la sincronización ofrece un acceso local a sus archivos y el mejor rendimiento.
 
-- **Abrir con el explorador** solo es compatible con Internet Explorer 10 u 11. Para más información, consulte [Finalización del soporte para IE11 con Aplicaciones de Microsoft 365](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy). **Abrir con el explorador** no funciona en Windows con Microsoft Edge, Google Chrome ni Mozilla Firefox. Tampoco funciona en la plataforma Mac. Por este motivo, es posible que la opción **Vista del explorador** aparezca atenuada. 
+- **Abrir con Explorer** solo se admite en el explorador de Microsoft Edge. Para más información, vea [Ver archivos de SharePoint con Explorador de archivos en Microsoft Edge](https://docs.microsoft.com/SharePoint/sharepoint-view-in-edge) y [Llega la finalización del soporte a la versión heredada de Microsoft Edge](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy). **Abrir con el Explorador** no funciona en Windows con Google Chrome, Mozilla Firefox o en la plataforma Mac, por lo que la opción **Vista del Explorador** podría estar atenuada.
 
 - El botón de **Abrir con el explorador** no aparece en la nueva experiencia de la biblioteca. Seleccione la lista desplegable de **Vista** en la parte superior derecha (el nombre de la lista desplegable cambia en función de la vista actual) y luego seleccione **Ver en el Explorador de archivos**.
 
