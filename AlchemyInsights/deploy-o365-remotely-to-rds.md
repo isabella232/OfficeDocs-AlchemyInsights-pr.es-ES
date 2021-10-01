@@ -1,5 +1,5 @@
 ---
-title: Implementación de Aplicaciones Microsoft 365 para empresas para uso compartido en RDS, Terminal Server o VDI
+title: Implementación de Aplicaciones Microsoft 365 para uso compartido en RDS, Terminal Server o VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041023"
+ms.locfileid: "60077267"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementación de Aplicaciones Microsoft 365 para empresas para uso compartido en RDS, Terminal Server o VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementación de Aplicaciones Microsoft 365 para uso compartido en RDS, Terminal Server o VDI
 
 Para implementar Aplicaciones Microsoft 365 servicios de Escritorio remoto (RDS), anteriormente Terminal Services, debe:
 
@@ -28,7 +28,7 @@ Para implementar Aplicaciones Microsoft 365 servicios de Escritorio remoto (RDS)
 - Tener un plan que incluya Aplicaciones Microsoft 365 para empresas (anteriormente Office 365 Plus). Por ejemplo, Office 365 E3 o Microsoft 365 E5, o cualquier plan que incluya la versión de escritorio de Project o Visio, como Project Plan 3 o Visio Plan 2, o el plan Microsoft 365 Empresa Premium, que también incluye Aplicaciones Microsoft 365 para negocios.
 - Habilitar la activación de equipos compartidos. Para obtener más información, vea [Overview of shared computer activation for Aplicaciones Microsoft 365](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Nota:** Para instalar Aplicaciones Microsoft 365 en modo de activación de equipo compartido, descargue y ejecute el archivo [de Microsoft Asistente de soporte y recuperación](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Para obtener información detallada sobre los requisitos previos, las instrucciones de configuración y las instrucciones para personalizar las instalaciones mediante la herramienta de implementación de Office, vea [Deploy Aplicaciones Microsoft 365 by using Remote Desktop Services](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
+**Nota:** Para instalar Aplicaciones Microsoft 365 en modo de activación de equipo compartido, descargue y ejecute el archivo [de Microsoft Asistente de soporte y recuperación](https://aka.ms/SaRA_OfficeSCA_M365Portal). Para obtener información detallada sobre los requisitos previos, las instrucciones de configuración y las instrucciones para personalizar las instalaciones mediante la herramienta de implementación de Office, vea [Deploy Aplicaciones Microsoft 365 by using Remote Desktop Services](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Para corregir errores relacionados con la activación de equipos compartidos, vea:
 

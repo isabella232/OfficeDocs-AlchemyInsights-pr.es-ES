@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092349"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077231"
 ---
 # <a name="uk-domain-transfers"></a>Transferencias de dominio .uk
 
-Póngase en contacto con el soporte técnico de Microsoft y solicite un cambio de etiqueta **IPS** para que coincida con el registrador que desea administrar su dominio en el futuro. Una vez que cambia la etiqueta, el dominio se transfiere inmediatamente al nuevo registrador. A continuación, tendrá que trabajar con el nuevo registrador para completar la transferencia, probablemente pagando las tarifas de transferencia y agregando el dominio transferido a su cuenta con su nuevo registrador.
+Las transferencias de dominio en el Reino Unido requieren la etiqueta IPS del nuevo registrador. La etiqueta IPS se puede especificar en el Asistente para transferencia de dominios en el portal de administración de Microsoft:
 
-Para obtener más información sobre las transferencias de dominio, vea Transferir un dominio [de Microsoft a otro host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+- Vaya a **Configuración** domains , haga doble clic en el dominio y  >  elija **Transferir dominio** para iniciar el asistente de transferencia.
 
-Esté preparado para proporcionar la etiqueta IPS del nuevo registrador, que se puede encontrar en https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Una vez que cambia la etiqueta, el dominio se transfiere inmediatamente al nuevo registrador. A continuación, debe trabajar con el nuevo registrador para completar la transferencia, probablemente pagando las tarifas de transferencia y agregando el dominio transferido a su cuenta con su nuevo registrador.
+
+Para obtener más información sobre las transferencias de dominio, vea Transferir un dominio [de Microsoft a otro host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
