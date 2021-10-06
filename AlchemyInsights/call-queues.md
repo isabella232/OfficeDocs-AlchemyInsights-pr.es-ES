@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
-ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
+ms.openlocfilehash: 933f1a2a49e953c9fd598e02ca21fa95c6ad6ee0
+ms.sourcegitcommit: 0a982e89c24cfb7922629e886716a6f64ee7fa6c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131911"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60146636"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Colas de llamadas en Microsoft Teams y Skype Empresarial 
 
-Las colas de llamadas requieren cuentas de recursos y licencias específicas. Para obtener más información, vea [Plan for Teams auto attendants and call queues: Prerequisites]( https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
+Las colas de llamadas requieren cuentas de recursos y licencias específicas. Para obtener más información, [vea Plan for Teams auto attendants and call queues: Prerequisites](https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites). 
 
 Para obtener información sobre cómo crear y configurar colas de llamadas en Microsoft Teams, vea [Create a call queue](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue). 
 
